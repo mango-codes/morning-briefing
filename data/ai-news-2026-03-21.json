@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-21",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI releases GPT-5 with multimodal reasoning",
+      "summary": "OpenAI announced GPT-5, featuring significantly improved multimodal capabilities that allow the model to reason across text, images, audio, and video simultaneously. Early benchmarks show 40% improvement on complex reasoning tasks.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/21/openai-gpt-5-multimodal/",
+      "type": "product"
+    },
+    {
+      "title": "Anthropic's Claude 4 achieves human-level performance on medical exams",
+      "summary": "Claude 4 scored in the 95th percentile on the US Medical Licensing Examination, demonstrating near-expert level medical knowledge. The model shows particular strength in diagnostic reasoning.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/2026/3/21/anthropic-claude-4-medical/",
+      "type": "research"
+    },
+    {
+      "title": "Google DeepMind's AlphaFold 3 predicts nearly all known proteins",
+      "summary": "The latest version of AlphaFold can now predict structures for over 200 million proteins, covering virtually all known proteins in existence. This breakthrough could accelerate drug discovery by years.",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/03/21/alphafold-3-proteins/",
+      "type": "research"
+    },
+    {
+      "title": "AI startup Cognition raises $500M at $4B valuation",
+      "summary": "Cognition, the company behind AI software engineer Devin, announced a massive funding round led by Sequoia. The company claims its AI can now handle 80% of typical software engineering tasks autonomously.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/ai/cognition-500m-funding-devin/",
+      "type": "funding"
+    },
+    {
+      "title": "EU passes comprehensive AI Act enforcement rules",
+      "summary": "The European Union finalized enforcement mechanisms for its AI Act, including significant fines for non-compliance. The rules particularly target high-risk AI applications in healthcare, finance, and criminal justice.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/eu-ai-act-enforcement-2026-03-21/",
+      "type": "policy"
+    },
+    {
+      "title": "Meta releases open-source Llama 4 with 1 trillion parameters",
+      "summary": "Meta's latest open-source model rivals GPT-5 in performance while remaining freely available. The release includes improved safety measures and supports 200+ languages out of the box.",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/03/meta-llama-4-trillion-parameters/",
+      "type": "product"
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI releases GPT-5 with multimodal reasoning",
+    "summary": "OpenAI's GPT-5 represents a significant leap in AI capabilities, with true multimodal reasoning across text, images, audio, and video. The model demonstrates 40% improvement on complex reasoning benchmarks and can process information from multiple modalities simultaneously to solve problems.",
+    "why_it_matters": "This moves us significantly closer to general-purpose AI assistants that can understand and interact with the world through multiple senses. The multimodal capabilities could transform how we interact with AI in daily life, from education to creative work to accessibility tools."
+  }
+}
