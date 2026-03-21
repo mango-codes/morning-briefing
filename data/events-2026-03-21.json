@@ -1,124 +1,71 @@
 {
   "date": "2026-03-21",
+  "category": "events",
   "today": [
     {
-      "title": "Band of Horses",
+      "title": "Band of Horses - 20th Anniversary",
       "time": "8:00 PM",
       "venue": "The Showbox",
-      "type": "Concert",
+      "type": "concert",
       "price": "$181+",
-      "description": "Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits"
+      "description": "Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits",
+      "url": "https://www.showboxpresents.com/events/detail/band-of-horses"
     },
     {
       "title": "Alvin Ailey American Dance Theater",
       "time": "7:30 PM",
       "venue": "Paramount Theatre",
-      "type": "Dance/Theater",
+      "type": "theater",
       "price": "$55+",
-      "description": "New works and repertory favorites - part of STG's Performing Arts Series"
+      "description": "New works and repertory favorites - part of STG's Performing Arts Series",
+      "url": "https://www.stgpresents.org/paramount"
     },
     {
       "title": "Bassem Youssef - Belly of the Beast Tour",
       "time": "7:30 PM",
       "venue": "Moore Theatre",
-      "type": "Comedy",
-      "price": "$47-$69",
-      "description": "Egyptian comedian and satirist brings his acclaimed stand-up tour"
+      "type": "comedy",
+      "price": "$47-69",
+      "description": "Egyptian comedian and satirist brings his acclaimed stand-up tour",
+      "url": "https://www.stgpresents.org/moore"
     },
     {
       "title": "Mariah The Scientist",
       "time": "8:00 PM",
       "venue": "Showbox SoDo",
-      "type": "Concert",
+      "type": "concert",
       "price": "$158+",
-      "description": "R&B singer-songwriter live in concert"
+      "description": "R&B singer-songwriter on her 'To Be Eaten Alive' tour",
+      "url": "https://www.showboxpresents.com/events/detail/mariah-the-scientist"
     },
     {
-      "title": "Halwa by Amit Tandon",
-      "time": "3:30 PM & 7:00 PM",
-      "venue": "Neptune Theatre",
-      "type": "Comedy",
-      "price": "$41-$182",
-      "description": "Indian stand-up comedian 'The Amit of Comedy' - two shows"
-    },
-    {
-      "title": "Pacific Northwest Ballet: Firebird",
-      "time": "2:00 PM & 7:30 PM",
-      "venue": "McCaw Hall",
-      "type": "Ballet/Dance",
-      "price": "$65-$112",
-      "description": "Classic ballet returns after 20-year hiatus - Stravinsky's masterpiece"
-    },
-    {
-      "title": "The Paperboys - 30th Anniversary Tour",
-      "time": "7:30 PM",
-      "venue": "Admiral Theatre (Bremerton)",
-      "type": "Concert",
-      "price": "$20-$41",
-      "description": "Canadian folk-rock band celebrating 30 years"
-    },
-    {
-      "title": "Dirty Three",
+      "title": "Amit Tandon: Halwa",
       "time": "7:00 PM",
-      "venue": "Neumos",
-      "type": "Concert",
-      "price": "$78",
-      "description": "Australian instrumental rock trio"
-    },
-    {
-      "title": "Cirque du Soleil: ECHO",
-      "time": "1:00 PM & 5:00 PM",
-      "venue": "Marymoor Park (Redmond)",
-      "type": "Circus/Performance",
-      "price": "$124-$126",
-      "description": "Latest Cirque du Soleil show under the Big Top"
+      "venue": "Neptune Theatre",
+      "type": "comedy",
+      "price": "$41-182",
+      "description": "Indian comedian brings his observational humor to Seattle",
+      "url": "https://www.stgpresents.org/neptune"
     }
   ],
   "this_weekend": [
     {
       "title": "Band of Horses",
-      "time": "8:00 PM",
+      "date": "Sunday",
       "venue": "The Showbox",
-      "type": "Concert",
-      "price": "$181+",
-      "description": "Second night celebrating 20 years of 'Everything All The Time'",
-      "date": "Sunday, March 22"
-    },
-    {
-      "title": "Pacific Northwest Ballet: Firebird",
-      "time": "1:00 PM & 7:00 PM",
-      "venue": "McCaw Hall",
-      "type": "Ballet/Dance",
-      "price": "$65-$112",
-      "description": "Final performances of Stravinsky's masterpiece",
-      "date": "Sunday, March 22"
+      "type": "concert"
     },
     {
       "title": "Alvin Ailey American Dance Theater",
-      "time": "1:00 PM & 7:30 PM",
+      "date": "Sunday",
       "venue": "Paramount Theatre",
-      "type": "Dance/Theater",
-      "price": "$55+",
-      "description": "Final Seattle performances",
-      "date": "Sunday, March 22"
+      "type": "theater"
     },
     {
-      "title": "Ashnikko - Smoochies Tour",
-      "time": "8:00 PM",
-      "venue": "Showbox SoDo",
-      "type": "Concert",
-      "price": "TBD",
-      "description": "With Princess Nokia",
-      "date": "Monday, March 23"
-    },
-    {
-      "title": "Aries - GLASS JAW World Tour",
-      "time": "8:00 PM",
-      "venue": "The Showbox",
-      "type": "Concert",
-      "price": "TBD",
-      "description": "With Tiffany Day",
-      "date": "Monday, March 23"
+      "title": "Pacific Northwest Ballet: Firebird",
+      "date": "Sunday",
+      "venue": "McCaw Hall",
+      "type": "theater"
     }
   ]
 }

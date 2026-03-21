@@ -1,82 +1,46 @@
-[
-  {
-    "title": "Google expands personalized Gemini AI to all US users",
-    "source": "MarketingProfs",
-    "date": "2026-03-20",
-    "summary": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.",
-    "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
-    "category": "product-launch"
-  },
-  {
-    "title": "White House releases AI policy blueprint for Congress",
-    "source": "Politico",
-    "date": "2026-03-20",
-    "summary": "The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.",
-    "url": "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354",
-    "category": "policy"
-  },
-  {
-    "title": "Anthropic announces 1M token context window GA for Claude Opus 4.6 and Sonnet 4.6",
-    "source": "Releasebot",
-    "date": "2026-03-18",
-    "summary": "Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.",
-    "url": "https://releasebot.io/updates/anthropic",
-    "category": "product-launch"
-  },
-  {
-    "title": "AI startups accounted for 41% of venture capital dollars raised in 2025",
-    "source": "TechCrunch",
-    "date": "2026-03-20",
-    "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.",
-    "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
-    "category": "funding"
-  },
-  {
-    "title": "Jeff Bezos reportedly seeking $100 billion for AI-focused industrial fund",
-    "source": "TechCrunch",
-    "date": "2026-03-19",
-    "summary": "Jeff Bezos is reportedly seeking $100 billion for a new fund to buy up companies in major industrial sectors and transform them with AI technology.",
-    "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "category": "funding"
-  },
-  {
-    "title": "Claude can now create custom charts and inline visualizations",
-    "source": "Releasebot/Anthropic",
-    "date": "2026-03-19",
-    "summary": "Anthropic rolled out a new feature allowing Claude to create custom charts and inline visualizations directly in responses, available to Max and Pro plans.",
-    "url": "https://releasebot.io/updates/anthropic/claude",
-    "category": "product-launch"
-  },
-  {
-    "title": "Anthropic's Claude business subscriptions grow 4.9% month over month",
-    "source": "The Register",
-    "date": "2026-03-19",
-    "summary": "Anthropic saw business software subscriptions grow 4.9% month over month in February, while OpenAI's subscription share fell 1.5% during the same period.",
-    "url": "https://www.theregister.com/2026/03/19/anthropic_claude_market_share/",
-    "category": "business"
-  },
-  {
-    "title": "OpenAI GPT-5.4 mini rollout begins in ChatGPT",
-    "source": "Releasebot/OpenAI",
-    "date": "2026-03-19",
-    "summary": "OpenAI began rolling out GPT-5.4 mini in ChatGPT, available to Free and Plus users. GPT-5.1 models were deprecated as of March 11, 2026.",
-    "url": "https://releasebot.io/updates/openai",
-    "category": "product-launch"
-  },
-  {
-    "title": "Gemini 3.1 Pro positioned as strongest all-around general-purpose AI",
-    "source": "Renovate QR",
-    "date": "2026-03-17",
-    "summary": "As of March 2026, Gemini 3.1 Pro is considered the strongest all-around general-purpose AI model. Free US users now have access to 'Thinking (3 Pro)' for complex reasoning.",
-    "url": "https://renovateqr.com/blog/ai-model-releases-2026",
-    "category": "product-launch"
-  },
-  {
-    "title": "NASA's Perseverance rover uses Anthropic's Claude for autonomous Mars navigation",
-    "source": "Crescendo.ai",
-    "date": "2026-03-20",
-    "summary": "NASA's Perseverance rover completed the first Mars drives ever planned by artificial intelligence, using Anthropic's Claude vision-language models to analyze orbital imagery and terrain data.",
-    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
-    "category": "research"
+{
+  "date": "2026-03-21",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Google expands personalized Gemini AI to all US users",
+      "summary": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.",
+      "source": "MarketingProfs",
+      "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+      "type": "product"
+    },
+    {
+      "title": "White House releases AI policy blueprint for Congress",
+      "summary": "The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354",
+      "type": "policy"
+    },
+    {
+      "title": "Anthropic announces 1M token context window for Claude",
+      "summary": "Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/anthropic",
+      "type": "product"
+    },
+    {
+      "title": "AI startups accounted for 41% of venture capital in 2025",
+      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/",
+      "type": "funding"
+    },
+    {
+      "title": "Jeff Bezos reportedly seeking $100B for AI-focused industrial fund",
+      "summary": "Jeff Bezos is reportedly seeking to raise $100 billion for an AI-focused industrial investment fund, which would be one of the largest investment vehicles ever created.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3",
+      "type": "funding"
+    }
+  ],
+  "top_story": {
+    "title": "AI startups captured 41% of all VC funding in 2025 ($128B)",
+    "summary": "Artificial intelligence startups have reached a tipping point in venture capital, capturing 41% of all funding in 2025 totaling $128 billion. This represents a record-high annual share and demonstrates how AI has become the dominant force in tech investment.",
+    "why_it_matters": "This massive investment signals that AI is transitioning from experimental technology to core infrastructure across industries. The funding concentration suggests we're in a transformative period comparable to the early internet era."
   }
-]
+}

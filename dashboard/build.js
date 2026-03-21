@@ -354,15 +354,15 @@ function generateRestaurantsCard(data) {
 }
 
 function generateEventsCard(data) {
-    if (!data || !data.events) {
+    if (!data || !data.today) {
         return generateEmptyCard('🎭 Events', 'Today\'s events will appear here');
     }
     
-    const eventsHtml = data.events.slice(0, 5).map(e => `
+    const eventsHtml = data.today.slice(0, 5).map(e => `
         <div class="news-item">
             <div class="news-title">${e.title}</div>
-            <div class="news-summary">${e.description}</div>
-            <div class="news-meta">${e.time} · ${e.venue}</div>
+            <div class="news-summary">${e.description || ''}</div>
+            <div class="news-meta">${e.time || ''} · ${e.venue || ''} · ${e.price || ''}</div>
         </div>
     `).join('');
     

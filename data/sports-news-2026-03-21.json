@@ -1,76 +1,90 @@
 {
   "date": "2026-03-21",
+  "category": "sports-news",
   "teams": [
     {
       "name": "Seattle Mariners",
-      "sport": "MLB",
-      "latestHeadline": "Cole Young hits two homers for Mariners",
-      "lastGameResult": {
-        "opponent": "Spring Training - Cactus League",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Cole Young hits two homers for Mariners",
+          "summary": "Prospect Cole Young showcased his power with two home runs in spring training action",
+          "url": "https://www.mlb.com/mariners"
+        }
+      ],
+      "last_game": {
+        "opponent": "Cactus League",
         "result": "10-17 record",
-        "date": "Ongoing Spring Training"
+        "highlights": "Spring training ongoing"
       },
-      "nextGame": {
-        "opponent": "TBD - Regular Season",
+      "next_game": {
+        "opponent": "TBD",
         "date": "Opening Day 2026",
-        "location": "TBD"
-      },
-      "source": "ESPN, The Athletic"
+        "location": "T-Mobile Park"
+      }
     },
     {
       "name": "Seattle Seahawks",
-      "sport": "NFL",
-      "latestHeadline": "Seahawks exercise 5th-year options on Jaxon Smith-Njigba, Devon Witherspoon",
-      "lastGameResult": {
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks exercise 5th-year options on JSN and Witherspoon",
+          "summary": "Team commits to two key young players for 2026 season",
+          "url": "https://www.seahawks.com"
+        }
+      ],
+      "last_game": {
         "opponent": "New England Patriots",
         "result": "W 29-13",
-        "date": "Super Bowl LX (2025 Season)"
+        "highlights": "Super Bowl LX Champions!"
       },
-      "nextGame": {
-        "opponent": "2026 Regular Season",
+      "next_game": {
+        "opponent": "2026 Season",
         "date": "September 2026",
-        "location": "TBD"
-      },
-      "notes": "Active free agency period - re-signed Rashid Shaheed to $51M contract, signed RB Emanuel Wilson, lost Kenneth Walker III to Chiefs, Riq Woolen to Eagles, Boye Mafe to Bengals",
-      "source": "ESPN, The Athletic, Seahawks.com"
+        "location": "Lumen Field"
+      }
     },
     {
       "name": "Seattle Kraken",
-      "sport": "NHL",
-      "latestHeadline": "Kraken face Columbus Blue Jackets tonight in wild card race",
-      "lastGameResult": {
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken face Columbus Blue Jackets tonight in wild card race",
+          "summary": "Critical game for playoff positioning",
+          "url": "https://www.nhl.com/kraken"
+        }
+      ],
+      "last_game": {
         "opponent": "Nashville Predators",
         "result": "L 3-1",
-        "date": "March 19, 2026"
+        "highlights": "Tough loss on March 19"
       },
-      "nextGame": {
+      "next_game": {
         "opponent": "Columbus Blue Jackets",
-        "date": "March 21, 2026 (TODAY)",
-        "time": "5:00 PM ET / 2:00 PM PT",
-        "location": "Nationwide Arena (Away)",
-        "broadcast": "ESPN+, FDSNOH, KHN/Prime, KONG"
-      },
-      "record": "31-28-9 (71 points, 5th Pacific)",
-      "source": "ESPN, The Athletic, NHL.com"
+        "date": "TODAY 2:00 PM",
+        "location": "Away"
+      }
     },
     {
       "name": "Seattle Sounders FC",
-      "sport": "MLS",
-      "latestHeadline": "Sounders visit Minnesota United looking to extend strong start",
-      "lastGameResult": {
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders off to strong 3-1-0 start",
+          "summary": "Team showing early season form with 9 points from first 4 games",
+          "url": "https://www.soundersfc.com"
+        }
+      ],
+      "last_game": {
         "opponent": "Real Salt Lake",
-        "result": "W (Paul Rothrock scored)",
-        "date": "March 15, 2026"
+        "result": "W 2-1",
+        "highlights": "Paul Rothrock scored"
       },
-      "nextGame": {
-        "opponent": "Minnesota United FC",
-        "date": "March 22, 2026 (TOMORROW)",
-        "time": "2:30 PM PT",
-        "location": "Allianz Field (Away)",
-        "broadcast": "FOX, Apple TV"
-      },
-      "record": "3-1-0 (9 points, 5th West)",
-      "source": "ESPN, The Athletic, SoundersFC.com"
+      "next_game": {
+        "opponent": "Minnesota United",
+        "date": "Tomorrow 2:30 PM",
+        "location": "Away"
+      }
     }
   ]
 }

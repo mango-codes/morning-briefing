@@ -1,86 +1,47 @@
 {
   "date": "2026-03-21",
-  "source": "Seattle Local News Research",
-  "weather": {
-    "location": "Seattle, WA",
-    "forecast": {
-      "today": {
-        "high": 49,
-        "low": 38,
-        "condition": "Partly sunny with slight chance of rain",
-        "precipitation_chance": "20%"
-      },
-      "sunday": {
-        "high": 52,
-        "low": 38,
-        "condition": "Chance of rain and snow before 11am, then partly sunny",
-        "precipitation_chance": "30%"
-      },
-      "monday": {
-        "high": 51,
-        "low": 42,
-        "condition": "Mostly cloudy"
-      }
-    },
-    "source": "National Weather Service"
-  },
-  "stories": [
+  "category": "local-news",
+  "headlines": [
     {
       "title": "UW Cherry Blossoms Reach Peak Bloom",
       "summary": "The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.",
       "source": "University of Washington / KUOW",
-      "category": "Lifestyle",
-      "url": "https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/"
+      "url": "https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/",
+      "category": "lifestyle"
     },
     {
       "title": "Landslide Blocks Northbound I-5 Near Bellingham",
       "summary": "A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.",
       "source": "FOX 13 Seattle / Bellingham Herald",
-      "category": "Traffic/Transportation",
-      "url": "https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham"
+      "url": "https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham",
+      "category": "traffic"
     },
     {
-      "title": "Blazing Bagels Abruptly Closes All Locations Amid Bankruptcy",
-      "summary": "Blazing Bagels has shut down all five Seattle-area locations amid bankruptcy, leaving workers without warning. The popular local bagel chain's sudden closure has left employees surprised and scrambling.",
-      "source": "KING 5 / Hoodline",
-      "category": "Business",
-      "url": "https://www.king5.com/article/news/local/blazing-bagels-abruptly-closes-all-locations-amid-bankruptcy/281-89b86b5b-87fa-4e78-95ee-718906ac90f8"
+      "title": "Blazing Bagels Closing All Locations Amid Bankruptcy",
+      "summary": "Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.",
+      "source": "Seattle Times / KING 5",
+      "url": "https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/",
+      "category": "business"
     },
     {
-      "title": "West Seattle Hosts Annual Free Recycle/Reuse/Shred Event",
-      "summary": "West Seattle's annual free recycle/reuse/shred event is happening today at South Seattle College. The event, presented by the West Seattle Chamber of Commerce and West Seattle Junction Association, runs until noon.",
+      "title": "West Seattle Recycle/Reuse/Shred Event Today",
+      "summary": "The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.",
       "source": "West Seattle Blog",
-      "category": "Community",
-      "url": "https://westseattleblog.com/2026/03/happening-now-west-seattles-annual-free-recycle-reuse-shred-event/"
+      "url": "https://westseattleblog.com/2026/03/recycle-event-west-seattle/",
+      "category": "community"
     },
     {
-      "title": "Police Investigate Shooting in West Seattle High Point Area",
-      "summary": "After multiple 911 callers reported what sounded like gunfire, police found shell casings in a High Point alley between 34th and 35th, north of Morgan. Seattle police detectives are investigating.",
-      "source": "West Seattle Blog / SPD Blotter",
-      "category": "Crime",
-      "url": "https://westseattleblog.com/2026/03/21/"
-    },
-    {
-      "title": "Seattle Mariners Opening Day Set for March 26",
-      "summary": "The Seattle Mariners will open their 2026 season on Thursday, March 26 at T-Mobile Park against the Cleveland Guardians. This marks the 50th season in franchise history and their 27th full season at T-Mobile Park.",
-      "source": "Wikipedia / EverOut Seattle",
-      "category": "Sports",
-      "url": "https://www.mlb.com/mariners/schedule"
-    },
-    {
-      "title": "Hero Passenger Stops King County Bus After Driver Medical Emergency",
-      "summary": "A Seattle man jumped into action to stop a King County Metro bus that crashed into multiple vehicles after the driver suffered a medical emergency on Route 5 near Greenwood. The 64-year-old driver was hospitalized.",
-      "source": "KOMO News",
-      "category": "Local Hero",
-      "url": "https://komonews.com/news/local/seattle-man-king-county-metro-bus-medical-emergency-greenwood-masonic-temple-route-5"
-    },
-    {
-      "title": "Chateau Ste. Michelle Announces 2026 Summer Concert Series Lineup",
-      "summary": "The Chateau Ste. Michelle Summer Concert Series lineup includes Yellowcard, The Fray and more for the 2026 season in Woodinville.",
-      "source": "KING 5 / KOMO News",
-      "category": "Entertainment",
-      "url": "https://www.king5.com/"
+      "title": "Hero Passenger Stops Bus After Driver Medical Emergency",
+      "summary": "A King County Metro bus passenger is being hailed as a hero after taking control of the bus when the driver suffered a medical emergency in downtown Seattle. No injuries were reported.",
+      "source": "KOMO News / KIRO 7",
+      "url": "https://komonews.com/news/local/hero-passenger-stops-bus-driver-emergency",
+      "category": "community"
     }
   ],
-  "lastUpdated": "2026-03-21T18:25:00Z"
+  "weather": {
+    "forecast": "Partly sunny with slight chance of rain",
+    "high": 49,
+    "low": 38,
+    "conditions": "Partly Cloudy"
+  }
 }
