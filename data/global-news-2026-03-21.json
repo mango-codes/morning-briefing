@@ -3,61 +3,61 @@
   "source": "Global News Briefing - BBC, Reuters, AP, Al Jazeera",
   "headlines": [
     {
-      "headline": "Trump says US considering 'winding down' Iran war as Natanz nuclear facility attacked again",
+      "title": "Trump says US considering 'winding down' Iran war as Natanz nuclear facility attacked again",
       "source": "Reuters / AP / Al Jazeera",
       "category": "War/Middle East",
       "summary": "President Trump announced the US may wind down military operations against Iran as the war enters its fourth week. Iranian media reported the Natanz nuclear enrichment facility was struck again. Over 2,000 people have been killed in Iran since attacks began on February 28."
     },
     {
-      "headline": "Iran targets Diego Garcia military base in Indian Ocean, demonstrating expanded missile range",
+      "title": "Iran targets Diego Garcia military base in Indian Ocean, demonstrating expanded missile range",
       "source": "AP News",
       "category": "War/Middle East",
       "summary": "Iran attacked the joint UK-US military base on Diego Garcia, approximately 2,500 miles away, suggesting Tehran possesses missiles with greater range than previously acknowledged or used its space program for an improvised launch."
     },
     {
-      "headline": "Iran's naval forces claim attacks on UAE and Kuwait military facilities",
+      "title": "Iran's naval forces claim attacks on UAE and Kuwait military facilities",
       "source": "Al Jazeera",
       "category": "War/Middle East",
       "summary": "Iran says its naval forces destroyed facilities at the Al-Minhad base in the UAE and the Ali Al Salem airbase in Kuwait, claiming they were used in attacks on Iranian territory."
     },
     {
-      "headline": "Trump calls NATO 'cowardly' over lack of support for Iran war",
+      "title": "Trump calls NATO 'cowardly' over lack of support for Iran war",
       "source": "Al Jazeera",
       "category": "Politics/Diplomacy",
       "summary": "Trump criticized NATO allies for not supporting the Iran war effort and stated that other nations who use the Strait of Hormuz should take the lead in protecting it, not the United States."
     },
     {
-      "headline": "Oil prices up 50% due to Iran war, hobbling global economy",
+      "title": "Oil prices up 50% due to Iran war, hobbling global economy",
       "source": "Reuters",
       "category": "Economy/Energy",
       "summary": "The war's effects are being felt far beyond the Middle East, raising food and fuel prices globally. The near-closure of the Strait of Hormuz threatens a global energy shock."
     },
     {
-      "headline": "Iranians mark Persian New Year (Nowruz) during wartime for first time since 1980s",
+      "title": "Iranians mark Persian New Year (Nowruz) during wartime for first time since 1980s",
       "source": "BBC News",
       "category": "Human Interest/Culture",
       "summary": "Iranians are celebrating Nowruz, the start of year 1405 in the Solar Hijri calendar, during wartime for the first time since the Iran-Iraq war in the 1980s. Some express hope following the death of Supreme Leader Ayatollah Ali Khamenei on the first day of the war."
     },
     {
-      "headline": "Preliminary death toll: 1,444 dead in Iran, 18 in Israel, 13 US soldiers killed",
+      "title": "Preliminary death toll: 1,444 dead in Iran, 18 in Israel, 13 US soldiers killed",
       "source": "Al Jazeera",
       "category": "War/Casualties",
       "summary": "The conflict has claimed over 1,444 lives in Iran, at least 18 in Israel, 13 US soldiers, and 21 killed in Gulf states according to preliminary figures from Al Jazeera's live tracker."
     },
     {
-      "headline": "Israeli Defense Minister says attacks on Iran will 'increase significantly' next week",
+      "title": "Israeli Defense Minister says attacks on Iran will 'increase significantly' next week",
       "source": "AP News",
       "category": "War/Middle East",
       "summary": "Defense Minister Israel Katz announced that Israeli attacks would intensify next week, speaking shortly after fragments from an Iranian missile struck an empty kindergarten near Tel Aviv."
     },
     {
-      "headline": "Russian forces conducting mechanized assaults on Ukraine frontline ahead of Spring-Summer offensive",
+      "title": "Russian forces conducting mechanized assaults on Ukraine frontline ahead of Spring-Summer offensive",
       "source": "Institute for the Study of War / Reuters",
       "category": "War/Ukraine",
       "summary": "Russian forces are conducting mechanized assaults on the frontline, possibly as preparation for a Spring-Summer 2026 offensive. The Kremlin sees the US diversion to Iran and higher oil prices as potential temporary advantages."
     },
     {
-      "headline": "Magnitude 6.7 earthquake strikes North Atlantic Ocean",
+      "title": "Magnitude 6.7 earthquake strikes North Atlantic Ocean",
       "source": "VolcanoDiscovery",
       "category": "Natural Disaster",
       "summary": "A very strong magnitude 6.7 earthquake occurred in the North Atlantic Ocean on Saturday morning, March 21, 2026 at 9:16 am local time (GMT -3)."

@@ -1,6 +1,6 @@
 [
   {
-    "headline": "Google expands personalized Gemini AI to all US users",
+    "title": "Google expands personalized Gemini AI to all US users",
     "source": "MarketingProfs",
     "date": "2026-03-20",
     "summary": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.",
@@ -8,7 +8,7 @@
     "category": "product-launch"
   },
   {
-    "headline": "White House releases AI policy blueprint for Congress",
+    "title": "White House releases AI policy blueprint for Congress",
     "source": "Politico",
     "date": "2026-03-20",
     "summary": "The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.",
@@ -16,7 +16,7 @@
     "category": "policy"
   },
   {
-    "headline": "Anthropic announces 1M token context window GA for Claude Opus 4.6 and Sonnet 4.6",
+    "title": "Anthropic announces 1M token context window GA for Claude Opus 4.6 and Sonnet 4.6",
     "source": "Releasebot",
     "date": "2026-03-18",
     "summary": "Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.",
@@ -24,7 +24,7 @@
     "category": "product-launch"
   },
   {
-    "headline": "AI startups accounted for 41% of venture capital dollars raised in 2025",
+    "title": "AI startups accounted for 41% of venture capital dollars raised in 2025",
     "source": "TechCrunch",
     "date": "2026-03-20",
     "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.",
@@ -32,7 +32,7 @@
     "category": "funding"
   },
   {
-    "headline": "Jeff Bezos reportedly seeking $100 billion for AI-focused industrial fund",
+    "title": "Jeff Bezos reportedly seeking $100 billion for AI-focused industrial fund",
     "source": "TechCrunch",
     "date": "2026-03-19",
     "summary": "Jeff Bezos is reportedly seeking $100 billion for a new fund to buy up companies in major industrial sectors and transform them with AI technology.",
@@ -40,7 +40,7 @@
     "category": "funding"
   },
   {
-    "headline": "Claude can now create custom charts and inline visualizations",
+    "title": "Claude can now create custom charts and inline visualizations",
     "source": "Releasebot/Anthropic",
     "date": "2026-03-19",
     "summary": "Anthropic rolled out a new feature allowing Claude to create custom charts and inline visualizations directly in responses, available to Max and Pro plans.",
@@ -48,7 +48,7 @@
     "category": "product-launch"
   },
   {
-    "headline": "Anthropic's Claude business subscriptions grow 4.9% month over month",
+    "title": "Anthropic's Claude business subscriptions grow 4.9% month over month",
     "source": "The Register",
     "date": "2026-03-19",
     "summary": "Anthropic saw business software subscriptions grow 4.9% month over month in February, while OpenAI's subscription share fell 1.5% during the same period.",
@@ -56,7 +56,7 @@
     "category": "business"
   },
   {
-    "headline": "OpenAI GPT-5.4 mini rollout begins in ChatGPT",
+    "title": "OpenAI GPT-5.4 mini rollout begins in ChatGPT",
     "source": "Releasebot/OpenAI",
     "date": "2026-03-19",
     "summary": "OpenAI began rolling out GPT-5.4 mini in ChatGPT, available to Free and Plus users. GPT-5.1 models were deprecated as of March 11, 2026.",
@@ -64,7 +64,7 @@
     "category": "product-launch"
   },
   {
-    "headline": "Gemini 3.1 Pro positioned as strongest all-around general-purpose AI",
+    "title": "Gemini 3.1 Pro positioned as strongest all-around general-purpose AI",
     "source": "Renovate QR",
     "date": "2026-03-17",
     "summary": "As of March 2026, Gemini 3.1 Pro is considered the strongest all-around general-purpose AI model. Free US users now have access to 'Thinking (3 Pro)' for complex reasoning.",
@@ -72,7 +72,7 @@
     "category": "product-launch"
   },
   {
-    "headline": "NASA's Perseverance rover uses Anthropic's Claude for autonomous Mars navigation",
+    "title": "NASA's Perseverance rover uses Anthropic's Claude for autonomous Mars navigation",
     "source": "Crescendo.ai",
     "date": "2026-03-20",
     "summary": "NASA's Perseverance rover completed the first Mars drives ever planned by artificial intelligence, using Anthropic's Claude vision-language models to analyze orbital imagery and terrain data.",
