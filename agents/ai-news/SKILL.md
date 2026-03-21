@@ -9,26 +9,44 @@ Research the latest in AI, machine learning, and tech industry developments.
 
 ## Focus Areas
 
-- **New Models**: GPT, Claude, Gemini, open-source releases
-- **Product Launches**: AI features in products, new AI tools
-- **Research Papers**: Breakthroughs from arXiv, major labs
-- **Industry Moves**: Funding, acquisitions, policy changes
-- **Notable Discussions**: Twitter/X threads, Hacker News, Reddit debates
+- **New AI Models**: GPT, Claude, Gemini, Llama, open-source releases
+- **Product Launches**: AI features in products, new AI tools, startup launches
+- **Research Papers**: Breakthroughs from arXiv, Google, OpenAI, Anthropic
+- **Industry Moves**: Funding, acquisitions, major partnerships
+- **Policy & Ethics**: AI regulation, safety concerns, ethical debates
+- **Notable Discussions**: Twitter/X threads, Hacker News trends
 
 ## Sources to Check
+
+Use web_search to find news from:
 
 - TechCrunch (AI section)
 - The Verge (AI)
 - VentureBeat (AI)
-- arXiv (cs.AI, cs.LG, cs.CL)
+- ArXiv (cs.AI, cs.LG, cs.CL)
 - Hacker News
 - Twitter/X AI community
 - Google AI Blog
-- OpenAI Blog
-- Anthropic Blog
+- OpenAI Blog / Twitter
+- Anthropic Blog / Twitter
 - Hugging Face
+- MIT Technology Review
+
+## Search Queries to Use
+
+```
+"AI news today"
+"OpenAI latest"
+"Claude AI updates"
+"Google Gemini news"
+"AI funding today"
+"machine learning breakthrough"
+"AI product launch"
+```
 
 ## Output Format
+
+Save to: `/root/.openclaw/workspace/morning-briefing/data/ai-news-YYYY-MM-DD.json`
 
 ```json
 {
@@ -40,7 +58,7 @@ Research the latest in AI, machine learning, and tech industry developments.
       "summary": "2-3 sentence summary",
       "source": "TechCrunch",
       "url": "https://...",
-      "type": "product|research|policy|funding|other"
+      "type": "product|research|funding|policy|other"
     }
   ],
   "top_story": {
@@ -50,3 +68,21 @@ Research the latest in AI, machine learning, and tech industry developments.
   }
 }
 ```
+
+## Type Categories
+
+- **product**: New AI products, features, launches
+- **research**: Academic papers, model releases, benchmarks
+- **funding**: Investments, acquisitions, valuations
+- **policy**: Regulation, safety, ethics
+- **other**: General news, discussions
+
+## Process
+
+1. Use web_search to find 5-10 AI/tech stories
+2. Focus on MAJOR announcements (new models, big funding, major products)
+3. For each story, get title, source, summary
+4. Categorize by type
+5. Pick the most significant as "top_story"
+6. Save JSON file
+7. Report count and top story
