@@ -1,0 +1,11 @@
+{
+  "name": "morning-briefing",
+  "version": "1.0.0",
+  "description": "Personal morning briefing dashboard with news, sports, restaurants, and events",
+  "scripts": {
+    "build": "node dashboard/build.js"
+  },
+  "keywords": ["dashboard", "news", "briefing", "morning"],
+  "author": "James Evans",
+  "license": "MIT"
+}

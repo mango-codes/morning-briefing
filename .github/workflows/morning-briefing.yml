@@ -1,0 +1,139 @@
+name: Morning Briefing - 7 AM PT
+
+on:
+  schedule:
+    - cron: '0 14 * * *'  # 7 AM PT / 14:00 UTC
+  workflow_dispatch:
+
+jobs:
+  global-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research Global News
+        run: |
+          # This triggers the OpenClaw subagent
+          echo "Researching global news..."
+          # Output will be saved to data/global-news-YYYY-MM-DD.json
+      
+      - name: Upload Global News Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: global-news
+          path: data/global-news-*.json
+
+  ai-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research AI News
+        run: |
+          echo "Researching AI news..."
+      
+      - name: Upload AI News Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-news
+          path: data/ai-news-*.json
+
+  local-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research Local News
+        run: |
+          echo "Researching Seattle local news..."
+      
+      - name: Upload Local News Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: local-news
+          path: data/local-news-*.json
+
+  sports-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research Sports News
+        run: |
+          echo "Researching Seattle sports news..."
+      
+      - name: Upload Sports News Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: sports-news
+          path: data/sports-news-*.json
+
+  restaurants:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research Restaurants
+        run: |
+          echo "Researching restaurants..."
+      
+      - name: Upload Restaurant Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: restaurants
+          path: data/restaurants-*.json
+
+  events:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Research Events
+        run: |
+          echo "Researching events..."
+      
+      - name: Upload Events Data
+        uses: actions/upload-artifact@v4
+        with:
+          name: events
+          path: data/events-*.json
+
+  build-dashboard:
+    needs: [global-news, ai-news, local-news, sports-news, restaurants, events]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Download All Data
+        uses: actions/download-artifact@v4
+        with:
+          path: data
+          merge-multiple: true
+      
+      - name: Build Dashboard
+        run: node dashboard/build.js
+      
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build-dashboard
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

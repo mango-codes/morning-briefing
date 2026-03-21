@@ -1,0 +1,19 @@
+{
+  "date": "2026-03-21",
+  "category": "global-news",
+  "headlines": [
+    {
+      "title": "Placeholder: Global news will be researched here",
+      "summary": "The OpenClaw subagent will research major global stories from BBC, Reuters, AP, etc.",
+      "source": "Various",
+      "url": "#",
+      "severity": "medium",
+      "category": "other"
+    }
+  ],
+  "top_story": {
+    "title": "Research in progress",
+    "summary": "The subagent will populate this with actual news",
+    "why_it_matters": "Real-time news requires live research"
+  }
+}
