@@ -19,6 +19,8 @@ Research concerts, shows, and events happening in Seattle today and in the near 
 
 ## Venues to Check
 
+Use web_search to find events at:
+
 - Climate Pledge Arena
 - T-Mobile Park
 - Lumen Field
@@ -33,20 +35,22 @@ Research concerts, shows, and events happening in Seattle today and in the near 
 - Columbia City Theater
 - Jazz Alley
 - Triple Door
+- McCaw Hall
 
-## Sources to Check
+## Search Queries
 
-- Seattle Times (Events)
-- The Stranger (Events)
-- Songkick (Seattle)
-- Bandsintown
-- Ticketmaster
-- StubHub
-- Eventbrite
-- Seattle Theatre Group
-- Visit Seattle
+```
+"Seattle concerts today"
+"Seattle events today"
+"Seattle comedy shows"
+"Seattle theater tonight"
+"what to do in Seattle today"
+"Seattle live music"
+```
 
 ## Output Format
+
+Save to: `/root/.openclaw/workspace/morning-briefing/data/events-YYYY-MM-DD.json`
 
 ```json
 {
@@ -60,7 +64,7 @@ Research concerts, shows, and events happening in Seattle today and in the near 
       "venue": "Venue Name",
       "description": "Brief description",
       "url": "https://...",
-      "price": "$45+" 
+      "price": "$45+"
     }
   ],
   "this_weekend": [
@@ -74,3 +78,12 @@ Research concerts, shows, and events happening in Seattle today and in the near 
   ]
 }
 ```
+
+## Process
+
+1. Use web_search to find 5-10 events happening today
+2. Include concerts, comedy, theater, sports
+3. For each: title, time, venue, type, price
+4. Also find 3-5 events for this weekend
+5. Save JSON file
+6. Report count of today's events

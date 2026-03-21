@@ -1,0 +1,152 @@
+{
+  "date": "2026-03-21",
+  "category": "events",
+  "events": [
+    {
+      "title": "Band of Horses",
+      "type": "Concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Indie rock band from Seattle performing live. All-ages show.",
+      "url": "https://seattle-wa.events/tickets/band-of-horses/",
+      "price": "From $181"
+    },
+    {
+      "title": "Alvin Ailey American Dance Theater",
+      "type": "Dance/Theater",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "description": "Award-winning dance company performing thought-provoking new works and perennial favorites.",
+      "url": "https://seattle-wa.events/tickets/alvin-ailey-american-dance-theater/",
+      "price": "From $55"
+    },
+    {
+      "title": "Bassem Youssef",
+      "type": "Comedy",
+      "time": "7:30 PM",
+      "venue": "Moore Theatre",
+      "description": "Egyptian comedian and former heart surgeon, known as the 'Jon Stewart of Egypt'.",
+      "url": "https://seattle-wa.events/event/bassem-youssef-seattle-saturday-march-21-2026-730-pm/",
+      "price": "From $47"
+    },
+    {
+      "title": "Mariah The Scientist",
+      "type": "Concert",
+      "time": "8:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "R&B singer-songwriter performing live with special guests.",
+      "url": "https://seattle-wa.events/event/mariah-the-scientist-seattle-saturday-march-21-2026-800-pm/",
+      "price": "From $158"
+    },
+    {
+      "title": "Cirque du Soleil - Echo",
+      "type": "Circus/Performance",
+      "time": "1:00 PM & 5:00 PM",
+      "venue": "Under The White Big Top - Marymoor Park (Redmond)",
+      "description": "Cirque du Soleil's latest show featuring poetry, stagecraft, and acrobatics exploring connection.",
+      "url": "https://seattle-wa.events/tickets/cirque-du-soleil-echo/",
+      "price": "From $124"
+    },
+    {
+      "title": "Pacific Northwest Ballet - Firebird",
+      "type": "Ballet/Dance",
+      "time": "2:00 PM & 7:30 PM",
+      "venue": "McCaw Hall",
+      "description": "Classic ballet performance featuring Stravinsky's The Firebird.",
+      "url": "https://seattle-wa.events/tickets/firebird-ballet/",
+      "price": "From $67"
+    },
+    {
+      "title": "Amit Tandon",
+      "type": "Comedy",
+      "time": "3:30 PM & 7:00 PM",
+      "venue": "The Neptune Theatre",
+      "description": "Indian stand-up comedian known for his observational humor on family and relationships.",
+      "url": "https://seattle-wa.events/event/amit-tandon-seattle-saturday-march-21-2026-330-pm/",
+      "price": "From $41"
+    },
+    {
+      "title": "The Dirty Three",
+      "type": "Concert",
+      "time": "7:00 PM",
+      "venue": "Neumos",
+      "description": "Australian instrumental rock trio performing live.",
+      "url": "https://seattle-wa.events/event/the-dirty-three-seattle-saturday-march-21-2026-700-pm/",
+      "price": "From $78"
+    },
+    {
+      "title": "Seattle Symphony - Stravinsky's The Firebird",
+      "type": "Classical Music",
+      "time": "8:00 PM",
+      "venue": "Benaroya Hall - S. Mark Taper Foundation Auditorium",
+      "description": "The Seattle Symphony performs Stravinsky's iconic Firebird Suite.",
+      "url": "https://seattle-wa.events/tickets/seattle-symphony/",
+      "price": "From $109"
+    },
+    {
+      "title": "SHADOWPLAY: An 80s + New Wave Dance Night",
+      "type": "Dance Party",
+      "time": "9:00 PM",
+      "venue": "Chop Suey",
+      "description": "80s and new wave dance party with DJs spinning classic hits.",
+      "url": "https://www.ticketmaster.com/discover/seattle",
+      "price": "TBD"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Band of Horses",
+      "type": "Concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Second night of indie rock performances by the Seattle-based band.",
+      "url": "https://seattle-wa.events/tickets/band-of-horses/",
+      "price": "From $85"
+    },
+    {
+      "title": "Alvin Ailey American Dance Theater",
+      "type": "Dance/Theater",
+      "time": "2:00 PM",
+      "venue": "Paramount Theatre",
+      "description": "Sunday matinee performance of the acclaimed dance company.",
+      "url": "https://seattle-wa.events/tickets/alvin-ailey-american-dance-theater/",
+      "price": "From $55"
+    },
+    {
+      "title": "Tune-Yards",
+      "type": "Concert",
+      "time": "7:00 PM",
+      "venue": "Neumos",
+      "description": "Experimental indie pop project led by Merrill Garbus.",
+      "url": "https://seattle-wa.events/event/tune-yards-seattle-sunday-march-22-2026-700-pm/",
+      "price": "From $42"
+    },
+    {
+      "title": "David Koechner",
+      "type": "Comedy",
+      "time": "7:00 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "Comedian and actor known for The Office and Anchorman performing stand-up.",
+      "url": "https://seattle-wa.events/event/david-koechner-seattle-sunday-march-22-2026-700-pm/",
+      "price": "From $25"
+    },
+    {
+      "title": "Seattle French Fest",
+      "type": "Cultural Festival",
+      "time": "All Day",
+      "venue": "Seattle Center",
+      "description": "Annual celebration of French-speaking cultures with music, food, and activities.",
+      "url": "https://seattlerefined.com",
+      "price": "Free"
+    },
+    {
+      "title": "Candlelight: Tribute to Arijit Singh",
+      "type": "Concert",
+      "time": "8:45 PM",
+      "venue": "The National Nordic Museum",
+      "description": "Intimate candlelight concert featuring the music of Bollywood singer Arijit Singh.",
+      "url": "https://seattle-wa.events/event/candlelight-tribute-to-arijit-singh-seattle-sunday-march-22-2026-845-pm/",
+      "price": "From $87"
+    }
+  ]
+}

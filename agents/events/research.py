@@ -1,53 +1,43 @@
 #!/usr/bin/env python3
 """
 Seattle Events Research Agent
-Fetches concerts, shows, and events happening today
+Uses web_search via OpenClaw subagent to find events
 """
 
 import json
 import sys
 from datetime import datetime
-from scrapling.fetchers import Fetcher
 
-class EventsResearcher:
-    def __init__(self):
-        self.fetcher = Fetcher()
-        
-    def research(self, date=None):
-        """Research events for the given date"""
-        if not date:
-            date = datetime.now().strftime("%Y-%m-%d")
-        
-        print(f"🎭 Researching Seattle events for {date}...")
-        
-        return {
-            "date": date,
-            "category": "events",
-            "today": [],
-            "this_weekend": [],
-            "note": "Research to be completed by OpenClaw subagent"
-        }
+def create_placeholder(date=None):
+    """Create placeholder structure for events"""
+    if not date:
+        date = datetime.now().strftime("%Y-%m-%d")
+    
+    return {
+        "date": date,
+        "category": "events",
+        "today": [],
+        "this_weekend": [],
+        "note": "To be populated by OpenClaw subagent using web_search"
+    }
 
 
 def main():
     import argparse
     
-    parser = argparse.ArgumentParser(description='Research events')
+    parser = argparse.ArgumentParser(description='Events research placeholder')
     parser.add_argument('--date', help='Date in YYYY-MM-DD format')
-    parser.add_argument('--output', help='Output JSON file')
+    parser.add_argument('--output', required=True, help='Output JSON file')
     
     args = parser.parse_args()
     
-    researcher = EventsResearcher()
-    result = researcher.research(args.date)
+    result = create_placeholder(args.date)
     
-    if args.output:
-        with open(args.output, 'w') as f:
-            json.dump(result, f, indent=2)
-        print(f"\n💾 Results saved to {args.output}")
-    else:
-        print("\n📊 Results:")
-        print(json.dumps(result, indent=2))
+    with open(args.output, 'w') as f:
+        json.dump(result, f, indent=2)
+    
+    print(f"✅ Placeholder created: {args.output}")
+    print("   The OpenClaw subagent will populate this with Seattle events")
     
     return 0
 
