@@ -1,80 +1,82 @@
-{
-  "date": "2026-03-21",
-  "category": "ai",
-  "headlines": [
-    {
-      "title": "OpenAI to Nearly Double Workforce to 8,000 by End of 2026",
-      "summary": "OpenAI plans to grow from 4,500 to 8,000 employees by end of 2026, focusing on product development, engineering, research, and sales. The expansion aims to help OpenAI compete with Anthropic and Google in the enterprise market. The company is also recruiting 'technical ambassadors' to help businesses better utilize its tools.",
-      "source": "Reuters / Financial Times",
-      "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
-      "type": "company"
-    },
-    {
-      "title": "OpenAI Planning Desktop 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser",
-      "summary": "OpenAI is working on a unified desktop application that combines ChatGPT, the Codex AI coding platform, and its Atlas browser into one 'superapp.' The move aims to simplify the user experience and reduce product fragmentation. Fidji Simo, OpenAI's CEO of Applications, told employees to avoid being 'distracted by side quests' and focus on core products.",
-      "source": "The Verge / Wall Street Journal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "type": "product"
-    },
-    {
-      "title": "Google Testing AI-Generated Headline Rewrites in Search Results",
-      "summary": "Google is experimenting with replacing original news headlines in search results with AI-generated versions. The Verge discovered multiple examples where their headlines were altered, sometimes changing the meaning. Google claims it's a 'small' experiment to better match titles to user queries, but publishers worry it undermines editorial integrity and could spread misinformation.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "type": "product"
-    },
-    {
-      "title": "Anthropic vs Pentagon: Court Filing Reveals Dispute Over Military AI Use",
-      "summary": "Anthropic submitted sworn declarations pushing back against the Pentagon's claim that the company poses an 'unacceptable risk to national security.' The filing reveals that just days after the Pentagon cut ties, an official emailed Anthropic's CEO saying they were 'very close' on key issues. Anthropic argues the supply-chain risk designation violates its First Amendment rights.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "type": "policy"
-    },
-    {
-      "title": "Trump Administration Unveils AI Policy Framework to Limit State Regulation",
-      "summary": "The White House released a seven-point legislative blueprint for AI that seeks to preempt state AI laws and avoid creating new federal regulatory bodies. The plan emphasizes child safety protections, age verification, and preventing utility bill spikes from data centers, while taking a wait-and-see approach on AI copyright issues. It bars states from regulating AI development.",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "type": "policy"
-    },
-    {
-      "title": "Anthropic Ships Claude Code Channels: Telegram/Discord Integration",
-      "summary": "Anthropic launched Claude Code Channels as a research preview, allowing developers to interact with Claude Code via Telegram and Discord messages. The feature enables two-way communication—users can send messages from their phone and Claude executes code on their local machine, replying through the same chat app. It uses a 'push, not pull' MCP server architecture.",
-      "source": "Anthropic / DEV Community",
-      "url": "https://code.claude.com/docs/en/channels",
-      "type": "product"
-    },
-    {
-      "title": "Amazon Developing 'Transformer' Alexa-Centered Smartphone",
-      "summary": "Over a decade after the Fire Phone flop, Amazon is reportedly developing a new smartphone code-named 'Transformer' centered around its Alexa AI assistant. The device is being developed in Amazon's ZeroOne group led by former Microsoft Xbox executive J Allard. The phone may take inspiration from minimalist devices like the Light Phone and could rely on AI-powered mini apps rather than a full app store.",
-      "source": "The Verge / Reuters",
-      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "type": "product"
-    },
-    {
-      "title": "US Charges Three in Super Micro Computer AI Chip Smuggling to China",
-      "summary": "Federal prosecutors charged three individuals tied to Super Micro Computer with helping smuggle billions of dollars worth of AI chips to China. The case highlights ongoing concerns about technology transfer and national security. Following the charges, Super Micro's Liaw exited the company's board.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "type": "policy"
-    },
-    {
-      "title": "Anthropic Faces $1.5 Billion Copyright Settlement Judicial Review",
-      "summary": "Authors accusing Anthropic of using their work without permission to train Claude have petitioned for final approval of a $1.5 billion settlement. The case faces critical judicial review amid attorney fee reduction disputes. The settlement would be one of the largest in AI copyright litigation to date.",
-      "source": "Legal News Feed",
-      "url": "https://legalnewsfeed.com/2026/03/20/anthropics-1-5-billion-copyright-settlement-proposal-faces-critical-judicial-review-amidst-attorney-fee-reduction/",
-      "type": "legal"
-    },
-    {
-      "title": "Nvidia to Sell 1 Million Chips to Amazon by End of 2027",
-      "summary": "Nvidia has struck a major cloud deal with Amazon to supply 1 million AI chips by the end of 2027. The agreement underscores the massive infrastructure investments cloud providers are making to meet surging AI demand. Amazon continues to compete aggressively with Microsoft and Google in the AI cloud services market.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "type": "business"
-    }
-  ],
-  "top_story": {
-    "title": "OpenAI to Nearly Double Workforce to 8,000 by End of 2026",
-    "reason": "Major workforce expansion signals OpenAI's aggressive push to scale operations and compete with Anthropic and Google in the enterprise AI market. The planned hiring spree comes after a $110 billion funding round valued the company at $840 billion."
+[
+  {
+    "headline": "Google expands personalized Gemini AI to all US users",
+    "source": "MarketingProfs",
+    "date": "2026-03-20",
+    "summary": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.",
+    "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+    "category": "product-launch"
+  },
+  {
+    "headline": "White House releases AI policy blueprint for Congress",
+    "source": "Politico",
+    "date": "2026-03-20",
+    "summary": "The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.",
+    "url": "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354",
+    "category": "policy"
+  },
+  {
+    "headline": "Anthropic announces 1M token context window GA for Claude Opus 4.6 and Sonnet 4.6",
+    "source": "Releasebot",
+    "date": "2026-03-18",
+    "summary": "Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.",
+    "url": "https://releasebot.io/updates/anthropic",
+    "category": "product-launch"
+  },
+  {
+    "headline": "AI startups accounted for 41% of venture capital dollars raised in 2025",
+    "source": "TechCrunch",
+    "date": "2026-03-20",
+    "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.",
+    "url": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
+    "category": "funding"
+  },
+  {
+    "headline": "Jeff Bezos reportedly seeking $100 billion for AI-focused industrial fund",
+    "source": "TechCrunch",
+    "date": "2026-03-19",
+    "summary": "Jeff Bezos is reportedly seeking $100 billion for a new fund to buy up companies in major industrial sectors and transform them with AI technology.",
+    "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "category": "funding"
+  },
+  {
+    "headline": "Claude can now create custom charts and inline visualizations",
+    "source": "Releasebot/Anthropic",
+    "date": "2026-03-19",
+    "summary": "Anthropic rolled out a new feature allowing Claude to create custom charts and inline visualizations directly in responses, available to Max and Pro plans.",
+    "url": "https://releasebot.io/updates/anthropic/claude",
+    "category": "product-launch"
+  },
+  {
+    "headline": "Anthropic's Claude business subscriptions grow 4.9% month over month",
+    "source": "The Register",
+    "date": "2026-03-19",
+    "summary": "Anthropic saw business software subscriptions grow 4.9% month over month in February, while OpenAI's subscription share fell 1.5% during the same period.",
+    "url": "https://www.theregister.com/2026/03/19/anthropic_claude_market_share/",
+    "category": "business"
+  },
+  {
+    "headline": "OpenAI GPT-5.4 mini rollout begins in ChatGPT",
+    "source": "Releasebot/OpenAI",
+    "date": "2026-03-19",
+    "summary": "OpenAI began rolling out GPT-5.4 mini in ChatGPT, available to Free and Plus users. GPT-5.1 models were deprecated as of March 11, 2026.",
+    "url": "https://releasebot.io/updates/openai",
+    "category": "product-launch"
+  },
+  {
+    "headline": "Gemini 3.1 Pro positioned as strongest all-around general-purpose AI",
+    "source": "Renovate QR",
+    "date": "2026-03-17",
+    "summary": "As of March 2026, Gemini 3.1 Pro is considered the strongest all-around general-purpose AI model. Free US users now have access to 'Thinking (3 Pro)' for complex reasoning.",
+    "url": "https://renovateqr.com/blog/ai-model-releases-2026",
+    "category": "product-launch"
+  },
+  {
+    "headline": "NASA's Perseverance rover uses Anthropic's Claude for autonomous Mars navigation",
+    "source": "Crescendo.ai",
+    "date": "2026-03-20",
+    "summary": "NASA's Perseverance rover completed the first Mars drives ever planned by artificial intelligence, using Anthropic's Claude vision-language models to analyze orbital imagery and terrain data.",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "category": "research"
   }
-}
+]

@@ -1,130 +1,76 @@
 {
   "date": "2026-03-21",
-  "category": "sports",
   "teams": [
     {
       "name": "Seattle Mariners",
-      "league": "MLB",
-      "headlines": [
-        {
-          "title": "Cole Young hits two homers for Mariners in spring training",
-          "summary": "Prospect Cole Young had a standout performance, hitting two home runs in a recent spring training game as the Mariners prepare for Opening Day.",
-          "url": "https://www.espn.com/mlb/team/_/name/sea/seattle-mariners"
-        },
-        {
-          "title": "Mariners thrash Guardians 20-8 in Opening Day preview",
-          "summary": "The Mariners showcased their power with six home runs in a dominant 20-8 victory over Cleveland. Cole Young went yard twice and Dominic Canzone hit a grand slam.",
-          "url": "https://www.lookoutlanding.com/seattle-mariners-spring-training/140515/in-opening-day-preview-mariners-thrash-guardians-20-8"
-        },
-        {
-          "title": "Harry Ford will not start 2026 in major leagues",
-          "summary": "Former Mariners prospect Harry Ford, who was traded to Washington during the offseason, will not begin the 2026 season in the majors.",
-          "url": "https://seattlesports.com/category/mariners/"
-        }
-      ],
-      "last_game": {
-        "opponent": "Cleveland Guardians",
-        "result": "W 20-8",
-        "highlights": "Mariners hit 6 home runs; Cole Young went deep twice; Dominic Canzone hit a grand slam"
+      "sport": "MLB",
+      "latestHeadline": "Cole Young hits two homers for Mariners",
+      "lastGameResult": {
+        "opponent": "Spring Training - Cactus League",
+        "result": "10-17 record",
+        "date": "Ongoing Spring Training"
       },
-      "next_game": {
-        "opponent": "TBD - Opening Day",
-        "date": "Late March 2026",
-        "location": "T-Mobile Park, Seattle"
-      }
+      "nextGame": {
+        "opponent": "TBD - Regular Season",
+        "date": "Opening Day 2026",
+        "location": "TBD"
+      },
+      "source": "ESPN, The Athletic"
     },
     {
       "name": "Seattle Seahawks",
-      "league": "NFL",
-      "headlines": [
-        {
-          "title": "Seahawks win Super Bowl LX with 29-13 victory over Patriots",
-          "summary": "The Seahawks completed a remarkable 14-3 season by winning their second Super Bowl in franchise history, defeating the New England Patriots 29-13.",
-          "url": "https://www.espn.com/nfl/team/_/name/sea/seattle-seahawks"
-        },
-        {
-          "title": "Seahawks exercise 5th-year options on JSN, Devon Witherspoon",
-          "summary": "Seattle locked in two key young players by exercising the fifth-year options on WR Jaxon Smith-Njigba and CB Devon Witherspoon.",
-          "url": "https://www.espn.com/nfl/story/_/id/48265226/seahawks-exercise-5-year-options-wr-jaxon-smith-njigba-cb-devon-witherspoon"
-        },
-        {
-          "title": "Rashid Shaheed re-signs with Seahawks for $51 million",
-          "summary": "Super Bowl hero Rashid Shaheed returns to Seattle on a lucrative deal, keeping a key weapon in the Seahawks' receiver room alongside Jaxon Smith-Njigba and Cooper Kupp.",
-          "url": "https://www.espn.com/nfl/story/_/id/48084500/seattle-seahawks-2026-free-agency-tracker-offseason-moves-signings-contract"
-        },
-        {
-          "title": "Seahawks sign RB Emanuel Wilson to replace Kenneth Walker",
-          "summary": "After losing Kenneth Walker III to the Kansas City Chiefs, Seattle signed running back Emanuel Wilson on March 13 to bolster their backfield.",
-          "url": "https://www.seahawks.com/team/free-agency/"
-        }
-      ],
-      "last_game": {
-        "opponent": "New England Patriots (Super Bowl LX)",
+      "sport": "NFL",
+      "latestHeadline": "Seahawks exercise 5th-year options on Jaxon Smith-Njigba, Devon Witherspoon",
+      "lastGameResult": {
+        "opponent": "New England Patriots",
         "result": "W 29-13",
-        "highlights": "Seahawks win second Super Bowl in franchise history; finished season 14-3"
+        "date": "Super Bowl LX (2025 Season)"
       },
-      "next_game": {
-        "opponent": "2026 Regular Season Opener",
+      "nextGame": {
+        "opponent": "2026 Regular Season",
         "date": "September 2026",
         "location": "TBD"
-      }
+      },
+      "notes": "Active free agency period - re-signed Rashid Shaheed to $51M contract, signed RB Emanuel Wilson, lost Kenneth Walker III to Chiefs, Riq Woolen to Eagles, Boye Mafe to Bengals",
+      "source": "ESPN, The Athletic, Seahawks.com"
     },
     {
       "name": "Seattle Kraken",
-      "league": "NHL",
-      "headlines": [
-        {
-          "title": "Kraken fall to Predators 3-1 in crucial wild card matchup",
-          "summary": "Filip Forsberg scored a goal and added two assists as Nashville defeated Seattle 3-1, pulling even in the Western Conference wild card race.",
-          "url": "https://www.espn.com/nhl/recap/_/gameId/401803438"
-        },
-        {
-          "title": "How to watch Kraken vs. Blue Jackets on March 21",
-          "summary": "The Kraken (31-28-9) face the Columbus Blue Jackets (36-21-11) on Saturday at 5 p.m. ET at Nationwide Arena, broadcast on ESPN+.",
-          "url": "https://www.nytimes.com/athletic/7136160/2026/03/21/how-to-watch-kraken-vs-blue-jackets-tv-channel-and-streaming-options-for-march-21/"
-        }
-      ],
-      "last_game": {
+      "sport": "NHL",
+      "latestHeadline": "Kraken face Columbus Blue Jackets tonight in wild card race",
+      "lastGameResult": {
         "opponent": "Nashville Predators",
         "result": "L 3-1",
-        "highlights": "Filip Forsberg led Predators with goal and two assists; Ryan O'Reilly scored game-winner"
+        "date": "March 19, 2026"
       },
-      "next_game": {
+      "nextGame": {
         "opponent": "Columbus Blue Jackets",
-        "date": "March 21, 2026 (Today)",
-        "location": "Nationwide Arena, Columbus"
-      }
+        "date": "March 21, 2026 (TODAY)",
+        "time": "5:00 PM ET / 2:00 PM PT",
+        "location": "Nationwide Arena (Away)",
+        "broadcast": "ESPN+, FDSNOH, KHN/Prime, KONG"
+      },
+      "record": "31-28-9 (71 points, 5th Pacific)",
+      "source": "ESPN, The Athletic, NHL.com"
     },
     {
       "name": "Seattle Sounders FC",
-      "league": "MLS",
-      "headlines": [
-        {
-          "title": "Sounders advance to Concacaf Champions Cup Quarterfinals",
-          "summary": "Seattle defeated Vancouver Whitecaps 2-1 in Spokane (5-1 on aggregate) to advance to the Concacaf Champions Cup Quarterfinals where they'll face Tigres UANL.",
-          "url": "https://www.oursportscentral.com/services/releases/sounders-fc-advances-to-2026-concacaf-champions-cup-quarterfinals-with-2-1-win-over-vancouver-in-spokane/n-6336876"
-        },
-        {
-          "title": "Sounders to face Tigres UANL in Champions Cup Quarterfinals",
-          "summary": "Seattle will travel to Estadio Universitario (El Volcán) for Leg One on April 8 at 6:00 p.m. PT, then host Leg 2 at Lumen Field.",
-          "url": "https://www.soundersfc.com/"
-        },
-        {
-          "title": "Paul Rothrock finds back of the net for Sounders",
-          "summary": "Paul Rothrock scored in Seattle's recent MLS action, contributing to the team's strong start to the 2026 season.",
-          "url": "https://www.espn.com/soccer/team/_/id/9726/seattle-sounders-fc"
-        }
-      ],
-      "last_game": {
-        "opponent": "Vancouver Whitecaps (Concacaf Champions Cup)",
-        "result": "W 2-1 (5-1 aggregate)",
-        "highlights": "Sounders advance to Champions Cup Quarterfinals; played in Spokane"
+      "sport": "MLS",
+      "latestHeadline": "Sounders visit Minnesota United looking to extend strong start",
+      "lastGameResult": {
+        "opponent": "Real Salt Lake",
+        "result": "W (Paul Rothrock scored)",
+        "date": "March 15, 2026"
       },
-      "next_game": {
+      "nextGame": {
         "opponent": "Minnesota United FC",
-        "date": "March 22, 2026 (Tomorrow)",
-        "location": "Allianz Field, St. Paul, MN"
-      }
+        "date": "March 22, 2026 (TOMORROW)",
+        "time": "2:30 PM PT",
+        "location": "Allianz Field (Away)",
+        "broadcast": "FOX, Apple TV"
+      },
+      "record": "3-1-0 (9 points, 5th West)",
+      "source": "ESPN, The Athletic, SoundersFC.com"
     }
   ]
 }

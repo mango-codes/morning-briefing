@@ -1,86 +1,67 @@
 {
   "date": "2026-03-21",
-  "category": "global-news",
+  "source": "Global News Briefing - BBC, Reuters, AP, Al Jazeera",
   "headlines": [
     {
-      "title": "Trump says US considering 'winding down' Iran war; Natanz nuclear facility attacked",
-      "summary": "President Donald Trump announced the U.S. is considering winding down military operations against Iran as the war enters its fourth week. Iranian media reported that the Natanz nuclear enrichment facility was attacked by U.S.-Israeli forces. Trump stated the U.S. is close to meeting its objectives but insisted other nations should take the lead in policing the Strait of Hormuz. Over 2,000 people have been killed in Iran since the conflict began on February 28.",
+      "headline": "Trump says US considering 'winding down' Iran war as Natanz nuclear facility attacked again",
+      "source": "Reuters / AP / Al Jazeera",
+      "category": "War/Middle East",
+      "summary": "President Trump announced the US may wind down military operations against Iran as the war enters its fourth week. Iranian media reported the Natanz nuclear enrichment facility was struck again. Over 2,000 people have been killed in Iran since attacks began on February 28."
+    },
+    {
+      "headline": "Iran targets Diego Garcia military base in Indian Ocean, demonstrating expanded missile range",
+      "source": "AP News",
+      "category": "War/Middle East",
+      "summary": "Iran attacked the joint UK-US military base on Diego Garcia, approximately 2,500 miles away, suggesting Tehran possesses missiles with greater range than previously acknowledged or used its space program for an improvised launch."
+    },
+    {
+      "headline": "Iran's naval forces claim attacks on UAE and Kuwait military facilities",
+      "source": "Al Jazeera",
+      "category": "War/Middle East",
+      "summary": "Iran says its naval forces destroyed facilities at the Al-Minhad base in the UAE and the Ali Al Salem airbase in Kuwait, claiming they were used in attacks on Iranian territory."
+    },
+    {
+      "headline": "Trump calls NATO 'cowardly' over lack of support for Iran war",
+      "source": "Al Jazeera",
+      "category": "Politics/Diplomacy",
+      "summary": "Trump criticized NATO allies for not supporting the Iran war effort and stated that other nations who use the Strait of Hormuz should take the lead in protecting it, not the United States."
+    },
+    {
+      "headline": "Oil prices up 50% due to Iran war, hobbling global economy",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/",
-      "severity": "critical",
-      "category": "war"
+      "category": "Economy/Energy",
+      "summary": "The war's effects are being felt far beyond the Middle East, raising food and fuel prices globally. The near-closure of the Strait of Hormuz threatens a global energy shock."
     },
     {
-      "title": "US deploys additional 2,500 Marines and warships to Middle East amid Iran war escalation",
-      "summary": "The U.S. announced deployment of three more amphibious assault ships and approximately 2,500 additional Marines to the Middle East region. This follows the redirection of another 2,500 Marines from the Pacific. The deployments come despite Trump's comments about winding down operations, creating mixed messages about U.S. strategy. More than 50,000 U.S. troops are now in the region.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c",
-      "severity": "critical",
-      "category": "war"
+      "headline": "Iranians mark Persian New Year (Nowruz) during wartime for first time since 1980s",
+      "source": "BBC News",
+      "category": "Human Interest/Culture",
+      "summary": "Iranians are celebrating Nowruz, the start of year 1405 in the Solar Hijri calendar, during wartime for the first time since the Iran-Iraq war in the 1980s. Some express hope following the death of Supreme Leader Ayatollah Ali Khamenei on the first day of the war."
     },
     {
-      "title": "Iran threatens attacks on tourist sites worldwide as war expands",
-      "summary": "Iran's top military spokesperson warned that 'parks, recreational areas and tourist destinations' worldwide will not be safe for the country's enemies. The threat comes three weeks into the escalating war and raises concerns that Tehran may revert to using militant attacks beyond the Middle East. Iran also fired two ballistic missiles toward the U.S.-British military base on Diego Garcia in the Indian Ocean.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c",
-      "severity": "high",
-      "category": "war"
+      "headline": "Preliminary death toll: 1,444 dead in Iran, 18 in Israel, 13 US soldiers killed",
+      "source": "Al Jazeera",
+      "category": "War/Casualties",
+      "summary": "The conflict has claimed over 1,444 lives in Iran, at least 18 in Israel, 13 US soldiers, and 21 killed in Gulf states according to preliminary figures from Al Jazeera's live tracker."
     },
     {
-      "title": "Oil prices surge 50% due to Iran war, hobbling global economy",
-      "summary": "Brent crude oil has soared to around $108 per barrel, up from roughly $70 before the war began. The Strait of Hormuz, conduit for around a fifth of global oil and liquefied natural gas supplies, has been effectively closed to most shipping. Energy price shocks are fueling inflation and hitting consumers and businesses hard, creating a major political liability for Trump ahead of November elections.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/",
-      "severity": "high",
-      "category": "economy"
+      "headline": "Israeli Defense Minister says attacks on Iran will 'increase significantly' next week",
+      "source": "AP News",
+      "category": "War/Middle East",
+      "summary": "Defense Minister Israel Katz announced that Israeli attacks would intensify next week, speaking shortly after fragments from an Iranian missile struck an empty kindergarten near Tel Aviv."
     },
     {
-      "title": "Israel launches 'broad wave of strikes' on Beirut targeting Hezbollah",
-      "summary": "Israel began a wave of strikes targeting Hezbollah militants in Beirut's southern suburbs. Israeli strikes in Lebanon have displaced more than 1 million people, with over 1,000 killed according to the Lebanese government. Israel also attacked Tehran, Karaj, and Isfahan, while Iranian missiles triggered air raid sirens across Israel.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c",
-      "severity": "high",
-      "category": "war"
+      "headline": "Russian forces conducting mechanized assaults on Ukraine frontline ahead of Spring-Summer offensive",
+      "source": "Institute for the Study of War / Reuters",
+      "category": "War/Ukraine",
+      "summary": "Russian forces are conducting mechanized assaults on the frontline, possibly as preparation for a Spring-Summer 2026 offensive. The Kremlin sees the US diversion to Iran and higher oil prices as potential temporary advantages."
     },
     {
-      "title": "Saudi Arabia downs 20 drones in eastern oil region",
-      "summary": "Saudi Arabia reported downing 20 drones in just a couple of hours in the country's eastern region, which is home to major oil installations. The defense ministry confirmed there were no injuries or damage. The attacks came as Iran escalates strikes on Gulf neighbors after Israel bombed Iran's South Pars offshore natural gas field.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c",
-      "severity": "high",
-      "category": "war"
-    },
-    {
-      "title": "Trump lifts sanctions on Iranian oil shipments to ease price surge",
-      "summary": "The Trump administration announced it will lift sanctions on Iranian oil loaded on ships, a move aimed at wrangling soaring fuel prices. The pause applies to oil loaded as of Friday and is set to end April 19. The move follows a similar 30-day pause on certain Russian oil shipments as the administration seeks ways to boost global oil supplies during the war.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/iran-iraq-us-israel-trump-march-20-2026-28202423a66327455e898deab2fde88c",
-      "severity": "medium",
-      "category": "politics"
-    },
-    {
-      "title": "European gas prices surge 35% after Israel hits Iran's biggest gas field",
-      "summary": "Natural gas prices in Europe surged as much as 35% this week after Israel struck Iran's largest gas field and Iran responded by attacking neighbors' energy infrastructure. The European Union has urged members to lower gas-storage targets and start refilling reserves gradually to curb demand.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/",
-      "severity": "high",
-      "category": "economy"
-    },
-    {
-      "title": "India and Japan negotiate safe passage through Strait of Hormuz",
-      "summary": "India has persuaded Iran to let some of its ships through the Strait of Hormuz, with liquefied petroleum gas tankers leaving last week. Prime Minister Narendra Modi spoke with Iran's President on Saturday. Iran's Foreign Minister also indicated readiness to let Japanese vessels pass through the strait, which carries around 90% of Japan's oil imports.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/",
-      "severity": "medium",
-      "category": "diplomacy"
+      "headline": "Magnitude 6.7 earthquake strikes North Atlantic Ocean",
+      "source": "VolcanoDiscovery",
+      "category": "Natural Disaster",
+      "summary": "A very strong magnitude 6.7 earthquake occurred in the North Atlantic Ocean on Saturday morning, March 21, 2026 at 9:16 am local time (GMT -3)."
     }
   ],
-  "top_story": {
-    "title": "Trump says US considering 'winding down' Iran war; Natanz nuclear facility attacked",
-    "summary": "President Donald Trump announced the U.S. is considering winding down military operations against Iran as the war enters its fourth week. Iranian media reported that the Natanz nuclear enrichment facility was attacked by U.S.-Israeli forces. Trump stated the U.S. is close to meeting its objectives but insisted other nations should take the lead in policing the Strait of Hormuz. Over 2,000 people have been killed in Iran since the conflict began on February 28.",
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/",
-    "severity": "critical",
-    "category": "war"
-  }
+  "collected_at": "2026-03-21T18:23:00Z"
 }
