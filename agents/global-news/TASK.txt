@@ -1,0 +1,26 @@
+🌍 GLOBAL NEWS RESEARCH - Morning Briefing
+
+Today: $(date +%Y-%m-%d)
+
+YOUR TASK: Research major global news stories.
+
+STEP 1: Use web_search to find current global news
+- Search: "world news today BBC Reuters AP"
+- Search: "Israel Gaza war latest"
+- Search: "Ukraine Russia updates"
+- Search: "major global events today"
+
+STEP 2: For each major story found, extract:
+- Title
+- Source (BBC, Reuters, AP, etc.)
+- 2-3 sentence summary
+- Severity (high/medium/low)
+- Category (war/politics/disaster/economy/other)
+
+STEP 3: Create JSON file at:
+/root/.openclaw/workspace/morning-briefing/data/global-news-YYYY-MM-DD.json
+
+STEP 4: Report back with headlines found and top story
+
+Read full instructions at:
+/root/.openclaw/workspace/morning-briefing/agents/global-news/SKILL.md
