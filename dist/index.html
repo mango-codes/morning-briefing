@@ -3,481 +3,610 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Morning Briefing - 2026-03-21</title>
+    <title>The Morning Briefing - 2026-03-21</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Libre+Franklin:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
         }
+        
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            min-height: 100vh;
-            padding: 2rem;
-            color: #333;
+            font-family: 'Libre Franklin', Georgia, serif;
+            background: #f5f5f0;
+            color: #1a1a1a;
+            line-height: 1.6;
         }
-        .container {
+        
+        .newspaper {
             max-width: 1200px;
             margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
-        header {
+        
+        /* Masthead */
+        .masthead {
             text-align: center;
-            margin-bottom: 2rem;
-            color: white;
+            padding: 2rem 1rem 1rem;
+            border-bottom: 3px double #1a1a1a;
+            background: #fff;
         }
-        h1 {
-            font-size: 3rem;
+        
+        .masthead-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 4rem;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            text-transform: uppercase;
             margin-bottom: 0.5rem;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            color: #1a1a1a;
         }
-        .subtitle {
-            font-size: 1.2rem;
-            opacity: 0.9;
-        }
-        .dashboard-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 1.5rem;
-        }
-        .card {
-            background: white;
-            border-radius: 16px;
-            padding: 1.5rem;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 12px rgba(0,0,0,0.15);
-        }
-        .card-header {
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
+        
+        .masthead-subtitle {
+            font-family: 'Libre Franklin', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 300;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: #666;
             margin-bottom: 1rem;
-            padding-bottom: 0.75rem;
-            border-bottom: 2px solid #e5e7eb;
         }
-        .card-icon {
-            font-size: 1.5rem;
-        }
-        .card-title {
-            font-size: 1.25rem;
-            font-weight: 700;
-            color: #1a1a2e;
-        }
-        .news-item {
-            padding: 0.75rem 0;
-            border-bottom: 1px solid #f3f4f6;
-        }
-        .news-item:last-child {
-            border-bottom: none;
-        }
-        .news-title {
-            font-weight: 600;
-            color: #1a1a2e;
-            margin-bottom: 0.25rem;
-        }
-        .news-summary {
-            font-size: 0.9rem;
-            color: #666;
-            line-height: 1.4;
-            margin-bottom: 0.5rem;
-        }
-        .news-meta {
-            font-size: 0.8rem;
-            color: #999;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .read-more {
-            color: #3b82f6;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.85rem;
-        }
-        .read-more:hover {
-            text-decoration: underline;
-        }
-        .severity-high {
-            border-left: 4px solid #ef4444;
-            padding-left: 0.75rem;
-        }
-        .severity-medium {
-            border-left: 4px solid #f59e0b;
-            padding-left: 0.75rem;
-        }
-        .severity-low {
-            border-left: 4px solid #10b981;
-            padding-left: 0.75rem;
-        }
-        .restaurant-card {
-            background: #f9fafb;
-            border-radius: 8px;
-            padding: 1rem;
-            margin-bottom: 0.75rem;
-        }
-        .restaurant-name {
-            font-weight: 700;
-            color: #1a1a2e;
-        }
-        .restaurant-meta {
-            font-size: 0.9rem;
-            color: #666;
-            margin: 0.25rem 0;
-        }
-        .vibe-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.25rem;
-            margin-top: 0.5rem;
-        }
-        .vibe-tag {
-            background: #fef3c7;
-            color: #92400e;
-            padding: 0.15rem 0.5rem;
-            border-radius: 12px;
-            font-size: 0.75rem;
-        }
-        .btn {
+        
+        .masthead-date {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            border-top: 1px solid #1a1a1a;
+            border-bottom: 1px solid #1a1a1a;
+            padding: 0.5rem;
             display: inline-block;
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9rem;
-            margin-top: 0.5rem;
-            border: none;
-            cursor: pointer;
         }
-        .btn-primary {
-            background: #10b981;
-            color: white;
-        }
-        .btn-primary:hover {
-            background: #059669;
-        }
-        .empty-state {
-            text-align: center;
-            color: #999;
+        
+        /* Main Content */
+        .content {
             padding: 2rem;
         }
-        .weather-widget {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            padding: 1rem;
-            border-radius: 12px;
-            margin-bottom: 1rem;
+        
+        /* Section Headers */
+        .section-header {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 2px solid #1a1a1a;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            margin-top: 2rem;
         }
-        footer {
+        
+        .section-header:first-child {
+            margin-top: 0;
+        }
+        
+        /* Article Cards */
+        .article {
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .article:last-child {
+            border-bottom: none;
+        }
+        
+        .article-headline {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.4rem;
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 0.5rem;
+            color: #1a1a1a;
+        }
+        
+        .article-headline a {
+            color: inherit;
+            text-decoration: none;
+        }
+        
+        .article-headline a:hover {
+            text-decoration: underline;
+        }
+        
+        .article-deck {
+            font-size: 1rem;
+            color: #444;
+            margin-bottom: 0.75rem;
+            font-weight: 400;
+        }
+        
+        .article-meta {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+        
+        .article-body {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: #333;
+        }
+        
+        /* Breaking/Important News */
+        .breaking {
+            background: #1a1a1a;
+            color: #fff;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .breaking-label {
+            font-family: 'Libre Franklin', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: #ff6b6b;
+            margin-bottom: 0.5rem;
+        }
+        
+        .breaking-headline {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 0.75rem;
+        }
+        
+        .breaking-headline a {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+        .breaking-headline a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Weather Box */
+        .weather-box {
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
             text-align: center;
-            margin-top: 3rem;
-            color: rgba(255,255,255,0.7);
+        }
+        
+        .weather-temp {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            font-weight: 700;
+        }
+        
+        .weather-condition {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin: 0.5rem 0;
+        }
+        
+        .weather-forecast {
             font-size: 0.9rem;
+            color: #666;
+        }
+        
+        /* Sports Section */
+        .sports-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .sports-team {
+            border: 1px solid #ddd;
+            padding: 1rem;
+        }
+        
+        .sports-team-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            border-bottom: 1px solid #1a1a1a;
+            padding-bottom: 0.5rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        .sports-score {
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .sports-upcoming {
+            font-size: 0.85rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        /* Listings (Restaurants/Events) */
+        .listing {
+            border-bottom: 1px dotted #999;
+            padding: 1rem 0;
+        }
+        
+        .listing:last-child {
+            border-bottom: none;
+        }
+        
+        .listing-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+        
+        .listing-meta {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+        
+        .listing-desc {
+            font-size: 0.9rem;
+            color: #444;
+            margin-bottom: 0.75rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            font-family: 'Libre Franklin', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            padding: 0.5rem 1rem;
+            background: #1a1a1a;
+            color: #fff;
+            text-decoration: none;
+            border: 2px solid #1a1a1a;
+        }
+        
+        .btn:hover {
+            background: #fff;
+            color: #1a1a1a;
+        }
+        
+        /* Read More Link */
+        .read-more {
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #1a1a1a;
+            text-decoration: none;
+            border-bottom: 1px solid #1a1a1a;
+        }
+        
+        .read-more:hover {
+            border-bottom: 2px solid #1a1a1a;
+        }
+        
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            border-top: 3px double #1a1a1a;
+            font-size: 0.8rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        
+        /* Two Column Layout */
+        .two-column {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+        }
+        
+        @media (max-width: 768px) {
+            .masthead-title {
+                font-size: 2.5rem;
+            }
+            .two-column {
+                grid-template-columns: 1fr;
+            }
+            .sports-grid {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>🌅 Morning Briefing</h1>
-            <p class="subtitle">Saturday, March 21, 2026</p>
+    <div class="newspaper">
+        <header class="masthead">
+            <div class="masthead-subtitle">Your Personal Morning Dashboard</div>
+            <h1 class="masthead-title">The Morning Briefing</h1>
+            <div class="masthead-date">Saturday, March 21, 2026</div>
         </header>
         
-        <div class="dashboard-grid">
+        <main class="content">
             
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">🌍</span>
-                <span class="card-title">Global News</span>
-            </div>
+        <div class="breaking">
+            <div class="breaking-label">Top Story</div>
+            <h2 class="breaking-headline">
+                <a href="https://www.reuters.com/world/middle-east/three-weeks-iran-war-escalates-beyond-trumps-control-2026-03-21/" target="_blank">Three weeks in, Iran war escalates beyond Trump's control</a>
+            </h2>
+            <p class="article-body">President Donald Trump ends the third week of the Iran war confronting a crisis that seems to be slipping out of his hands. Global energy prices are surging, the United States stands isolated from allies, and more troops are preparing to deploy despite Trump's promise the war would be only a 'short excursion.' Iran is choking off Gulf oil and gas supplies while launching missile strikes.</p>
+            <p style="margin-top: 1rem;">
+                <a href="https://www.reuters.com/world/middle-east/three-weeks-iran-war-escalates-beyond-trumps-control-2026-03-21/" class="read-more" target="_blank">Read Full Story →</a>
+            </p>
+        </div>
+    <div class="two-column"><div class="left-column">
+        <section>
+            <h2 class="section-header">World News</h2>
             
-        <div class="news-item severity-critical">
-            <div class="news-title">Three weeks in, Iran war escalates beyond Trump's control</div>
-            <div class="news-summary">President Donald Trump ends the third week of the Iran war confronting a crisis that seems to be slipping out of his hands. Global energy prices are surging, the United States stands isolated from allies, and more troops are preparing to deploy despite Trump's promise the war would be only a 'short excursion.' Iran is choking off Gulf oil and gas supplies while launching missile strikes.</div>
-            <div class="news-meta">
-                <span>Reuters · conflict</span>
-                <a href="https://www.reuters.com/world/middle-east/three-weeks-iran-war-escalates-beyond-trumps-control-2026-03-21/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.reuters.com/world/middle-east/three-weeks-iran-war-escalates-beyond-trumps-control-2026-03-21/" target="_blank">Three weeks in, Iran war escalates beyond Trump's control</a>
+            </h3>
+            <p class="article-body">President Donald Trump ends the third week of the Iran war confronting a crisis that seems to be slipping out of his hands. Global energy prices are surging, the United States stands isolated from allies, and more troops are preparing to deploy despite Trump's promise the war would be only a 'short excursion.' Iran is choking off Gulf oil and gas supplies while launching missile strikes.</p>
+            <p class="article-meta">
+                Reuters · conflict · 
+                <a href="https://www.reuters.com/world/middle-east/three-weeks-iran-war-escalates-beyond-trumps-control-2026-03-21/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item severity-critical">
-            <div class="news-title">Iran fires long-range missiles at Diego Garcia as Trump considers 'winding down' war</div>
-            <div class="news-summary">Israel confirmed Iranian forces fired long-range ballistic missiles for the first time in the war, expanding the risk of attacks beyond the Middle East. Iran launched two 4,000-kilometer-range missiles at the U.S.-UK military base Diego Garcia in the Indian Ocean. Trump stated Washington was considering 'winding down' its military operation against Iran.</div>
-            <div class="news-meta">
-                <span>Reuters · conflict</span>
-                <a href="https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/" target="_blank">Iran fires long-range missiles at Diego Garcia as Trump considers 'winding down' war</a>
+            </h3>
+            <p class="article-body">Israel confirmed Iranian forces fired long-range ballistic missiles for the first time in the war, expanding the risk of attacks beyond the Middle East. Iran launched two 4,000-kilometer-range missiles at the U.S.-UK military base Diego Garcia in the Indian Ocean. Trump stated Washington was considering 'winding down' its military operation against Iran.</p>
+            <p class="article-meta">
+                Reuters · conflict · 
+                <a href="https://www.reuters.com/world/middle-east/israel-attacks-tehran-beirut-us-sends-marines-middle-east-2026-03-21/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item severity-critical">
-            <div class="news-title">Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center</div>
-            <div class="news-summary">Iran struck two communities near Israel's main nuclear research center late Saturday, leaving buildings shattered and at least seven people seriously injured. It was the first time Israel's nuclear research center has been targeted in the fighting. Israel's military said it was not able to intercept missiles that hit the southern cities of Dimona and Arad.</div>
-            <div class="news-meta">
-                <span>Associated Press · conflict</span>
-                <a href="https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e" target="_blank">Dozens injured in Israel after Iranian missile strikes target areas near nuclear research center</a>
+            </h3>
+            <p class="article-body">Iran struck two communities near Israel's main nuclear research center late Saturday, leaving buildings shattered and at least seven people seriously injured. It was the first time Israel's nuclear research center has been targeted in the fighting. Israel's military said it was not able to intercept missiles that hit the southern cities of Dimona and Arad.</p>
+            <p class="article-meta">
+                Associated Press · conflict · 
+                <a href="https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item severity-critical">
-            <div class="news-title">Iran says US and Israel attacked Natanz nuclear facility</div>
-            <div class="news-summary">The United States and Israel have struck Iran's Natanz nuclear facility, according to Tehran's atomic energy organisation. The organisation stated that following the 'criminal attacks,' the Natanz enrichment complex was targeted. No leakage of radioactive materials was reported in the area in central Iran.</div>
-            <div class="news-meta">
-                <span>Al Jazeera · conflict</span>
-                <a href="https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility" target="_blank">Iran says US and Israel attacked Natanz nuclear facility</a>
+            </h3>
+            <p class="article-body">The United States and Israel have struck Iran's Natanz nuclear facility, according to Tehran's atomic energy organisation. The organisation stated that following the 'criminal attacks,' the Natanz enrichment complex was targeted. No leakage of radioactive materials was reported in the area in central Iran.</p>
+            <p class="article-meta">
+                Al Jazeera · conflict · 
+                <a href="https://www.aljazeera.com/news/2026/3/21/iran-says-us-and-israel-attacked-natanz-nuclear-facility" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item severity-high">
-            <div class="news-title">G7 ready to act to protect global energy supplies, backs Hormuz Strait security</div>
-            <div class="news-summary">The foreign ministers of the Group of Seven countries said on Saturday they stood ready to take necessary measures to support global energy supplies and reaffirmed the importance of safeguarding maritime routes, including in the Strait of Hormuz. The statement comes as oil prices have risen 50% due to the war, hobbling the global economy.</div>
-            <div class="news-meta">
-                <span>Reuters · economy</span>
-                <a href="https://www.reuters.com/business/energy/g7-ready-act-protect-global-energy-supplies-backs-hormuz-strait-security-2026-03-21/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        </section>
     
-        </div>
-    
-
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">🤖</span>
-                <span class="card-title">AI News</span>
-            </div>
+        <section>
+            <h2 class="section-header">Seattle News</h2>
             
-        <div class="news-item">
-            <div class="news-title">Google expands personalized Gemini AI to all US users</div>
-            <div class="news-summary">Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.</div>
-            <div class="news-meta">
-                <span>MarketingProfs · product</span>
-                <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">White House releases AI policy blueprint for Congress</div>
-            <div class="news-summary">The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.</div>
-            <div class="news-meta">
-                <span>Politico · policy</span>
-                <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">Anthropic announces 1M token context window for Claude</div>
-            <div class="news-summary">Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.</div>
-            <div class="news-meta">
-                <span>Releasebot · product</span>
-                <a href="https://releasebot.io/updates/anthropic" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">AI startups accounted for 41% of venture capital in 2025</div>
-            <div class="news-summary">AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.</div>
-            <div class="news-meta">
-                <span>TechCrunch · funding</span>
-                <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">Jeff Bezos reportedly seeking $100B for AI-focused industrial fund</div>
-            <div class="news-summary">Jeff Bezos is reportedly seeking to raise $100 billion for an AI-focused industrial investment fund, which would be one of the largest investment vehicles ever created.</div>
-            <div class="news-meta">
-                <span>Business Insider · funding</span>
-                <a href="https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
-    
-        </div>
-    
-
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">📰</span>
-                <span class="card-title">Seattle News</span>
-            </div>
-            
-        <div class="weather-widget">
-            <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌤️ Partly Cloudy</div>
-            <div style="font-size: 2rem; font-weight: bold;">49° / 38°</div>
-            <div style="opacity: 0.9; margin-top: 0.5rem;">Partly sunny with slight chance of rain</div>
+        <div class="weather-box">
+            <div class="weather-temp">49° / 38°</div>
+            <div class="weather-condition">Partly Cloudy</div>
+            <div class="weather-forecast">Partly sunny with slight chance of rain</div>
         </div>
     
             
-        <div class="news-item">
-            <div class="news-title">UW Cherry Blossoms Reach Peak Bloom</div>
-            <div class="news-summary">The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.</div>
-            <div class="news-meta">
-                <span>University of Washington / KUOW · lifestyle</span>
-                <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" target="_blank">UW Cherry Blossoms Reach Peak Bloom</a>
+            </h3>
+            <p class="article-body">The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.</p>
+            <p class="article-meta">
+                University of Washington / KUOW · 
+                <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item">
-            <div class="news-title">Landslide Blocks Northbound I-5 Near Bellingham</div>
-            <div class="news-summary">A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.</div>
-            <div class="news-meta">
-                <span>FOX 13 Seattle / Bellingham Herald · traffic</span>
-                <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" target="_blank">Landslide Blocks Northbound I-5 Near Bellingham</a>
+            </h3>
+            <p class="article-body">A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.</p>
+            <p class="article-meta">
+                FOX 13 Seattle / Bellingham Herald · 
+                <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item">
-            <div class="news-title">Blazing Bagels Closing All Locations Amid Bankruptcy</div>
-            <div class="news-summary">Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.</div>
-            <div class="news-meta">
-                <span>Seattle Times / KING 5 · business</span>
-                <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" target="_blank">Blazing Bagels Closing All Locations Amid Bankruptcy</a>
+            </h3>
+            <p class="article-body">Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.</p>
+            <p class="article-meta">
+                Seattle Times / KING 5 · 
+                <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        <div class="news-item">
-            <div class="news-title">West Seattle Recycle/Reuse/Shred Event Today</div>
-            <div class="news-summary">The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.</div>
-            <div class="news-meta">
-                <span>West Seattle Blog · community</span>
-                <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" class="read-more" target="_blank">Read more →</a>
-            </div>
-        </div>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" target="_blank">West Seattle Recycle/Reuse/Shred Event Today</a>
+            </h3>
+            <p class="article-body">The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.</p>
+            <p class="article-meta">
+                West Seattle Blog · 
+                <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
     
-        </div>
-    
-
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">⚽</span>
-                <span class="card-title">Seattle Sports</span>
-            </div>
+        </section>
+    </div><div class="right-column">
+        <section>
+            <h2 class="section-header">Technology</h2>
             
-            <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
-                <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Mariners <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(MLB)</span></div>
-                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Cole Young hits two homers for Mariners</div>
-                <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: 10-17 record vs Cactus League</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: Opening Day 2026 vs TBD</div>
-                <a href="https://www.mlb.com/mariners" class="read-more" target="_blank">Read more →</a>
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" target="_blank">Google expands personalized Gemini AI to all US users</a>
+            </h3>
+            <p class="article-body">Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.</p>
+            <p class="article-meta">
+                MarketingProfs · News · 
+                <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
+    
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" target="_blank">White House releases AI policy blueprint for Congress</a>
+            </h3>
+            <p class="article-body">The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.</p>
+            <p class="article-meta">
+                Politico · News · 
+                <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
+    
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://releasebot.io/updates/anthropic" target="_blank">Anthropic announces 1M token context window for Claude</a>
+            </h3>
+            <p class="article-body">Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.</p>
+            <p class="article-meta">
+                Releasebot · News · 
+                <a href="https://releasebot.io/updates/anthropic" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
+    
+        <article class="article">
+            <h3 class="article-headline">
+                <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" target="_blank">AI startups accounted for 41% of venture capital in 2025</a>
+            </h3>
+            <p class="article-body">AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.</p>
+            <p class="article-meta">
+                TechCrunch · News · 
+                <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" class="read-more" target="_blank">Read more</a>
+            </p>
+        </article>
+    
+        </section>
+    
+        <section>
+            <h2 class="section-header">Sports</h2>
+            <div class="sports-grid">
+                
+            <div class="sports-team">
+                <div class="sports-team-name">Seattle Mariners</div>
+                <p style="margin-bottom: 0.5rem;"><a href="https://www.mlb.com/mariners" style="color: inherit; text-decoration: none;">Cole Young hits two homers for Mariners</a></p>
+                <div class="sports-score">Last: 10-17 record vs Cactus League</div>
+                <div class="sports-upcoming">Next: Opening Day 2026 vs TBD</div>
+                <p style="margin-top: 0.75rem;"><a href="https://www.mlb.com/mariners" class="read-more" target="_blank">Read more</a></p>
             </div>
         
-            <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
-                <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Seahawks <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(NFL)</span></div>
-                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Seahawks exercise 5th-year options on JSN and Witherspoon</div>
-                <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: W 29-13 vs New England Patriots</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: September 2026 vs 2026 Season</div>
-                <a href="https://www.seahawks.com" class="read-more" target="_blank">Read more →</a>
+            <div class="sports-team">
+                <div class="sports-team-name">Seattle Seahawks</div>
+                <p style="margin-bottom: 0.5rem;"><a href="https://www.seahawks.com" style="color: inherit; text-decoration: none;">Seahawks exercise 5th-year options on JSN and Witherspoon</a></p>
+                <div class="sports-score">Last: W 29-13 vs New England Patriots</div>
+                <div class="sports-upcoming">Next: September 2026 vs 2026 Season</div>
+                <p style="margin-top: 0.75rem;"><a href="https://www.seahawks.com" class="read-more" target="_blank">Read more</a></p>
             </div>
         
-            <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
-                <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Kraken <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(NHL)</span></div>
-                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Kraken face Columbus Blue Jackets tonight in wild card race</div>
-                <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: L 3-1 vs Nashville Predators</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: TODAY 2:00 PM vs Columbus Blue Jackets</div>
-                <a href="https://www.nhl.com/kraken" class="read-more" target="_blank">Read more →</a>
+            <div class="sports-team">
+                <div class="sports-team-name">Seattle Kraken</div>
+                <p style="margin-bottom: 0.5rem;"><a href="https://www.nhl.com/kraken" style="color: inherit; text-decoration: none;">Kraken face Columbus Blue Jackets tonight in wild card race</a></p>
+                <div class="sports-score">Last: L 3-1 vs Nashville Predators</div>
+                <div class="sports-upcoming">Next: TODAY 2:00 PM vs Columbus Blue Jackets</div>
+                <p style="margin-top: 0.75rem;"><a href="https://www.nhl.com/kraken" class="read-more" target="_blank">Read more</a></p>
             </div>
         
-            <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
-                <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Sounders FC <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(MLS)</span></div>
-                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Sounders off to strong 3-1-0 start</div>
-                <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: W 2-1 vs Real Salt Lake</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: Tomorrow 2:30 PM vs Minnesota United</div>
-                <a href="https://www.soundersfc.com" class="read-more" target="_blank">Read more →</a>
+            <div class="sports-team">
+                <div class="sports-team-name">Seattle Sounders FC</div>
+                <p style="margin-bottom: 0.5rem;"><a href="https://www.soundersfc.com" style="color: inherit; text-decoration: none;">Sounders off to strong 3-1-0 start</a></p>
+                <div class="sports-score">Last: W 2-1 vs Real Salt Lake</div>
+                <div class="sports-upcoming">Next: Tomorrow 2:30 PM vs Minnesota United</div>
+                <p style="margin-top: 0.75rem;"><a href="https://www.soundersfc.com" class="read-more" target="_blank">Read more</a></p>
             </div>
         
-        </div>
-    
-
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">🍽️</span>
-                <span class="card-title">Dinner Ideas</span>
             </div>
+        </section>
+    </div></div>
+        <section>
+            <h2 class="section-header">Dining</h2>
             
-        <div class="restaurant-card">
-            <div class="restaurant-name">Revel</div>
-            <div class="restaurant-meta">Fremont · Korean Fusion · $</div>
-            <div class="vibe-tags">
-                <span class="vibe-tag">🔥 Open Kitchen</span><span class="vibe-tag">🍜 Shareable Plates</span><span class="vibe-tag">🎉 Lively</span>
-            </div>
-            <a href="https://www.opentable.com/r/revel-seattle" class="btn btn-primary" target="_blank">Check Availability</a>
-        </div>
-    
-        <div class="restaurant-card">
-            <div class="restaurant-name">The Ballard Cut</div>
-            <div class="restaurant-meta">Ballard · Steakhouse · $$</div>
-            <div class="vibe-tags">
-                <span class="vibe-tag">🥃 Whiskey Bar</span><span class="vibe-tag">🥩 Steakhouse</span><span class="vibe-tag">✨ Upscale Casual</span>
-            </div>
-            <a href="https://www.opentable.com/r/the-ballard-cut-seattle" class="btn btn-primary" target="_blank">Check Availability</a>
-        </div>
-    
-        <div class="restaurant-card">
-            <div class="restaurant-name">Grappa</div>
-            <div class="restaurant-meta">Queen Anne · Italian · $</div>
-            <div class="vibe-tags">
-                <span class="vibe-tag">🍝 Handmade Pasta</span><span class="vibe-tag">🍷 Wine Bar</span><span class="vibe-tag">💕 Romantic</span>
-            </div>
-            <a href="https://www.opentable.com/r/grappa-seattle" class="btn btn-primary" target="_blank">Check Availability</a>
-        </div>
-    
-        </div>
-    
-
-        <div class="card">
-            <div class="card-header">
-                <span class="card-icon">🎭</span>
-                <span class="card-title">Today's Events</span>
-            </div>
+                <div class="listing">
+                    <div class="listing-title">Revel</div>
+                    <div class="listing-meta">Fremont · Korean Fusion · $</div>
+                    <div class="listing-desc">Chef Rachel Yang's creative Korean comfort food with a massive open kitchen. Perfect for sharing and the energy is always buzzing.</div>
+                    <a href="https://www.opentable.com/r/revel-seattle" class="btn" target="_blank">Reserve Table</a>
+                </div>
             
-        <div class="news-item">
-            <div class="news-title">Band of Horses - 20th Anniversary</div>
-            <div class="news-summary">Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits</div>
-            <div class="news-meta">
-                <span>8:00 PM · The Showbox · $181+</span>
-            </div>
-            <a href="https://www.showboxpresents.com/events/detail/band-of-horses" class="btn btn-primary" target="_blank">Get Tickets</a>
-        </div>
+                <div class="listing">
+                    <div class="listing-title">The Ballard Cut</div>
+                    <div class="listing-meta">Ballard · Steakhouse · $$</div>
+                    <div class="listing-desc">Farm-to-table steakhouse with an incredible Japanese whiskey selection. Upscale but approachable, great for a celebratory night.</div>
+                    <a href="https://www.opentable.com/r/the-ballard-cut-seattle" class="btn" target="_blank">Reserve Table</a>
+                </div>
+            
+                <div class="listing">
+                    <div class="listing-title">Grappa</div>
+                    <div class="listing-meta">Queen Anne · Italian · $</div>
+                    <div class="listing-desc">Upper Queen Anne's hidden gem with fresh handmade pasta and an extensive grappa and wine list. Intimate and perfect for date night.</div>
+                    <a href="https://www.opentable.com/r/grappa-seattle" class="btn" target="_blank">Reserve Table</a>
+                </div>
+            
+        </section>
     
-        <div class="news-item">
-            <div class="news-title">Alvin Ailey American Dance Theater</div>
-            <div class="news-summary">New works and repertory favorites - part of STG's Performing Arts Series</div>
-            <div class="news-meta">
-                <span>7:30 PM · Paramount Theatre · $55+</span>
-            </div>
-            <a href="https://www.stgpresents.org/paramount" class="btn btn-primary" target="_blank">Get Tickets</a>
-        </div>
+        <section>
+            <h2 class="section-header">Events Today</h2>
+            
+                <div class="listing">
+                    <div class="listing-title">Band of Horses - 20th Anniversary</div>
+                    <div class="listing-meta">8:00 PM · The Showbox · $181+</div>
+                    <div class="listing-desc">Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits</div>
+                    <a href="https://www.showboxpresents.com/events/detail/band-of-horses" class="btn" target="_blank">Get Tickets</a>
+                </div>
+            
+                <div class="listing">
+                    <div class="listing-title">Alvin Ailey American Dance Theater</div>
+                    <div class="listing-meta">7:30 PM · Paramount Theatre · $55+</div>
+                    <div class="listing-desc">New works and repertory favorites - part of STG's Performing Arts Series</div>
+                    <a href="https://www.stgpresents.org/paramount" class="btn" target="_blank">Get Tickets</a>
+                </div>
+            
+                <div class="listing">
+                    <div class="listing-title">Bassem Youssef - Belly of the Beast Tour</div>
+                    <div class="listing-meta">7:30 PM · Moore Theatre · $47-69</div>
+                    <div class="listing-desc">Egyptian comedian and satirist brings his acclaimed stand-up tour</div>
+                    <a href="https://www.stgpresents.org/moore" class="btn" target="_blank">Get Tickets</a>
+                </div>
+            
+                <div class="listing">
+                    <div class="listing-title">Mariah The Scientist</div>
+                    <div class="listing-meta">8:00 PM · Showbox SoDo · $158+</div>
+                    <div class="listing-desc">R&B singer-songwriter on her 'To Be Eaten Alive' tour</div>
+                    <a href="https://www.showboxpresents.com/events/detail/mariah-the-scientist" class="btn" target="_blank">Get Tickets</a>
+                </div>
+            
+                <div class="listing">
+                    <div class="listing-title">Amit Tandon: Halwa</div>
+                    <div class="listing-meta">7:00 PM · Neptune Theatre · $41-182</div>
+                    <div class="listing-desc">Indian comedian brings his observational humor to Seattle</div>
+                    <a href="https://www.stgpresents.org/neptune" class="btn" target="_blank">Get Tickets</a>
+                </div>
+            
+        </section>
     
-        <div class="news-item">
-            <div class="news-title">Bassem Youssef - Belly of the Beast Tour</div>
-            <div class="news-summary">Egyptian comedian and satirist brings his acclaimed stand-up tour</div>
-            <div class="news-meta">
-                <span>7:30 PM · Moore Theatre · $47-69</span>
-            </div>
-            <a href="https://www.stgpresents.org/moore" class="btn btn-primary" target="_blank">Get Tickets</a>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">Mariah The Scientist</div>
-            <div class="news-summary">R&B singer-songwriter on her 'To Be Eaten Alive' tour</div>
-            <div class="news-meta">
-                <span>8:00 PM · Showbox SoDo · $158+</span>
-            </div>
-            <a href="https://www.showboxpresents.com/events/detail/mariah-the-scientist" class="btn btn-primary" target="_blank">Get Tickets</a>
-        </div>
-    
-        <div class="news-item">
-            <div class="news-title">Amit Tandon: Halwa</div>
-            <div class="news-summary">Indian comedian brings his observational humor to Seattle</div>
-            <div class="news-meta">
-                <span>7:00 PM · Neptune Theatre · $41-182</span>
-            </div>
-            <a href="https://www.stgpresents.org/neptune" class="btn btn-primary" target="_blank">Get Tickets</a>
-        </div>
-    
-        </div>
-    
-        </div>
+        </main>
         
-        <footer>
-            <p>Updated daily at 7:00 AM PT · Your personal morning dashboard</p>
+        <footer class="footer">
+            Updated Daily at 7:00 AM PT · Seattle, Washington
         </footer>
     </div>
 </body>
