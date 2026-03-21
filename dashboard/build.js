@@ -321,10 +321,16 @@ function generateSportsNewsCard(data) {
             gameInfo += `<div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: ${nextGame.date} vs ${nextGame.opponent}</div>`;
         }
         
+        const headlineHtml = headline ? `
+            <a href="${headline.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">${headline.title}</div>
+            </a>
+        ` : '';
+        
         return `
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">${team.name} <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(${team.league})</span></div>
-                ${headline ? `<div style="font-size: 0.9rem; color: #333;">${headline.title}</div>` : ''}
+                ${headlineHtml}
                 ${gameInfo}
             </div>
         `;
