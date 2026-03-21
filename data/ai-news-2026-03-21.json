@@ -1,53 +1,80 @@
 {
   "date": "2026-03-21",
-  "category": "ai-news",
+  "category": "ai",
   "headlines": [
     {
-      "title": "OpenAI releases GPT-5 with multimodal reasoning",
-      "summary": "OpenAI announced GPT-5, featuring significantly improved multimodal capabilities that allow the model to reason across text, images, audio, and video simultaneously. Early benchmarks show 40% improvement on complex reasoning tasks.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/03/21/openai-gpt-5-multimodal/",
+      "title": "OpenAI to Nearly Double Workforce to 8,000 by End of 2026",
+      "summary": "OpenAI plans to grow from 4,500 to 8,000 employees by end of 2026, focusing on product development, engineering, research, and sales. The expansion aims to help OpenAI compete with Anthropic and Google in the enterprise market. The company is also recruiting 'technical ambassadors' to help businesses better utilize its tools.",
+      "source": "Reuters / Financial Times",
+      "url": "https://www.reuters.com/business/openai-nearly-double-workforce-8000-by-end-2026-ft-reports-2026-03-21/",
+      "type": "company"
+    },
+    {
+      "title": "OpenAI Planning Desktop 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser",
+      "summary": "OpenAI is working on a unified desktop application that combines ChatGPT, the Codex AI coding platform, and its Atlas browser into one 'superapp.' The move aims to simplify the user experience and reduce product fragmentation. Fidji Simo, OpenAI's CEO of Applications, told employees to avoid being 'distracted by side quests' and focus on core products.",
+      "source": "The Verge / Wall Street Journal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
       "type": "product"
     },
     {
-      "title": "Anthropic's Claude 4 achieves human-level performance on medical exams",
-      "summary": "Claude 4 scored in the 95th percentile on the US Medical Licensing Examination, demonstrating near-expert level medical knowledge. The model shows particular strength in diagnostic reasoning.",
+      "title": "Google Testing AI-Generated Headline Rewrites in Search Results",
+      "summary": "Google is experimenting with replacing original news headlines in search results with AI-generated versions. The Verge discovered multiple examples where their headlines were altered, sometimes changing the meaning. Google claims it's a 'small' experiment to better match titles to user queries, but publishers worry it undermines editorial integrity and could spread misinformation.",
       "source": "The Verge",
-      "url": "https://www.theverge.com/2026/3/21/anthropic-claude-4-medical/",
-      "type": "research"
+      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "type": "product"
     },
     {
-      "title": "Google DeepMind's AlphaFold 3 predicts nearly all known proteins",
-      "summary": "The latest version of AlphaFold can now predict structures for over 200 million proteins, covering virtually all known proteins in existence. This breakthrough could accelerate drug discovery by years.",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/03/21/alphafold-3-proteins/",
-      "type": "research"
-    },
-    {
-      "title": "AI startup Cognition raises $500M at $4B valuation",
-      "summary": "Cognition, the company behind AI software engineer Devin, announced a massive funding round led by Sequoia. The company claims its AI can now handle 80% of typical software engineering tasks autonomously.",
-      "source": "VentureBeat",
-      "url": "https://venturebeat.com/ai/cognition-500m-funding-devin/",
-      "type": "funding"
-    },
-    {
-      "title": "EU passes comprehensive AI Act enforcement rules",
-      "summary": "The European Union finalized enforcement mechanisms for its AI Act, including significant fines for non-compliance. The rules particularly target high-risk AI applications in healthcare, finance, and criminal justice.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/eu-ai-act-enforcement-2026-03-21/",
+      "title": "Anthropic vs Pentagon: Court Filing Reveals Dispute Over Military AI Use",
+      "summary": "Anthropic submitted sworn declarations pushing back against the Pentagon's claim that the company poses an 'unacceptable risk to national security.' The filing reveals that just days after the Pentagon cut ties, an official emailed Anthropic's CEO saying they were 'very close' on key issues. Anthropic argues the supply-chain risk designation violates its First Amendment rights.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
       "type": "policy"
     },
     {
-      "title": "Meta releases open-source Llama 4 with 1 trillion parameters",
-      "summary": "Meta's latest open-source model rivals GPT-5 in performance while remaining freely available. The release includes improved safety measures and supports 200+ languages out of the box.",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/03/meta-llama-4-trillion-parameters/",
+      "title": "Trump Administration Unveils AI Policy Framework to Limit State Regulation",
+      "summary": "The White House released a seven-point legislative blueprint for AI that seeks to preempt state AI laws and avoid creating new federal regulatory bodies. The plan emphasizes child safety protections, age verification, and preventing utility bill spikes from data centers, while taking a wait-and-see approach on AI copyright issues. It bars states from regulating AI development.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+      "type": "policy"
+    },
+    {
+      "title": "Anthropic Ships Claude Code Channels: Telegram/Discord Integration",
+      "summary": "Anthropic launched Claude Code Channels as a research preview, allowing developers to interact with Claude Code via Telegram and Discord messages. The feature enables two-way communication—users can send messages from their phone and Claude executes code on their local machine, replying through the same chat app. It uses a 'push, not pull' MCP server architecture.",
+      "source": "Anthropic / DEV Community",
+      "url": "https://code.claude.com/docs/en/channels",
       "type": "product"
+    },
+    {
+      "title": "Amazon Developing 'Transformer' Alexa-Centered Smartphone",
+      "summary": "Over a decade after the Fire Phone flop, Amazon is reportedly developing a new smartphone code-named 'Transformer' centered around its Alexa AI assistant. The device is being developed in Amazon's ZeroOne group led by former Microsoft Xbox executive J Allard. The phone may take inspiration from minimalist devices like the Light Phone and could rely on AI-powered mini apps rather than a full app store.",
+      "source": "The Verge / Reuters",
+      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "type": "product"
+    },
+    {
+      "title": "US Charges Three in Super Micro Computer AI Chip Smuggling to China",
+      "summary": "Federal prosecutors charged three individuals tied to Super Micro Computer with helping smuggle billions of dollars worth of AI chips to China. The case highlights ongoing concerns about technology transfer and national security. Following the charges, Super Micro's Liaw exited the company's board.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "type": "policy"
+    },
+    {
+      "title": "Anthropic Faces $1.5 Billion Copyright Settlement Judicial Review",
+      "summary": "Authors accusing Anthropic of using their work without permission to train Claude have petitioned for final approval of a $1.5 billion settlement. The case faces critical judicial review amid attorney fee reduction disputes. The settlement would be one of the largest in AI copyright litigation to date.",
+      "source": "Legal News Feed",
+      "url": "https://legalnewsfeed.com/2026/03/20/anthropics-1-5-billion-copyright-settlement-proposal-faces-critical-judicial-review-amidst-attorney-fee-reduction/",
+      "type": "legal"
+    },
+    {
+      "title": "Nvidia to Sell 1 Million Chips to Amazon by End of 2027",
+      "summary": "Nvidia has struck a major cloud deal with Amazon to supply 1 million AI chips by the end of 2027. The agreement underscores the massive infrastructure investments cloud providers are making to meet surging AI demand. Amazon continues to compete aggressively with Microsoft and Google in the AI cloud services market.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "type": "business"
     }
   ],
   "top_story": {
-    "title": "OpenAI releases GPT-5 with multimodal reasoning",
-    "summary": "OpenAI's GPT-5 represents a significant leap in AI capabilities, with true multimodal reasoning across text, images, audio, and video. The model demonstrates 40% improvement on complex reasoning benchmarks and can process information from multiple modalities simultaneously to solve problems.",
-    "why_it_matters": "This moves us significantly closer to general-purpose AI assistants that can understand and interact with the world through multiple senses. The multimodal capabilities could transform how we interact with AI in daily life, from education to creative work to accessibility tools."
+    "title": "OpenAI to Nearly Double Workforce to 8,000 by End of 2026",
+    "reason": "Major workforce expansion signals OpenAI's aggressive push to scale operations and compete with Anthropic and Google in the enterprise AI market. The planned hiring spree comes after a $110 billion funding round valued the company at $840 billion."
   }
 }

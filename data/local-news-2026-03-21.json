@@ -1,48 +1,68 @@
 {
   "date": "2026-03-21",
-  "category": "local-news",
+  "category": "local",
   "headlines": [
     {
-      "title": "Seattle City Council approves new housing density bill",
-      "summary": "The Seattle City Council voted 7-2 to approve legislation allowing denser housing development in single-family neighborhoods. The bill aims to address the city's housing shortage by permitting duplexes and triplexes in areas previously zoned exclusively for single-family homes.",
-      "source": "Seattle Times",
-      "url": "https://www.seattletimes.com/seattle-news/politics/seattle-housing-density-bill-passes/",
-      "category": "politics"
-    },
-    {
-      "title": "Amazon announces 2,000 new tech jobs in Seattle",
-      "summary": "Amazon revealed plans to expand its Seattle workforce by 2,000 positions, focusing on AI and cloud computing roles. The hiring spree comes despite recent tech industry layoffs and signals confidence in the city's tech ecosystem.",
+      "title": "Blazing Bagels abruptly closes all locations amid bankruptcy",
+      "summary": "Blazing Bagels shut down all locations this week, leaving employees surprised after receiving an email Thursday informing them of the bankruptcy. The local chain, operating since 2001, had locations in Seattle's SODO and University District neighborhoods, Redmond and Bellevue.",
       "source": "KING 5",
-      "url": "https://www.king5.com/article/amazon-2000-jobs-seattle/",
+      "url": "https://www.king5.com/article/news/local/blazing-bagels-abruptly-closes-all-locations-amid-bankruptcy/281-89b86b5b-87fa-4e78-95ee-718906ac90f8",
       "category": "business"
     },
     {
-      "title": "Light rail expansion to West Seattle delayed until 2032",
-      "summary": "Sound Transit announced that the West Seattle light rail extension, originally planned for 2030, will now open in 2032 due to construction challenges and funding adjustments. The delay affects thousands of commuters who rely on the current bus rapid transit service.",
-      "source": "KOMO News",
-      "url": "https://komonews.com/news/local/west-seattle-light-rail-delay-2032",
+      "title": "The West's last aluminum smelter is coming down, taking a way of life with it",
+      "summary": "Ferndale's Intalco-Alcoa aluminum smelter, which once employed 700 workers, is being dismantled after 60 years of operation. The closure marks the end of an economic engine that provided good living-wage jobs for generations of workers in the community.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/last-aluminum-smelter-west-coming-down-ferndale-intalco/281-bd3010eb-28df-4bd4-94a2-b095fbf5b878",
+      "category": "business"
+    },
+    {
+      "title": "Seattle Mariners unveil 2026 ballpark menu with Pacific Northwest flavors",
+      "summary": "The Seattle Mariners unveiled its 2026 ballpark menu featuring over 30 new offerings including local eastern European, Mexican and barbecue restaurants, a Chocolate Mousse Moose, and a take-home Washington state ferry souvenir.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/seattle-mariners-2026-season-food-menu/281-f485f35f-c65d-4896-b832-ca3dc23bc91b",
+      "category": "sports"
+    },
+    {
+      "title": "Dick's Drive-In faces class-action lawsuit over unpaid wages and missed breaks",
+      "summary": "The popular western Washington burger chain is facing a lawsuit alleging failure to pay overtime, missed 10-minute rest breaks, and failure to provide 30-minute meal breaks as required by Washington state law.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/dicks-drive-in-hit-class-action-lawsuit-rest-meal-breaks-upaid-wages/281-93e8fc9b-7a59-4219-b59c-9c3ef984b5f4",
+      "category": "business"
+    },
+    {
+      "title": "Spring 2026 transit service changes begin March 28 ahead of 2 Line opening",
+      "summary": "King County Metro and Sound Transit are implementing service changes on March 28, including Phase 4 of East Link Connections. The Link 2 Line will carry its first passengers across Lake Washington in just 7 days.",
+      "source": "Seattle Transit Blog",
+      "url": "https://seattletransitblog.com/2026/03/21/spring-2026-service-change/",
       "category": "traffic"
     },
     {
-      "title": "Pike Place Market celebrates 118th anniversary",
-      "summary": "Seattle's iconic Pike Place Market marked its 118th anniversary with special events, local vendor showcases, and extended hours. The market, which opened in 1907, remains one of the oldest continuously operating public markets in the United States.",
-      "source": "The Stranger",
-      "url": "https://www.thestranger.com/things-to-do/pike-place-market-anniversary",
-      "category": "other"
+      "title": "West Seattle hosts annual free recycle/reuse/shred event",
+      "summary": "West Seattle's annual free recycle/reuse/shred event is happening today at South Seattle College, presented by the West Seattle Chamber of Commerce and West Seattle Junction Association.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/03/21/",
+      "category": "city"
     },
     {
-      "title": "Seattle Police Department launches new community policing initiative",
-      "summary": "The SPD announced a new community policing program aimed at building stronger relationships between officers and neighborhood residents. The initiative includes increased foot patrols in high-crime areas and monthly community forums.",
-      "source": "Crosscut",
-      "url": "https://crosscut.com/seattle-police-community-policing-initiative",
-      "category": "crime"
+      "title": "University of Washington cherry blossom trees in full bloom",
+      "summary": "The iconic cherry blossom trees at the University of Washington Quad are in peak bloom, drawing visitors and photographers to enjoy the spring display.",
+      "source": "KOMO",
+      "url": "https://komonews.com/news/local/photos-the-university-of-washington-cherry-blossom-trees-uw-quad-peek-bloom-season-2026-photography-seattle-tourist-visitors",
+      "category": "city"
+    },
+    {
+      "title": "Hero passenger stops King County bus after driver has medical emergency",
+      "summary": "A Seattle man jumped into action to stop a King County Metro bus that crashed into multiple vehicles after the driver suffered a medical emergency.",
+      "source": "KOMO",
+      "url": "https://komonews.com/news/local",
+      "category": "city"
     }
   ],
   "weather": {
-    "forecast": "Partly cloudy with morning drizzle clearing by afternoon. Pleasant spring weather expected.",
-    "high": 58,
-    "low": 45,
-    "conditions": "Partly Cloudy",
-    "alert": null
+    "forecast": "Partly cloudy with mild temperatures",
+    "high": 51,
+    "low": 38,
+    "conditions": "Mostly Cloudy"
   }
 }
