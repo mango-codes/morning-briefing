@@ -174,6 +174,12 @@ const template = `<!DOCTYPE html>
             text-decoration: underline;
         }
         
+        .breaking .article-body {
+            color: #e0e0e0;
+            font-size: 1rem;
+            line-height: 1.7;
+        }
+        
         /* Weather Box */
         .weather-box {
             background: #f9f9f9;
