@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-21",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Julio Rodriguez hits 2 HRs in spring training win",
+          "summary": "Mariners star Julio Rodriguez showcased his power with two home runs in a 7-4 spring training victory over the Padres. The performance signals a strong start to his third MLB season.",
+          "url": "https://www.mlb.com/mariners/news/julio-rodriguez-2-homers-spring"
+        }
+      ],
+      "last_game": {
+        "opponent": "Padres",
+        "result": "W 7-4",
+        "highlights": "Julio Rodriguez 2 HRs, Luis Castillo 5 IP, 1 ER"
+      },
+      "next_game": {
+        "opponent": "Giants",
+        "date": "Today 1:10 PM",
+        "location": "Home (Peoria, AZ)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks sign veteran QB to backup Geno Smith",
+          "summary": "The Seahawks signed former Steelers quarterback Mason Rudolph to a one-year deal, providing experienced depth behind Geno Smith. Rudolph started 4 games for Pittsburgh last season.",
+          "url": "https://www.espn.com/nfl/story/_/id/seahawks-sign-mason-rudolph"
+        }
+      ],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken playoff push continues with win over Flames",
+          "summary": "Seattle defeated Calgary 4-2 to maintain their hold on the final wild card spot in the Western Conference. Jared McCann scored his 28th goal of the season.",
+          "url": "https://www.nhl.com/kraken/news/kraken-beat-flames-playoff-push"
+        }
+      ],
+      "last_game": {
+        "opponent": "Flames",
+        "result": "W 4-2",
+        "highlights": "Jared McCann goal, Philipp Grubauer 32 saves"
+      },
+      "next_game": {
+        "opponent": "Canucks",
+        "date": "Tomorrow 7:00 PM",
+        "location": "Home (Climate Pledge Arena)"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders draw with LAFC in defensive battle",
+          "summary": "Seattle and LAFC played to a 0-0 draw at Lumen Field. Stefan Frei made 6 saves to earn his first clean sheet of the season in a hard-fought defensive performance.",
+          "url": "https://www.mlssoccer.com/sounders/news/sounders-draw-lafc-0-0"
+        }
+      ],
+      "last_game": {
+        "opponent": "LAFC",
+        "result": "D 0-0",
+        "highlights": "Stefan Frei 6 saves, clean sheet"
+      },
+      "next_game": {
+        "opponent": "Timbers",
+        "date": "Saturday 7:30 PM",
+        "location": "Away (Portland)"
+      }
+    }
+  ]
+}

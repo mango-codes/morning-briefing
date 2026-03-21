@@ -9,23 +9,25 @@ Research news for Seattle sports teams.
 
 ## Teams to Cover
 
-- **Mariners** (MLB) - Spring training, regular season
-- **Seahawks** (NFL) - Offseason, training camp, season
-- **Kraken** (NHL) - Regular season, playoffs
-- **Sounders** (MLS) - Regular season, playoffs
+- **Mariners** (MLB) - Spring training, regular season, scores
+- **Seahawks** (NFL) - Offseason moves, draft, training camp
+- **Kraken** (NHL) - Regular season, playoffs, scores
+- **Sounders** (MLS) - Regular season, playoffs, scores
 - **Storm** (WNBA) - When in season
 - **Reign** (NWSL) - When in season
-- **UW Huskies** - Football, basketball major news
+- **UW Huskies** - Major football/basketball news
 
 ## Focus Areas
 
-- **Game Results**: Scores, highlights from last night
-- **Upcoming Games**: Schedule for today/next few days
+- **Last Game**: Score, highlights, key moments
+- **Next Game**: Opponent, time, location
 - **Team News**: Trades, injuries, roster moves
 - **Standings**: Playoff position, division rank
-- **Major Stories**: Coaching changes, big signings
+- **Major Stories**: Coaching changes, big signings, controversies
 
 ## Sources to Check
+
+Use web_search to find news from:
 
 - ESPN (Seattle teams)
 - The Athletic (Seattle)
@@ -35,7 +37,19 @@ Research news for Seattle sports teams.
 - NHL.com (Kraken)
 - MLS.com (Sounders)
 
+## Search Queries
+
+```
+"Mariners score last night"
+"Seahawks news today"
+"Kraken game results"
+"Sounders match today"
+"Seattle sports news"
+```
+
 ## Output Format
+
+Save to: `/root/.openclaw/workspace/morning-briefing/data/sports-news-YYYY-MM-DD.json`
 
 ```json
 {
@@ -47,22 +61,31 @@ Research news for Seattle sports teams.
       "league": "MLB",
       "headlines": [
         {
-          "title": "Headline",
-          "summary": "Summary",
+          "title": "Story headline",
+          "summary": "Brief summary",
           "url": "https://..."
         }
       ],
       "last_game": {
-        "opponent": "Team Name",
+        "opponent": "Astros",
         "result": "W 5-3",
-        "highlights": "Brief highlights"
+        "highlights": "Key moments"
       },
       "next_game": {
-        "opponent": "Team Name",
+        "opponent": "Rangers",
         "date": "Today 7:10 PM",
-        "location": "Home/Away"
+        "location": "Home"
       }
     }
   ]
 }
 ```
+
+## Process
+
+1. Check each Seattle team for recent news
+2. Get last game result (if played recently)
+3. Get next game info
+4. Find 1-2 headlines per team
+5. Save JSON file
+6. Report key games today

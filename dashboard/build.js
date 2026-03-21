@@ -289,17 +289,31 @@ function generateLocalNewsCard(data) {
 }
 
 function generateSportsNewsCard(data) {
-    if (!data || !data.headlines) {
+    if (!data || !data.teams) {
         return generateEmptyCard('⚽ Sports', 'Sports news will appear here');
     }
     
-    const headlinesHtml = data.headlines.slice(0, 5).map(h => `
-        <div class="news-item">
-            <div class="news-title">${h.title}</div>
-            <div class="news-summary">${h.summary}</div>
-            <div class="news-meta">${h.source}</div>
-        </div>
-    `).join('');
+    const teamsHtml = data.teams.map(team => {
+        const headline = team.headlines && team.headlines[0] ? team.headlines[0] : null;
+        const lastGame = team.last_game;
+        const nextGame = team.next_game;
+        
+        let gameInfo = '';
+        if (lastGame) {
+            gameInfo += `<div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: ${lastGame.result} vs ${lastGame.opponent}</div>`;
+        }
+        if (nextGame) {
+            gameInfo += `<div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: ${nextGame.date} vs ${nextGame.opponent}</div>`;
+        }
+        
+        return `
+            <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
+                <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">${team.name} <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(${team.league})</span></div>
+                ${headline ? `<div style="font-size: 0.9rem; color: #333;">${headline.title}</div>` : ''}
+                ${gameInfo}
+            </div>
+        `;
+    }).join('');
     
     return `
         <div class="card">
@@ -307,7 +321,7 @@ function generateSportsNewsCard(data) {
                 <span class="card-icon">⚽</span>
                 <span class="card-title">Seattle Sports</span>
             </div>
-            ${headlinesHtml}
+            ${teamsHtml}
         </div>
     `;
 }

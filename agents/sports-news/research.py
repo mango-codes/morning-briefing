@@ -1,67 +1,57 @@
 #!/usr/bin/env python3
 """
 Seattle Sports News Research Agent
-Fetches news for Mariners, Seahawks, Kraken, Sounders
+Uses web_search via OpenClaw subagent to find sports news
 """
 
 import json
 import sys
 from datetime import datetime
-from scrapling.fetchers import Fetcher
 
-class SportsNewsResearcher:
-    def __init__(self):
-        self.fetcher = Fetcher()
-        self.teams = [
-            {"name": "Mariners", "league": "MLB"},
-            {"name": "Seahawks", "league": "NFL"},
-            {"name": "Kraken", "league": "NHL"},
-            {"name": "Sounders", "league": "MLS"}
-        ]
-        
-    def research(self, date=None):
-        """Research sports news for the given date"""
-        if not date:
-            date = datetime.now().strftime("%Y-%m-%d")
-        
-        print(f"⚽ Researching Seattle sports for {date}...")
-        
-        teams_data = []
-        for team in self.teams:
-            teams_data.append({
+def create_placeholder(date=None):
+    """Create placeholder structure for sports news"""
+    if not date:
+        date = datetime.now().strftime("%Y-%m-%d")
+    
+    teams = [
+        {"name": "Mariners", "league": "MLB"},
+        {"name": "Seahawks", "league": "NFL"},
+        {"name": "Kraken", "league": "NHL"},
+        {"name": "Sounders", "league": "MLS"}
+    ]
+    
+    return {
+        "date": date,
+        "category": "sports-news",
+        "teams": [
+            {
                 **team,
                 "headlines": [],
                 "last_game": None,
                 "next_game": None
-            })
-        
-        return {
-            "date": date,
-            "category": "sports-news",
-            "teams": teams_data,
-            "note": "Research to be completed by OpenClaw subagent"
-        }
+            }
+            for team in teams
+        ],
+        "note": "To be populated by OpenClaw subagent using web_search"
+    }
 
 
 def main():
     import argparse
     
-    parser = argparse.ArgumentParser(description='Research sports news')
+    parser = argparse.ArgumentParser(description='Sports news research placeholder')
     parser.add_argument('--date', help='Date in YYYY-MM-DD format')
-    parser.add_argument('--output', help='Output JSON file')
+    parser.add_argument('--output', required=True, help='Output JSON file')
     
     args = parser.parse_args()
     
-    researcher = SportsNewsResearcher()
-    result = researcher.research(args.date)
+    result = create_placeholder(args.date)
     
-    if args.output:
-        with open(args.output, 'w') as f:
-            json.dump(result, f, indent=2)
-        print(f"\n💾 Results saved to {args.output}")
-    else:
-        print("\n📊 Results:")
-        print(json.dumps(result, indent=2))
+    with open(args.output, 'w') as f:
+        json.dump(result, f, indent=2)
+    
+    print(f"✅ Placeholder created: {args.output}")
+    print("   The OpenClaw subagent will populate this with sports news")
     
     return 0
 
