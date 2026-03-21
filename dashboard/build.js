@@ -212,9 +212,14 @@ function generateGlobalNewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 5).map(h => `
         <div class="news-item severity-${h.severity || 'medium'}">
-            <div class="news-title">${h.title}</div>
+            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="news-title" style="cursor: pointer;">${h.title}</div>
+            </a>
             <div class="news-summary">${h.summary}</div>
-            <div class="news-meta">${h.source} · ${h.category}</div>
+            <div class="news-meta">
+                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
+                · ${h.category}
+            </div>
         </div>
     `).join('');
     
@@ -236,9 +241,14 @@ function generateAINewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 5).map(h => `
         <div class="news-item">
-            <div class="news-title">${h.title}</div>
+            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="news-title" style="cursor: pointer;">${h.title}</div>
+            </a>
             <div class="news-summary">${h.summary}</div>
-            <div class="news-meta">${h.source}</div>
+            <div class="news-meta">
+                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
+                · ${h.type || 'news'}
+            </div>
         </div>
     `).join('');
     
@@ -270,9 +280,14 @@ function generateLocalNewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 4).map(h => `
         <div class="news-item">
-            <div class="news-title">${h.title}</div>
+            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="news-title" style="cursor: pointer;">${h.title}</div>
+            </a>
             <div class="news-summary">${h.summary}</div>
-            <div class="news-meta">${h.source}</div>
+            <div class="news-meta">
+                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
+                · ${h.category || 'news'}
+            </div>
         </div>
     `).join('');
     
@@ -363,6 +378,7 @@ function generateEventsCard(data) {
             <div class="news-title">${e.title}</div>
             <div class="news-summary">${e.description || ''}</div>
             <div class="news-meta">${e.time || ''} · ${e.venue || ''} · ${e.price || ''}</div>
+            ${e.url ? `<a href="${e.url}" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>` : ''}
         </div>
     `).join('');
     
