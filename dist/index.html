@@ -83,11 +83,23 @@
             font-size: 0.9rem;
             color: #666;
             line-height: 1.4;
+            margin-bottom: 0.5rem;
         }
         .news-meta {
             font-size: 0.8rem;
             color: #999;
-            margin-top: 0.25rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .read-more {
+            color: #3b82f6;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+        .read-more:hover {
+            text-decoration: underline;
         }
         .severity-high {
             border-left: 4px solid #ef4444;
@@ -137,6 +149,8 @@
             font-weight: 600;
             font-size: 0.9rem;
             margin-top: 0.5rem;
+            border: none;
+            cursor: pointer;
         }
         .btn-primary {
             background: #10b981;
@@ -149,6 +163,13 @@
             text-align: center;
             color: #999;
             padding: 2rem;
+        }
+        .weather-widget {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem;
+            border-radius: 12px;
+            margin-bottom: 1rem;
         }
         footer {
             text-align: center;
@@ -174,57 +195,47 @@
             </div>
             
         <div class="news-item severity-medium">
-            <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Trump says US considering 'winding down' Iran war as Natanz nuclear facility attacked again</div>
-            </a>
+            <div class="news-title">Trump says US considering 'winding down' Iran war as Natanz nuclear facility attacked again</div>
             <div class="news-summary">President Trump announced the US may wind down military operations against Iran as the war enters its fourth week. Iranian media reported the Natanz nuclear enrichment facility was struck again. Over 2,000 people have been killed in Iran since attacks began on February 28.</div>
             <div class="news-meta">
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none;">Reuters / AP / Al Jazeera</a>
-                · War/Middle East
+                <span>Reuters / AP / Al Jazeera · War/Middle East</span>
+                <a href="#" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item severity-medium">
-            <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Iran targets Diego Garcia military base in Indian Ocean, demonstrating expanded missile range</div>
-            </a>
+            <div class="news-title">Iran targets Diego Garcia military base in Indian Ocean, demonstrating expanded missile range</div>
             <div class="news-summary">Iran attacked the joint UK-US military base on Diego Garcia, approximately 2,500 miles away, suggesting Tehran possesses missiles with greater range than previously acknowledged or used its space program for an improvised launch.</div>
             <div class="news-meta">
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none;">AP News</a>
-                · War/Middle East
+                <span>AP News · War/Middle East</span>
+                <a href="#" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item severity-medium">
-            <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Iran's naval forces claim attacks on UAE and Kuwait military facilities</div>
-            </a>
+            <div class="news-title">Iran's naval forces claim attacks on UAE and Kuwait military facilities</div>
             <div class="news-summary">Iran says its naval forces destroyed facilities at the Al-Minhad base in the UAE and the Ali Al Salem airbase in Kuwait, claiming they were used in attacks on Iranian territory.</div>
             <div class="news-meta">
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none;">Al Jazeera</a>
-                · War/Middle East
+                <span>Al Jazeera · War/Middle East</span>
+                <a href="#" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item severity-medium">
-            <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Trump calls NATO 'cowardly' over lack of support for Iran war</div>
-            </a>
+            <div class="news-title">Trump calls NATO 'cowardly' over lack of support for Iran war</div>
             <div class="news-summary">Trump criticized NATO allies for not supporting the Iran war effort and stated that other nations who use the Strait of Hormuz should take the lead in protecting it, not the United States.</div>
             <div class="news-meta">
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none;">Al Jazeera</a>
-                · Politics/Diplomacy
+                <span>Al Jazeera · Politics/Diplomacy</span>
+                <a href="#" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item severity-medium">
-            <a href="#" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Oil prices up 50% due to Iran war, hobbling global economy</div>
-            </a>
+            <div class="news-title">Oil prices up 50% due to Iran war, hobbling global economy</div>
             <div class="news-summary">The war's effects are being felt far beyond the Middle East, raising food and fuel prices globally. The near-closure of the Strait of Hormuz threatens a global energy shock.</div>
             <div class="news-meta">
-                <a href="#" target="_blank" style="color: #3b82f6; text-decoration: none;">Reuters</a>
-                · Economy/Energy
+                <span>Reuters · Economy/Energy</span>
+                <a href="#" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
@@ -238,57 +249,47 @@
             </div>
             
         <div class="news-item">
-            <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Google expands personalized Gemini AI to all US users</div>
-            </a>
+            <div class="news-title">Google expands personalized Gemini AI to all US users</div>
             <div class="news-summary">Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.</div>
             <div class="news-meta">
-                <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" target="_blank" style="color: #3b82f6; text-decoration: none;">MarketingProfs</a>
-                · product
+                <span>MarketingProfs · product</span>
+                <a href="https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">White House releases AI policy blueprint for Congress</div>
-            </a>
+            <div class="news-title">White House releases AI policy blueprint for Congress</div>
             <div class="news-summary">The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.</div>
             <div class="news-meta">
-                <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" target="_blank" style="color: #3b82f6; text-decoration: none;">Politico</a>
-                · policy
+                <span>Politico · policy</span>
+                <a href="https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://releasebot.io/updates/anthropic" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Anthropic announces 1M token context window for Claude</div>
-            </a>
+            <div class="news-title">Anthropic announces 1M token context window for Claude</div>
             <div class="news-summary">Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.</div>
             <div class="news-meta">
-                <a href="https://releasebot.io/updates/anthropic" target="_blank" style="color: #3b82f6; text-decoration: none;">Releasebot</a>
-                · product
+                <span>Releasebot · product</span>
+                <a href="https://releasebot.io/updates/anthropic" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">AI startups accounted for 41% of venture capital in 2025</div>
-            </a>
+            <div class="news-title">AI startups accounted for 41% of venture capital in 2025</div>
             <div class="news-summary">AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.</div>
             <div class="news-meta">
-                <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" target="_blank" style="color: #3b82f6; text-decoration: none;">TechCrunch</a>
-                · funding
+                <span>TechCrunch · funding</span>
+                <a href="https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Jeff Bezos reportedly seeking $100B for AI-focused industrial fund</div>
-            </a>
+            <div class="news-title">Jeff Bezos reportedly seeking $100B for AI-focused industrial fund</div>
             <div class="news-summary">Jeff Bezos is reportedly seeking to raise $100 billion for an AI-focused industrial investment fund, which would be one of the largest investment vehicles ever created.</div>
             <div class="news-meta">
-                <a href="https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3" target="_blank" style="color: #3b82f6; text-decoration: none;">Business Insider</a>
-                · funding
+                <span>Business Insider · funding</span>
+                <a href="https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
@@ -301,7 +302,7 @@
                 <span class="card-title">Seattle News</span>
             </div>
             
-        <div class="weather-widget" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 12px; margin-bottom: 1rem;">
+        <div class="weather-widget">
             <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌤️ Partly Cloudy</div>
             <div style="font-size: 2rem; font-weight: bold;">49° / 38°</div>
             <div style="opacity: 0.9; margin-top: 0.5rem;">Partly sunny with slight chance of rain</div>
@@ -309,46 +310,38 @@
     
             
         <div class="news-item">
-            <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">UW Cherry Blossoms Reach Peak Bloom</div>
-            </a>
+            <div class="news-title">UW Cherry Blossoms Reach Peak Bloom</div>
             <div class="news-summary">The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.</div>
             <div class="news-meta">
-                <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" target="_blank" style="color: #3b82f6; text-decoration: none;">University of Washington / KUOW</a>
-                · lifestyle
+                <span>University of Washington / KUOW · lifestyle</span>
+                <a href="https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Landslide Blocks Northbound I-5 Near Bellingham</div>
-            </a>
+            <div class="news-title">Landslide Blocks Northbound I-5 Near Bellingham</div>
             <div class="news-summary">A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.</div>
             <div class="news-meta">
-                <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" target="_blank" style="color: #3b82f6; text-decoration: none;">FOX 13 Seattle / Bellingham Herald</a>
-                · traffic
+                <span>FOX 13 Seattle / Bellingham Herald · traffic</span>
+                <a href="https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">Blazing Bagels Closing All Locations Amid Bankruptcy</div>
-            </a>
+            <div class="news-title">Blazing Bagels Closing All Locations Amid Bankruptcy</div>
             <div class="news-summary">Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.</div>
             <div class="news-meta">
-                <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" target="_blank" style="color: #3b82f6; text-decoration: none;">Seattle Times / KING 5</a>
-                · business
+                <span>Seattle Times / KING 5 · business</span>
+                <a href="https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
         <div class="news-item">
-            <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">West Seattle Recycle/Reuse/Shred Event Today</div>
-            </a>
+            <div class="news-title">West Seattle Recycle/Reuse/Shred Event Today</div>
             <div class="news-summary">The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.</div>
             <div class="news-meta">
-                <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" target="_blank" style="color: #3b82f6; text-decoration: none;">West Seattle Blog</a>
-                · community
+                <span>West Seattle Blog · community</span>
+                <a href="https://westseattleblog.com/2026/03/recycle-event-west-seattle/" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     
@@ -363,42 +356,30 @@
             
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Mariners <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(MLB)</span></div>
-                
-            <a href="https://www.mlb.com/mariners" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">Cole Young hits two homers for Mariners</div>
-            </a>
-        
+                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Cole Young hits two homers for Mariners</div>
                 <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: 10-17 record vs Cactus League</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: Opening Day 2026 vs TBD</div>
+                <a href="https://www.mlb.com/mariners" class="read-more" target="_blank">Read more →</a>
             </div>
         
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Seahawks <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(NFL)</span></div>
-                
-            <a href="https://www.seahawks.com" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">Seahawks exercise 5th-year options on JSN and Witherspoon</div>
-            </a>
-        
+                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Seahawks exercise 5th-year options on JSN and Witherspoon</div>
                 <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: W 29-13 vs New England Patriots</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: September 2026 vs 2026 Season</div>
+                <a href="https://www.seahawks.com" class="read-more" target="_blank">Read more →</a>
             </div>
         
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Kraken <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(NHL)</span></div>
-                
-            <a href="https://www.nhl.com/kraken" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">Kraken face Columbus Blue Jackets tonight in wild card race</div>
-            </a>
-        
+                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Kraken face Columbus Blue Jackets tonight in wild card race</div>
                 <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: L 3-1 vs Nashville Predators</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: TODAY 2:00 PM vs Columbus Blue Jackets</div>
+                <a href="https://www.nhl.com/kraken" class="read-more" target="_blank">Read more →</a>
             </div>
         
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">Seattle Sounders FC <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(MLS)</span></div>
-                
-            <a href="https://www.soundersfc.com" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">Sounders off to strong 3-1-0 start</div>
-            </a>
-        
+                <div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">Sounders off to strong 3-1-0 start</div>
                 <div style="font-size: 0.85rem; color: #10b981; margin-top: 0.25rem;">✓ Last: W 2-1 vs Real Salt Lake</div><div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: Tomorrow 2:30 PM vs Minnesota United</div>
+                <a href="https://www.soundersfc.com" class="read-more" target="_blank">Read more →</a>
             </div>
         
         </div>
@@ -449,36 +430,46 @@
         <div class="news-item">
             <div class="news-title">Band of Horses - 20th Anniversary</div>
             <div class="news-summary">Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits</div>
-            <div class="news-meta">8:00 PM · The Showbox · $181+</div>
-            <a href="https://www.showboxpresents.com/events/detail/band-of-horses" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>
+            <div class="news-meta">
+                <span>8:00 PM · The Showbox · $181+</span>
+            </div>
+            <a href="https://www.showboxpresents.com/events/detail/band-of-horses" class="btn btn-primary" target="_blank">Get Tickets</a>
         </div>
     
         <div class="news-item">
             <div class="news-title">Alvin Ailey American Dance Theater</div>
             <div class="news-summary">New works and repertory favorites - part of STG's Performing Arts Series</div>
-            <div class="news-meta">7:30 PM · Paramount Theatre · $55+</div>
-            <a href="https://www.stgpresents.org/paramount" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>
+            <div class="news-meta">
+                <span>7:30 PM · Paramount Theatre · $55+</span>
+            </div>
+            <a href="https://www.stgpresents.org/paramount" class="btn btn-primary" target="_blank">Get Tickets</a>
         </div>
     
         <div class="news-item">
             <div class="news-title">Bassem Youssef - Belly of the Beast Tour</div>
             <div class="news-summary">Egyptian comedian and satirist brings his acclaimed stand-up tour</div>
-            <div class="news-meta">7:30 PM · Moore Theatre · $47-69</div>
-            <a href="https://www.stgpresents.org/moore" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>
+            <div class="news-meta">
+                <span>7:30 PM · Moore Theatre · $47-69</span>
+            </div>
+            <a href="https://www.stgpresents.org/moore" class="btn btn-primary" target="_blank">Get Tickets</a>
         </div>
     
         <div class="news-item">
             <div class="news-title">Mariah The Scientist</div>
             <div class="news-summary">R&B singer-songwriter on her 'To Be Eaten Alive' tour</div>
-            <div class="news-meta">8:00 PM · Showbox SoDo · $158+</div>
-            <a href="https://www.showboxpresents.com/events/detail/mariah-the-scientist" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>
+            <div class="news-meta">
+                <span>8:00 PM · Showbox SoDo · $158+</span>
+            </div>
+            <a href="https://www.showboxpresents.com/events/detail/mariah-the-scientist" class="btn btn-primary" target="_blank">Get Tickets</a>
         </div>
     
         <div class="news-item">
             <div class="news-title">Amit Tandon: Halwa</div>
             <div class="news-summary">Indian comedian brings his observational humor to Seattle</div>
-            <div class="news-meta">7:00 PM · Neptune Theatre · $41-182</div>
-            <a href="https://www.stgpresents.org/neptune" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>
+            <div class="news-meta">
+                <span>7:00 PM · Neptune Theatre · $41-182</span>
+            </div>
+            <a href="https://www.stgpresents.org/neptune" class="btn btn-primary" target="_blank">Get Tickets</a>
         </div>
     
         </div>

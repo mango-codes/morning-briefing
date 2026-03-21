@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// Dashboard template
+// Template for the HTML dashboard
 const template = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,11 +87,23 @@ const template = `<!DOCTYPE html>
             font-size: 0.9rem;
             color: #666;
             line-height: 1.4;
+            margin-bottom: 0.5rem;
         }
         .news-meta {
             font-size: 0.8rem;
             color: #999;
-            margin-top: 0.25rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .read-more {
+            color: #3b82f6;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+        .read-more:hover {
+            text-decoration: underline;
         }
         .severity-high {
             border-left: 4px solid #ef4444;
@@ -141,6 +153,8 @@ const template = `<!DOCTYPE html>
             font-weight: 600;
             font-size: 0.9rem;
             margin-top: 0.5rem;
+            border: none;
+            cursor: pointer;
         }
         .btn-primary {
             background: #10b981;
@@ -153,6 +167,13 @@ const template = `<!DOCTYPE html>
             text-align: center;
             color: #999;
             padding: 2rem;
+        }
+        .weather-widget {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem;
+            border-radius: 12px;
+            margin-bottom: 1rem;
         }
         footer {
             text-align: center;
@@ -212,13 +233,11 @@ function generateGlobalNewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 5).map(h => `
         <div class="news-item severity-${h.severity || 'medium'}">
-            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">${h.title}</div>
-            </a>
+            <div class="news-title">${h.title}</div>
             <div class="news-summary">${h.summary}</div>
             <div class="news-meta">
-                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
-                · ${h.category}
+                <span>${h.source} · ${h.category}</span>
+                <a href="${h.url || '#'}" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     `).join('');
@@ -241,13 +260,11 @@ function generateAINewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 5).map(h => `
         <div class="news-item">
-            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">${h.title}</div>
-            </a>
+            <div class="news-title">${h.title}</div>
             <div class="news-summary">${h.summary}</div>
             <div class="news-meta">
-                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
-                · ${h.type || 'news'}
+                <span>${h.source} · ${h.type || 'news'}</span>
+                <a href="${h.url || '#'}" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     `).join('');
@@ -268,10 +285,9 @@ function generateLocalNewsCard(data) {
         return generateEmptyCard('📰 Local News', 'Seattle news will appear here');
     }
     
-    // Weather widget
     const weather = data.weather || {};
     const weatherHtml = weather.forecast ? `
-        <div class="weather-widget" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 12px; margin-bottom: 1rem;">
+        <div class="weather-widget">
             <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌤️ ${weather.conditions}</div>
             <div style="font-size: 2rem; font-weight: bold;">${weather.high}° / ${weather.low}°</div>
             <div style="opacity: 0.9; margin-top: 0.5rem;">${weather.forecast}</div>
@@ -280,13 +296,11 @@ function generateLocalNewsCard(data) {
     
     const headlinesHtml = data.headlines.slice(0, 4).map(h => `
         <div class="news-item">
-            <a href="${h.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
-                <div class="news-title" style="cursor: pointer;">${h.title}</div>
-            </a>
+            <div class="news-title">${h.title}</div>
             <div class="news-summary">${h.summary}</div>
             <div class="news-meta">
-                <a href="${h.url || '#'}" target="_blank" style="color: #3b82f6; text-decoration: none;">${h.source}</a>
-                · ${h.category || 'news'}
+                <span>${h.source} · ${h.category || 'news'}</span>
+                <a href="${h.url || '#'}" class="read-more" target="_blank">Read more →</a>
             </div>
         </div>
     `).join('');
@@ -321,17 +335,12 @@ function generateSportsNewsCard(data) {
             gameInfo += `<div style="font-size: 0.85rem; color: #3b82f6; margin-top: 0.25rem;">→ Next: ${nextGame.date} vs ${nextGame.opponent}</div>`;
         }
         
-        const headlineHtml = headline ? `
-            <a href="${headline.url || '#'}" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="font-size: 0.9rem; color: #333; cursor: pointer;">${headline.title}</div>
-            </a>
-        ` : '';
-        
         return `
             <div class="team-section" style="margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #f3f4f6;">
                 <div style="font-weight: 700; color: #1a1a2e; margin-bottom: 0.25rem;">${team.name} <span style="font-size: 0.8rem; color: #666; font-weight: 400;">(${team.league})</span></div>
-                ${headlineHtml}
+                ${headline ? `<div style="font-size: 0.9rem; color: #333; margin-bottom: 0.25rem;">${headline.title}</div>` : ''}
                 ${gameInfo}
+                ${headline && headline.url ? `<a href="${headline.url}" class="read-more" target="_blank">Read more →</a>` : ''}
             </div>
         `;
     }).join('');
@@ -383,8 +392,10 @@ function generateEventsCard(data) {
         <div class="news-item">
             <div class="news-title">${e.title}</div>
             <div class="news-summary">${e.description || ''}</div>
-            <div class="news-meta">${e.time || ''} · ${e.venue || ''} · ${e.price || ''}</div>
-            ${e.url ? `<a href="${e.url}" class="btn btn-primary" target="_blank" style="margin-top: 0.5rem; display: inline-block; padding: 0.4rem 0.8rem; font-size: 0.85rem;">Get Tickets</a>` : ''}
+            <div class="news-meta">
+                <span>${e.time || ''} · ${e.venue || ''} · ${e.price || ''}</span>
+            </div>
+            ${e.url ? `<a href="${e.url}" class="btn btn-primary" target="_blank">Get Tickets</a>` : ''}
         </div>
     `).join('');
     
@@ -414,10 +425,8 @@ function build() {
     const today = new Date();
     const dateStr = today.toISOString().split('T')[0];
     
-    // Load all data
     const data = loadData(dateStr);
     
-    // Generate cards
     const cards = [
         generateGlobalNewsCard(data['global-news']),
         generateAINewsCard(data['ai-news']),
@@ -427,24 +436,20 @@ function build() {
         generateEventsCard(data['events'])
     ].join('\n');
     
-    // Fill template
     let html = template
         .replace('{{DATE}}', dateStr)
         .replace('{{DATE_DISPLAY}}', formatDate(today))
         .replace('{{DAY_OF_WEEK}}', formatDayOfWeek(today))
         .replace('{{CARDS}}', cards);
     
-    // Ensure dist directory exists
     const distPath = path.join(__dirname, '..', 'dist');
     if (!fs.existsSync(distPath)) {
         fs.mkdirSync(distPath, { recursive: true });
     }
     
-    // Write index.html
     fs.writeFileSync(path.join(distPath, 'index.html'), html);
     
     console.log(`✅ Built morning briefing for ${dateStr}`);
 }
 
-// Run build
 build();
