@@ -3,17 +3,81 @@
   "category": "global-news",
   "headlines": [
     {
-      "title": "Placeholder: Global news will be researched here",
-      "summary": "The OpenClaw subagent will research major global stories from BBC, Reuters, AP, etc.",
-      "source": "Various",
-      "url": "#",
-      "severity": "medium",
+      "title": "Iran fires missiles at UK-US Diego Garcia military base",
+      "summary": "Iran fired two intermediate-range ballistic missiles at the U.S.-U.K. military base on Diego Garcia in the Indian Ocean. The attack was unsuccessful and both missiles failed to hit the target. The strike came after the UK authorized the U.S. to use British bases to carry out strikes on Iranian missile sites targeting ships in the Strait of Hormuz.",
+      "source": "Reuters / BBC / The Guardian",
+      "url": "https://www.reuters.com/world/middle-east/iran-targeted-did-not-hit-diego-garcia-base-with-missiles-wsj-reports-2026-03-21/",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "UK approves US use of British bases to strike Iran missile sites",
+      "summary": "The British government authorized the U.S. to use military bases in Britain to carry out strikes on Iranian missile sites that are attacking ships in the Strait of Hormuz. The authorization includes RAF Fairford in Gloucestershire and Diego Garcia in the Indian Ocean for defensive operations.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-approves-us-use-british-bases-strike-iran-missile-sites-targeting-ships-2026-03-20/",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "Russian drone attack kills two in Zaporizhzhia, Ukraine",
+      "summary": "A Russian drone attack on a residential area in Zaporizhzhia killed a man and a woman, with two children aged 11 and 15 also injured. The attack occurred ahead of planned Ukraine-U.S. talks and highlights ongoing civilian casualties in the conflict.",
+      "source": "BBC / The Hindu",
+      "url": "https://www.thehindu.com/news/international/russia-drone-strike-on-zaporizhzhia-ahead-of-us-ukraine-talks/article70768978.ece",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "South Korea factory fire kills 14, injures nearly 60",
+      "summary": "A massive fire at a car parts factory in Daejeon, South Korea killed at least 14 people and injured nearly 60 others. The blaze, likely caused by an explosion, engulfed a three-floor plant. Some victims jumped from the burning building to escape, while others suffered toxic smoke inhalation.",
+      "source": "AP / The Guardian / New York Times",
+      "url": "https://apnews.com/article/south-korea-fire-factory-daejeon-227bcb17b76920a2fe543f599c09a05d",
+      "severity": "high",
+      "category": "disaster"
+    },
+    {
+      "title": "BTS holds massive comeback concert in Seoul",
+      "summary": "K-pop group BTS performed together for the first time since October 2022 at a free comeback concert in Gwanghwamun Square, Seoul. The 'Arirang' concert set a record for the largest-ever public concert in South Korea, drawing hundreds of thousands of fans. The event was also streamed live on Netflix.",
+      "source": "CNN / New York Times",
+      "url": "https://www.cnn.com/2026/03/21/style/bts-arirang-comeback-concert-korea-intl-hnk",
+      "severity": "low",
       "category": "other"
+    },
+    {
+      "title": "Congo Rubaya mine landslide kills over 200",
+      "summary": "A second deadly landslide in six weeks struck the Rubaya coltan mine in eastern Democratic Republic of Congo, killing over 200 people. The mine, controlled by M23 rebels, is a major source of coltan used in electronics. Heavy rains triggered the collapse at the artisanal mining site.",
+      "source": "Reuters / BBC / AP",
+      "url": "https://www.reuters.com/business/environment/landslide-kills-over-200-people-congos-rubaya-mine-mines-ministry-says-2026-03-04/",
+      "severity": "high",
+      "category": "disaster"
+    },
+    {
+      "title": "Trump administration sues Harvard over civil rights",
+      "summary": "The Trump administration sued Harvard University, alleging it violated civil rights law and seeking to recover federal funds. The lawsuit represents an escalation in tensions between the administration and elite universities over policies on diversity, equity, and inclusion.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-harvard-civil-rights-lawsuit-4b70863c7cf18703a6398e8189791135",
+      "severity": "medium",
+      "category": "politics"
+    },
+    {
+      "title": "France takes action after aircraft carrier location exposed",
+      "summary": "France is taking 'appropriate measures' after a sailor's jogging app exposed the location of the country's aircraft carrier. The incident raised security concerns about personal fitness tracking apps and military operational security.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/france-aircraft-carrier-sailor-sports-app-location-acbd3595a2317c2b8068dc42082c3d51",
+      "severity": "medium",
+      "category": "politics"
+    },
+    {
+      "title": "Hawaii flash flooding rescues 230 people",
+      "summary": "Flash flooding in Hawaii led to the rescue of 230 people, with officials warning that a 120-year-old dam could fail. The severe weather caused significant disruption on Oahu's North Shore, prompting evacuations and emergency response efforts.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/honolulu-floods-north-shore-oahu-evacuation-waialua-36263fe984b1811db44622db4619a63a",
+      "severity": "medium",
+      "category": "disaster"
     }
   ],
   "top_story": {
-    "title": "Research in progress",
-    "summary": "The subagent will populate this with actual news",
-    "why_it_matters": "Real-time news requires live research"
+    "title": "Iran fires missiles at UK-US Diego Garcia military base",
+    "summary": "Iran launched two intermediate-range ballistic missiles at the U.S.-U.K. military base on Diego Garcia in the Indian Ocean, marking a significant escalation in the ongoing conflict. The missiles failed to hit their target, but the attack represents the first direct Iranian strike on a major U.S.-UK military installation. The strike came shortly after the UK authorized the U.S. to use British bases to conduct strikes on Iranian missile sites targeting commercial shipping in the Strait of Hormuz.",
+    "why_it_matters": "This represents a major escalation in the Iran conflict, with Iran directly targeting a key U.S.-UK military installation for the first time. The failed attack demonstrates Iran's willingness to expand the conflict beyond the Middle East region, while the UK's authorization of U.S. strikes from British soil signals deepening Western military involvement. The situation threatens to widen into a broader regional or even global conflict."
   }
 }
