@@ -1,6 +1,6 @@
 #!/bin/bash
-# Morning Briefing - Master script
-# Runs at 7 AM PT to research and compile all briefing data
+# Morning Briefing - Master orchestration script
+# Runs at 7 AM PT to coordinate all research subagents
 
 set -e
 
@@ -8,35 +8,24 @@ BRIEFING_DIR="/root/.openclaw/workspace/morning-briefing"
 DATE=$(date +%Y-%m-%d)
 DATA_DIR="$BRIEFING_DIR/data"
 
-echo "🌅 Starting Morning Briefing for $DATE"
+echo "🌅 Morning Briefing - $DATE"
+echo "================================"
 echo ""
 
 # Create data directory
 mkdir -p "$DATA_DIR"
 
-# Each research task will be triggered by OpenClaw subagents
-# The subagents will save their results to the data directory
-
+echo "🤖 This script coordinates OpenClaw subagents."
+echo "   Each subagent will research their domain and save results."
+echo ""
 echo "📋 Research tasks:"
-echo "  1. Global News"
-echo "  2. AI News"
-echo "  3. Local News (Seattle)"
-echo "  4. Sports News (Seattle)"
-echo "  5. Restaurants"
-echo "  6. Events"
+echo "   1. 🌍 Global News"
+echo "   2. 🤖 AI News"
+echo "   3. 📰 Seattle Local News"
+echo "   4. ⚽ Seattle Sports"
+echo "   5. 🍽️ Restaurants"
+echo "   6. 🎭 Events"
 echo ""
-
-echo "🤖 Triggering OpenClaw research agents..."
+echo "📁 Data will be saved to: $DATA_DIR"
 echo ""
-
-# The actual research will be done by OpenClaw subagents
-# This script serves as the coordinator
-
-echo "✅ Research coordination complete"
-echo "📊 Data will be saved to: $DATA_DIR"
-echo ""
-echo "Next steps:"
-echo "  1. Subagents will research each category"
-echo "  2. Results saved as JSON files"
-echo "  3. Dashboard builder will compile the site"
-echo "  4. Site deployed to GitHub Pages"
+echo "Next: OpenClaw will spawn subagents for each category..."
