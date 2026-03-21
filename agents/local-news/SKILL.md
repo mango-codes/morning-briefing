@@ -9,15 +9,16 @@ Research news specific to Seattle and the Pacific Northwest region.
 
 ## Focus Areas
 
-- **Seattle News**: City government, crime, development
-- **Weather**: Forecast, storms, unusual conditions
+- **Seattle News**: City government, crime, development, housing
+- **Weather**: Today's forecast, storms, unusual conditions
 - **Traffic**: Major incidents, construction, transit issues
-- **Washington State**: State politics, legislation, events
-- **Pacific Northwest**: Oregon, Idaho relevant stories
-- **Local Business**: Major company news, layoffs, expansions
-- **Community**: Events, issues affecting residents
+- **Washington State**: State politics, legislation, major events
+- **Local Business**: Amazon, Microsoft, Boeing, local companies
+- **Community**: Events, issues affecting Seattle residents
 
 ## Sources to Check
+
+Use web_search to find news from:
 
 - Seattle Times
 - KING 5 News
@@ -28,7 +29,28 @@ Research news specific to Seattle and the Pacific Northwest region.
 - MyNorthwest
 - KUOW (NPR Seattle)
 
+## Search Queries
+
+```
+"Seattle news today"
+"Seattle weather today"
+"Seattle traffic"
+"Washington state news"
+"Amazon Seattle"
+"Seattle city council"
+```
+
+## Weather Information
+
+Include in output:
+- Today's forecast (brief)
+- High/low temperatures
+- Conditions (sunny, rainy, cloudy, etc.)
+- Any weather alerts or warnings
+
 ## Output Format
+
+Save to: `/root/.openclaw/workspace/morning-briefing/data/local-news-YYYY-MM-DD.json`
 
 ```json
 {
@@ -44,10 +66,19 @@ Research news specific to Seattle and the Pacific Northwest region.
     }
   ],
   "weather": {
-    "forecast": "Brief weather summary",
+    "forecast": "Brief forecast for today",
     "high": 65,
     "low": 48,
-    "conditions": "Partly cloudy"
+    "conditions": "Partly cloudy",
+    "alert": null
   }
 }
 ```
+
+## Process
+
+1. Use web_search to find 5-8 Seattle news stories
+2. Get today's weather forecast
+3. For each story: title, source, summary, category
+4. Save JSON file
+5. Report count and weather

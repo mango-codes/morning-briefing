@@ -258,7 +258,17 @@ function generateLocalNewsCard(data) {
         return generateEmptyCard('📰 Local News', 'Seattle news will appear here');
     }
     
-    const headlinesHtml = data.headlines.slice(0, 5).map(h => `
+    // Weather widget
+    const weather = data.weather || {};
+    const weatherHtml = weather.forecast ? `
+        <div class="weather-widget" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 1rem; border-radius: 12px; margin-bottom: 1rem;">
+            <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌤️ ${weather.conditions}</div>
+            <div style="font-size: 2rem; font-weight: bold;">${weather.high}° / ${weather.low}°</div>
+            <div style="opacity: 0.9; margin-top: 0.5rem;">${weather.forecast}</div>
+        </div>
+    ` : '';
+    
+    const headlinesHtml = data.headlines.slice(0, 4).map(h => `
         <div class="news-item">
             <div class="news-title">${h.title}</div>
             <div class="news-summary">${h.summary}</div>
@@ -272,6 +282,7 @@ function generateLocalNewsCard(data) {
                 <span class="card-icon">📰</span>
                 <span class="card-title">Seattle News</span>
             </div>
+            ${weatherHtml}
             ${headlinesHtml}
         </div>
     `;

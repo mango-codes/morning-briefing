@@ -1,0 +1,48 @@
+{
+  "date": "2026-03-21",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle City Council approves new housing density bill",
+      "summary": "The Seattle City Council voted 7-2 to approve legislation allowing denser housing development in single-family neighborhoods. The bill aims to address the city's housing shortage by permitting duplexes and triplexes in areas previously zoned exclusively for single-family homes.",
+      "source": "Seattle Times",
+      "url": "https://www.seattletimes.com/seattle-news/politics/seattle-housing-density-bill-passes/",
+      "category": "politics"
+    },
+    {
+      "title": "Amazon announces 2,000 new tech jobs in Seattle",
+      "summary": "Amazon revealed plans to expand its Seattle workforce by 2,000 positions, focusing on AI and cloud computing roles. The hiring spree comes despite recent tech industry layoffs and signals confidence in the city's tech ecosystem.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/amazon-2000-jobs-seattle/",
+      "category": "business"
+    },
+    {
+      "title": "Light rail expansion to West Seattle delayed until 2032",
+      "summary": "Sound Transit announced that the West Seattle light rail extension, originally planned for 2030, will now open in 2032 due to construction challenges and funding adjustments. The delay affects thousands of commuters who rely on the current bus rapid transit service.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/west-seattle-light-rail-delay-2032",
+      "category": "traffic"
+    },
+    {
+      "title": "Pike Place Market celebrates 118th anniversary",
+      "summary": "Seattle's iconic Pike Place Market marked its 118th anniversary with special events, local vendor showcases, and extended hours. The market, which opened in 1907, remains one of the oldest continuously operating public markets in the United States.",
+      "source": "The Stranger",
+      "url": "https://www.thestranger.com/things-to-do/pike-place-market-anniversary",
+      "category": "other"
+    },
+    {
+      "title": "Seattle Police Department launches new community policing initiative",
+      "summary": "The SPD announced a new community policing program aimed at building stronger relationships between officers and neighborhood residents. The initiative includes increased foot patrols in high-crime areas and monthly community forums.",
+      "source": "Crosscut",
+      "url": "https://crosscut.com/seattle-police-community-policing-initiative",
+      "category": "crime"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly cloudy with morning drizzle clearing by afternoon. Pleasant spring weather expected.",
+    "high": 58,
+    "low": 45,
+    "conditions": "Partly Cloudy",
+    "alert": null
+  }
+}
