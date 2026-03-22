@@ -8,7 +8,7 @@ const template = `<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Morning Briefing - {{DATE}}</title>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Libre+Franklin:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Libre+Franklin:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -30,41 +30,63 @@ const template = `<!DOCTYPE html>
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
         
-        /* Masthead */
+        /* Masthead - NYT Style */
         .masthead {
             text-align: center;
-            padding: 2rem 1rem 1rem;
+            padding: 2.5rem 1rem 1.5rem;
             border-bottom: 3px double #1a1a1a;
             background: #fff;
+            position: relative;
+        }
+        
+        .masthead::before,
+        .masthead::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 1px;
+            background: #1a1a1a;
+        }
+        
+        .masthead::before {
+            top: 1rem;
+        }
+        
+        .masthead::after {
+            bottom: 0.5rem;
         }
         
         .masthead-title {
-            font-family: 'Playfair Display', Georgia, serif;
-            font-size: 4rem;
-            font-weight: 900;
-            letter-spacing: -0.02em;
-            text-transform: uppercase;
-            margin-bottom: 0.5rem;
+            font-family: 'UnifrakturMaguntia', 'Old English Text MT', 'Times New Roman', serif;
+            font-size: 5rem;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            margin-bottom: 0.75rem;
             color: #1a1a1a;
+            line-height: 1;
         }
         
         .masthead-subtitle {
             font-family: 'Libre Franklin', sans-serif;
-            font-size: 0.9rem;
-            font-weight: 300;
-            letter-spacing: 0.1em;
+            font-size: 0.75rem;
+            font-weight: 400;
+            letter-spacing: 0.2em;
             text-transform: uppercase;
-            color: #666;
-            margin-bottom: 1rem;
+            color: #444;
+            margin-bottom: 1.5rem;
         }
         
         .masthead-date {
             font-family: 'Playfair Display', serif;
-            font-size: 1.1rem;
+            font-size: 1rem;
+            font-style: italic;
             border-top: 1px solid #1a1a1a;
             border-bottom: 1px solid #1a1a1a;
-            padding: 0.5rem;
+            padding: 0.4rem 2rem;
             display: inline-block;
+            letter-spacing: 0.05em;
         }
         
         /* Main Content */
