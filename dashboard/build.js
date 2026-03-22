@@ -489,20 +489,85 @@ function generateSportsSection(data) {
     
     const teamsHtml = data.teams.map(team => {
         const headlines = team.headlines || [];
+        const details = team.details || {};
         const lastGame = team.last_game;
         const nextGame = team.next_game;
         
-        const headlinesHtml = headlines.slice(0, 2).map(h => 
-            `<p style="margin-bottom: 0.5rem;"><a href="${h.url || '#'}" style="color: inherit; text-decoration: none;">${h.title}</a></p>`
-        ).join('');
+        // Build rich content
+        let contentHtml = '';
+        
+        // Headlines
+        headlines.slice(0, 2).forEach(h => {
+            contentHtml += `<p style="margin-bottom: 0.5rem; font-weight: 600;"><a href="${h.url || '#'}" style="color: inherit; text-decoration: none;">${h.title}</a></p>`;
+            if (h.summary) {
+                contentHtml += `<p style="margin-bottom: 0.5rem; font-size: 0.9rem; color: #444;">${h.summary}</p>`;
+            }
+        });
+        
+        // Details section
+        if (details.bigNews) {
+            contentHtml += `<p style="margin: 0.75rem 0; font-size: 0.9rem; color: #333;"><strong>Big News:</strong> ${details.bigNews}</p>`;
+        }
+        if (details.jsnDetails) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.85rem; color: #555;">${details.jsnDetails}</p>`;
+        }
+        if (details.openingDay) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #333;"><strong>Opening Day:</strong> ${details.openingDay}</p>`;
+        }
+        if (details.situation) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #555;">${details.situation}</p>`;
+        }
+        if (details.playoffPicture) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #c53030;">${details.playoffPicture}</p>`;
+        }
+        if (details.achievement) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #2f855a;">${details.achievement}</p>`;
+        }
+        if (details.today) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.9rem; color: #2b6cb0; font-weight: 600;">${details.today}</p>`;
+        }
+        
+        // Key updates list
+        if (details.keyUpdates && details.keyUpdates.length > 0) {
+            contentHtml += `<ul style="margin: 0.5rem 0; padding-left: 1.2rem; font-size: 0.85rem; color: #444;">`;
+            details.keyUpdates.forEach(update => {
+                contentHtml += `<li style="margin-bottom: 0.25rem;">${update}</li>`;
+            });
+            contentHtml += `</ul>`;
+        }
+        
+        // Free agency
+        if (details.freeAgency) {
+            if (details.freeAgency.reSigned && details.freeAgency.reSigned.length > 0) {
+                contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.85rem;"><strong>Re-signed:</strong> ${details.freeAgency.reSigned.join(', ')}</p>`;
+            }
+            if (details.freeAgency.lost && details.freeAgency.lost.length > 0) {
+                contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.85rem; color: #c53030;"><strong>Lost:</strong> ${details.freeAgency.lost.join(', ')}</p>`;
+            }
+        }
+        
+        // Draft
+        if (details.draft) {
+            contentHtml += `<p style="margin: 0.5rem 0; font-size: 0.85rem; color: #555;"><strong>Draft:</strong> ${details.draft}</p>`;
+        }
+        
+        // Game info
+        if (lastGame) {
+            contentHtml += `<div class="sports-score" style="margin-top: 0.75rem;">Last: ${lastGame.result} vs ${lastGame.opponent}</div>`;
+        }
+        if (nextGame) {
+            contentHtml += `<div class="sports-upcoming">Next: ${nextGame.date} vs ${nextGame.opponent}</div>`;
+        }
+        
+        // Read more link
+        if (headlines.length > 0 && headlines[0].url) {
+            contentHtml += `<p style="margin-top: 0.75rem;"><a href="${headlines[0].url}" class="read-more" target="_blank">Read more</a></p>`;
+        }
         
         return `
             <div class="sports-team">
                 <div class="sports-team-name">${team.name} <span style="font-size: 0.8rem; color: #666;">(${team.league})</span></div>
-                ${headlinesHtml}
-                ${lastGame ? `<div class="sports-score">Last: ${lastGame.result} vs ${lastGame.opponent}</div>` : ''}
-                ${nextGame ? `<div class="sports-upcoming">Next: ${nextGame.date} vs ${nextGame.opponent}</div>` : ''}
-                ${headlines.length > 0 && headlines[0].url ? `<p style="margin-top: 0.75rem;"><a href="${headlines[0].url}" class="read-more" target="_blank">Read more</a></p>` : ''}
+                ${contentHtml}
             </div>
         `;
     }).join('');

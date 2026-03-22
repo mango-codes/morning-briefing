@@ -10,8 +10,23 @@
           "title": "Opening Day Just 3 Days Away; Roster Decisions Finalized",
           "summary": "The Mariners are just three sleeps away from Opening Day on March 26 against Cleveland. Final roster decisions made, Colt Emerson reassigned to minors.",
           "url": "https://www.lookoutlanding.com/seattle-mariners-news/140547/mariners-news-3-22-26-bryce-miller-ty-france-and-dylan-moore"
+        },
+        {
+          "title": "Randy Arozarena and Cal Raleigh Settle Their 'Beef'",
+          "summary": "The two Mariners stars released mutual statements putting their public disagreement behind them.",
+          "url": "https://www.lookoutlanding.com"
         }
       ],
+      "details": {
+        "openingDay": "March 26 vs Cleveland Guardians at T-Mobile Park",
+        "keyUpdates": [
+          "Colt Emerson reassigned to minor league camp after impressive spring",
+          "Randy Arozarena and Cal Raleigh settled their public disagreement",
+          "First Mariners commercial of 2026 released featuring Dan Wilson and Bryce Miller",
+          "Former Mariners Ty France makes Padres Opening Day roster",
+          "Dylan Moore signs MLB deal with Philadelphia Phillies"
+        ]
+      },
       "last_game": null,
       "next_game": {
         "opponent": "Cleveland Guardians",
@@ -21,7 +36,7 @@
     },
     {
       "name": "Seattle Seahawks",
-      "league": "NFL",
+      "league": "NFL - Super Bowl 60 Champions",
       "headlines": [
         {
           "title": "Seahawks Exercise Fifth-Year Options on JSN and Devon Witherspoon",
@@ -29,7 +44,27 @@
           "url": "https://www.seahawks.com/news/fifth-year-options-jsn-witherspoon"
         }
       ],
-      "last_game": null,
+      "details": {
+        "bigNews": "Seahawks exercised fifth-year options for two young stars — WR Jaxon Smith-Njigba ($23.8M for 2027) and CB Devon Witherspoon ($21.1M for 2027).",
+        "jsnDetails": "Smith-Njigba was first-team All-Pro, led NFL in receiving yards (1,793), and won AP Offensive Player of the Year — only the second Seahawk ever after Shaun Alexander.",
+        "freeAgency": {
+          "reSigned": [
+            "CB Josh Jobe (3yr/$24M)",
+            "WR Rashid Shaheed (3yr/$51M)"
+          ],
+          "lost": [
+            "Boye Mafe to Bengals",
+            "Coby Bryant to Bears", 
+            "Ken Walker III to Chiefs"
+          ]
+        },
+        "draft": "Being linked to CB Chris Johnson in early mock drafts after losing Riq Woolen to Eagles."
+      },
+      "last_game": {
+        "opponent": "New England Patriots",
+        "result": "W 29-13 - Super Bowl 60 Champions!",
+        "highlights": "14-3 season, dominant playoff run"
+      },
       "next_game": null
     },
     {
@@ -42,10 +77,19 @@
           "url": "https://www.nhl.com/kraken/news/kraken-lose-blue-jackets"
         }
       ],
+      "details": {
+        "situation": "Kraken have lost 4 straight games and tumbled out of a playoff spot.",
+        "playoffPicture": "Now 2 points behind Nashville Predators for final wild card spot with only 13 games remaining.",
+        "keyIssues": [
+          "Fourth line struggling to produce",
+          "Jared McCann injured",
+          "Need to win at least 8 of final 13 to have a chance"
+        ]
+      },
       "last_game": {
         "opponent": "Columbus Blue Jackets",
         "result": "L 5-2",
-        "highlights": "Third straight loss, playoff hopes fading"
+        "highlights": "Third straight loss, playoff hopes fading fast"
       },
       "next_game": {
         "opponent": "TBD",
@@ -63,6 +107,11 @@
           "url": "https://www.soundersfc.com/news/champions-cup-quarterfinals"
         }
       ],
+      "details": {
+        "achievement": "Advanced to Concacaf Champions Cup Quarterfinals with 2-1 win over Vancouver (5-2 aggregate).",
+        "nextRound": "Will face Mexican powerhouse Tigres UANL in next round.",
+        "today": "Playing Minnesota United TODAY at 11:30 AM PT"
+      },
       "last_game": {
         "opponent": "Vancouver Whitecaps",
         "result": "W 2-1 (5-2 agg)",
@@ -70,7 +119,7 @@
       },
       "next_game": {
         "opponent": "Minnesota United",
-        "date": "Today 11:30 AM PT",
+        "date": "TODAY 11:30 AM PT",
         "location": "Away"
       }
     }
