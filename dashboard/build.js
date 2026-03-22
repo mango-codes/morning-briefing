@@ -488,17 +488,21 @@ function generateSportsSection(data) {
     }
     
     const teamsHtml = data.teams.map(team => {
-        const headline = team.headlines && team.headlines[0] ? team.headlines[0] : null;
+        const headlines = team.headlines || [];
         const lastGame = team.last_game;
         const nextGame = team.next_game;
         
+        const headlinesHtml = headlines.slice(0, 2).map(h => 
+            `<p style="margin-bottom: 0.5rem;"><a href="${h.url || '#'}" style="color: inherit; text-decoration: none;">${h.title}</a></p>`
+        ).join('');
+        
         return `
             <div class="sports-team">
-                <div class="sports-team-name">${team.name}</div>
-                ${headline ? `<p style="margin-bottom: 0.5rem;"><a href="${headline.url || '#'}" style="color: inherit; text-decoration: none;">${headline.title}</a></p>` : ''}
+                <div class="sports-team-name">${team.name} <span style="font-size: 0.8rem; color: #666;">(${team.league})</span></div>
+                ${headlinesHtml}
                 ${lastGame ? `<div class="sports-score">Last: ${lastGame.result} vs ${lastGame.opponent}</div>` : ''}
                 ${nextGame ? `<div class="sports-upcoming">Next: ${nextGame.date} vs ${nextGame.opponent}</div>` : ''}
-                ${headline && headline.url ? `<p style="margin-top: 0.75rem;"><a href="${headline.url}" class="read-more" target="_blank">Read more</a></p>` : ''}
+                ${headlines.length > 0 && headlines[0].url ? `<p style="margin-top: 0.75rem;"><a href="${headlines[0].url}" class="read-more" target="_blank">Read more</a></p>` : ''}
             </div>
         `;
     }).join('');
@@ -519,13 +523,16 @@ function generateListingsSection(title, data, type) {
     }
     
     let items = [];
+    let weekendItems = [];
+    
     if (type === 'restaurants' && data.restaurants) {
-        items = data.restaurants.slice(0, 4);
+        items = data.restaurants;
     } else if (type === 'events' && data.today) {
-        items = data.today.slice(0, 5);
+        items = data.today;
+        weekendItems = data.this_weekend || [];
     }
     
-    if (items.length === 0) {
+    if (items.length === 0 && weekendItems.length === 0) {
         return '';
     }
     
@@ -551,10 +558,22 @@ function generateListingsSection(title, data, type) {
         }
     }).join('');
     
+    const weekendHtml = weekendItems.length > 0 ? `
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; margin: 1.5rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #ddd;">This Weekend</h3>
+        ${weekendItems.map(item => `
+            <div class="listing">
+                <div class="listing-title">${item.title}</div>
+                <div class="listing-meta">${item.date || ''} · ${item.venue || ''}</div>
+                ${item.url ? `<a href="${item.url}" class="read-more" target="_blank">Get Tickets</a>` : ''}
+            </div>
+        `).join('')}
+    ` : '';
+    
     return `
         <section>
             <h2 class="section-header">${title}</h2>
             ${listingsHtml}
+            ${weekendHtml}
         </section>
     `;
 }
