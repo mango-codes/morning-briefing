@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-21",
+  "date": "2026-03-22",
   "category": "sports-news",
   "teams": [
     {
@@ -7,19 +7,15 @@
       "league": "MLB",
       "headlines": [
         {
-          "title": "Cole Young hits two homers for Mariners",
-          "summary": "Prospect Cole Young showcased his power with two home runs in spring training action",
-          "url": "https://www.mlb.com/mariners"
+          "title": "Opening Day Just 3 Days Away; Roster Decisions Finalized",
+          "summary": "The Mariners are just three sleeps away from Opening Day on March 26 against Cleveland. Final roster decisions made, Colt Emerson reassigned to minors.",
+          "url": "https://www.lookoutlanding.com/seattle-mariners-news/140547/mariners-news-3-22-26-bryce-miller-ty-france-and-dylan-moore"
         }
       ],
-      "last_game": {
-        "opponent": "Cactus League",
-        "result": "10-17 record",
-        "highlights": "Spring training ongoing"
-      },
+      "last_game": null,
       "next_game": {
-        "opponent": "TBD",
-        "date": "Opening Day 2026",
+        "opponent": "Cleveland Guardians",
+        "date": "March 26 - Opening Day",
         "location": "T-Mobile Park"
       }
     },
@@ -28,41 +24,33 @@
       "league": "NFL",
       "headlines": [
         {
-          "title": "Seahawks exercise 5th-year options on JSN and Witherspoon",
-          "summary": "Team commits to two key young players for 2026 season",
-          "url": "https://www.seahawks.com"
+          "title": "Seahawks Exercise Fifth-Year Options on JSN and Devon Witherspoon",
+          "summary": "Seahawks lock in 2023 first-rounders through 2027. JSN's option: $23.85M, Witherspoon's: $21.16M. Both fully guaranteed.",
+          "url": "https://www.seahawks.com/news/fifth-year-options-jsn-witherspoon"
         }
       ],
-      "last_game": {
-        "opponent": "New England Patriots",
-        "result": "W 29-13",
-        "highlights": "Super Bowl LX Champions!"
-      },
-      "next_game": {
-        "opponent": "2026 Season",
-        "date": "September 2026",
-        "location": "Lumen Field"
-      }
+      "last_game": null,
+      "next_game": null
     },
     {
       "name": "Seattle Kraken",
       "league": "NHL",
       "headlines": [
         {
-          "title": "Kraken face Columbus Blue Jackets tonight in wild card race",
-          "summary": "Critical game for playoff positioning",
-          "url": "https://www.nhl.com/kraken"
+          "title": "Kraken Lose 5-2 to Blue Jackets - Playoff Hopes Fading",
+          "summary": "Third straight loss. Now 2 points behind Nashville for final playoff spot with 13 games remaining. Jared McCann injured.",
+          "url": "https://www.nhl.com/kraken/news/kraken-lose-blue-jackets"
         }
       ],
       "last_game": {
-        "opponent": "Nashville Predators",
-        "result": "L 3-1",
-        "highlights": "Tough loss on March 19"
+        "opponent": "Columbus Blue Jackets",
+        "result": "L 5-2",
+        "highlights": "Third straight loss, playoff hopes fading"
       },
       "next_game": {
-        "opponent": "Columbus Blue Jackets",
-        "date": "TODAY 2:00 PM",
-        "location": "Away"
+        "opponent": "TBD",
+        "date": "Next game soon",
+        "location": "Climate Pledge Arena"
       }
     },
     {
@@ -70,19 +58,19 @@
       "league": "MLS",
       "headlines": [
         {
-          "title": "Sounders off to strong 3-1-0 start",
-          "summary": "Team showing early season form with 9 points from first 4 games",
-          "url": "https://www.soundersfc.com"
+          "title": "Sounders Advance to Concacaf Champions Cup Quarterfinals",
+          "summary": "Beat Vancouver 5-2 on aggregate. Play Minnesota United today at 11:30 AM PT. Will face Tigres UANL next.",
+          "url": "https://www.soundersfc.com/news/champions-cup-quarterfinals"
         }
       ],
       "last_game": {
-        "opponent": "Real Salt Lake",
-        "result": "W 2-1",
-        "highlights": "Paul Rothrock scored"
+        "opponent": "Vancouver Whitecaps",
+        "result": "W 2-1 (5-2 agg)",
+        "highlights": "Advanced to quarterfinals"
       },
       "next_game": {
         "opponent": "Minnesota United",
-        "date": "Tomorrow 2:30 PM",
+        "date": "Today 11:30 AM PT",
         "location": "Away"
       }
     }

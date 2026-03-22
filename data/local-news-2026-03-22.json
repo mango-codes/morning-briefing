@@ -1,47 +1,74 @@
 {
-  "date": "2026-03-21",
-  "category": "local-news",
+  "date": "2026-03-22",
+  "location": "Seattle, WA",
+  "sources": ["Seattle Times", "KING 5", "KOMO News", "Sound Transit", "ESPN", "NHL"],
+  "weather": {
+    "current": {
+      "temperature_f": 41,
+      "condition": "Broken clouds",
+      "feels_like_f": 36,
+      "wind_mph": 7,
+      "wind_direction": "Southeast",
+      "humidity_percent": 76,
+      "visibility_mi": 10,
+      "pressure_hg": 30.40
+    },
+    "forecast_today": {
+      "high_f": 51,
+      "low_f": 39,
+      "condition": "Overcast with broken clouds",
+      "precipitation_chance": 5
+    },
+    "forecast_tomorrow": {
+      "high_f": 50,
+      "low_f": 40,
+      "condition": "Overcast"
+    }
+  },
   "headlines": [
     {
-      "title": "UW Cherry Blossoms Reach Peak Bloom",
-      "summary": "The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.",
-      "source": "University of Washington / KUOW",
-      "url": "https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/",
-      "category": "lifestyle"
+      "title": "Seattle Mariners Opening Day 2026 Approaching",
+      "source": "KING 5 / Wikipedia",
+      "summary": "The Seattle Mariners' 2026 season Opening Day is scheduled for March 26 against the Cleveland Guardians at T-Mobile Park. This marks the 50th season in franchise history.",
+      "category": "sports"
     },
     {
-      "title": "Landslide Blocks Northbound I-5 Near Bellingham",
-      "summary": "A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.",
-      "source": "FOX 13 Seattle / Bellingham Herald",
-      "url": "https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham",
-      "category": "traffic"
+      "title": "Sound Transit 2 Line Crosslake Connection Opening March 28",
+      "source": "Seattle.gov / Sound Transit",
+      "summary": "The Crosslake Connection for the Sound Transit 2 Line is scheduled to open on March 28, 2026, completing the connection across Lake Washington and linking Seattle to the Eastside. New stations at Mercer Island and Judkins Park will provide connections between Seattle and Bellevue/Redmond.",
+      "category": "transportation"
     },
     {
-      "title": "Blazing Bagels Closing All Locations Amid Bankruptcy",
-      "summary": "Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.",
-      "source": "Seattle Times / KING 5",
-      "url": "https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/",
-      "category": "business"
+      "title": "Seattle Kraken Lose 5-2 to Columbus Blue Jackets",
+      "source": "NHL / ESPN",
+      "summary": "The Seattle Kraken fell to the Columbus Blue Jackets 5-2 on Saturday, March 21. Columbus scored three times in the first period and extended their point streak to 12 games. The Kraken have now lost 4 straight games and tumbled out of a playoff spot.",
+      "category": "sports"
     },
     {
-      "title": "West Seattle Recycle/Reuse/Shred Event Today",
-      "summary": "The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.",
-      "source": "West Seattle Blog",
-      "url": "https://westseattleblog.com/2026/03/recycle-event-west-seattle/",
-      "category": "community"
+      "title": "Skagit Valley Tulip Festival May Begin Early Due to Warm Weather",
+      "source": "Tulip Festival Organization",
+      "summary": "The 2026 Skagit Valley Tulip Festival may begin earlier than usual this year due to warmer weather patterns. The festival is a major spring attraction for Seattle-area residents.",
+      "category": "events"
     },
     {
-      "title": "Hero Passenger Stops Bus After Driver Medical Emergency",
-      "summary": "A King County Metro bus passenger is being hailed as a hero after taking control of the bus when the driver suffered a medical emergency in downtown Seattle. No injuries were reported.",
-      "source": "KOMO News / KIRO 7",
-      "url": "https://komonews.com/news/local/hero-passenger-stops-bus-driver-emergency",
-      "category": "community"
+      "title": "Seattle Kraken Extend Broadcast Deal with KING 5 Owner Tegna",
+      "source": "Puget Sound Business Journal",
+      "summary": "The Seattle Kraken have extended their broadcast partnership with Tegna through multiple seasons, continuing games on KONG and KING 5.",
+      "category": "sports"
+    },
+    {
+      "title": "Link Light Rail 2 Line Simulated Service Update",
+      "source": "Sound Transit",
+      "summary": "2 Line simulated service did not operate from March 18-22 as trains ran pre-simulated service between South Bellevue and Downtown Redmond. This planned closure does not impact the opening date.",
+      "category": "transportation"
     }
   ],
-  "weather": {
-    "forecast": "Partly sunny with slight chance of rain",
-    "high": 49,
-    "low": 38,
-    "conditions": "Partly Cloudy"
-  }
+  "events_this_weekend": [
+    {
+      "name": "Seattle's South Park 'Best Day Ever' Series",
+      "date": "March 21, 2026",
+      "description": "South Park neighborhood kicked off the city's new 'Best Day Ever' series on Saturday."
+    }
+  ],
+  "collected_at": "2026-03-22T17:11:00Z"
 }

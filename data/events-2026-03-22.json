@@ -1,71 +1,112 @@
 {
-  "date": "2026-03-21",
-  "category": "events",
-  "today": [
+  "date": "2026-03-22",
+  "city": "Seattle",
+  "events": [
     {
-      "title": "Band of Horses - 20th Anniversary",
-      "time": "8:00 PM",
-      "venue": "The Showbox",
-      "type": "concert",
-      "price": "$181+",
-      "description": "Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits",
-      "url": "https://www.showboxpresents.com/events/detail/band-of-horses"
-    },
-    {
-      "title": "Alvin Ailey American Dance Theater",
-      "time": "7:30 PM",
-      "venue": "Paramount Theatre",
-      "type": "theater",
-      "price": "$55+",
-      "description": "New works and repertory favorites - part of STG's Performing Arts Series",
-      "url": "https://www.stgpresents.org/paramount"
-    },
-    {
-      "title": "Bassem Youssef - Belly of the Beast Tour",
-      "time": "7:30 PM",
-      "venue": "Moore Theatre",
-      "type": "comedy",
-      "price": "$47-69",
-      "description": "Egyptian comedian and satirist brings his acclaimed stand-up tour",
-      "url": "https://www.stgpresents.org/moore"
-    },
-    {
-      "title": "Mariah The Scientist",
-      "time": "8:00 PM",
-      "venue": "Showbox SoDo",
-      "type": "concert",
-      "price": "$158+",
-      "description": "R&B singer-songwriter on her 'To Be Eaten Alive' tour",
-      "url": "https://www.showboxpresents.com/events/detail/mariah-the-scientist"
-    },
-    {
-      "title": "Amit Tandon: Halwa",
+      "title": "Nothing, Full Body 2, Cryogeyser, VMO (Violent Magic Orchestra)",
+      "category": "concert",
+      "date": "2026-03-22",
       "time": "7:00 PM",
-      "venue": "Neptune Theatre",
-      "type": "comedy",
-      "price": "$41-182",
-      "description": "Indian comedian brings his observational humor to Seattle",
-      "url": "https://www.stgpresents.org/neptune"
-    }
-  ],
-  "this_weekend": [
+      "venue": "The Crocodile",
+      "location": "Seattle, WA",
+      "url": "https://www.ticketmaster.com/discover/seattle?categoryId=KZFzniwnSyZfZ7v7nJ"
+    },
     {
       "title": "Band of Horses",
-      "date": "Sunday",
-      "venue": "The Showbox",
-      "type": "concert"
+      "category": "concert",
+      "date": "2026-03-22",
+      "time": "TBD",
+      "venue": "Showbox SoDo",
+      "location": "Seattle, WA",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "title": "Tune-Yards",
+      "category": "concert",
+      "date": "2026-03-22",
+      "time": "TBD",
+      "venue": "Neumos",
+      "location": "Seattle, WA",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "title": "IN-ZO",
+      "category": "concert",
+      "date": "2026-03-22",
+      "time": "TBD",
+      "venue": "Admiral Theatre",
+      "location": "Bremerton, WA",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "title": "David Koechner",
+      "category": "comedy",
+      "date": "2026-03-22",
+      "time": "7:00 PM",
+      "venue": "Emerald City Comedy Club",
+      "location": "210 Broadway Ave, Seattle, WA 98102",
+      "price": "From $25",
+      "url": "https://comedy.tickets/city/seattle/"
+    },
+    {
+      "title": "Kristin Key",
+      "category": "comedy",
+      "date": "2026-03-22",
+      "time": "7:00 PM",
+      "venue": "The Neptune Theatre",
+      "location": "1303 NE 45th Street, Seattle, WA 98105",
+      "url": "https://www.ticketmaster.com/discover/seattle?categoryId=KZFzniwnSyZfZ7v7na"
+    },
+    {
+      "title": "Kristin Key (Late Show)",
+      "category": "comedy",
+      "date": "2026-03-22",
+      "time": "9:45 PM",
+      "venue": "The Neptune Theatre",
+      "location": "1303 NE 45th Street, Seattle, WA 98105",
+      "url": "https://seattle.theater/march/"
+    },
+    {
+      "title": "Cirque du Soleil: ECHO",
+      "category": "theater",
+      "date": "2026-03-22",
+      "time": "1:00 PM",
+      "venue": "Marymoor Park",
+      "location": "6046 W Lake Sammamish Parkway NE, Redmond, WA 98052",
+      "url": "https://seattle.theater/event/cirque-du-soleil-echo-redmond-sunday-march-22-2026-100-pm/"
+    },
+    {
+      "title": "Cirque du Soleil: ECHO",
+      "category": "theater",
+      "date": "2026-03-22",
+      "time": "5:00 PM",
+      "venue": "Marymoor Park",
+      "location": "6046 W Lake Sammamish Parkway NE, Redmond, WA 98052",
+      "url": "https://seattle.theater/event/cirque-du-soleil-echo-redmond-sunday-march-22-2026-500-pm/"
     },
     {
       "title": "Alvin Ailey American Dance Theater",
-      "date": "Sunday",
+      "category": "theater",
+      "date": "2026-03-22",
+      "time": "2:00 PM",
       "venue": "Paramount Theatre",
-      "type": "theater"
+      "location": "911 Pine St, Seattle, WA 98101",
+      "url": "https://seattle.theater/event/alvin-ailey-american-dance-theater-seattle-sunday-march-22-2026-200-pm/"
     },
     {
-      "title": "Pacific Northwest Ballet: Firebird",
-      "date": "Sunday",
-      "venue": "McCaw Hall",
-      "type": "theater"
+      "title": "Junie B. Jones",
+      "category": "theater",
+      "date": "2026-03-22",
+      "time": "2:00 PM",
+      "venue": "Admiral Theatre",
+      "location": "Bremerton, WA",
+      "url": "https://seattle.theater/"
     }
-  ]
+  ],
+  "totalEvents": 11,
+  "categories": {
+    "concerts": 4,
+    "comedy": 3,
+    "theater": 4
+  }
 }
