@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-21",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Google expands personalized Gemini AI to all US users",
+      "summary": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps like Gmail, Photos, and YouTube to deliver more context-aware responses.",
+      "source": "MarketingProfs",
+      "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+      "type": "product"
+    },
+    {
+      "title": "White House releases AI policy blueprint for Congress",
+      "summary": "The White House published a long-awaited policy wishlist for federal regulation of artificial intelligence, hoping Congress will codify it into law.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/03/20/white-house-releases-ai-policy-blueprint-for-congress-00837354",
+      "type": "policy"
+    },
+    {
+      "title": "Anthropic announces 1M token context window for Claude",
+      "summary": "Anthropic announced general availability of 1 million token context windows for Claude Opus 4.6 and Sonnet 4.6 at standard pricing, with no beta header and media cap up to 600.",
+      "source": "Releasebot",
+      "url": "https://releasebot.io/updates/anthropic",
+      "type": "product"
+    },
+    {
+      "title": "AI startups accounted for 41% of venture capital in 2025",
+      "summary": "AI startups accounted for 41% of the $128 billion in venture dollars raised by companies on Carta last year — a record-high annual share. VCs have invested over half a trillion dollars into AI over the last five years.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/20/ai-startups-41-percent-of-venture-capital-2025/",
+      "type": "funding"
+    },
+    {
+      "title": "Jeff Bezos reportedly seeking $100B for AI-focused industrial fund",
+      "summary": "Jeff Bezos is reportedly seeking to raise $100 billion for an AI-focused industrial investment fund, which would be one of the largest investment vehicles ever created.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/jeff-bezos-100-billion-ai-fund-2026-3",
+      "type": "funding"
+    }
+  ],
+  "top_story": {
+    "title": "AI startups captured 41% of all VC funding in 2025 ($128B)",
+    "summary": "Artificial intelligence startups have reached a tipping point in venture capital, capturing 41% of all funding in 2025 totaling $128 billion. This represents a record-high annual share and demonstrates how AI has become the dominant force in tech investment.",
+    "why_it_matters": "This massive investment signals that AI is transitioning from experimental technology to core infrastructure across industries. The funding concentration suggests we're in a transformative period comparable to the early internet era."
+  }
+}

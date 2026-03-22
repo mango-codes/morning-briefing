@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-21",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "UW Cherry Blossoms Reach Peak Bloom",
+      "summary": "The University of Washington's iconic cherry blossom trees reached peak bloom on March 20, 2026. The 29 Yoshino cherry trees on the UW Quad are now in full display, marking the arrival of spring in Seattle.",
+      "source": "University of Washington / KUOW",
+      "url": "https://www.washington.edu/news/2026/03/06/peak-bloom-predictions-are-in-for-uws-cherry-trees/",
+      "category": "lifestyle"
+    },
+    {
+      "title": "Landslide Blocks Northbound I-5 Near Bellingham",
+      "summary": "A landslide blocked all northbound lanes of I-5 near Bellingham late Thursday night (March 19), closing the highway just north of North Lake Samish Drive. Approximately 3,000 cubic yards of debris covered the roadway.",
+      "source": "FOX 13 Seattle / Bellingham Herald",
+      "url": "https://www.fox13seattle.com/news/landslide-blocks-northbound-i5-bellingham",
+      "category": "traffic"
+    },
+    {
+      "title": "Blazing Bagels Closing All Locations Amid Bankruptcy",
+      "summary": "Beloved Seattle bagel chain Blazing Bagels is closing all locations after filing for Chapter 7 bankruptcy. The company, which operated five locations across the Seattle area, cited rising costs and decreased foot traffic.",
+      "source": "Seattle Times / KING 5",
+      "url": "https://www.seattletimes.com/business/blazing-bagels-closing-bankruptcy/",
+      "category": "business"
+    },
+    {
+      "title": "West Seattle Recycle/Reuse/Shred Event Today",
+      "summary": "The West Seattle Junction Association is hosting a free recycling and shredding event today from 9 AM to 1 PM at the Junction Plaza Park. Residents can bring documents for shredding and items for recycling.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/03/recycle-event-west-seattle/",
+      "category": "community"
+    },
+    {
+      "title": "Hero Passenger Stops Bus After Driver Medical Emergency",
+      "summary": "A King County Metro bus passenger is being hailed as a hero after taking control of the bus when the driver suffered a medical emergency in downtown Seattle. No injuries were reported.",
+      "source": "KOMO News / KIRO 7",
+      "url": "https://komonews.com/news/local/hero-passenger-stops-bus-driver-emergency",
+      "category": "community"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly sunny with slight chance of rain",
+    "high": 49,
+    "low": 38,
+    "conditions": "Partly Cloudy"
+  }
+}

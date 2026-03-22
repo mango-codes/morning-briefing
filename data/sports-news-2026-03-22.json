@@ -1,0 +1,90 @@
+{
+  "date": "2026-03-21",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Cole Young hits two homers for Mariners",
+          "summary": "Prospect Cole Young showcased his power with two home runs in spring training action",
+          "url": "https://www.mlb.com/mariners"
+        }
+      ],
+      "last_game": {
+        "opponent": "Cactus League",
+        "result": "10-17 record",
+        "highlights": "Spring training ongoing"
+      },
+      "next_game": {
+        "opponent": "TBD",
+        "date": "Opening Day 2026",
+        "location": "T-Mobile Park"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks exercise 5th-year options on JSN and Witherspoon",
+          "summary": "Team commits to two key young players for 2026 season",
+          "url": "https://www.seahawks.com"
+        }
+      ],
+      "last_game": {
+        "opponent": "New England Patriots",
+        "result": "W 29-13",
+        "highlights": "Super Bowl LX Champions!"
+      },
+      "next_game": {
+        "opponent": "2026 Season",
+        "date": "September 2026",
+        "location": "Lumen Field"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken face Columbus Blue Jackets tonight in wild card race",
+          "summary": "Critical game for playoff positioning",
+          "url": "https://www.nhl.com/kraken"
+        }
+      ],
+      "last_game": {
+        "opponent": "Nashville Predators",
+        "result": "L 3-1",
+        "highlights": "Tough loss on March 19"
+      },
+      "next_game": {
+        "opponent": "Columbus Blue Jackets",
+        "date": "TODAY 2:00 PM",
+        "location": "Away"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders off to strong 3-1-0 start",
+          "summary": "Team showing early season form with 9 points from first 4 games",
+          "url": "https://www.soundersfc.com"
+        }
+      ],
+      "last_game": {
+        "opponent": "Real Salt Lake",
+        "result": "W 2-1",
+        "highlights": "Paul Rothrock scored"
+      },
+      "next_game": {
+        "opponent": "Minnesota United",
+        "date": "Tomorrow 2:30 PM",
+        "location": "Away"
+      }
+    }
+  ]
+}

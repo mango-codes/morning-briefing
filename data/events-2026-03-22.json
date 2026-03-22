@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-21",
+  "category": "events",
+  "today": [
+    {
+      "title": "Band of Horses - 20th Anniversary",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "type": "concert",
+      "price": "$181+",
+      "description": "Celebrating 20 years of 'Everything All The Time' - performing the album in full plus hits",
+      "url": "https://www.showboxpresents.com/events/detail/band-of-horses"
+    },
+    {
+      "title": "Alvin Ailey American Dance Theater",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "type": "theater",
+      "price": "$55+",
+      "description": "New works and repertory favorites - part of STG's Performing Arts Series",
+      "url": "https://www.stgpresents.org/paramount"
+    },
+    {
+      "title": "Bassem Youssef - Belly of the Beast Tour",
+      "time": "7:30 PM",
+      "venue": "Moore Theatre",
+      "type": "comedy",
+      "price": "$47-69",
+      "description": "Egyptian comedian and satirist brings his acclaimed stand-up tour",
+      "url": "https://www.stgpresents.org/moore"
+    },
+    {
+      "title": "Mariah The Scientist",
+      "time": "8:00 PM",
+      "venue": "Showbox SoDo",
+      "type": "concert",
+      "price": "$158+",
+      "description": "R&B singer-songwriter on her 'To Be Eaten Alive' tour",
+      "url": "https://www.showboxpresents.com/events/detail/mariah-the-scientist"
+    },
+    {
+      "title": "Amit Tandon: Halwa",
+      "time": "7:00 PM",
+      "venue": "Neptune Theatre",
+      "type": "comedy",
+      "price": "$41-182",
+      "description": "Indian comedian brings his observational humor to Seattle",
+      "url": "https://www.stgpresents.org/neptune"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Band of Horses",
+      "date": "Sunday",
+      "venue": "The Showbox",
+      "type": "concert"
+    },
+    {
+      "title": "Alvin Ailey American Dance Theater",
+      "date": "Sunday",
+      "venue": "Paramount Theatre",
+      "type": "theater"
+    },
+    {
+      "title": "Pacific Northwest Ballet: Firebird",
+      "date": "Sunday",
+      "venue": "McCaw Hall",
+      "type": "theater"
+    }
+  ]
+}

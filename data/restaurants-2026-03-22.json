@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-21",
+  "category": "restaurants",
+  "restaurants": [
+    {
+      "name": "Revel",
+      "neighborhood": "Fremont",
+      "cuisine": "Korean Fusion",
+      "price": "$$",
+      "vibes": ["🔥 Open Kitchen", "🍜 Shareable Plates", "🎉 Lively"],
+      "whyFun": "Chef Rachel Yang's creative Korean comfort food with a massive open kitchen. Perfect for sharing and the energy is always buzzing.",
+      "reservationUrl": "https://www.opentable.com/r/revel-seattle"
+    },
+    {
+      "name": "The Ballard Cut",
+      "neighborhood": "Ballard",
+      "cuisine": "Steakhouse",
+      "price": "$$$",
+      "vibes": ["🥃 Whiskey Bar", "🥩 Steakhouse", "✨ Upscale Casual"],
+      "whyFun": "Farm-to-table steakhouse with an incredible Japanese whiskey selection. Upscale but approachable, great for a celebratory night.",
+      "reservationUrl": "https://www.opentable.com/r/the-ballard-cut-seattle"
+    },
+    {
+      "name": "Grappa",
+      "neighborhood": "Queen Anne",
+      "cuisine": "Italian",
+      "price": "$$",
+      "vibes": ["🍝 Handmade Pasta", "🍷 Wine Bar", "💕 Romantic"],
+      "whyFun": "Upper Queen Anne's hidden gem with fresh handmade pasta and an extensive grappa and wine list. Intimate and perfect for date night.",
+      "reservationUrl": "https://www.opentable.com/r/grappa-seattle"
+    }
+  ]
+}
