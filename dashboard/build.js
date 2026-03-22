@@ -527,8 +527,9 @@ function generateListingsSection(title, data, type) {
     
     if (type === 'restaurants' && data.restaurants) {
         items = data.restaurants;
-    } else if (type === 'events' && data.today) {
-        items = data.today;
+    } else if (type === 'events') {
+        // Handle both 'today' and 'events' array structures
+        items = data.today || data.events || [];
         weekendItems = data.this_weekend || [];
     }
     
