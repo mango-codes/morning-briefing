@@ -359,7 +359,7 @@ const template = `<!DOCTYPE html>
     <div class="newspaper">
         <header class="masthead">
             <div class="masthead-subtitle">Your Personal Morning Dashboard</div>
-            <h1 class="masthead-title">The Morning Briefing</h1>
+            <h1 class="masthead-title">James' Morning Briefing</h1>
             <div class="masthead-date">{{DAY_OF_WEEK}}, {{DATE_DISPLAY}}</div>
         </header>
         
