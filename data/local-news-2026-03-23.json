@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-23",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "I-405 Construction Impacts Shift South as Work Continues",
+      "summary": "WSDOT reports that construction impacts have shifted south on I-405 with ongoing work from March 20-23. The work includes tunnel maintenance causing longer backups approaching Bellevue in both directions, with congestion extending throughout the I-405 corridor. Delays are also possible on SR 520 ramps connecting to southbound I-405.",
+      "source": "WSDOT",
+      "url": "https://wsdot.wa.gov/about/news/2026/construction-impacts-shift-south-i-405-work-continues-march-20-23",
+      "category": "traffic"
+    },
+    {
+      "title": "Multi-Vehicle Collision Blocks All Lanes of Northbound I-5 Near Sea-Tac Airport",
+      "summary": "All lanes of northbound I-5 near the Seattle-Tacoma International Airport were blocked early Monday morning due to a multi-vehicle collision. Commuters faced significant delays during the morning rush hour.",
+      "source": "KIRO 7",
+      "url": "https://www.kiro7.com/news/local/",
+      "category": "traffic"
+    },
+    {
+      "title": "West Seattle Fireworks Mistaken for Gunfire",
+      "summary": "Reports of possible gunfire in the Beach Drive/Alki area of West Seattle prompted multiple 911 calls. Seattle Police investigated and determined the sounds were fireworks, not gunfire. A parked ambulance crew confirmed seeing fireworks in the area.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/03/23/",
+      "category": "crime"
+    },
+    {
+      "title": "Sea-Tac Airport Wrapping Up $399 Million Concourse C Expansion",
+      "summary": "As the FIFA World Cup in Seattle draws near, Seattle-Tacoma International Airport is completing its roughly $399 million expansion project on Concourse C. The expansion will help accommodate increased passenger traffic for the major international event.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/home",
+      "category": "business"
+    },
+    {
+      "title": "Seattle Community Members Gather to Discuss Youth and Gun Violence",
+      "summary": "Nearly 50 community members gathered to discuss youth and gun violence, with speakers emphasizing that collaboration and trust-building offer hope for reducing violence affecting young people in Seattle. The meeting focused on finding community-based solutions.",
+      "source": "The Seattle Today",
+      "url": "https://theseattletoday.com/",
+      "category": "community"
+    },
+    {
+      "title": "Harbor Seal Recovering After Being Shot in Face",
+      "summary": "A harbor seal is recovering after being shot in the face in the Seattle area. The incident is under investigation by authorities. Video coverage available on KIRO 7.",
+      "source": "KIRO 7",
+      "url": "https://www.kiro7.com/video-testing/",
+      "category": "other"
+    },
+    {
+      "title": "Vandals Slash Tires in Snohomish",
+      "summary": "Vandals targeted vehicles in Snohomish, slashing tires in a recent incident. Local authorities are investigating the vandalism.",
+      "source": "KIRO 7",
+      "url": "https://www.kiro7.com/video-testing/",
+      "category": "crime"
+    }
+  ],
+  "weather": {
+    "forecast": "Sunny and clear today with temperatures rising through the day. Perfect spring weather with no precipitation expected.",
+    "high": 52,
+    "low": 35,
+    "conditions": "Sunny",
+    "alert": null,
+    "details": {
+      "currentTemp": 39,
+      "feelsLike": 38,
+      "humidity": 79,
+      "windSpeed": 2,
+      "windDirection": "NNE",
+      "sunrise": "7:06 AM",
+      "sunset": "7:27 PM"
+    }
+  }
+}

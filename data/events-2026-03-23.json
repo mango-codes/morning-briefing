@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-23",
+  "category": "events",
+  "today": [
+    {
+      "title": "Drug Church x White Reaper",
+      "type": "concert",
+      "time": "6:00 PM",
+      "venue": "Neumos",
+      "description": "Hardcore punk meets garage rock. Drug Church teams up with White Reaper for an energetic night. With support from Spy and Death Lens.",
+      "url": "https://www.axs.com/events/1257393/drug-church-x-white-reaper-tickets",
+      "price": "$25+"
+    },
+    {
+      "title": "Ashnikko",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "Genre-bending pop artist Ashnikko brings her high-energy show to Seattle with special guest Princess Nokia.",
+      "url": "https://www.axs.com/events/1139561/ashnikko-tickets",
+      "price": "$40+"
+    },
+    {
+      "title": "Tractor Tavern Square Dance w/ Atlas String Band",
+      "type": "concert",
+      "time": "6:30 PM",
+      "venue": "Tractor Tavern",
+      "description": "A lively Monday night square dance with live old-time music from Atlas String Band. All skill levels welcome.",
+      "url": "https://www.ticketmaster.com/venue/123019",
+      "price": "$10+"
+    },
+    {
+      "title": "Dionysus (Seattle Public Theater)",
+      "type": "theater",
+      "time": "7:30 PM",
+      "venue": "Seattle Public Theater at the Bathhouse",
+      "description": "Meet Diane, a permaculture gardener with supernatural abilities — the Greek god Dionysus returned to gather followers and restore Earth.",
+      "url": "https://www.seattlepublictheater.org/calendar-2",
+      "price": "$25+"
+    },
+    {
+      "title": "Teatro ZinZanni: Hollywood & Vine",
+      "type": "theater",
+      "time": "7:00 PM",
+      "venue": "Teatro ZinZanni (SoDo)",
+      "description": "A spectacular mix of world-renowned cirque, comedy, and cuisine. Part circus, part dinner theatre, described as 'the Kit Kat Klub on acid.'",
+      "url": "https://zinzanni.com/seattle/",
+      "price": "$99+"
+    },
+    {
+      "title": "Lang Lang Recital (Seattle Symphony)",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Benaroya Hall - Taper Auditorium",
+      "description": "World-renowned pianist Lang Lang performs an evening of solo piano works.",
+      "url": "https://www.seattlesymphony.org/concerttickets/calendar",
+      "price": "$75+"
+    },
+    {
+      "title": "Jazz at The Royal Room",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "The Royal Room (Columbia City)",
+      "description": "Live jazz performances in an intimate Columbia City venue featuring local and touring musicians.",
+      "url": "https://theroyalroomseattle.com/",
+      "price": "$15+"
+    },
+    {
+      "title": "Open Mic Night at The Triple Door",
+      "type": "comedy",
+      "time": "8:00 PM",
+      "venue": "The Triple Door",
+      "description": "Weekly open mic comedy night featuring up-and-coming local comedians.",
+      "url": "https://www.thetripledoor.net/",
+      "price": "$5-10"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Seattle Color Festival - Holi 2026",
+      "date": "Saturday, March 28",
+      "type": "festival",
+      "time": "11:00 AM - 4:00 PM",
+      "venue": "Mural Amphitheatre at Seattle Center",
+      "description": "Seattle's largest Holi celebration! Color festival celebrating the arrival of spring with music, dancing, and vibrant colored powders. All proceeds go to AmPowering charity.",
+      "url": "https://www.eventbrite.com/e/seattle-color-festival-holi-2026-tickets-1981915860691",
+      "price": "$15-25"
+    },
+    {
+      "title": "INZO - MIRRORVERSE TOUR",
+      "date": "Saturday, March 28",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "WAMU Theater",
+      "description": "Electronic music producer INZO brings his MIRRORVERSE tour with special guests What So Not, Know Good, Zen Selekta, and Blookah.",
+      "url": "https://www.wamutheater.com/events/inzo-2026",
+      "price": "$35+"
+    },
+    {
+      "title": "Monaleo",
+      "date": "Sunday, March 29",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Houston rapper Monaleo brings her 'Who Did The Body Tour' to Seattle. Known for her confident flow and energetic performances.",
+      "url": "https://www.ticketmaster.com/monaleo-tickets/artist/2814803",
+      "price": "$30+"
+    },
+    {
+      "title": "Matthew Morrison Presents: Show Up",
+      "date": "Sunday, March 29",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "Edmonds Center for the Arts",
+      "description": "Tony Award nominee Matthew Morrison (Glee) presents an evening blending jazz-infused pop, timeless classics, Broadway hits and heartfelt originals.",
+      "url": "https://www.edmondscenterforthearts.org/",
+      "price": "$45+"
+    },
+    {
+      "title": "Baba Yaga",
+      "date": "Sunday, March 29",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Sunset Tavern",
+      "description": "Indie/folk performance at the intimate Sunset Tavern in Ballard.",
+      "url": "https://www.songkick.com/concerts/42802628-inzo-us-at-wamu-theater",
+      "price": "$15+"
+    }
+  ]
+}

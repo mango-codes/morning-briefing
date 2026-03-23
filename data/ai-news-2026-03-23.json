@@ -1,0 +1,79 @@
+[
+  {
+    "headline": "Musk announces Terafab chip plant in Austin for AI and robotics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+    "published": "2026-03-22",
+    "summary": "Elon Musk is building a massive chip fabrication plant in Texas to produce chips at scale for robotics, AI, and space-based data centers."
+  },
+  {
+    "headline": "Meta's Zuckerberg reportedly building AI CEO agent to help run the company",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/898804/ai-ceo-mark-zuckerberg",
+    "published": "2026-03-23",
+    "summary": "According to the Wall Street Journal, Mark Zuckerberg is developing an AI agent to assist with CEO responsibilities at Meta."
+  },
+  {
+    "headline": "Trump Administration releases National Policy Framework on Artificial Intelligence",
+    "source": "Sullivan & Cromwell LLP",
+    "url": "https://www.sullcrom.com/insights/memo/2026/March/White-House-Releases-National-Policy-Framework-AI",
+    "published": "2026-03-23",
+    "summary": "The White House released a legislative blueprint for national AI policy on March 20, 2026, establishing framework for regulation and development."
+  },
+  {
+    "headline": "Study finds AI can make humans more creative",
+    "source": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+    "published": "2026-03-23",
+    "summary": "New research from Swansea University suggests AI acts as a creative collaborator rather than just replacing human work."
+  },
+  {
+    "headline": "Pentagon adopts Palantir's Maven AI as core US military system",
+    "source": "Denver Gazette / Reuters",
+    "url": "https://www.denvergazette.com/2026/03/21/pentagon-to-adopt-palantir-ai-as-core-us-military-system/",
+    "published": "2026-03-21",
+    "summary": "Palantir's Maven AI system becomes an official program of record, locking in long-term use of its weapons-targeting technology across the US military."
+  },
+  {
+    "headline": "OpenAI releases GPT-5.4 mini and nano with near-flagship performance",
+    "source": "ZDNET",
+    "url": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
+    "published": "2026-03-17",
+    "summary": "OpenAI launched smaller, faster models designed for low-latency applications like coding assistants and subagents at much lower cost."
+  },
+  {
+    "headline": "Anthropic launches Claude Code Channels for Discord and Telegram",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+    "published": "2026-03-19",
+    "summary": "Anthropic announced Claude Code Channels, allowing users to message Claude Code directly through Discord and Telegram messaging apps."
+  },
+  {
+    "headline": "Anthropic's Claude gains market share as business subscriptions grow 4.9%",
+    "source": "The Register",
+    "url": "https://www.theregister.com/2026/03/19/anthropic_claude_market_share/",
+    "published": "2026-03-18",
+    "summary": "Anthropic saw business software subscriptions grow while OpenAI's share fell 1.5% in February, according to Ramp data."
+  },
+  {
+    "headline": "Google expands Gemini features across Workspace apps",
+    "source": "Google Blog",
+    "url": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
+    "published": "2026-03-19",
+    "summary": "Gemini now helps users write documents, create spreadsheets, and design presentations faster in Docs, Sheets, Slides and Drive."
+  },
+  {
+    "headline": "Microsoft rolls back Copilot AI entry points in Windows 11",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "published": "2026-03-20",
+    "summary": "Microsoft announced changes to reduce the number of Copilot entry points in Windows 11, dialing back AI assistant integration."
+  },
+  {
+    "headline": "NVIDIA sees $1 trillion AI chip revenue opportunity through 2027",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-set-reveal-new-chips-software-ai-megaconference-gtc-2026-03-16/",
+    "published": "2026-03-16",
+    "summary": "Nvidia outlined strategy for AI inference chips with projected revenue opportunity reaching at least $1 trillion by 2027."
+  }
+]

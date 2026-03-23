@@ -1,0 +1,111 @@
+{
+  "date": "2026-03-23",
+  "timestamp": "2026-03-23T14:00:00Z",
+  "region": "global",
+  "headlines": [
+    {
+      "category": "Middle East Crisis",
+      "priority": "high",
+      "title": "US-Iran War Escalates: Trump Issues Ultimatum on Strait of Hormuz",
+      "summary": "President Trump has issued an ultimatum demanding Iran fully reopen the Strait of Hormuz by Monday night or face US strikes on Iranian power plants. Iran has effectively closed the strategic waterway by attacking ships and reportedly laying mines, causing a major crisis in global energy markets. Iranian officials have threatened to attack critical civilian infrastructure in response.",
+      "sources": ["The Guardian", "The New York Times", "Reuters"],
+      "keyPoints": [
+        "US warns Americans worldwide to show 'increased caution'",
+        "Iran threatens to destroy key infrastructure after Trump's power plant threat",
+        "Strait of Hormuz closure causing major disruption to global energy markets",
+        "UK Prime Minister Keir Starmer and President Trump spoke by phone about the crisis"
+      ]
+    },
+    {
+      "category": "Middle East Crisis",
+      "priority": "high",
+      "title": "Israel Launches Fresh Strikes on Tehran and Beirut",
+      "summary": "The Israeli military has conducted fresh strikes on Tehran and Beirut, stating that its campaign against Hezbollah in Lebanon has 'only just begun.' The conflict continues to intensify with trading strikes between US-Israel and Iran.",
+      "sources": ["The Guardian", "ISW"],
+      "keyPoints": [
+        "Israeli military strikes target Tehran and Beirut",
+        "Campaign against Hezbollah described as 'only just beginning'",
+        "Projectile strikes reported on vessels off coast of UAE"
+      ]
+    },
+    {
+      "category": "Russia-Ukraine War",
+      "priority": "high",
+      "title": "Russia Begins Spring-Summer 2026 Offensive",
+      "summary": "Russian forces have likely begun their anticipated Spring-Summer 2026 offensive against the Ukrainian Fortress Belt in Donetsk Oblast. Russian strikes on port infrastructure in Odesa have intensified dramatically, with over 180 strikes since the start of 2026 compared to 150 for all of 2025.",
+      "sources": ["ISW", "Reuters", "Al Jazeera"],
+      "keyPoints": [
+        "Russian offensive against Ukrainian Fortress Belt underway",
+        "Over 180 port infrastructure strikes in 2026 vs 150 in all of 2025",
+        "Ukraine-US talks concluded in Florida; Russia did not attend",
+        "Zelenskyy urges allies to maintain sanctions pressure on Russia"
+      ]
+    },
+    {
+      "category": "Global Economy",
+      "priority": "high",
+      "title": "Global Markets Slide as Gulf War Intensifies",
+      "summary": "World markets have rapidly reversed course as the conflict in the Middle East intensifies. Japan's Nikkei fell 3.5% and Chinese blue chips faced heavy losses. Analysts warn that if oil prices hit $100/barrel, global growth could drop 0.2 percentage points to 2.8% while inflation rises to 3.8%.",
+      "sources": ["Reuters", "The Guardian"],
+      "keyPoints": [
+        "Japan's Nikkei fell 3.5% amid Gulf war escalation",
+        "Chinese markets face heaviest beating since US tariffs",
+        "Oil price surge threatens global growth and inflation targets",
+        "US Treasury issued short-term waiver for Iranian oil in transit"
+      ]
+    },
+    {
+      "category": "Asia Pacific",
+      "priority": "medium",
+      "title": "China Bans Fuel Exports; Asian Supply Chains Shift",
+      "summary": "China has banned fuel exports to shore up its domestic market amid rising energy costs. Thailand and Vietnam have also restricted fuel exports. European gasoline is now heading to Asia as the Iran war sparks supply fears. Traders are looking to India as Asia's second-largest fuel exporter.",
+      "sources": ["Reuters"],
+      "keyPoints": [
+        "China bans fuel exports to protect domestic supply",
+        "Thailand and Vietnam impose export restrictions",
+        "European gasoline redirected to Asian markets",
+        "India becomes key alternative supplier"
+      ]
+    },
+    {
+      "category": "Asia Pacific",
+      "priority": "medium",
+      "title": "US-Japan Defense Partnership Expands Missile Production",
+      "summary": "A US-led defense manufacturing partnership has agreed to launch a new missile motor production program with Japan and advance drone cooperation. The move comes as allies build missiles and drones closer to Asia's flashpoints.",
+      "sources": ["Reuters"],
+      "keyPoints": [
+        "New missile motor production program with Japan",
+        "Expanded drone cooperation initiatives",
+        "Defense manufacturing brought closer to regional flashpoints"
+      ]
+    },
+    {
+      "category": "Asia Pacific",
+      "priority": "low",
+      "title": "Vietnam Communist Party Secures 97% of Assembly Seats",
+      "summary": "Vietnam's Communist Party won nearly 97% of the 500 seats in the National Assembly according to results released by the parliament.",
+      "sources": ["Reuters"],
+      "keyPoints": [
+        "Communist Party dominance confirmed in parliamentary elections",
+        "97% of 500 National Assembly seats secured"
+      ]
+    }
+  ],
+  "marketImpact": {
+    "oilPrices": "Rising sharply due to Strait of Hormuz closure",
+    "asianMarkets": "Significant declines, Nikkei down 3.5%",
+    "inflationForecast": "Could rise 0.7 percentage points to 3.8% if oil hits $100",
+    "growthForecast": "Could fall 0.2 percentage points to 2.8%"
+  },
+  "researchMetadata": {
+    "sourcesSearched": 4,
+    "queries": [
+      "major world news today global headlines March 2026",
+      "Russia Ukraine war news March 2026 latest developments",
+      "global markets economy news March 2026",
+      "Asia Pacific news China Japan India March 2026"
+    ],
+    "researcher": "OpenClaw Agent",
+    "researchTime": "2026-03-23T14:00:00Z"
+  }
+}
