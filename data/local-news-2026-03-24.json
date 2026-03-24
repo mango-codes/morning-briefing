@@ -1,0 +1,132 @@
+{
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T14:10:00Z",
+  "weather": {
+    "location": "Seattle, WA",
+    "current": {
+      "temperatureF": 44,
+      "temperatureC": 7,
+      "feelsLikeF": 41,
+      "feelsLikeC": 5,
+      "condition": "Light rain, mist",
+      "humidity": "93%",
+      "wind": "5 mph SSE",
+      "cloudCover": "100%",
+      "precipitation": "0.0 inches"
+    },
+    "forecast": {
+      "today": {
+        "highF": 52,
+        "lowF": 41,
+        "condition": "Rainy with moderate rain at times",
+        "sunrise": "7:04 AM",
+        "sunset": "7:28 PM"
+      },
+      "tomorrow": {
+        "highF": 48,
+        "lowF": 39,
+        "condition": "Partly cloudy, clearing up",
+        "sunrise": "7:02 AM",
+        "sunset": "7:30 PM"
+      }
+    }
+  },
+  "news": {
+    "headlines": [
+      {
+        "source": "KOMO News",
+        "title": "Deputies named in Cinebar deadly shooting as independent investigators continue case",
+        "summary": "Deputy Tyson Brown (14 years with department, patrol) and Deputy Jared Kasinger (12 years, K-9 unit) identified in Lewis County Sheriff's Office shooting incident on State Route 508.",
+        "url": "https://komonews.com/news/local/deputies-named-lewis-county-sheriffs-office-lcso-washington-state-office-independent-investigations",
+        "category": "Local"
+      },
+      {
+        "source": "KOMO News",
+        "title": "King County weighs whether 16-year-old double murder suspect will be charged as adult",
+        "summary": "Prosecutors seeking to charge teenage suspect as adult in connection with murders of two Rainier Beach high school students at bus stop.",
+        "url": "https://komonews.com/news/local/judge-weighs-whether-15-year-old-double-murder-suspect-will-be-charged-as-an-adult",
+        "category": "Local"
+      },
+      {
+        "source": "KOMO News",
+        "title": "Deadly 2024 shooting at Dr. Jose Rizal Park still unsolved",
+        "summary": "Seattle police seeking public tips in fatal shooting at North Beacon Hill park from August 26, 2024. Victim identified as Dylan Dingui.",
+        "url": "https://komonews.com/news/local/dr-jose-rizal-park-north-beacon-hill-spd-law-enforcement-2024-shooting",
+        "category": "Local"
+      },
+      {
+        "source": "KOMO News",
+        "title": "Controversial verdict in killing of pregnant woman sparks debate over 'Born Alive Rule'",
+        "summary": "2023 shooting death of Eina Kwon in Belltown drawing attention to Washington's 'born alive' rule after not guilty by reason of insanity verdict for Cordell Goosby.",
+        "url": "https://komonews.com/news/local/controversial-verdict-sparks-debate-over-states-born-alive-rule",
+        "category": "Local"
+      },
+      {
+        "source": "KING 5",
+        "title": "Skagit Valley colorblind tulip farmer's story inspires children's book",
+        "summary": "Local farmer's unique perspective on tulip farming becomes inspiration for children's literature.",
+        "url": "https://www.king5.com/article/news/local/skagit-valley-colorblind-tulip-farmers-story-inspires-childrens-book",
+        "category": "Local"
+      },
+      {
+        "source": "KING 5",
+        "title": "When University of Washington cherry trees will hit peak bloom",
+        "summary": "Forecast for UW's famous cherry blossoms and peak viewing times this spring.",
+        "url": "https://www.king5.com/article/news/local/when-university-of-washington-cherry-trees-will-hit-peak-bloom-seattle",
+        "category": "Local"
+      },
+      {
+        "source": "KING 5",
+        "title": "Seattle spring homebuying trends",
+        "summary": "Real estate market update for Seattle area spring season.",
+        "url": "https://www.king5.com/article/money/markets/real-estate/seattle-spring-homebuying-trends",
+        "category": "Business"
+      },
+      {
+        "source": "KING 5",
+        "title": "Seattle company transforms sports for fans with visual disabilities",
+        "summary": "Local company developing technology to make sports more accessible for visually impaired fans.",
+        "url": "https://www.king5.com/article/entertainment/television/programs/evening/seattle-company-transforms-sports-for-fans-with-visual-disabilities",
+        "category": "Technology"
+      },
+      {
+        "source": "KING 5",
+        "title": "Dick's Drive-In hit with class action lawsuit over rest and meal breaks",
+        "summary": "Popular Seattle burger chain facing lawsuit alleging unpaid wages and missed breaks.",
+        "url": "https://www.king5.com/article/news/local/dicks-drive-in-hit-class-action-lawsuit-rest-meal-breaks-upaid-wages",
+        "category": "Business"
+      },
+      {
+        "source": "Capitol Hill Seattle News",
+        "title": "SPD Chief Shon Barnes to hold 'Our City, Our Safety 2026' community meeting on Capitol Hill",
+        "summary": "Community meeting next month as Mayor Katie Wilson plans expansion of Real Time Crime Center cameras.",
+        "url": "https://www.capitolhillseattle.com/",
+        "category": "Community"
+      },
+      {
+        "source": "SPD Blotter",
+        "title": "Assault on Broadway and East Denny Way",
+        "summary": "Officers responded to stabbing incident on Capitol Hill. Victim received medical assistance.",
+        "url": "https://spdblotter.seattle.gov/2026/03/17/monday-march-16-2026/",
+        "category": "Public Safety"
+      },
+      {
+        "source": "Seahawks.com",
+        "title": "Seahawks re-sign nose tackle Brandon Pili",
+        "summary": "Team re-signed Brandon Pili on March 16, 2026.",
+        "url": "https://www.seahawks.com/",
+        "category": "Sports"
+      },
+      {
+        "source": "EverOut Seattle",
+        "title": "The Best Things To Do in Seattle This Month: March 2026",
+        "summary": "Emerald City Comic Con, Taste Washington, and more events happening around Seattle.",
+        "url": "https://everout.com/seattle/articles/the-best-things-to-do-in-seattle-this-month-march-2026/c6255/",
+        "category": "Events"
+      }
+    ]
+  },
+  "traffic": {
+    "notes": "All lanes of northbound I-5 reopened at S 188th Street in SeaTac after crash cleared."
+  }
+}

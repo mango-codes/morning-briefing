@@ -3,12 +3,22 @@
 
 set -e
 
+# Load environment variables from .bashrc
+source ~/.bashrc 2>/dev/null || true
+
 BRIEFING_DIR="/root/.openclaw/workspace/morning-briefing"
 DATE=$(date +%Y-%m-%d)
 GITHUB_TOKEN="${GITHUB_TOKEN:-}"
 
+# If still not set, try to load directly
+if [ -z "$GITHUB_TOKEN" ]; then
+    # Extract token from .bashrc
+    GITHUB_TOKEN=$(grep "export GITHUB_TOKEN=" ~/.bashrc 2>/dev/null | head -1 | sed 's/export GITHUB_TOKEN="\(.*\)"/\1/')
+fi
+
 if [ -z "$GITHUB_TOKEN" ]; then
     echo "❌ Error: GITHUB_TOKEN environment variable not set"
+    echo "   Please set it in ~/.bashrc: export GITHUB_TOKEN=your_token"
     exit 1
 fi
 

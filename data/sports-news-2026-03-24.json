@@ -1,0 +1,138 @@
+{
+  "date": "2026-03-24",
+  "teams": {
+    "mariners": {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Mariners Wrap Up 2026 Spring Training, Equipment Truck Headed to Seattle",
+          "source": "MLB.com",
+          "published": "2026-03-23",
+          "summary": "The Mariners concluded their Cactus League schedule with a 10-3 loss to the Padres at Peoria Stadium. The equipment truck has already departed for Seattle as the team finalizes roster decisions ahead of Opening Day.",
+          "url": "https://www.mlb.com/news/mariners-2026-spring-training-recap"
+        },
+        {
+          "title": "Mariners.TV Launches as New Broadcasting Home for 2026 Season",
+          "source": "The Athletic",
+          "published": "2026-03-12",
+          "summary": "Seattle moved away from ROOT Sports in favor of Mariners.TV, a new streaming service operated by MLB itself. Fans will need to adjust to the new platform for watching games this season.",
+          "url": "https://www.nytimes.com/athletic/7109769/2026/03/12/seattle-mariners-cal-raleigh-how-to-watch-2026/"
+        },
+        {
+          "title": "Prospect Luke Stevenson Shows Mixed Results in Spring Breakout",
+          "source": "The Athletic",
+          "published": "2026-03-22",
+          "summary": "Catcher Luke Stevenson, the Mariners' second pick (No. 35) in the 2025 draft, had a rough showing with multiple bounced throws and two high-launch-angle outs during spring training action.",
+          "url": "https://www.nytimes.com/athletic/7137145/2026/03/22/mlb-prospects-scouting-seattle-mariners-milwaukee-brewers-spring-breakout/"
+        }
+      ],
+      "status": "Spring Training Complete - Opening Day Approaching"
+    },
+    "seahawks": {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Jaxon Smith-Njigba Becomes Highest-Paid WR in NFL with $168.6M Extension",
+          "source": "The Athletic",
+          "published": "2026-03-23",
+          "summary": "The Seahawks agreed to a four-year, $168.6 million deal with $120 million guaranteed for Smith-Njigba, making him the highest-paid wide receiver in the NFL on an annual basis ($42.15M AAV). The 2025 NFL Offensive Player of the Year and first-team All-Pro led the league with 1,793 receiving yards and helped lead Seattle to a Super Bowl 60 championship.",
+          "url": "https://www.nytimes.com/athletic/7140621/2026/03/23/jaxon-smith-njigba-contract-extension-seahawks-nfl-news/"
+        },
+        {
+          "title": "Seahawks Sign RB Emanuel Wilson in Free Agency",
+          "source": "Seahawks.com",
+          "published": "2026-03-13",
+          "summary": "Seattle added running back Emanuel Wilson to the roster as part of their 2026 free agency moves.",
+          "url": "https://www.seahawks.com/team/free-agency/"
+        },
+        {
+          "title": "Seahawks Re-Sign WR Cody White",
+          "source": "Seahawks.com",
+          "published": "2026-03-18",
+          "summary": "The team brought back wide receiver Cody White on a new deal, adding depth to the receiver corps.",
+          "url": "https://www.seahawks.com/team/free-agency/"
+        },
+        {
+          "title": "Seattle Spent $178M on Three External Free Agents Including Darnold, Lawrence, Kupp",
+          "source": "The Athletic",
+          "published": "2026-03-16",
+          "summary": "The Seahawks made big splashes in free agency, signing QB Sam Darnold, edge rusher DeMarcus Lawrence, and receiver Cooper Kupp to bolster their roster for a Super Bowl defense.",
+          "url": "https://www.nytimes.com/athletic/7120624/2026/03/16/seahawks-free-agency-update-2026/"
+        }
+      ],
+      "status": "Super Bowl 60 Champions - Active Free Agency Period"
+    },
+    "kraken": {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken to Play in 2026 NHL Global Series in Helsinki",
+          "source": "Sporting News",
+          "published": "2026-03-23",
+          "summary": "The NHL announced the Kraken will face the Carolina Hurricanes in the 2026 NHL Global Series at Veikkaus Arena in Helsinki, Finland on November 12 and 14. Both teams feature several Finnish players.",
+          "url": "https://www.sportingnews.com/us/nhl/seattle-kraken/news/2026-nhl-global-series-location-revealed/cd15ae17bcf16508002874a3"
+        },
+        {
+          "title": "Kraken Fall 5-2 to Blue Jackets, Columbus Extends Point Streak to 12 Games",
+          "source": "ESPN",
+          "published": "2026-03-21",
+          "summary": "Seattle gave up three first-period goals in a 5-2 loss to Columbus. The Blue Jackets continued their impressive point streak with the victory.",
+          "url": "https://www.espn.com/nhl/recap?gameId=401803455"
+        },
+        {
+          "title": "Kraken Acquire Forward Bobby McMann from Maple Leafs at Trade Deadline",
+          "source": "The Hockey Writers",
+          "published": "2026-03-19",
+          "summary": "At the March 6 trade deadline, Seattle sent a 2026 fourth-round pick and a 2027 second-round pick to Toronto in exchange for forward Bobby McMann.",
+          "url": "https://thehockeywriters.com/kraken-news-rumors-murray-nyman-mcmann-and-more/"
+        },
+        {
+          "title": "Fourth Line Energy Becoming Key to Kraken's Playoff Push",
+          "source": "Davy Jones' Locker Room",
+          "published": "2026-03-15",
+          "summary": "The Kraken's fourth line has been providing consistent energy and production, which could be crucial if Seattle makes a playoff run.",
+          "url": "https://www.davyjoneslockerroom.com/"
+        }
+      ],
+      "status": "Regular Season - Playoff Push"
+    },
+    "sounders": {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders Advance to 2026 Concacaf Champions Cup Quarterfinals with 2-1 Win Over Vancouver",
+          "source": "SoundersFC.com",
+          "published": "2026-03-15",
+          "summary": "Seattle defeated Vancouver 2-1 in Spokane (played at ONE Spokane Stadium due to Lumen Field World Cup preparations) to advance to the Champions Cup quarterfinals. The match featured goals from key players and strong defensive performance.",
+          "url": "https://www.soundersfc.com/news/match-recap-sounders-fc-advances-to-2026-concacaf-champions-cup-quarterfinals-with-2-1-win-over-vancouver-in-spokane"
+        },
+        {
+          "title": "Sounders Announce Four Contract Extensions",
+          "source": "Sounder at Heart",
+          "published": "2026-03-11",
+          "summary": "The club announced a quartet of contract extensions, with all but one player now under club control through at least 2027, signaling long-term commitment to the current core.",
+          "url": "https://www.sounderatheart.com/2026/03/sounders-signings-future/"
+        },
+        {
+          "title": "Sounders Face Minnesota United in Rematch of 2025 Playoff Elimination",
+          "source": "Minnesota United FC",
+          "published": "2026-03-22",
+          "summary": "Seattle traveled to Allianz Field to face Minnesota United for the first time since the Loons knocked them out of the 2025 playoffs. The match carried extra tension given the playoff history between the clubs.",
+          "url": "https://www.mnufc.com/news/know-before-you-go-mnufc-vs-seattle-sounders-march-22-2026"
+        },
+        {
+          "title": "Rotation Expected as Sounders Navigate Packed Schedule",
+          "source": "Sounder at Heart",
+          "published": "2026-03-14",
+          "summary": "Head coach Brian Schmetzer acknowledged significant rotation would be necessary during a stretch of three games in a week and five games in 15 days, all away from Lumen Field.",
+          "url": "https://www.sounderatheart.com/2026/03/sounders-will-likely-rotate-lineup-against-earthquakes/"
+        }
+      ],
+      "status": "Regular Season - Champions Cup Quarterfinals Bound"
+    }
+  }
+}

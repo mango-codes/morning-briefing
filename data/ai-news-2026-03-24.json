@@ -1,0 +1,72 @@
+[
+  {
+    "headline": "Nvidia CEO Jensen Huang Claims 'We've Achieved AGI'",
+    "source": "The Verge / Forbes",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+    "summary": "Nvidia CEO Jensen Huang told Lex Fridman in a podcast that he believes artificial general intelligence has been achieved, though he later walked back the claim. His definition focuses on AI's ability to generate $1 billion in revenue rather than human-like cognition.",
+    "category": "Industry"
+  },
+  {
+    "headline": "Google Begins Testing Gemini Mac App to Rival ChatGPT and Claude",
+    "source": "Bloomberg / 9to5Mac",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-19/google-begins-testing-gemini-mac-app-to-match-chatgpt-and-claude",
+    "summary": "Google is privately beta testing a dedicated Gemini AI app for macOS, looking to compete directly with OpenAI's ChatGPT and Anthropic's Claude desktop applications. The early version includes core features of existing Gemini clients.",
+    "category": "Product"
+  },
+  {
+    "headline": "OpenAI in Talks to Buy Fusion Power from Sam Altman's Helion Energy",
+    "source": "TechCrunch / Axios",
+    "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+    "summary": "OpenAI is negotiating a deal to purchase electricity from Helion Energy, potentially scaling to 50 gigawatts by 2035. Sam Altman stepped down as Helion's board chair to avoid conflicts of interest amid the partnership discussions.",
+    "category": "Business"
+  },
+  {
+    "headline": "Anthropic vs. Pentagon: Legal Battle Over Military AI Use Escalates",
+    "source": "TechCrunch / Reuters",
+    "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "summary": "Anthropic filed suit against the Trump administration after the Pentagon designated the company a 'supply chain risk' for refusing unrestricted military use of its AI. Legal experts say Anthropic appears to have a strong case.",
+    "category": "Policy"
+  },
+  {
+    "headline": "Anthropic Captures 73% of New Enterprise AI Spending",
+    "source": "Axios",
+    "url": "https://www.axios.com/2026/03/18/ai-enterprise-revenue-anthropic-openai",
+    "summary": "According to customer data from Ramp, Anthropic is now capturing over 73% of all spending among companies buying AI tools for the first time, marking a significant shift in the enterprise AI market.",
+    "category": "Business"
+  },
+  {
+    "headline": "Claude Opus 4.6 Released with Enhanced Coding Capabilities",
+    "source": "Anthropic / CNBC",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6",
+    "summary": "Anthropic launched Claude Opus 4.6, its latest AI model featuring improved coding abilities, longer task sustainability, and higher-quality professional outputs. The model shows industry-leading performance in agentic coding and computer use.",
+    "category": "Product"
+  },
+  {
+    "headline": "North Carolina Man Pleads Guilty to $8M AI Music Streaming Fraud",
+    "source": "The Verge / DOJ",
+    "url": "https://www.theverge.com/2026/03/23/ai-music-streaming-fraud-guilty-plea",
+    "summary": "Michael Smith pleaded guilty to creating hundreds of thousands of AI-generated songs and using bots to stream them billions of times, earning over $8 million in fraudulent royalties in one of the largest AI-assisted music fraud cases.",
+    "category": "Legal"
+  },
+  {
+    "headline": "Apple Announces AI-Powered Siri Reimagining for 2026",
+    "source": "Crescendo AI",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "summary": "Apple officially announced a completely reimagined, AI-powered version of Siri set to debut in 2026, featuring context-aware capabilities and 'on-screen awareness' for more natural interactions.",
+    "category": "Product"
+  },
+  {
+    "headline": "OpenAI Acquires Promptfoo to Strengthen AI Security",
+    "source": "NewsBytes / Reuters",
+    "url": "https://www.reuters.com/company/openai-inc/",
+    "summary": "OpenAI announced its acquisition of Promptfoo, an AI security startup focused on testing and securing large language models, as part of its ongoing efforts to enhance AI safety measures.",
+    "category": "Business"
+  },
+  {
+    "headline": "Scientists Study 'AI Societies' to Understand Social Interactions Between Agents",
+    "source": "Nature",
+    "url": "https://www.nature.com/articles/d41586-026-00070-5",
+    "summary": "Researchers are studying forms of 'social' interactions between AI agents to understand whether they exhibit genuine sociological behaviors or merely sophisticated mimicry, with findings published in Nature.",
+    "category": "Research"
+  }
+]

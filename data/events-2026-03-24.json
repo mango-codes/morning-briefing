@@ -1,0 +1,198 @@
+{
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T14:20:00Z",
+  "today": {
+    "date": "Tuesday, March 24, 2026",
+    "events": [
+      {
+        "title": "Machine Girl with Sextile, LustSickPuppy",
+        "category": "Concert",
+        "venue": "Showbox SoDo",
+        "time": "8:00 PM",
+        "url": "https://www.showboxpresents.com/events/all",
+        "description": "Electronic/experimental music show featuring Machine Girl with supporting acts Sextile and LustSickPuppy."
+      },
+      {
+        "title": "Anna Moss (of Handmade Moments) w/ Laurie Shook & Sari Jordan",
+        "category": "Concert",
+        "venue": "Tractor Tavern",
+        "time": "8:00 PM",
+        "price": "$21.99",
+        "url": "https://tractortavern.com/",
+        "description": "Folk/indie singer-songwriter showcase at the historic Tractor Tavern in Ballard. Age 21+."
+      },
+      {
+        "title": "Michael McIntyre",
+        "category": "Comedy",
+        "venue": "Village Theatre - WA",
+        "time": "7:30 PM",
+        "url": "https://seattle.theater/",
+        "description": "Stand-up comedy performance by British comedian Michael McIntyre."
+      },
+      {
+        "title": "Seattle Mariners vs. Cleveland Guardians",
+        "category": "Sports",
+        "venue": "T-Mobile Park",
+        "time": "4:00 PM",
+        "url": "https://www.mlb.com/mariners/schedule",
+        "description": "MLB Spring Training game. Mariners face the Cleveland Guardians at T-Mobile Park."
+      },
+      {
+        "title": "Bryan Bielanski",
+        "category": "Concert",
+        "venue": "Chop Suey",
+        "time": "Evening",
+        "url": "https://www.songkick.com/metro-areas/2846-us-seattle",
+        "description": "Live music performance at Chop Suey in Capitol Hill."
+      },
+      {
+        "title": "Emerald City Comedy Club Special Event",
+        "category": "Comedy",
+        "venue": "Emerald City Comedy Club",
+        "time": "7:30 PM",
+        "url": "https://www-emeraldcitycomedy-com.seatengine.com/events",
+        "description": "Stand-up comedy showcase at Emerald City Comedy Club on Broadway."
+      },
+      {
+        "title": "Seattle Miniature Show",
+        "category": "Arts & Crafts",
+        "venue": "DoubleTree Suites Southcenter",
+        "time": "All Day",
+        "price": "$15 (Children under 12 free)",
+        "url": "https://www.events12.com/seattle/march/",
+        "description": "Exhibits, 40 vendors, and workshops featuring miniature art and collectibles."
+      }
+    ]
+  },
+  "weekend": {
+    "friday": {
+      "date": "Friday, March 27, 2026",
+      "events": [
+        {
+          "title": "Seattle Mariners vs. Cleveland Guardians",
+          "category": "Sports",
+          "venue": "T-Mobile Park",
+          "time": "4:00 PM",
+          "url": "https://allevents.in/seattle/seattle-mariners-vs-cleveland-guardians",
+          "description": "MLB Spring Training game at T-Mobile Park."
+        },
+        {
+          "title": "Dave (David Orobosa Omoregie) at Showbox SODO",
+          "category": "Concert",
+          "venue": "Showbox SoDo",
+          "time": "8:00 PM",
+          "url": "https://allevents.in/seattle/dave-david-orobosa-omoregie-at-showbox-sodo",
+          "description": "UK rapper Dave performs live at Showbox SoDo."
+        },
+        {
+          "title": "UFC Fight Night: Adesanya vs. Pyfer",
+          "category": "Sports",
+          "venue": "Climate Pledge Arena",
+          "time": "4:00 PM / 9:00 PM",
+          "url": "https://allevents.in/seattle/ufc-fight-night-adesanya-vs-pyfer",
+          "description": "UFC Fight Night featuring Israel Adesanya vs. Bo Nickal Pyfer at Climate Pledge Arena."
+        },
+        {
+          "title": "SAM Remix",
+          "category": "Arts & Culture",
+          "venue": "Seattle Art Museum",
+          "time": "7:00 PM",
+          "url": "https://allevents.in/seattle/sam-remix",
+          "description": "The theme is 'Seattle fever dream' - a lively party celebrating the playful soul of the Pacific Northwest."
+        }
+      ]
+    },
+    "saturday": {
+      "date": "Saturday, March 28, 2026",
+      "events": [
+        {
+          "title": "Seattle Color Festival - Holi 2026",
+          "category": "Festival",
+          "venue": "Mural Amphitheatre at Seattle Center",
+          "time": "11:00 AM",
+          "price": "Free",
+          "url": "https://allevents.in/seattle/seattle-color-festival-holi-2026",
+          "description": "The biggest Seattle Color Festival celebrating Holi next to the Space Needle. Annual festival celebrating the arrival of spring."
+        },
+        {
+          "title": "SNEAKER CON SEATTLE",
+          "category": "Convention",
+          "venue": "Seattle Convention Center",
+          "time": "12:00 PM",
+          "price": "$36",
+          "url": "https://allevents.in/seattle/sneaker-con-seattle-march-28-2026",
+          "description": "The greatest sneaker show on earth returns with 200+ vendors, Streetwear & Designer Alley, Cash Out Crew, and exclusive merch."
+        },
+        {
+          "title": "UFC Fight Night: Adesanya vs Pyfer",
+          "category": "Sports",
+          "venue": "Climate Pledge Arena",
+          "time": "9:00 PM",
+          "url": "https://allevents.in/seattle/ufc-fight-night-adesanya-vs-pyfer",
+          "description": "UFC Fight Night main event at Climate Pledge Arena."
+        },
+        {
+          "title": "Gorgon City in Seattle",
+          "category": "Concert",
+          "venue": "Magnuson Park Hangar 30",
+          "time": "7:00 PM",
+          "url": "https://allevents.in/seattle/gorgon-city-in-seattle",
+          "description": "Electronic music duo Gorgon City performs live at Magnuson Park Hangar 30."
+        },
+        {
+          "title": "Grand Kyiv Ballet: Swan Lake",
+          "category": "Theater/Dance",
+          "venue": "Moore Theatre",
+          "time": "4:00 PM",
+          "url": "https://allevents.in/seattle/grand-kyiv-ballet-swan-lake",
+          "description": "The prestigious Grand Kyiv Ballet performs the classic Swan Lake at the historic Moore Theatre."
+        },
+        {
+          "title": "Make-A-Wish Night at T-Mobile Park",
+          "category": "Sports/Charity",
+          "venue": "T-Mobile Park",
+          "time": "6:40 PM",
+          "url": "https://allevents.in/seattle/make-a-wish-night-t-mobile-ballpark",
+          "description": "Seattle Mariners vs. Cleveland Guardians. Kicking off 40 years of life-changing wishes for Make-A-Wish."
+        },
+        {
+          "title": "Seattle Kraken vs. Tampa Bay Lightning",
+          "category": "Sports",
+          "venue": "Climate Pledge Arena",
+          "time": "5:30 PM",
+          "url": "https://www.ticketmaster.com/seattle-kraken-tickets",
+          "description": "NHL action as the Seattle Kraken face the Tampa Bay Lightning."
+        }
+      ]
+    },
+    "sunday": {
+      "date": "Sunday, March 29, 2026",
+      "events": [
+        {
+          "title": "Opening Day on 34th Street - Fremont Sunday Market",
+          "category": "Market/Festival",
+          "venue": "3401 Evanston Ave North (Fremont)",
+          "time": "10:00 AM - 4:00 PM",
+          "url": "https://allevents.in/seattle/opening-day-on-34th-street",
+          "description": "36th season kickoff of the iconic Fremont Sunday Market. Two-block weekly showcase along the Fremont Canal."
+        },
+        {
+          "title": "Seattle Mariners vs. New York Yankees",
+          "category": "Sports",
+          "venue": "T-Mobile Park",
+          "time": "Afternoon/Evening",
+          "url": "https://allevents.in/seattle/seattle-mariners-vs-new-york-yankees",
+          "description": "MLB Spring Training game as the Mariners face the New York Yankees."
+        },
+        {
+          "title": "Ruel at Showbox SODO",
+          "category": "Concert",
+          "venue": "Showbox SoDo",
+          "time": "8:00 PM",
+          "url": "https://allevents.in/seattle/ruel-at-showbox-sodo",
+          "description": "Australian singer-songwriter Ruel performs live at Showbox SoDo."
+        }
+      ]
+    }
+  }
+}
