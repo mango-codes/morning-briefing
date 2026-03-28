@@ -1,0 +1,76 @@
+{
+  "date": "2026-03-28",
+  "source": "AI News Research",
+  "articles": [
+    {
+      "headline": "OpenAI to acquire Astral",
+      "url": "https://openai.com/news/",
+      "source": "OpenAI",
+      "date": "March 19, 2026",
+      "description": "OpenAI announced its acquisition of Astral, expanding its capabilities in the AI space."
+    },
+    {
+      "headline": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4/",
+      "source": "OpenAI",
+      "date": "March 19, 2026",
+      "description": "OpenAI released new smaller, more efficient models in the GPT-5.4 family."
+    },
+    {
+      "headline": "Creating with Sora safely",
+      "url": "https://openai.com/news/",
+      "source": "OpenAI",
+      "date": "March 24, 2026",
+      "description": "OpenAI published safety guidelines and updates for its Sora video generation platform."
+    },
+    {
+      "headline": "Anthropic designated as supply chain risk by Department of War",
+      "url": "https://www.anthropic.com/news/where-stand-department-war",
+      "source": "Anthropic",
+      "date": "March 5, 2026",
+      "description": "Anthropic received a letter designating them as a supply chain risk to national security; the company plans to challenge this in court."
+    },
+    {
+      "headline": "Anthropic introduces Automated Alignment Agent (A3) for Safety Finetuning",
+      "url": "https://alignment.anthropic.com/2026/automated-alignment-agent/",
+      "source": "Anthropic",
+      "date": "March 11, 2026",
+      "description": "A new agentic framework that automatically mitigates safety failures in LLMs with minimal human intervention."
+    },
+    {
+      "headline": "Claude discovers 22 Firefox vulnerabilities",
+      "url": "https://red.anthropic.com/",
+      "source": "Anthropic",
+      "date": "March 2026",
+      "description": "In collaboration with Mozilla, Claude Opus 4.6 discovered 22 Firefox vulnerabilities over two weeks."
+    },
+    {
+      "headline": "Why Wall Street wasn't won over by Nvidia's big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "source": "TechCrunch",
+      "date": "March 21, 2026",
+      "description": "Despite investor fears of an AI bubble, Nvidia's latest conference shows most in the industry aren't concerned."
+    },
+    {
+      "headline": "Google expands personalized Gemini AI to all US users",
+      "url": "https://www.marketingprofs.com/opinions/2026/54448/ai-update-march-20-2026-ai-news-and-views-from-the-past-week",
+      "source": "MarketingProfs",
+      "date": "March 20, 2026",
+      "description": "Google is rolling out its Personal Intelligence feature to all US users, allowing Gemini to draw on data from connected apps."
+    },
+    {
+      "headline": "White House releases national AI policy framework",
+      "url": "https://www.sullcrom.com/insights/memo/2026/March/White-House-Releases-National-Policy-Framework-AI",
+      "source": "Sullivan & Cromwell",
+      "date": "March 20, 2026",
+      "description": "The Trump administration released a national AI policy framework urging Congress to adopt a federally unified, innovation-oriented regime."
+    },
+    {
+      "headline": "Apple hires Google's Lilian Rincon as VP of AI product marketing",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "source": "Reuters",
+      "date": "March 27, 2026",
+      "description": "Apple hired Lilian Rincon from Google to lead product marketing for artificial intelligence."
+    }
+  ]
+}

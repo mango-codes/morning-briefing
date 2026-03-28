@@ -1,0 +1,83 @@
+{
+  "date": "2026-03-28",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    }
+  ],
+  "games_today": [
+    {
+      "team": "Mariners",
+      "sport": "MLB",
+      "opponent": "Cleveland Guardians",
+      "time": "6:40 PM PDT",
+      "location": "T-Mobile Park",
+      "promotion": "Cal Raleigh '60 Home Run' Bobblehead (first 40,000 fans)"
+    },
+    {
+      "team": "Kraken",
+      "sport": "NHL",
+      "opponent": "Buffalo Sabres",
+      "time": "2:30 PM PDT",
+      "location": "@ Buffalo (KeyBank Center)",
+      "broadcast": "ESPN+"
+    }
+  ]
+}

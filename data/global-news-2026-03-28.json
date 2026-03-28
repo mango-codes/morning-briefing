@@ -1,72 +1,92 @@
-[
-  {
-    "headline": "Rubio says US expects to finish Iran war 'in next couple of weeks'",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c1l9vz064nqo",
-    "category": "Middle East",
-    "published": "17 hours ago"
-  },
-  {
-    "headline": "Iran war: Inside Tehran as the civilian toll of US-Israeli strikes rises",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo",
-    "category": "Middle East",
-    "published": "17 hours ago"
-  },
-  {
-    "headline": "Iranian missile wounds US troops at Saudi base",
-    "source": "Associated Press",
-    "url": "https://apnews.com/live/iran-war-israel-trump-03-27-2026",
-    "category": "Middle East",
-    "published": "13 hours ago"
-  },
-  {
-    "headline": "Iran formalizes its chokehold over the Strait of Hormuz",
-    "source": "Associated Press",
-    "url": "https://apnews.com/article/iran-hormuz-shipping-tolls-china-de5159966cde7de7b964b3c2c67eec07",
-    "category": "Middle East",
-    "published": "1 day ago"
-  },
-  {
-    "headline": "Kremlin says US is wrong to condition economic cooperation with Russia on Ukraine peace deal",
-    "source": "Reuters",
-    "url": "https://www.reuters.com/world/europe/kremlin-says-us-is-wrong-condition-economic-cooperation-with-russia-ukraine-2026-03-27/",
-    "category": "Europe",
-    "published": "1 day ago"
-  },
-  {
-    "headline": "Balen Shah: Ex-rapper sworn in as Nepal's prime minister",
-    "source": "BBC",
-    "url": "https://www.bbc.com/news/articles/c895v335xkgo",
-    "category": "Asia",
-    "published": "1 day ago"
-  },
-  {
-    "headline": "US consumer sentiment slides to three-month low as war fans inflation fears",
-    "source": "Reuters",
-    "url": "https://www.reuters.com/markets/econ-world/",
-    "category": "Economy",
-    "published": "1 day ago"
-  },
-  {
-    "headline": "Top brokerages expect S&P 500 to extend rally in 2026 despite Middle East conflict",
-    "source": "Reuters",
-    "url": "https://www.reuters.com/business/finance/",
-    "category": "Business",
-    "published": "15 hours ago"
-  },
-  {
-    "headline": "Asian stocks extend global rout; bonds hammered as war drags on",
-    "source": "Reuters",
-    "url": "https://climateandeconomy.com/2026/03/27/27th-march-2026-todays-round-up-of-economic-news/",
-    "category": "Economy",
-    "published": "1 day ago"
-  },
-  {
-    "headline": "IAEA calls for military restraint after Iran reports attack on nuclear facility",
-    "source": "BBC",
-    "url": "https://www.bbc.co.uk/news/live/cre0vl84qy9t",
-    "category": "Middle East",
-    "published": "13 hours ago"
-  }
-]
+{
+  "date": "2026-03-28",
+  "source": "global-news-research",
+  "headlines": [
+    {
+      "title": "Israeli strike kills journalists in Lebanon, as Yemen says Iran 'dragging country into war'",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/live/cje4x38q8xqt",
+      "category": "Middle East"
+    },
+    {
+      "title": "Iran-backed Houthis join war with attack against Israel",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cd6l5n8jv4yo",
+      "category": "Middle East"
+    },
+    {
+      "title": "Shops and restaurants in Egypt told to close early as energy crisis deepens",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0rxz7ggv8go",
+      "category": "World"
+    },
+    {
+      "title": "Twenty-two migrants die off Greek coast after six days at sea",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cnv8z1lvn8ro",
+      "category": "Europe"
+    },
+    {
+      "title": "Anti-Trump rallies in thousands of US cities for 'No Kings' protest",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/rallies-planned-thousands-us-cities-no-kings-protest-against-trump-2026-03-28/",
+      "category": "US Politics"
+    },
+    {
+      "title": "WTO members agree on first baseline for digital trade rules",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "category": "Business"
+    },
+    {
+      "title": "Tens of thousands protest in London against far-right Reform UK party",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/",
+      "category": "Europe"
+    },
+    {
+      "title": "Yemen's Houthis claim responsibility for missile attack on Israel as war in Middle East intensifies",
+      "source": "AP News",
+      "url": "https://apnews.com/live/iran-war-israel-trump-03-28-2026",
+      "category": "Middle East"
+    },
+    {
+      "title": "Russia is sending upgraded drones used in the Ukraine war to Iran",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-iran-drones-shahed-war-israel-ukraine-840b4f885d99714bdb7813c0d56213cf",
+      "category": "World"
+    },
+    {
+      "title": "Rubio denies Zelenskyy's claim that the US asked Ukraine to cede land to Russia",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ukraine-russia-donbas-rubio-trump-zelenskyy-putin-92551b3ed95d9d3c172627146092d8ba",
+      "category": "World"
+    },
+    {
+      "title": "At least 15 US troops wounded in Iran strike on Saudi airbase",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports",
+      "category": "Middle East"
+    },
+    {
+      "title": "Iran warns neighbours not to let 'enemies run the war' from their land",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land",
+      "category": "Middle East"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill 4 as deal to end war dims",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/28/russian-strikes-on-ukraine-cities-kill-4-as-deal-to-end-war-dims",
+      "category": "Europe"
+    },
+    {
+      "title": "Nepal's ex-PM Oli detained over alleged role in deadly protest crackdown",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown",
+      "category": "Asia"
+    }
+  ],
+  "summary": "Major world news on March 28, 2026 is dominated by escalating tensions in the Middle East, with Iran-backed Houthi rebels from Yemen joining the conflict by launching missile attacks on Israel. At least 15 US troops were wounded in an Iranian strike on a Saudi airbase. Meanwhile, thousands participated in 'No Kings' anti-Trump protests across US cities, and tens of thousands marched in London against the far-right Reform UK party. Other notable stories include 22 migrants dying off the Greek coast, Egypt implementing energy crisis measures, and Nepal's former PM being detained.",
+  "collected_at": "2026-03-28T19:42:00Z"
+}

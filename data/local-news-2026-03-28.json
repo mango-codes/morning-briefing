@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-28",
+  "location": "Seattle, WA",
+  "weather": {
+    "forecast": "Overcast skies with highs in the low to middle 50s. Increasing cloud cover throughout the day.",
+    "details": "The overcast skies will continue through Saturday. Highs will cool into the low to middle 50s from La Conner to Eatonville thanks to the increasing overcast blanket. Sunday brings a punchy front with chilly lowland rain and breezy snow showers to the high country.",
+    "source": "KOMO Weather"
+  },
+  "top_stories": [
+    {
+      "headline": "'No Kings' Protests Across Seattle and Western Washington",
+      "summary": "Organizers expect over 100,000 people to attend the No Kings rally at Cal Anderson Park, followed by a march to Seattle Center. This is the third major national day of action in the No Kings movement, with over 3,000 nonviolent protests expected nationwide. In Seattle, the rally starts at noon with a march at 1:15 p.m. Washington Attorney General Nick Brown is expected to speak.",
+      "locations": ["Cal Anderson Park", "Seattle Center", "West Seattle Junction"],
+      "time": "12:00 PM - 4:00 PM",
+      "sources": ["KING 5", "KOMO", "West Seattle Blog"],
+      "url": "https://www.king5.com/article/news/local/where-no-kings-protests-are-happening-this-weekend-western-washington/281-7c1c6f6a-0367-43b5-8538-abf637568c88"
+    },
+    {
+      "headline": "Seattle Mariners 2026 Season Underway",
+      "summary": "The Seattle Mariners opened their 2026 season on March 26 against the Cleveland Guardians. Fans packed T-Mobile Park for the home opener. The season marks the 50th in franchise history and 27th full season at T-Mobile Park.",
+      "sources": ["KOMO", "FOX 13 Seattle"],
+      "url": "https://komonews.com/"
+    },
+    {
+      "headline": "West Seattle Stabbing Investigation",
+      "summary": "Police are searching for a stabbing suspect near an alley behind apartments at 35th SW and SW Avalon. The victim, a man in his mid-30s, was stabbed in the stomach and transported to Harborview Medical Center. The suspect is described as a white man in his 50s wearing black and white clothing.",
+      "location": "35th SW and SW Avalon, West Seattle",
+      "time": "12:55 AM",
+      "sources": ["West Seattle Blog"],
+      "url": "https://westseattleblog.com/2026/03/28/"
+    },
+    {
+      "headline": "Orca Sightings in Puget Sound",
+      "summary": "Orcas were sighted in the Seattle-Bainbridge ferry lane vicinity off Eagle Harbor, trending south. Whale watchers reported sightings throughout the morning.",
+      "location": "Eagle Harbor, Bainbridge Island area",
+      "sources": ["West Seattle Blog"],
+      "url": "https://westseattleblog.com/2026/03/28/"
+    },
+    {
+      "headline": "Skagit Valley Tulip Festival Kicks Off Early",
+      "summary": "The Skagit Valley Tulip Festival is starting early this year due to a mild winter that prompted early blooms. The overcast Saturday weather may be ideal for visiting the colorful tulip fields.",
+      "location": "Mt. Vernon, Skagit Valley",
+      "sources": ["KOMO Weather"],
+      "url": "https://komonews.com/weather"
+    }
+  ],
+  "community_events": [
+    {
+      "event": "West Seattle Junction 'No Kings' Rally",
+      "time": "10:00 AM - 2:00 PM",
+      "location": "California/Alaska Junction",
+      "details": "California Street blocked from SW Alaska to SW Oregon. West Seattle Resist and Singing Resistance participating."
+    },
+    {
+      "event": "Fauntleroy Egg Hunt",
+      "time": "1:00 PM",
+      "location": "Fauntleroy Schoolhouse",
+      "details": "Annual egg hunt with non-candy treasures. Little ones (under 4) go first."
+    },
+    {
+      "event": "Arthur's 9th Anniversary",
+      "time": "9:00 AM - 3:00 PM",
+      "location": "Arthur's, 2311 California SW",
+      "details": "Brunch service celebrating 9 years in business"
+    },
+    {
+      "event": "Highland Park Corner Store 5th Anniversary",
+      "time": "8:00 AM - 8:00 PM",
+      "location": "7789 Highland Park Way SW",
+      "details": "Free cake all day celebrating 5 years in business"
+    },
+    {
+      "event": "Chief Sealth IHS Auction/Dinner",
+      "time": "5:30 PM - 9:00 PM",
+      "location": "Fauntleroy UCC, 9130 California SW",
+      "details": "Fundraising auction and dinner to support Chief Sealth International High School students"
+    }
+  ],
+  "traffic_transit": [
+    {
+      "update": "Barton Street Bus Detour",
+      "details": "Months-long detour of buses off SW Barton south of Westwood Village has begun. Buses now running on SW Trenton east of 35th."
+    },
+    {
+      "update": "Junction Road Closure",
+      "details": "California Street blocked from SW Alaska to SW Oregon due to No Kings rally until 2:00 PM"
+    },
+    {
+      "update": "I-5 Landslide Near Bellingham",
+      "details": "Closure enters seventh day with no reopening timeline"
+    }
+  ],
+  "sources": [
+    {
+      "name": "KING 5",
+      "url": "https://www.king5.com"
+    },
+    {
+      "name": "KOMO News",
+      "url": "https://komonews.com"
+    },
+    {
+      "name": "West Seattle Blog",
+      "url": "https://westseattleblog.com"
+    },
+    {
+      "name": "Seattle Times",
+      "url": "https://www.seattletimes.com"
+    }
+  ],
+  "generated_at": "2026-03-28T19:42:00Z"
+}

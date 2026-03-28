@@ -1,0 +1,125 @@
+{
+  "date": "2026-03-28",
+  "city": "Seattle",
+  "events": [
+    {
+      "category": "concert",
+      "title": "Seattle Symphony: Peanuts 75th Anniversary Symphonic Concert",
+      "venue": "Benaroya Hall - S. Mark Taper Foundation Auditorium",
+      "address": "200 University Street, Seattle, WA",
+      "time": "8:00 PM",
+      "url": "https://www.ticketmaster.com/discover/seattle"
+    },
+    {
+      "category": "concert",
+      "title": "Gorgon City",
+      "venue": "Hangar 30, Magnuson Park",
+      "address": "Seattle, WA",
+      "time": "Evening",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "category": "concert",
+      "title": "INZO (US) with What So Not, Know Good, Zen Selekta, and Blookah",
+      "venue": "WAMU Theater",
+      "address": "Seattle, WA",
+      "time": "Evening",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "category": "comedy",
+      "title": "Rene Vaca 2026 Tour",
+      "venue": "Moore Theatre",
+      "address": "1932 2nd Ave, Seattle, WA 98107",
+      "time": "7:00 PM",
+      "price": "From $52",
+      "url": "https://comedy.tickets/city/seattle/"
+    },
+    {
+      "category": "comedy",
+      "title": "Rene Vaca 2026 Tour (Late Show)",
+      "venue": "Moore Theatre",
+      "address": "1932 2nd Ave, Seattle, WA 98107",
+      "time": "9:30 PM",
+      "price": "From $28",
+      "url": "https://comedy.tickets/city/seattle/"
+    },
+    {
+      "category": "comedy",
+      "title": "Sugar Sammy",
+      "venue": "The Crocodile",
+      "address": "2200 2nd Ave, Seattle, WA 98121",
+      "time": "7:00 PM",
+      "price": "From $32",
+      "url": "https://comedy.tickets/city/seattle/"
+    },
+    {
+      "category": "comedy",
+      "title": "Rachel Scanlon",
+      "venue": "Emerald City Comedy Club",
+      "address": "210 Broadway Ave, Seattle, WA 98102",
+      "time": "9:30 PM",
+      "url": "https://www-emeraldcitycomedy-com.seatengine.com/events"
+    },
+    {
+      "category": "comedy",
+      "title": "ComedySportz Seattle",
+      "venue": "Fremont",
+      "address": "Seattle, WA",
+      "time": "Ongoing Saturday shows",
+      "price": "$17 - $20",
+      "url": "https://everout.com/seattle/events/"
+    },
+    {
+      "category": "theater",
+      "title": "Pacific Northwest Ballet: Momotaro",
+      "venue": "McCaw Hall",
+      "address": "321 Mercer Street, Seattle, WA 98109",
+      "time": "3:30 PM",
+      "url": "https://seattle.theater/march/"
+    },
+    {
+      "category": "theater",
+      "title": "Swan Lake",
+      "venue": "Edmonds Center For The Arts",
+      "address": "Edmonds, WA",
+      "time": "7:30 PM",
+      "url": "https://seattle.theater/march/"
+    },
+    {
+      "category": "theater",
+      "title": "Robin Hood",
+      "venue": "Seattle Children's Theatre",
+      "address": "Seattle, WA",
+      "time": "Matinee/Evening",
+      "url": "https://www.events12.com/seattle/"
+    },
+    {
+      "category": "theater",
+      "title": "Silver Lining",
+      "venue": "Phoenix Theatre",
+      "address": "Edmonds, WA",
+      "description": "A comedy set in a retirement home",
+      "time": "Evening",
+      "url": "https://www.events12.com/seattle/"
+    },
+    {
+      "category": "special",
+      "title": "Sneaker Con Seattle",
+      "venue": "Seattle Convention Center or similar",
+      "address": "Seattle, WA",
+      "description": "The Greatest Sneaker Show on Earth - featuring Streetwear Alley hosted by Richie Le",
+      "time": "All Day",
+      "url": "https://sneakercon.com/event/sneaker-con-seattle-march-28-2026/"
+    }
+  ],
+  "sources": [
+    "https://www.songkick.com/metro-areas/2846-us-seattle",
+    "https://www.ticketmaster.com/discover/seattle",
+    "https://comedy.tickets/city/seattle/",
+    "https://seattle.theater/march/",
+    "https://www.events12.com/seattle/",
+    "https://sneakercon.com/event/sneaker-con-seattle-march-28-2026/"
+  ],
+  "generatedAt": "2026-03-28T19:42:00Z"
+}
