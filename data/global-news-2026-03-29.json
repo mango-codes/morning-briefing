@@ -1,0 +1,66 @@
+{
+  "date": "2026-03-29",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Iran says its forces are 'waiting' for US ground troops as more American marines arrive in region",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Thousands of American personnel are now in the Middle East as tensions escalate. Iran warns it is prepared for potential ground conflict."
+    },
+    {
+      "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Attacks on aluminium sites in the UAE and Bahrain reported, with injuries confirmed."
+    },
+    {
+      "title": "Three Lebanese journalists killed in Israeli strike",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Israeli military confirms killing Ali Shoeib from Hezbollah-affiliated Al Manar TV."
+    },
+    {
+      "title": "North Korea conducts engine test for missile capable of targeting US mainland",
+      "source": "AP",
+      "category": "Asia Pacific",
+      "summary": "Pyongyang tests engine for intercontinental ballistic missile, escalating regional tensions."
+    },
+    {
+      "title": "Ukrainian President Zelenskiy arrives in Jordan for Gulf tour",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "Tour aimed at shoring up defense ties amid rising tensions over the Iran war."
+    },
+    {
+      "title": "Russia's Ust-Luga port damaged in Ukrainian drone attack",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Major petroleum export outlet hit by drone attack, sparking fire according to Russian officials."
+    },
+    {
+      "title": "Finland reports suspected territorial violation by unmanned aerial vehicles",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Defense ministry reports drone incursion in southeast of the country."
+    },
+    {
+      "title": "Arab foreign ministers nominate Egyptian diplomat Nabil Fahmy as Arab League secretary-general",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "Fahmy to succeed Ahmed Aboul Gheit when his term ends in June 2026."
+    },
+    {
+      "title": "Dagestan declares state of emergency after heavy flooding",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Widespread flooding and power cuts hit southern Russian region."
+    },
+    {
+      "title": "'No Kings' protesters rally across US against Trump administration",
+      "source": "AP/BBC",
+      "category": "US Politics",
+      "summary": "Major rallies held nationwide, including in Minnesota where Bruce Springsteen performed."
+    }
+  ]
+}
