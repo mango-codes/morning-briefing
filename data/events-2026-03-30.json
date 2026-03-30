@@ -1,0 +1,79 @@
+{
+  "date": "2026-03-30",
+  "city": "Seattle",
+  "events": [
+    {
+      "category": "concert",
+      "title": "The Early November and Hellogoodbye",
+      "venue": "The Showbox",
+      "time": "8:00 PM",
+      "date": "2026-03-30",
+      "description": "Emo and pop-rock concert featuring The Early November and Hellogoodbye. 21+ event.",
+      "url": "https://www.ticketmaster.com"
+    },
+    {
+      "category": "theater",
+      "title": "Seattle Symphony - Peanuts 75th Anniversary Symphonic Concert",
+      "venue": "Benaroya Hall",
+      "time": "Evening",
+      "date": "2026-03-30",
+      "description": "Join Charlie Brown, Snoopy, and the Peanuts gang for a one-of-a-kind symphonic experience celebrating the 75th anniversary of Peanuts. Features the legendary music of composer Vince Guaraldi with projected animations and live onstage actors.",
+      "url": "https://www.seattlesymphony.org"
+    },
+    {
+      "category": "comedy",
+      "title": "Comic Resistance Agency Pizzeria Mic",
+      "venue": "Just The Tap Seattle",
+      "time": "Evening",
+      "date": "2026-03-30",
+      "description": "Comedy open mic night featuring local comedians.",
+      "url": "https://www.eventbrite.com"
+    },
+    {
+      "category": "festival",
+      "title": "Seattle Moisture Festival",
+      "venue": "Broadway Performance Hall",
+      "time": "Various times",
+      "date": "2026-03-30",
+      "description": "A variety arts festival featuring comedy, music, and performance acts. Running March 19 - April 12.",
+      "url": "https://moisturefestival.org/"
+    },
+    {
+      "category": "theater",
+      "title": "Young Dragon: A Bruce Lee Story",
+      "venue": "Seattle Children's Theatre",
+      "time": "Various times",
+      "date": "2026-03-30",
+      "description": "A stage production exploring the early life of Bruce Lee through storytelling and movement.",
+      "url": "https://www.sct.org/onstage/productions/young-dragon-2026/"
+    },
+    {
+      "category": "opera",
+      "title": "Fellow Travelers",
+      "venue": "Seattle Opera",
+      "time": "Evening",
+      "date": "2026-03-30",
+      "description": "A contemporary opera exploring identity and politics through a powerful score and intimate staging.",
+      "url": "https://www.seattleopera.org/performances-events/fellow-travelers/"
+    },
+    {
+      "category": "concert",
+      "title": "Candlelight: Coldplay & Imagine Dragons",
+      "venue": "National Nordic Museum",
+      "time": "Various times",
+      "date": "2026-03-30",
+      "description": "A string quartet tribute to Coldplay and Imagine Dragons performed in the glittering light of thousands of LED candles.",
+      "url": "https://www.seattle-theatre.com"
+    },
+    {
+      "category": "concert",
+      "title": "Candlelight: Tribute to Drake",
+      "venue": "National Nordic Museum",
+      "time": "Various times",
+      "date": "2026-03-30",
+      "description": "A string quartet tribute to Drake performed in an illuminated atmosphere with thousands of LED candles.",
+      "url": "https://www.seattle-theatre.com"
+    }
+  ],
+  "note": "Events compiled from Seattle Theatre, Seattle Symphony, Ticketmaster, and local event listings. Times and availability subject to change."
+}

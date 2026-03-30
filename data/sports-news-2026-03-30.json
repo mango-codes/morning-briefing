@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-30",
+  "teams": [
+    {
+      "name": "mariners",
+      "league": "Unknown",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "seahawks",
+      "league": "Unknown",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "kraken",
+      "league": "Unknown",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "sounders",
+      "league": "Unknown",
+      "headlines": [],
+      "details": {
+        "keyUpdates": [],
+        "situation": "",
+        "playoffPicture": "",
+        "achievement": "",
+        "today": "",
+        "nextMatch": ""
+      },
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-03-30",
+  "location": "Seattle, WA",
+  "weather": {
+    "source": "National Weather Service",
+    "forecast": {
+      "today": {
+        "day": "Monday, March 30",
+        "condition": "Sunny",
+        "high": 50,
+        "low": 35,
+        "wind": "Calm, becoming north around 5 mph in the afternoon"
+      },
+      "tonight": {
+        "condition": "Increasing clouds",
+        "low": 35,
+        "wind": "North wind 3 to 7 mph"
+      },
+      "tomorrow": {
+        "day": "Tuesday, March 31",
+        "condition": "Mostly cloudy",
+        "high": 54,
+        "low": 42,
+        "wind": "Light north northeast wind"
+      }
+    }
+  },
+  "headlines": [
+    {
+      "category": "Politics/Protest",
+      "title": "75,000-100,000 March in Seattle 'No Kings' Protest",
+      "summary": "An estimated 75,000 to 100,000 people marched through downtown Seattle on Saturday, March 28 as part of the nationwide 'No Kings' movement protesting the Trump administration. The protest started at Cal Anderson Park and marched to Seattle Center, tying up traffic on 4th and 5th Avenues until 4:30 p.m. Smaller rallies also took place in Ballard with approximately 500 people. Other Western Washington cities including Tacoma, Everett, Olympia, Bellevue, Bremerton, Federal Way, Issaquah, and Kirkland also held rallies.",
+      "sources": ["KIRO 7", "KOMO News", "KING 5"],
+      "published": "2026-03-28"
+    },
+    {
+      "category": "Sports",
+      "title": "Seattle Mariners Open 2026 Season",
+      "summary": "The Seattle Mariners opened their 2026 season on March 26 at T-Mobile Park against the Cleveland Guardians. The team entered Spring Training with one of their most complete rosters in recent memory. Notable absences from Opening Day include shortstop J.P. Crawford (right shoulder inflammation) and starting pitcher Bryce Miller (left oblique strain), both expected to return in April. Mariners games are now widely available across cable, satellite and streaming platforms for the 2026 season.",
+      "sources": ["MLB.com", "FOX 13 Seattle"],
+      "published": "2026-03-26"
+    },
+    {
+      "category": "Sports",
+      "title": "Seahawks News: Jaxon Smith-Njigba Signs Contract Extension",
+      "summary": "Seahawks wide receiver Jaxon Smith-Njigba visited the Virginia Mason Athletic Center on March 25, 2026 to sign a contract extension. The team is also preparing for the 2026 NFL Draft, holding the No. 32 pick. Mock drafts suggest the Seahawks may target cornerback or safety positions after losing Riq Woolen and Coby Bryant in free agency.",
+      "sources": ["Seahawks.com", "Spokesman-Review"],
+      "published": "2026-03-25"
+    },
+    {
+      "category": "Local",
+      "title": "Orcas Spotted in Elliott Bay",
+      "summary": "Orcas were spotted in Elliott Bay off Duwamish Head on Sunday, March 29. According to reports, the whales appeared to be dining on prey in the area.",
+      "sources": ["West Seattle Blog"],
+      "published": "2026-03-29"
+    },
+    {
+      "category": "Local",
+      "title": "Glassyard Commons RV/Tiny House Site Progress",
+      "summary": "The planned Glassyard Commons RV lot and tiny-house site at 7201 2nd Ave SW in West Seattle is still projected to open by early June. The site, operated by LIHI (Low-Income Housing Institute), will feature 72 RV spaces and 20 tiny houses. The religious sponsor is New Hope Missionary Baptist Church, which allows for accelerated permitting.",
+      "sources": ["West Seattle Blog"],
+      "published": "2026-03-29"
+    },
+    {
+      "category": "Community",
+      "title": "West Seattle Sunday Activities",
+      "summary": "Sunday community activities in West Seattle included the Westies Run Club meeting at Dough Joy Donuts at 9 am, American Mah Jongg games at The Missing Piece in The Junction at 9:30 am, and the West Seattle Farmers' Market open 10 am-2 pm on California SW featuring early spring produce, baked goods, cheeses, meats, and more.",
+      "sources": ["West Seattle Blog"],
+      "published": "2026-03-29"
+    }
+  ],
+  "collected_at": "2026-03-30T01:27:00Z"
+}

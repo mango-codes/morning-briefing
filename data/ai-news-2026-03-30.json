@@ -1,0 +1,65 @@
+[
+  {
+    "headline": "Anthropic 'Mythos' AI model leak reveals 'step change' in capabilities",
+    "source": "Fortune",
+    "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+    "published": "2026-03-26",
+    "summary": "Anthropic confirmed testing a powerful new AI model called 'Mythos' after an accidental data leak revealed its existence, calling it a 'step change' in performance capabilities."
+  },
+  {
+    "headline": "12 AI models launched in one week as 'model avalanche' hits developers",
+    "source": "AI Unfiltered",
+    "url": "https://www.arturmarkus.com/12-ai-models-launched-in-one-week-during-march-10-16-2026-openai-google-xai-anthropic-mistral-and-cursor-compress-developer-selection-cycles-to-monthly-as-frontier-model-releases-pile-up/",
+    "published": "2026-03-29",
+    "summary": "Between March 10-16, 2026, six major AI companies including OpenAI, Google, xAI, Anthropic, Mistral, and Cursor launched twelve distinct models, compressing developer selection cycles."
+  },
+  {
+    "headline": "Claude's popularity surge forces Anthropic to throttle usage during peak hours",
+    "source": "Business Insider / Gizmodo",
+    "url": "https://www.businessinsider.com/claude-usage-caps-changes-popularity-anthropic-2026-3",
+    "published": "2026-03-28",
+    "summary": "Anthropic is implementing usage caps and throttling during peak hours due to mainstream interest surge following CEO Dario Amodei's refusal to grant Pentagon unfettered AI access."
+  },
+  {
+    "headline": "ARC-AGI-3 launches with $2M prize as frontier models score under 1%",
+    "source": "The Neuron",
+    "url": "https://www.theneuron.ai/ai-news-digests/-around-the-horn-digest-everything-that-happened-in-ai-this-weekend-march-28-29-2026/",
+    "published": "2026-03-29",
+    "summary": "The new ARC-AGI-3 benchmark launched with a $2 million prize pool, with every frontier AI model scoring under 1%, highlighting the challenge of abstract reasoning."
+  },
+  {
+    "headline": "White House proposes National AI Framework to curb conflicting state laws",
+    "source": "Sora Futures",
+    "url": "https://www.sorafutures.com/archives/42401",
+    "published": "2026-03-20",
+    "summary": "The White House unveiled a comprehensive National Policy Framework for Artificial Intelligence to establish a unified federal approach and prevent conflicting state regulations."
+  },
+  {
+    "headline": "UN convenes inaugural meeting of Independent International Scientific Panel on AI",
+    "source": "Wikipedia / UN",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "published": "2026-03-29",
+    "summary": "The United Nations held the first meeting of a 40-member expert panel established under the Global Digital Compact to produce annual evidence-based reports on AI's societal impact."
+  },
+  {
+    "headline": "Apple hires ex-Google executive to head AI marketing amid Siri improvement push",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/",
+    "published": "2026-03-27",
+    "summary": "Apple has hired a former Google executive to lead AI marketing as the company intensifies efforts to improve Siri and compete in the generative AI space."
+  },
+  {
+    "headline": "AI safety protestors march from Anthropic to OpenAI to xAI demanding pause commitment",
+    "source": "Futurism",
+    "url": "https://futurism.com/artificial-intelligence/protestors-anthropic-ai",
+    "published": "2026-03-27",
+    "summary": "Nearly 200 people participated in the largest AI safety protest in US history, marching between major AI labs with one demand: commit to pausing development if competitors do too."
+  },
+  {
+    "headline": "Clarivate reveals AI50: ranking organizations leading AI invention",
+    "source": "Clarivate / Stephen's Lighthouse",
+    "url": "https://stephenslighthouse.com/2026/03/29/clarivate-reveals-the-ai50-the-organizations-leading-artificial-intelligence-invention/",
+    "published": "2026-03-26",
+    "summary": "Clarivate announced the AI50, a new data-driven benchmark identifying organizations demonstrating exceptional leadership in high-impact artificial intelligence inventions."
+  }
+]
