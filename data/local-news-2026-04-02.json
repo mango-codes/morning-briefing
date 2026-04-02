@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-02",
+  "location": "Seattle, WA",
+  "weather": {
+    "source": "National Weather Service / wttr.in",
+    "forecast": {
+      "today": {
+        "day": "Thursday, April 2",
+        "condition": "Overcast",
+        "high": 52,
+        "low": 39,
+        "wind": "SW 4 mph, gusts to 11 mph"
+      },
+      "tonight": {
+        "condition": "Cloudy",
+        "low": 42,
+        "wind": "Light southwest wind"
+      },
+      "tomorrow": {
+        "day": "Friday, April 3",
+        "condition": "Partly cloudy",
+        "high": 55,
+        "low": 43,
+        "wind": "Light variable winds"
+      }
+    }
+  },
+  "headlines": [
+    {
+      "category": "Politics/Government",
+      "title": "Public Hearing for 2026 Library Levy Today",
+      "summary": "The Seattle City Council is holding a public hearing on Thursday, April 2 for the 2026 Library Levy. The levy proposes a $410 million investment in critical funding for Seattle Public Libraries. Members of the public can participate in the hearing to provide input on the proposed funding package.",
+      "sources": ["Seattle City Council Blog"],
+      "published": "2026-04-02"
+    },
+    {
+      "category": "Sports",
+      "title": "Mariners Face Yankees in Series Finale",
+      "summary": "The Seattle Mariners are playing the New York Yankees on Wednesday, April 1 at 4:10 PM ET at T-Mobile Park, attempting to break a 1-1 series tie. The Mariners opened their 2026 season on March 26 against the Cleveland Guardians. Notable prospects Kade Anderson and Ryan Sloan will both begin the 2026 season in Double-A Arkansas.",
+      "sources": ["The Athletic", "Seattle Sports"],
+      "published": "2026-04-01"
+    },
+    {
+      "category": "Traffic/Transportation",
+      "title": "WSDOT Revive I-5 Construction Continues",
+      "summary": "WSDOT's Revive I-5 project continues in 2026 with long-term lane reductions and closures. Express lanes are currently running northbound only, causing potential delays for southbound commuters. A full weekend closure of northbound I-5 from I-90 to NE 45th St is planned for late 2026. SDOT has implemented a 5-part strategy to help keep traffic moving during construction.",
+      "sources": ["WSDOT", "SDOT Blog"],
+      "published": "2026-04-01"
+    },
+    {
+      "category": "Washington State",
+      "title": "2026 Washington Legislative Session Recap",
+      "summary": "The 60-day 2026 Washington legislative session adjourned on March 12 at 8:26 PM after a grueling final week that included a 24.5-hour continuous floor debate on March 9-10 over a proposed state income tax. Key outcomes include expanded property tax relief for seniors, disabled homeowners, and veterans starting with 2027 property tax statements. The last day for the governor to take action on bills is April 4, 2026.",
+      "sources": ["Washington State Legislature", "Seattle Metropolitan Chamber of Commerce"],
+      "published": "2026-03-16"
+    },
+    {
+      "category": "Local",
+      "title": "New Pickleball Venue The Picklr Opening in Fremont",
+      "summary": "The Picklr, a new pickleball facility, will open its brand-new Seattle location in Fremont this weekend with a grand opening celebration on Saturday, April 4. The facility features championship-quality courts and a pro shop, catering to the growing popularity of pickleball in the Pacific Northwest.",
+      "sources": ["KOMO News", "Seattle Refined"],
+      "published": "2026-04-01"
+    },
+    {
+      "category": "Entertainment",
+      "title": "Bumbershoot 2026 Lineup Announced",
+      "summary": "The Bumbershoot 2026 lineup has been released, featuring Death Cab for Cutie, Turnstile, Orville Peck, Japanese Breakfast, De La Soul, Travis Thompson, and Oble Reed. The annual music festival returns to Seattle Center with exciting changes for this year's festival. The event is a highlight of the Pacific Northwest summer music scene.",
+      "sources": ["Seattle Refined"],
+      "published": "2026-04-01"
+    },
+    {
+      "category": "Business",
+      "title": "Flight Club Darts Bar Opens in South Lake Union",
+      "summary": "Flight Club, a London-born concept that reimagines darts as a techy, social experience, has officially landed in Seattle's South Lake Union neighborhood. This marks the first West Coast location for the popular entertainment venue, adding to the growing nightlife and entertainment options in the area.",
+      "sources": ["Seattle Refined"],
+      "published": "2026-04-01"
+    },
+    {
+      "category": "Community",
+      "title": "Seattle in Bloom: April Events Guide",
+      "summary": "April brings numerous spring events to the Pacific Northwest. The Daffodil Festival Grand Floral Parade and Snohomish Easter Parade are among the highlights. The Seattle Seawolves have also announced 2026 broadcast details for the Major League Rugby season, giving fans multiple ways to follow the club throughout the year.",
+      "sources": ["Seattle Refined", "OurSports Central"],
+      "published": "2026-04-01"
+    }
+  ],
+  "collected_at": "2026-04-02T14:36:00Z"
+}

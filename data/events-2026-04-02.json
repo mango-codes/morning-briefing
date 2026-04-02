@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-02",
+  "category": "events",
+  "today": [
+    {
+      "title": "FKA Twigs",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "WAMU Theater",
+      "description": "British singer-songwriter and performer known for her experimental music and mesmerizing live shows",
+      "url": "https://www.wamutheater.com/",
+      "price": "$45+"
+    },
+    {
+      "title": "Jake Shimabukuro",
+      "type": "concert",
+      "time": "7:30 PM / 9:30 PM",
+      "venue": "Jazz Alley",
+      "description": "World-renowned ukulele virtuoso performing jazz, blues, funk, and classical music",
+      "url": "https://www.jazzalley.com/",
+      "price": "$35+"
+    },
+    {
+      "title": "Soen + Dark Tranquillity",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Neptune Theatre",
+      "description": "Progressive metal with Soen and melodic death metal pioneers Dark Tranquillity",
+      "url": "https://www.ticketmaster.com/",
+      "price": "$30+"
+    },
+    {
+      "title": "Shen Yun",
+      "type": "theater",
+      "time": "2:00 PM",
+      "venue": "McCaw Hall",
+      "description": "Classical Chinese dance and music performance showcasing 5,000 years of Chinese civilization",
+      "url": "https://www.ticketmaster.com/",
+      "price": "$80+"
+    },
+    {
+      "title": "Psychedelic Salon",
+      "type": "special",
+      "time": "7:30 PM",
+      "venue": "Town Hall Seattle",
+      "description": "KUOW presents an evening exploring psychedelic science and culture with Dr. Amanda Downey and April Pride",
+      "url": "https://townhallseattle.org/",
+      "price": "$15+"
+    },
+    {
+      "title": "Circa - Australian Cirque Show",
+      "type": "theater",
+      "time": "8:00 PM",
+      "venue": "Meany Center for the Performing Arts",
+      "description": "10-member cirque troupe combining acrobatics, ballet, and story-based theatrics",
+      "url": "https://meanycenter.org/",
+      "price": "$35+"
+    },
+    {
+      "title": "Seattle Kraken vs. Utah Mammoth",
+      "type": "sports",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "NHL hockey action as the Kraken face off against the Utah Mammoth",
+      "url": "https://www.nhl.com/kraken/",
+      "price": "$50+"
+    },
+    {
+      "title": "Ain't Misbehavin'",
+      "type": "theater",
+      "time": "Evening",
+      "venue": "Taproot Theatre (Greenwood)",
+      "description": "Musical celebration of jazz legend Fats Waller featuring rowdy jazz music",
+      "url": "https://taproottheatre.org/",
+      "price": "$40+"
+    },
+    {
+      "title": "Hurricane Diane",
+      "type": "theater",
+      "time": "Evening",
+      "venue": "Seattle Public Theater (Green Lake)",
+      "description": "Satiric comedy about a Greek god saving the earth",
+      "url": "https://www.seattlepublictheater.org/",
+      "price": "$35+"
+    },
+    {
+      "title": "Mary Jane",
+      "type": "theater",
+      "time": "Evening",
+      "venue": "Seattle Repertory Theatre",
+      "description": "Powerful drama about a mother as caregiver and organizer of women",
+      "url": "https://www.seattlerep.org/",
+      "price": "$45+"
+    },
+    {
+      "title": "First Thursday Art Walk",
+      "type": "festival",
+      "time": "5:00 PM - 8:00 PM",
+      "venue": "Pioneer Square",
+      "description": "Monthly art walk featuring galleries, studios, and exhibitions - FREE",
+      "url": "https://pioneersquare.org/art-walks/",
+      "price": "Free"
+    },
+    {
+      "title": "Moisture Festival",
+      "type": "comedy",
+      "time": "Various times",
+      "venue": "Broadway Performance Hall (Capitol Hill)",
+      "description": "World's largest comedy/variety festival with 30 shows featuring circus, comedy, and variety acts",
+      "url": "https://moisturefestival.org/",
+      "price": "$25+"
+    },
+    {
+      "title": "Norwescon (Sci-Fi & Fantasy Convention)",
+      "type": "festival",
+      "time": "All day",
+      "venue": "DoubleTree Hotel Seattle Airport (SeaTac)",
+      "description": "Annual convention with 200 vendors, panels, gaming, dances, and masquerade contest",
+      "url": "https://www.norwescon.org/",
+      "price": "$50+"
+    },
+    {
+      "title": "Museum Day (First Thursday)",
+      "type": "special",
+      "time": "Various times",
+      "venue": "Multiple locations",
+      "description": "Free admission to SAM, Burke Museum, MOHAI, Museum of Flight, Nordic Museum, and more",
+      "url": "https://www.seattleartmuseum.org/",
+      "price": "Free"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Raye",
+      "date": "Friday, April 3",
+      "type": "concert",
+      "venue": "WAMU Theater",
+      "url": "https://www.wamutheater.com/"
+    },
+    {
+      "title": "Father John Misty",
+      "date": "Friday-Saturday, April 3-4",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/"
+    },
+    {
+      "title": "Microwave w/ Anthony Green",
+      "date": "Friday, April 3",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Showbox SoDo",
+      "url": "https://www.ticketmaster.com/"
+    },
+    {
+      "title": "Sakura-Con (Anime Festival)",
+      "date": "Friday-Sunday, April 3-5",
+      "type": "festival",
+      "venue": "Seattle Convention Center",
+      "url": "https://sakuracon.org/"
+    },
+    {
+      "title": "bbno$",
+      "date": "Saturday, April 4",
+      "type": "concert",
+      "venue": "WAMU Theater",
+      "url": "https://www.wamutheater.com/"
+    },
+    {
+      "title": "HEALTH x Carpenter Brut",
+      "date": "Sunday, April 5",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "Showbox SoDo",
+      "url": "https://www.axs.com/"
+    },
+    {
+      "title": "The 2026 Undisputable Champions of Comedy",
+      "date": "Saturday, April 4",
+      "type": "comedy",
+      "time": "7:30 PM",
+      "venue": "Washington Hall",
+      "url": "https://www.ticketmaster.com/"
+    },
+    {
+      "title": "Seattle Kraken vs. Chicago Blackhawks",
+      "date": "Friday, April 4",
+      "type": "sports",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "url": "https://www.nhl.com/kraken/"
+    },
+    {
+      "title": "Candlelight Concerts (Metallica & Pink Floyd)",
+      "date": "Sunday, April 5",
+      "type": "concert",
+      "time": "Various times",
+      "venue": "Arctic Club Hotel",
+      "url": "https://fever.pxf.io/"
+    },
+    {
+      "title": "Daffodil Parade",
+      "date": "Saturday, April 4",
+      "type": "festival",
+      "time": "10:15 AM - 5:00 PM",
+      "venue": "Tacoma, Puyallup, Sumner, Orting",
+      "url": "https://thedaffodilfestival.org/"
+    }
+  ]
+}

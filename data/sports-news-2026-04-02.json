@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-02",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "lastGame": {
+        "date": "April 1, 2026",
+        "opponent": "New York Yankees",
+        "result": "L 5-3",
+        "record": "3-4"
+      },
+      "nextGame": {
+        "date": "April 3, 2026",
+        "opponent": "@ Los Angeles Angels",
+        "time": "9:38 PM PT"
+      },
+      "headlines": [
+        "No. 1 prospect Emerson 'will contribute heavily' to '26 Mariners — but where?",
+        "Highly touted pitching prospects Kade Anderson and Ryan Sloan begin 2026 season in Double-A Arkansas"
+      ]
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "lastGame": {
+        "note": "Super Bowl Champions - Offseason"
+      },
+      "nextGame": {
+        "note": "Offseason program begins April 22, 2026"
+      },
+      "headlines": [
+        "Mike Macdonald: 2026 Seahawks Are A New Team, 'We're Not Defending Anything'",
+        "Seahawks retain Jake Bobo with right-of-first-refusal tender; Jaxon Smith-Njigba extension talks ongoing"
+      ]
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "lastGame": {
+        "date": "March 31, 2026",
+        "opponent": "Edmonton Oilers",
+        "result": "L 2-0 (shutout)",
+        "record": "32-30-11"
+      },
+      "nextGame": {
+        "date": "April 4, 2026",
+        "opponent": "Utah Mammoth",
+        "time": "7:00 PM PT",
+        "location": "Home"
+      },
+      "headlines": [
+        "Kraken face Western Conference wild-card leader Utah Mammoth Thursday night at Climate Pledge Arena",
+        "Seattle looking to bounce back from shutout loss to Edmonton, offensive struggles continue"
+      ]
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "lastGame": {
+        "note": "No game on April 1"
+      },
+      "nextGame": {
+        "date": "April 4, 2026",
+        "opponent": "@ Houston Dynamo FC",
+        "time": "5:30 PM PT",
+        "competition": "MLS Regular Season"
+      },
+      "headlines": [
+        "Sounders advance to 2026 Concacaf Champions Cup Quarterfinals, face Tigres UANL",
+        "Leg 1 at Tigres on April 8; Leg 2 at Lumen Field on April 15"
+      ]
+    }
+  ]
+}

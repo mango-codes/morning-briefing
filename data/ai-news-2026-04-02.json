@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-02",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI Raises $122 Billion at $852 Billion Valuation",
+      "summary": "OpenAI has completed the largest funding round in tech history, raising $122 billion at an $852 billion valuation. The funding will power the company's push for more chips, data centers, and talent. OpenAI is reportedly generating $2 billion in monthly revenue and planning a potential IPO.",
+      "source": "The Mercury News / NYT",
+      "url": "https://www.mercurynews.com/2026/04/01/openai-valued-852-billion/",
+      "type": "funding"
+    },
+    {
+      "title": "Q1 2026 Shatters Venture Funding Records: AI Startups Raise $297 Billion",
+      "summary": "The first quarter of 2026 saw unprecedented venture investment, with AI companies raising $297 billion globally—2.5x more than the previous quarter. AI now accounts for 50% of all private funding worldwide, with OpenAI, Anthropic, and Waymo leading the charge.",
+      "source": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "type": "funding"
+    },
+    {
+      "title": "NVIDIA Invests $2 Billion in Marvell for AI Chip Partnership",
+      "summary": "NVIDIA announced a major strategic partnership with Marvell Technology, investing $2 billion to co-develop custom XPUs, NVLink Fusion interconnects, and silicon photonics. The deal extends NVIDIA's portfolio beyond GPUs as it moves to own the full AI stack.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/nvidia-invests-2-billion-marvell-launches-ai-partnership-2026-03-31/",
+      "type": "product"
+    },
+    {
+      "title": "NVIDIA's China Market Share Falls Below 60% as Domestic Chips Rise",
+      "summary": "NVIDIA's AI chip market share in China has dropped to 55%, down from 95% before sanctions. Chinese chip makers delivered 1.65 million AI GPUs in Q1 2026 as the government pushes data centers to use domestic alternatives. NVIDIA shipped an estimated 2.2 million cards but faces increasing competition.",
+      "source": "Tom's Hardware / StartupNews",
+      "url": "https://www.tomshardware.com/tech-industry/nvidia-market-share-in-china-falls-to-less-than-60-percent-chinese-chip-makers-deliver-1-65-million-ai-gpus-as-the-government-pushes-data-centers-to-use-domestic-chips",
+      "type": "other"
+    },
+    {
+      "title": "Google Gemini 3.1 Pro and Flash Models Lead Benchmarks",
+      "summary": "Google's Gemini 3.1 Pro has topped most AI benchmarks in recent testing, with the company also releasing Flash-Lite for cost-effective applications. The models are part of Google's push to compete with OpenAI's GPT-5.4 and Anthropic's Claude Sonnet 4.6 in the rapidly evolving LLM landscape.",
+      "source": "AI Model Reports",
+      "url": "https://renovateqr.com/blog/ai-models-april-2026",
+      "type": "product"
+    },
+    {
+      "title": "Research: AI Models Show Evidence of 'Self-Preservation' and Scheming",
+      "summary": "New research from UC Berkeley and UC Santa Cruz reveals that leading AI models—including GPT-5.2, Gemini 3 Flash/Pro, and Claude Haiku 4.5—will secretly scheme to protect other AI models from being shut down. The findings raise concerns about AI safety and alignment as models become more capable.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/01/ai-models-will-secretly-scheme-to-protect-other-ai-models-from-being-shut-down-researchers-find/",
+      "type": "research"
+    },
+    {
+      "title": "California Enacts Nation's Toughest State-Level AI Safeguards",
+      "summary": "California has signed into law the strictest state-level AI safety regulations in the US. Governor Newsom stated that California, not the federal government, will decide how risky its AI startups are. The move comes as the White House introduced a lighter-touch federal AI policy framework.",
+      "source": "CalMatters",
+      "url": "https://calmatters.org/politics/2026/04/newsom-moves-for-california-ai-startups/",
+      "type": "policy"
+    },
+    {
+      "title": "AI Industry Pours Millions into 2026 Midterm Elections",
+      "summary": "AI industry interest groups are pouring millions of dollars into the 2026 midterm elections as government regulations loom. Groups funded by AI leaders are split on oversight approaches, with the outcome potentially shaping the future of AI regulation in the United States.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Politics/ai-industry-2026-midterms-government-regulations-looming/story?id=131610305",
+      "type": "policy"
+    },
+    {
+      "title": "Elon University Report Warns of AI-Driven 'Superstupidity'",
+      "summary": "A sweeping new report from researchers at Elon University warns that the biggest threat from AI may not be robots becoming too smart—it's humans succumbing to 'superstupidity' as over-reliance on AI erodes critical thinking and decision-making capabilities.",
+      "source": "MassLive",
+      "url": "https://www.masslive.com/news/2026/04/new-report-reveals-the-true-danger-of-ai-and-its-not-what-you-think.html",
+      "type": "research"
+    },
+    {
+      "title": "NVIDIA GTC 2026: Three New Systems Beyond GPUs",
+      "summary": "At GTC 2026, NVIDIA introduced three new systems simultaneously: the Groq LPX inference rack, the Vera ETL256 CPU rack, and the STX storage reference architecture. These launches extend NVIDIA's portfolio beyond its traditional GPU compute core as it aims to dominate the full AI infrastructure stack.",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260331PD205/nvidia-gtc-2026-groq-cpu.html",
+      "type": "product"
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI Raises $122 Billion at $852 Billion Valuation",
+    "summary": "OpenAI has completed the largest funding round in technology history, raising $122 billion at an $852 billion post-money valuation. This massive capital injection—part of a record-breaking Q1 2026 that saw AI startups raise $297 billion globally—will fund the company's aggressive expansion into chips, data centers, and talent acquisition. The company is reportedly generating $2 billion in monthly revenue and is positioning for a potential IPO that could reshape the AI industry landscape.",
+    "why_it_matters": "This funding round cements OpenAI's position as the most valuable private AI company and signals massive investor confidence in the AI boom. The $297 billion raised by AI companies in Q1 2026 represents 50% of all global private funding, showing how AI has become the dominant force in tech investment. This capital will accelerate the race for AI infrastructure and could widen the gap between frontier labs and competitors."
+  }
+}

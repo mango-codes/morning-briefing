@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-02",
+  "category": "global-news",
+  "headlines": [
+    {
+      "title": "Trump Threatens to Destroy Iran's Desalination Plants in Escalating War",
+      "summary": "President Trump has renewed threats to 'blow up' Iran's civilian infrastructure, including desalination plants that provide drinking water to millions. In a prime-time address, Trump claimed military success but offered no clear timeline to end fighting. Iran has been targeting Gulf countries with ballistic missiles and drones, and tensions remain high as the US-Israel war on Iran continues.",
+      "source": "Al Jazeera / NPR / AP News",
+      "url": "https://www.aljazeera.com/news/2026/3/30/trump-threatens-to-blow-up-all-desalination-plants-in-iran"
+    },
+    {
+      "title": "NASA's Artemis II Successfully Launches - First Crewed Moon Mission Since 1972",
+      "summary": "NASA's Artemis II rocket blasted off from Kennedy Space Center on April 1, 2026, carrying four astronauts on a 10-day mission around the Moon. The crew includes NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen. This marks humanity's first crewed flight beyond low Earth orbit since Apollo 17 in 1972.",
+      "source": "NASA / The Guardian / CNN",
+      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/"
+    },
+    {
+      "title": "Russia-Ukraine War: Russia Rejects Zelenskyy's Easter Truce Offer with Drone Attacks",
+      "summary": "Russia responded to Ukrainian President Zelenskyy's Easter truce offer with a massive drone attack, launching 700 drones in two waves. The war has reached day 1,499 with Russian forces having captured approximately 1,927 square miles of Ukrainian territory over the past year. A Russian military transport plane also crashed in Crimea, killing 29.",
+      "source": "The Guardian / Institute for the Study of War",
+      "url": "https://www.theguardian.com/world/2026/apr/02/ukraine-war-briefing-russia-responds-zelenskyy-easter-truce-drone-attack"
+    },
+    {
+      "title": "Iran Targets Gulf Countries with Ballistic Missiles and Drones",
+      "summary": "Iran continued targeting Gulf states including Bahrain, Kuwait, Qatar, Saudi Arabia, and the UAE with ballistic missiles and drones. Thousands gathered in Tehran for the funeral of Alireza Tangsiri, commander of the IRGC navy, killed in US-Israeli strikes. Death toll estimates include 1,937 dead in Iran, at least 24 in Israel, 13 US soldiers and 27 killed in Gulf states.",
+      "source": "Al Jazeera / NPR / Reuters",
+      "url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker"
+    },
+    {
+      "title": "Taiwan Strengthens Defenses as China Steps Up Military Pressure",
+      "summary": "Taiwan announced it will strengthen defenses of the Pratas Islands as China increases military activities in the region. US Senators urged Taiwan to pass a $40 billion defense budget proposal. Taiwan's defense spending is set to increase 22.9% to cross the 3% of GDP threshold for the first time since 2009, amid escalating tensions in the Taiwan Strait.",
+      "source": "Reuters / The New York Times",
+      "url": "https://www.reuters.com/world/china/taiwan-strengthen-pratas-islands-defences-china-steps-up-pressure-2026-04-02/"
+    },
+    {
+      "title": "Sudan Civil War Enters Fourth Year with Humanitarian Crisis Deepening",
+      "summary": "The Sudan civil war approaches its fourth year with devastating humanitarian consequences. The RSF and allied forces continue attacks, including on the Zamzam camp which killed between 300-1,500 people. Humanitarian shipments intended for Sudan have been rerouted due to security concerns related to the Iran conflict, creating a 6,000-mile, three-week extension in travel time.",
+      "source": "Al Jazeera / Council on Foreign Relations / UN News",
+      "url": "https://www.aljazeera.com/news/2026/3/31/sudan-war-being-fought-on-womens-bodies-survivors-detail-sexual-assault"
+    },
+    {
+      "title": "Gaza War Death Toll Exceeds 75,000 as Conflict Continues",
+      "summary": "As of February 2026, at least 75,227 people have been reported killed in the Gaza war, including 73,188+ Palestinians and 2,039+ Israelis. Israel has extended its occupation beyond the 'yellow line' in northern Gaza while continuing bombing in the south. The war has created one of the world's largest humanitarian crises with widespread displacement.",
+      "source": "Wikipedia / Al Jazeera / Human Rights Watch",
+      "url": "https://en.wikipedia.org/wiki/Gaza_war"
+    },
+    {
+      "title": "World Autism Awareness Day 2026: WHO Calls for Neuroinclusive Policies",
+      "summary": "On April 2, World Autism Awareness Day, the WHO joined families and communities worldwide in recognizing the dignity and worth of all autistic people. The organization advocated for policies promoting neuroinclusive environments in health, education, and workplaces globally.",
+      "source": "World Health Organization",
+      "url": "https://www.who.int/news-room/events/detail/2026/04/02/default-calendar/world-autism-awareness-day-2026"
+    }
+  ],
+  "top_story": {
+    "title": "Trump Threatens to Destroy Iran's Desalination Plants in Escalating War",
+    "summary": "President Trump has issued renewed threats to target Iran's civilian infrastructure, including desalination plants that provide drinking water to millions of people. In a prime-time address from the White House on April 1, Trump claimed 'great progress' in negotiations while simultaneously threatening to 'completely obliterate' Iranian electric generating plants, oil wells, Kharg Island, and possibly all desalination plants if a deal is not reached by April 6. The threats have drawn international concern as they could constitute war crimes under international law. Meanwhile, Iran continues to target Gulf countries with ballistic missiles and drones, and funerals were held in Tehran for those killed in US-Israeli strikes, including IRGC navy commander Alireza Tangsiri.",
+    "why_it_matters": "This represents a significant escalation in the US-Israel war on Iran, with Trump explicitly threatening civilian infrastructure that provides essential drinking water to millions. International experts warn that targeting desalination plants would violate the laws of war. The situation threatens to expand into a wider regional conflict affecting Gulf states and global oil supplies through the Strait of Hormuz."
+  }
+}
