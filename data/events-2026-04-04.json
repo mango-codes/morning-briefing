@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-04",
+  "category": "events",
+  "events": [
+    {
+      "name": "Undisputable Champions of Comedy",
+      "date": "2026-04-04",
+      "category": "comedy",
+      "description": "The Stranger presents a stand-up showcase featuring a lineup of touring and regional comedians competing for the title.",
+      "location": "Washington Hall, Seattle",
+      "url": "https://www.ticketweb.com/event/the-2026-undisputable-champions-of-washington-hall-tickets/14156274"
+    },
+    {
+      "name": "Seattle Kraken vs. Chicago Blackhawks",
+      "date": "2026-04-04",
+      "category": "sports",
+      "description": "NHL hockey action as the Seattle Kraken face off against the Chicago Blackhawks at home.",
+      "location": "Climate Pledge Arena, Seattle",
+      "url": "https://www.nhl.com/kraken/schedule"
+    },
+    {
+      "name": "Lacuna Coil: Sleepless Empire Tour",
+      "date": "2026-04-04",
+      "category": "concert",
+      "description": "Italian gothic metal band Lacuna Coil brings their Sleepless Empire Tour to Seattle with special guests Escape the Fate and VOWWS.",
+      "location": "The Crocodile, Seattle",
+      "url": "https://www.axs.com/events/1268665/lacuna-coil-tickets"
+    },
+    {
+      "name": "Shen Yun 2026",
+      "date": "2026-04-04",
+      "category": "theater",
+      "description": "A spectacular performance featuring classical Chinese dance, live orchestra, and dazzling animated backdrops telling ancient legends of love, loss, humor and valor.",
+      "location": "Marion Oliver McCaw Hall, Seattle Center",
+      "url": "https://seattlecenter.com/events/event-calendar/shen-yun-2026-x47081"
+    },
+    {
+      "name": "Robin Hood (ASL Interpreted Performance)",
+      "date": "2026-04-04",
+      "category": "theater",
+      "description": "A fresh take on the classic tale with ASL interpretation. A wannabe king, lawless law enforcement, and the rich hoarding wealth—it's dark times in Nottingham until a hero emerges from Sherwood Forest.",
+      "location": "Charlotte Martin Theatre, Seattle Center",
+      "url": "https://seattlecenter.com/events/event-calendar/robin-hood-asl-interpreted-performance"
+    },
+    {
+      "name": "Easter Sunday Celebrations",
+      "date": "2026-04-05",
+      "category": "community",
+      "description": "Brunches, community events, and spring celebrations throughout Seattle.",
+      "location": "Citywide, Seattle",
+      "url": ""
+    },
+    {
+      "name": "The Office Trivia Night",
+      "date": "2026-04-06",
+      "category": "community",
+      "description": "A themed trivia night focused on The Office TV series with prizes and group participation.",
+      "location": "The Clock-Out Lounge, Seattle",
+      "url": "https://www.ticketweb.com/event/raised-by-tv-events-presents-clock-out-lounge-tickets/14145604"
+    },
+    {
+      "name": "Open Mic Night",
+      "date": "2026-04-07",
+      "category": "music",
+      "description": "Local performers take the stage in a casual setting with rotating acts.",
+      "location": "Tim's Tavern, Seattle",
+      "url": "https://www.timslivemusic.com/events#/events"
+    },
+    {
+      "name": "Les Misérables",
+      "date": "2026-04-07",
+      "category": "theater",
+      "description": "A touring production of the beloved musical featuring large-scale staging and a full orchestra. Runs through April 19.",
+      "location": "The Paramount Theatre, Seattle",
+      "url": "https://www.stgpresents.org/events/les-miserables/"
+    },
+    {
+      "name": "Seattle Kraken Home Game",
+      "date": "2026-04-09",
+      "category": "sports",
+      "description": "NHL hockey action at Climate Pledge Arena.",
+      "location": "Climate Pledge Arena, Seattle",
+      "url": "https://www.nhl.com/kraken/schedule"
+    },
+    {
+      "name": "Seattle Cherry Blossom & Japanese Cultural Festival",
+      "date": "2026-04-10",
+      "category": "festival",
+      "description": "The 51st annual festival celebrating Japanese heritage with cultural performances, food vendors, art exhibits, and activities. Runs through April 12.",
+      "location": "Seattle Center (Armory, Fisher Pavilion, Exhibition Hall)",
+      "url": "https://seattlecherryblossomfestival.org/"
+    },
+    {
+      "name": "Seattle Mariners vs. Houston Astros",
+      "date": "2026-04-10",
+      "category": "sports",
+      "description": "Opening home series as the Mariners face the Astros. Four-game series runs through April 13.",
+      "location": "T-Mobile Park, Seattle",
+      "url": "https://www.mlb.com/mariners/schedule/2026-04"
+    },
+    {
+      "name": "Washington State Spring Fair",
+      "date": "2026-04-10",
+      "category": "festival",
+      "description": "Rides, food vendors, agricultural exhibits, and carnival fun. First of two weekends.",
+      "location": "Washington State Fairgrounds, Puyallup",
+      "url": "https://www.thefair.com/spring-fair/"
+    },
+    {
+      "name": "Seattle Kraken Home Game",
+      "date": "2026-04-11",
+      "category": "sports",
+      "description": "NHL hockey action at Climate Pledge Arena.",
+      "location": "Climate Pledge Arena, Seattle",
+      "url": "https://www.nhl.com/kraken/schedule"
+    },
+    {
+      "name": "Yuri's Night",
+      "date": "2026-04-11",
+      "category": "community",
+      "description": "North America's biggest space-themed dance party transforms the Museum into a 21+ intergalactic nightclub celebrating real and imagined spaceflight with music, dancing, cosplay, art, and astrotalk.",
+      "location": "Museum of Flight, Seattle",
+      "url": "https://www.museumofflight.org/exhibits-and-events/yuris-night"
+    }
+  ]
+}

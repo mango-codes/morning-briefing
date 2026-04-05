@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-05",
+  "category": "events",
+  "events": [
+    {
+      "title": "Sakura-Con",
+      "description": "Anime convention featuring Japanese film and TV animation, plus gaming, cosplay, cultural panels, dances, concerts, exhibits, and industry guests.",
+      "location": "Seattle Convention Center, 705 Pike St",
+      "time": "8 a.m. to 5 p.m.",
+      "date": "April 5, 2026",
+      "category": "convention",
+      "url": "https://www.events12.com/seattle/"
+    },
+    {
+      "title": "Shen Yun - Seattle",
+      "description": "Classical Chinese dance and music performance.",
+      "location": "McCaw Hall, Seattle",
+      "time": "2:00 pm",
+      "date": "April 5, 2026",
+      "category": "performance",
+      "url": "https://seatgeek.com/cities/seattle/today"
+    },
+    {
+      "title": "El Paso Chihuahuas at Tacoma Rainiers",
+      "description": "Minor league baseball game.",
+      "location": "Cheney Stadium, Tacoma, WA",
+      "time": "1:35 pm",
+      "date": "April 5, 2026",
+      "category": "sports",
+      "url": "https://seatgeek.com/cities/seattle/today"
+    }
+  ],
+  "featured": {
+    "title": "Sakura-Con",
+    "description": "The Pacific Northwest's largest anime convention returns to Seattle Convention Center. Features Japanese animation, gaming, cosplay, cultural panels, dances, concerts, and industry guests.",
+    "location": "Seattle Convention Center, 705 Pike St",
+    "time": "8 a.m. to 5 p.m.",
+    "date": "April 5, 2026"
+  }
+}

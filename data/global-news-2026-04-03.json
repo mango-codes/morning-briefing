@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Netanyahu claims most of Iran's steel production destroyed as Tehran targets Gulf energy sites",
+      "source": "BBC",
+      "category": "Middle East",
+      "url": "https://www.bbc.com/news/live/cgj0gn36px8t"
+    },
+    {
+      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+      "source": "BBC",
+      "category": "Science/Space",
+      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o"
+    },
+    {
+      "title": "Trump removes US Attorney General Pam Bondi",
+      "source": "BBC",
+      "category": "US Politics",
+      "url": "https://www.bbc.com/news/articles/ce843ge47z4o"
+    },
+    {
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
+      "source": "BBC",
+      "category": "Africa",
+      "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o"
+    },
+    {
+      "title": "Cuba to release more than 2,000 prisoners as US pressure mounts",
+      "source": "BBC",
+      "category": "World",
+      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o"
+    },
+    {
+      "title": "Myanmar's coup leader who set off a brutal civil war becomes president",
+      "source": "BBC",
+      "category": "Asia",
+      "url": "https://www.bbc.com/news/articles/c1782nk0018o"
+    },
+    {
+      "title": "Iranian police ask citizens to help capture downed American pilot",
+      "source": "AP",
+      "category": "Middle East",
+      "url": "https://apnews.com/live/iran-war-israel-trump-04-03-2026"
+    },
+    {
+      "title": "Trump uses Iran war address to urge skeptical electorate to give him more time",
+      "source": "AP",
+      "category": "US Politics",
+      "url": "https://apnews.com/article/trump-iran-war-address-to-nation-patience-940c2cd13a8c45f9d6d35a4750b7b499"
+    },
+    {
+      "title": "South Korea and France plan to boost defense cooperation amid Iran war energy crisis",
+      "source": "Reuters",
+      "category": "World",
+      "url": "https://www.reuters.com/world/"
+    },
+    {
+      "title": "Cambodia passes law targeting scam centers accused of bilking billions",
+      "source": "Reuters",
+      "category": "Asia",
+      "url": "https://www.reuters.com/world/"
+    },
+    {
+      "title": "Pope Leo urges Israeli President to reopen dialogue to end Iran war",
+      "source": "Reuters",
+      "category": "World",
+      "url": "https://www.reuters.com/world/"
+    },
+    {
+      "title": "Ma Xingrui: Chinese Politburo member under anti-corruption investigation",
+      "source": "Reuters",
+      "category": "China",
+      "url": "https://www.reuters.com/world/"
+    }
+  ]
+}

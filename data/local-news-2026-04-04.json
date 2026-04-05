@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-04",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Mayor Wilson Announces Accelerated 'Taller, Denser' Housing Growth Plan",
+      "source": "Capitol Hill Seattle News / PubliCola",
+      "summary": "Mayor Katie Wilson announced an accelerated approach to Seattle's Comprehensive Plan that could move zoning and development changes up by years. The plan aims to add more density within a 'reasonable walk' of transit stops and expand 'taller and denser' housing in existing cores like Capitol Hill and the U-District. The acceleration combines phases including environmental impact statements and rules for 'middle housing' like fourplexes and townhomes in historically single-family zones.",
+      "url": "https://www.capitolhillseattle.com/2026/04/wilson-announces-plan-to-speed-up-seattle-taller-and-denser-zoning-changes/"
+    },
+    {
+      "title": "Bumbershoot 2026 Lineup Announced: Death Cab for Cutie, Turnstile, Bikini Kill",
+      "source": "KUOW / KING 5",
+      "summary": "The 53rd Bumbershoot Arts & Music Festival announced its 2026 lineup featuring hometown legends Death Cab for Cutie, hardcore punk stars Turnstile, Grammy-winning country singer Orville Peck, Bikini Kill, Japanese Breakfast, and hip hop greats De La Soul. The festival returns to Seattle Center over Labor Day Weekend (September 5-6) with new changes including a 'sip and stroll' policy allowing drinks outside beer gardens, and tiered ticket options ranging from $70 single-day general admission to $325 weekend deluxe passes.",
+      "url": "https://www.kuow.org/stories/seattle-bumbershoot-2026-lineup"
+    },
+    {
+      "title": "New Seattle Public Schools Superintendent Concludes Community Tour in West Seattle",
+      "source": "West Seattle Blog",
+      "summary": "New Seattle Public Schools superintendent Ben Shuldiner visited West Seattle this week for the second-to-last stop of his community engagement tour. The meetings are designed to help the recent arrival better grasp the district's needs and build trust with parents. Shuldiner stated, 'Building trust is central to the work ahead, and I believe the best ideas come from listening to you and learning from your experiences in our schools.' The tour comes at a critical time as the district faces budget-balancing challenges.",
+      "url": "https://westseattleblog.com/2026/04/seattle-public-schools-new-superintendent-comes-here-on-second-to-last-stop-of-community-engagement-tour/"
+    },
+    {
+      "title": "Metro Weekend Service Impacts: Tenacious Ten Race Reroutes Routes 49 and 70",
+      "source": "King County Metro",
+      "summary": "King County Metro announced weekend service impacts for April 3-5. Routes 49 and 70 will be rerouted from 7:30 a.m. to noon on Saturday, April 4 due to the Tenacious Ten race. Route 160 is also rerouted off Auburn Way N between 15th Street NE and 22nd Street NE through Saturday evening due to construction. Additionally, the Seattle Kraken play at Climate Pledge Arena at 7 p.m. Saturday, with Metro and Link light rail providing service to the venue.",
+      "url": "https://kingcountymetro.blog/2026/04/03/metro-weekend-update-april-3-5-2026/"
+    },
+    {
+      "title": "The Picklr Opens New Seattle Location in Fremont",
+      "source": "KOMO News",
+      "summary": "The Picklr, a pickleball facility, opened its brand-new Seattle location in Fremont this weekend with a grand opening celebration on Saturday, April 4. The opening adds to Seattle's growing pickleball scene as the sport continues to surge in popularity across the region.",
+      "url": "https://komonews.com/"
+    }
+  ],
+  "top_story": {
+    "title": "Mayor Wilson Announces Accelerated 'Taller, Denser' Housing Growth Plan",
+    "source": "Capitol Hill Seattle News / PubliCola",
+    "summary": "Mayor Katie Wilson announced an accelerated approach to Seattle's Comprehensive Plan that could move zoning and development changes up by years. The plan aims to add more density within a 'reasonable walk' of transit stops and expand 'taller and denser' housing in existing cores like Capitol Hill and the U-District. The acceleration combines phases including environmental impact statements and rules for 'middle housing' like fourplexes and townhomes in historically single-family zones.",
+    "url": "https://www.capitolhillseattle.com/2026/04/wilson-announces-plan-to-speed-up-seattle-taller-and-denser-zoning-changes/",
+    "whyItMatters": "This is the most significant Seattle news of the week because it directly impacts housing affordability, neighborhood character, and the city's growth trajectory for decades to come. The accelerated timeline means residents could see zoning changes and new development rules much sooner than expected. The plan's focus on 'middle housing' in single-family zones could reshape Seattle's historically exclusionary neighborhoods, while the transit-oriented density aligns with the city's climate and transportation goals. For renters and potential homebuyers, this could eventually mean more housing options and potentially lower prices, while homeowners may see changes to their neighborhood's development patterns."
+  }
+}

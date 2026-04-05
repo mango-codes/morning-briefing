@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-05",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Cole Young broke a scoreless tie with an RBI triple leading off the 10th inning",
+        "Bryan Woo combined with the bullpen to pitch 10 innings of scoreless baseball"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Mariners win in extra innings on walk-off",
+          "Young's triple drives in winning run"
+        ],
+        "situation": "Early season action",
+        "playoffPicture": "Too early to determine",
+        "achievement": "Extra innings victory",
+        "today": "Win vs opponent",
+        "nextMatch": "Next game TBD"
+      },
+      "last_game": "Win - Extra innings",
+      "next_game": "TBD"
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken fall to Blackhawks 4-2",
+        "Boisvert scores first NHL goal for Chicago"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Kraken lose to Blackhawks",
+          "4-2 final score"
+        ],
+        "situation": "Regular season",
+        "playoffPicture": "Tightening race",
+        "achievement": "Competitive game",
+        "today": "Loss vs Blackhawks",
+        "nextMatch": "Next game TBD"
+      },
+      "last_game": "Loss 4-2 vs Blackhawks",
+      "next_game": "TBD"
+    },
+    {
+      "name": "Golden Knights",
+      "league": "NHL",
+      "headlines": [
+        "Golden Knights beat Oilers 5-1",
+        "Victory tightens Pacific Division race"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Vegas dominates Edmonton",
+          "5-1 decisive victory"
+        ],
+        "situation": "Pacific Division race heating up",
+        "playoffPicture": "Tightening division standings",
+        "achievement": "Dominant win",
+        "today": "Win 5-1 vs Oilers",
+        "nextMatch": "Next game TBD"
+      },
+      "last_game": "Win 5-1 vs Oilers",
+      "next_game": "TBD"
+    }
+  ]
+}

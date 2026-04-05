@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-03",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle police arrest suspect after Cherry Hill stabbing",
+      "summary": "Police arrested a suspect who stabbed another man in Seattle's Cherry Hill neighborhood Thursday evening. The victim was injured in the attack.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/seattle-cherry-hill-stabbing",
+      "category": "crime"
+    },
+    {
+      "title": "West Seattle light rail 'shovel ready,' construction could start this year",
+      "summary": "Sound Transit leaders say construction on the long-awaited West Seattle light rail extension could begin sooner than expected, even as the project faces a multi-billion-dollar budget gap.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/west-seattle-light-rail-ready-construction",
+      "category": "other"
+    },
+    {
+      "title": "Seattle leaders declare city 'ready' for NBA return as expansion talks move forward",
+      "summary": "Seattle leaders, former players and fan groups came together at City Hall to make their case for the return of the NBA. The push for Supersonics return gains momentum as expansion talks progress.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/seattle-leaders-supersonics-return",
+      "category": "other"
+    },
+    {
+      "title": "Man arrested in 1992 murder of estranged wife in Graham, WA",
+      "summary": "A 68-year-old man has been charged with first-degree murder in the 1992 death of his estranged wife in Graham. The cold case breakthrough comes after decades of investigation.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/man-arrested-1992-murder-estranged-wife-graham",
+      "category": "crime"
+    },
+    {
+      "title": "Seattle man arrested for vehicular homicide after 8 years on the run",
+      "summary": "A man on Washington's Most Wanted list for more than eight years has been arrested in West Seattle. He was wanted in connection with a 2017 vehicular homicide.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/man-arrested-2017-vehicular-homicide",
+      "category": "crime"
+    },
+    {
+      "title": "Two new measles cases confirmed in King County",
+      "summary": "Health officials have confirmed two new cases of measles in King County connected to cases of international travel. Public health officials are monitoring the situation and urging vaccinations.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/measles-cases-confirmed-king-county-wa",
+      "category": "other"
+    },
+    {
+      "title": "King County Executive signs executive order on homelessness and addiction",
+      "summary": "King County Executive Girmay Zahilay signed an executive order taking aim at the connected crises of homelessness, addiction and incarceration. The order aims to coordinate county resources.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/king-county-executive-order-homelessness-addiction",
+      "category": "politics"
+    },
+    {
+      "title": "SR 99 tunnel to close overnight Friday for maintenance",
+      "summary": "Both directions of the State Route 99 tunnel in Seattle will close from 10 p.m. Friday, April 3, to 6 a.m. Saturday, April 4, for maintenance work including fire suppression testing and drain cleaning.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/04/traffic-weather-transit-thursday-watch-2/",
+      "category": "traffic"
+    }
+  ],
+  "weather": {
+    "forecast": "Mostly cloudy with a chance of rain. April temperatures in Seattle typically range from highs of 55-71°F with overnight lows between 39-50°F. Expect 3-8 days of rain during the month.",
+    "high": 58,
+    "low": 45,
+    "conditions": "Mostly cloudy",
+    "alert": null
+  }
+}

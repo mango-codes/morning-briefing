@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-05",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI GPT-5.4 Released with 1-Million-Token Context Window",
+      "summary": "OpenAI unveiled GPT-5.4 featuring a 1-million-token context window and the ability to autonomously execute multi-step workflows across software environments. This represents a significant leap in AI capability for enterprise automation.",
+      "source": "Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "type": "product"
+    },
+    {
+      "title": "Anthropic Acquires Biotech Startup for $400M",
+      "summary": "Anthropic has acquired a biotech startup for $400 million, signaling deeper expansion into AI-powered healthcare and life sciences applications.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/explainer-articles/around-the-horn-digest-everything-that-happened-in-ai-today-thursday-april-2-2026-/",
+      "type": "funding"
+    },
+    {
+      "title": "Google Gemini 3.1 Pro Leads 13 of 16 Benchmarks",
+      "summary": "Google's Gemini 3.1 Pro continues to dominate the AI landscape, currently leading in 13 of 16 industry benchmarks. The model has positioned Google as the consumer AI leader in early 2026.",
+      "source": "RenovateQR",
+      "url": "https://renovateqr.com/blog/ai-models-april-2026",
+      "type": "research"
+    },
+    {
+      "title": "Claude Code Source Code Leaked",
+      "summary": "Claude Code's source code appears to have accidentally leaked from Anthropic, though the company has not yet made an official statement about the incident.",
+      "source": "Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/2026/04/03/ai-news-briefs-bulletin-board-for-april-2026/",
+      "type": "other"
+    },
+    {
+      "title": "Enterprise Users Increasingly Favor Anthropic Over OpenAI",
+      "summary": "A notable shift is occurring in enterprise AI adoption, with more enterprise users favoring Anthropic over OpenAI in 2026, marking a reversal of previous trends.",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260327PD204/openai-anthropic-google-gemini-apple-ai-2025.html",
+      "type": "other"
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI GPT-5.4 Released with 1-Million-Token Context Window",
+    "summary": "OpenAI has unveiled GPT-5.4, featuring a massive 1-million-token context window and the groundbreaking ability to autonomously execute multi-step workflows across software environments. This release represents a significant advancement in AI agent capabilities, allowing the model to handle complex, long-form tasks that were previously impossible.",
+    "why_it_matters": "The 1-million-token context window combined with autonomous workflow execution positions GPT-5.4 as a true enterprise automation tool. This could revolutionize how businesses handle document analysis, code refactoring, and complex multi-step processes that require maintaining context across vast amounts of information."
+  }
+}

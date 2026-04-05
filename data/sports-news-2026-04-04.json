@@ -1,0 +1,105 @@
+{
+  "date": "2026-04-04",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners open 2026 season with four-game series against Cleveland Guardians",
+        "Opening Day roster announced with J.P. Crawford and Bryce Miller starting on IL",
+        "Emerson Hancock earns rotation spot with impressive spring training performance"
+      ],
+      "details": {
+        "keyUpdates": [
+          "J.P. Crawford (shortstop) on 10-day IL with right shoulder inflammation, eligible to return April 1",
+          "Bryce Miller (starting pitcher) on 15-day IL with left oblique strain",
+          "Leo Rivas starting at shortstop in Crawford's absence",
+          "Mitch Garver wins backup catcher job over Andrew Knizner",
+          "Emerson Hancock makes season debut with six no-hit innings"
+        ],
+        "situation": "The Mariners entered the season with one of their most complete rosters in recent memory. The team is looking to contend in the AL West with a strong rotation led by Logan Gilbert, George Kirby, and Luis Castillo.",
+        "today": "Mariners are in the middle of a four-game Opening Day series vs. Cleveland Guardians at T-Mobile Park. Games started Thursday at 7:10 p.m. PT.",
+        "nextMatch": "Ongoing series vs. Cleveland Guardians through the weekend"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks announce 2026 offseason program dates",
+        "Defending Super Bowl LX champions begin title defense preparations"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Offseason program begins April 20 with voluntary workouts",
+          "OTA workouts scheduled for May 26, May 28-29, June 1, and June 3-4",
+          "Mandatory minicamp set for June 9-11",
+          "Head coach Mike Macdonald noted some players will return early for extra development"
+        ],
+        "situation": "The Seahawks are coming off their Super Bowl LX championship and are preparing to defend their title. The offseason program will focus on developing young players and integrating new talent.",
+        "today": "No games today. Offseason program begins in 16 days (April 20).",
+        "nextMatch": "2026 NFL season opener - date TBD (September 2026)"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken host Utah Mammoth tonight at Climate Pledge Arena",
+        "Shane Wright misses second straight game with upper body injury",
+        "Kraken ranked No. 7 in NHL prospect pool rankings"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Kraken record: 32-30-11",
+          "Shane Wright (upper body) skated in non-contact jersey but remains out",
+          "Ryan Winterton rejoined team after leave of absence",
+          "Recent prospect rankings highlight strong farm system"
+        ],
+        "situation": "The Kraken are in the latter stages of the 2025-26 regular season. With a record of 32-30-11, they're looking to finish strong. The team has been dealing with some injuries but has promising prospects in the pipeline.",
+        "today": "GAME DAY: Kraken vs. Utah Mammoth at Climate Pledge Arena, 7:00 p.m. PT (10:00 p.m. ET)",
+        "nextMatch": "Tonight vs. Utah Mammoth at home"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders advance to 2026 Concacaf Champions Cup Quarterfinals",
+        "Will face Tigres UANL in two-leg quarterfinal series",
+        "First Match On Us fan initiative returns for 2026 season"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Sounders to face Liga MX side Tigres UANL in Champions Cup Quarterfinals",
+          "Leg 1: April 8 at 6:00 p.m. PT at Estadio Universitario (away)",
+          "Leg 2: April 15 at Lumen Field (home)",
+          "First Match On Us program kicks off April 18 vs. St. Louis CITY SC"
+        ],
+        "situation": "The Sounders are enjoying a successful 2026 campaign, having advanced to the Concacaf Champions Cup Quarterfinals for the first time since 2022 - when they became the first MLS side to win the continental tournament. They face a tough test against Mexican powerhouse Tigres.",
+        "today": "No match today. Preparing for Champions Cup quarterfinal first leg.",
+        "nextMatch": "Wednesday, April 8 at Tigres UANL (Concacaf Champions Cup Quarterfinals Leg 1)"
+      }
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        "Storm lose guard Nika Mühl in WNBA expansion draft",
+        "2026 preseason schedule announced",
+        "Team preparing for upcoming WNBA season"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Nika Mühl selected by Golden State Valkyries in 2026 WNBA Expansion Draft",
+          "Preseason opens April 25 at Golden State Valkyries",
+          "Home preseason game April 29 vs. Portland Fire at Climate Pledge Arena"
+        ],
+        "situation": "The Storm are preparing for the 2026 WNBA season. They lost guard Nika Mühl to the expansion Golden State Valkyries in the expansion draft, but are gearing up for another competitive season with their core intact.",
+        "today": "No games today. Team in preseason preparation phase.",
+        "nextMatch": "Saturday, April 25 at Golden State Valkyries (preseason)"
+      }
+    }
+  ]
+}

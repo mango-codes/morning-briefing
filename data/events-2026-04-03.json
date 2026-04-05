@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-03",
+  "category": "events",
+  "today": [
+    {
+      "title": "Father John Misty",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Paramount Theatre",
+      "description": "Indie folk singer-songwriter performing live in Seattle",
+      "url": "https://www.stgpresents.org/events/father-john-misty/",
+      "price": "$60+"
+    },
+    {
+      "title": "RAYE - THIS TOUR MAY CONTAIN NEW MUSIC",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "WAMU Theater",
+      "description": "British singer-songwriter and record producer performing hits",
+      "url": "https://www.wamutheater.com/events/raye-2026",
+      "price": "$45+"
+    },
+    {
+      "title": "Brandon Wardell & Haley Stiel",
+      "type": "comedy",
+      "time": "7:00 PM",
+      "venue": "The Crocodile",
+      "description": "Stand-up comedy show featuring popular comedians",
+      "url": "https://www.ticketmaster.com/the-crocodile-tickets-seattle/venue/123027",
+      "price": "$25+"
+    },
+    {
+      "title": "Quiébrala",
+      "type": "concert",
+      "time": "10:00 PM",
+      "venue": "The Crocodile",
+      "description": "Late-night Latin music and dance event",
+      "url": "https://www.ticketmaster.com/the-crocodile-tickets-seattle/venue/123027",
+      "price": "$20+"
+    },
+    {
+      "title": "Seattle Kraken vs. Utah Mammoth",
+      "type": "sports",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "NHL hockey game - Utah Mammoth visit Seattle for a playoff push matchup",
+      "url": "https://climatepledgearena.com/event/seattle-kraken-vs-utah-mammoth/",
+      "price": "$30+"
+    },
+    {
+      "title": "Gabriel Rutledge",
+      "type": "comedy",
+      "time": "8:00 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "Stand-up comedy at Seattle's premier comedy venue on Capitol Hill",
+      "url": "https://www-emeraldcitycomedy-com.seatengine.com/events",
+      "price": "$25+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Sakura-Con 2026",
+      "date": "Saturday-Sunday",
+      "type": "festival",
+      "venue": "Seattle Convention Center",
+      "url": "https://sakuracon.org/"
+    },
+    {
+      "title": "bbno$ - The Internet Explorer Tour",
+      "date": "Saturday",
+      "type": "concert",
+      "venue": "WAMU Theater",
+      "url": "https://www.ticketmaster.com/bbno-the-internet-explorer-tour-seattle-washington-04-04-2026/event/0F00631B84DC2311"
+    },
+    {
+      "title": "Father John Misty",
+      "date": "Saturday",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/events/father-john-misty/"
+    },
+    {
+      "title": "Lacuna Coil: Sleepless Empire Tour",
+      "date": "Saturday",
+      "type": "concert",
+      "venue": "The Crocodile",
+      "url": "https://www.ticketmaster.com/lacuna-coil-tickets/artist/802105"
+    },
+    {
+      "title": "HEALTH x Carpenter Brut",
+      "date": "Sunday",
+      "type": "concert",
+      "venue": "Showbox SoDo",
+      "url": "https://www.showboxpresents.com/events/detail/1146694"
+    },
+    {
+      "title": "BunnyCon Easter Bar Hop 2026",
+      "date": "Saturday",
+      "type": "festival",
+      "venue": "Merchant's Cafe and Saloon",
+      "url": "https://allevents.in/seattle/easter"
+    },
+    {
+      "title": "THE 2026 UNDISPUTABLE CHAMPIONS OF COMEDY!",
+      "date": "Saturday",
+      "type": "comedy",
+      "venue": "Washington Hall",
+      "url": "https://www.ticketmaster.com/discover/seattle?categoryId=KZFzniwnSyZfZ7v7na&classificationId=KnvZfZ7vAe1"
+    },
+    {
+      "title": "Snohomish Easter Parade",
+      "date": "Saturday",
+      "type": "festival",
+      "venue": "Downtown Snohomish",
+      "url": "https://seattlerefined.com/lifestyle/april-festivals-and-events-2026-seattle-in-bloom-ultimate-pnw-events-guide-for-april-2026"
+    }
+  ]
+}

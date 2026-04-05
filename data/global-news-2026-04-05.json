@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-05",
+  "source": "BBC, Reuters, Associated Press",
+  "headlines": [
+    {
+      "title": "US aviator rescued after F-15 fighter jet shot down over Iran; Trump threatens strikes",
+      "source": "BBC / AP / Reuters",
+      "summary": "The US has rescued one crew member of a downed F-15 fighter jet in southern Iran. President Trump issued an expletive-laden threat on social media, warning Iran that 'Tuesday will be Power Plant Day, and Bridge Day' if the Strait of Hormuz is not reopened.",
+      "category": "Middle East / Conflict"
+    },
+    {
+      "title": "Pope Leo urges global leaders to end conflicts in Easter message",
+      "source": "Reuters",
+      "summary": "In his Easter message on Sunday, Pope Leo urged world leaders to abandon schemes for power, conquest, or domination and called for an end to conflicts raging across the globe.",
+      "category": "World / Religion"
+    },
+    {
+      "title": "Russian drone strike on Ukrainian market kills five, wounds 19",
+      "source": "Reuters / BBC",
+      "summary": "A Russian drone hit a busy market in the frontline Ukrainian city of Nikopol on Saturday morning, killing five people and injuring 21 others.",
+      "category": "Russia-Ukraine War"
+    },
+    {
+      "title": "Artemis II crew halfway to Moon after taking 'spectacular' Earth image",
+      "source": "BBC",
+      "summary": "The Artemis II crew is now halfway to the Moon. Commander Reid Wiseman captured a stunning image of Earth from aboard the Orion capsule during the mission.",
+      "category": "Space / Science"
+    },
+    {
+      "title": "Fugitive mafia boss arrested at Amalfi Coast luxury villa after year on run",
+      "source": "BBC / AP",
+      "summary": "Roberto Mazzarella, a mafia boss wanted for murder who had been on the run for over a year, was arrested at a luxury villa on Italy's Amalfi Coast where he was living under a false name.",
+      "category": "Europe / Crime"
+    },
+    {
+      "title": "Australians face fuel shortages as Iran war disrupts global oil shipments",
+      "source": "BBC",
+      "summary": "Hundreds of petrol stations across Australia have run out of fuel as the conflict in Iran disrupts global oil shipments and pushes up prices. Officials have told Australians to continue Easter travel plans despite the shortages.",
+      "category": "Global Economy / Energy"
+    },
+    {
+      "title": "King Charles attends Easter service at Windsor Castle with Prince William and family",
+      "source": "Reuters",
+      "summary": "Britain's King Charles and Queen Camilla attended the traditional Easter service at St George's Chapel, joined by Prince William, Catherine, and their three children.",
+      "category": "UK / Royal Family"
+    },
+    {
+      "title": "US revokes green cards and visas of Iranian nationals connected to Tehran government",
+      "source": "AP",
+      "summary": "The United States has revoked green cards and visas of several Iranian nationals with connections to the Tehran government, including relatives of late Iranian general Qasem Soleimani.",
+      "category": "US / Iran Relations"
+    },
+    {
+      "title": "Hungary election: AI videos fuel rhetoric as Orbán bids for four more years",
+      "source": "BBC",
+      "summary": "AI-generated videos have targeted Viktor Orbán's election rival as Hungary prepares for polls in nine days. Orbán has been in power for 16 years and faces a potential unseating.",
+      "category": "Europe / Elections"
+    },
+    {
+      "title": "Cambodia unveils statue honoring landmine-sniffing rat Magawa",
+      "source": "BBC",
+      "summary": "A statue has been unveiled in Cambodia to honor Magawa, the famous African giant pouched rat who sniffed out more than 100 landmines during his lifetime before passing away.",
+      "category": "Asia / Humanitarian"
+    }
+  ]
+}

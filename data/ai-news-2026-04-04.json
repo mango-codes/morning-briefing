@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-04",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Anthropic Cuts Off Third-Party Claude Access, Forces Usage-Based Pricing",
+      "source": "News9live / The Verge",
+      "summary": "Effective April 4, 2026, Anthropic ended subscription-based access to Claude for third-party tools like OpenClaw. Users must now pay separately through usage-based pricing or API keys, significantly increasing costs for automation workflows. The company cited infrastructure strain and a need to prioritize direct users.",
+      "url": "https://www.news9live.com/technology/artificial-intelligence/claude-users-hit-by-surprise-cost-hike-as-anthropic-cuts-off-openclaw-access-2951813"
+    },
+    {
+      "title": "Microsoft Commits $10 Billion to Japan for AI Infrastructure and Cyber Defense",
+      "source": "Reuters / Tech Startups",
+      "summary": "Microsoft announced it will invest 1.6 trillion yen (approximately $10 billion) in Japan between 2026-2029 to expand AI infrastructure and deepen cybersecurity cooperation. The announcement underscores how AI investment is increasingly tied to national resilience and digital sovereignty.",
+      "url": "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/"
+    },
+    {
+      "title": "AI Startup Funding Hits Record $242-267 Billion in Q1 2026",
+      "source": "BuildEZ / DevFlokers / TechCrunch",
+      "summary": "Global venture funding reached an all-time high of $300 billion in Q1 2026, with approximately 80% going to AI companies. Four of the five largest venture rounds ever recorded closed this quarter, led by OpenAI ($122B) and Anthropic ($30B). Mega M&A deals totaled $438 billion as companies race to acquire AI capabilities.",
+      "url": "https://www.buildez.ai/blog/ai-trending-april-2026-developments"
+    },
+    {
+      "title": "Cursor Launches Cursor 3 with AI Coding Agents",
+      "source": "Wired / Tech Startups",
+      "summary": "Cursor released Cursor 3, featuring a new interface that lets developers spin up coding agents to handle tasks autonomously. The company is positioning the release directly against Anthropic's Claude Code and OpenAI's Codex, intensifying competition in the AI-assisted development space.",
+      "url": "https://techstartups.com/2026/04/03/top-tech-news-today-april-3-2026/"
+    },
+    {
+      "title": "Anthropic's Claude Mythos 5: First 10-Trillion-Parameter Model Released",
+      "source": "DevFlokers",
+      "summary": "Anthropic released Claude Mythos 5, reportedly the first widely recognized ten-trillion-parameter model. Designed for high-stakes environments like cybersecurity, academic research, and complex coding, it represents a shift toward specialized density for multi-step reasoning tasks.",
+      "url": "https://www.devflokers.com/blog/ai-news-last-24-hours-april-2026-model-releases-breakthroughs"
+    }
+  ],
+  "top_story": {
+    "title": "Anthropic Cuts Off Third-Party Claude Access, Forces Usage-Based Pricing",
+    "source": "News9live / The Verge",
+    "summary": "In a major policy shift effective April 4, 2026, Anthropic ended the ability for Claude subscribers to use their subscriptions through third-party tools like OpenClaw. Users must now migrate to usage-based pricing or API keys, significantly increasing costs for those relying on automation workflows. Anthropic stated the move is necessary to manage infrastructure demand and prioritize direct users of its products.",
+    "url": "https://www.news9live.com/technology/artificial-intelligence/claude-users-hit-by-surprise-cost-hike-as-anthropic-cuts-off-openclaw-access-2951813",
+    "whyItMatters": "This represents a significant shift in how AI companies monetize their models and could signal broader industry changes. By cutting off third-party integrations from subscription plans, Anthropic is prioritizing its own ecosystem and API revenue over partner integrations. This directly impacts thousands of developers and businesses who built workflows around tools like OpenClaw, forcing them to restructure their AI spending. The move also highlights the growing infrastructure strain as AI adoption accelerates, and may prompt other AI providers to reconsider their third-party access policies."
+  }
+}

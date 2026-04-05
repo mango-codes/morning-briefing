@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-03",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Prospect performances highlight the Mariners' 2026 Spring Training",
+          "summary": "The Mariners wrapped up their 2026 Spring Training with impressive performances from prospects. Cole Young, 22, led the team with 6 home runs in Cactus League play, including a two-homer night against the Guardians. The equipment truck has already departed for Seattle as the team prepares for Opening Day.",
+          "url": "https://www.mlb.com/news/mariners-2026-spring-training-recap"
+        },
+        {
+          "title": "Bryce Miller and J.P. Crawford injury updates",
+          "summary": "Bryce Miller (left oblique inflammation) is expected to open the season on the injured list but is progressing through a throwing program. J.P. Crawford (sore throwing shoulder) might not be ready by Opening Day, though any IL stint would not be lengthy.",
+          "url": "https://www.mlb.com/mariners/news/bryce-miller-shut-down-with-left-oblique-injury"
+        }
+      ],
+      "last_game": {
+        "opponent": "San Diego Padres",
+        "result": "L 3-10",
+        "highlights": "Final Cactus League game at Peoria Stadium before wrapping up Spring Training"
+      },
+      "next_game": {
+        "opponent": "Cleveland Guardians",
+        "date": "March 26, 2026 - 7:10 PM PT",
+        "location": "Home (T-Mobile Park)"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "2026 Mock Draft Tracker: What Will The Seahawks Do With Pick No. 32?",
+          "summary": "Following their Super Bowl win over the Patriots, the Seahawks hold the 32nd pick in the first round of the 2026 NFL Draft. They also have picks No. 64 and 96 in Rounds 2 and 3, plus Cleveland's sixth-rounder (No. 188). Mock drafts project picks ranging from CB Avieon Terrell (Clemson) to RB Jadarian Price (Notre Dame).",
+          "url": "https://www.seahawks.com/news/2026-mock-draft-tracker-6-0-what-will-the-seahawks-do-with-pick-no-32"
+        },
+        {
+          "title": "Seahawks 2026 NFL Draft guide: Number of picks, biggest needs",
+          "summary": "Seattle currently only possesses four draft picks after trading fourth and fifth-round picks to the Saints for WR Rashid Shaheed. The team needs to address losses of Kenneth Walker III (RB), Boye Mafe (Edge), and Riq Woolen (CB) in free agency.",
+          "url": "https://clutchpoints.com/nfl/seattle-seahawks/seahawks-2026-nfl-draft-guide-picks-needs-draft-history-more"
+        },
+        {
+          "title": "Seahawks Predicted To Add 30-TD RB in 2026 NFL Draft",
+          "summary": "With Zach Charbonnet's return timeline uncertain and Kenneth Walker III now in Kansas City, the Seahawks are projected to select Wake Forest RB Demond Claiborne to address their significant backfield void.",
+          "url": "https://www.profootballnetwork.com/seahawks-projected-demond-claiborne-selection-2026-draft/"
+        }
+      ],
+      "last_game": {
+        "opponent": "New England Patriots",
+        "result": "W - Super Bowl Champions",
+        "highlights": "Seahawks won Super Bowl to earn 32nd overall pick in 2026 NFL Draft"
+      },
+      "next_game": {
+        "opponent": "2026 NFL Draft",
+        "date": "April 23-25, 2026",
+        "location": "Pittsburgh"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Strive for 95... make that 86 points — April playoff push update",
+          "summary": "The Kraken have nine games remaining and sit just three points out of a playoff spot. After a rough 5-10-2 stretch since the Olympic break, Seattle needs to go approximately 5-3-1 in their final nine games to reach the projected 86-point playoff cutoff. They hold favorable tiebreakers against most competitors.",
+          "url": "https://soundofhockey.com/2026/04/02/strive-for-95-make-that-86-points-april-playoff-push-update/"
+        }
+      ],
+      "last_game": {
+        "opponent": "Utah Mammoth",
+        "result": "L 2-6",
+        "highlights": "Lost at home on April 2, continuing a rough stretch since the Olympic break"
+      },
+      "next_game": {
+        "opponent": "Chicago Blackhawks",
+        "date": "April 4, 2026 - 7:00 PM PT",
+        "location": "Home (Climate Pledge Arena)"
+      }
+    },
+    {
+      "name": "Seattle Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders advance to 2026 Concacaf Champions Cup Quarterfinals",
+          "summary": "The Sounders defeated Vancouver Whitecaps 5-1 on aggregate to advance to the Quarterfinals. After a 3-0 road win in Leg One, Seattle secured the series with a 2-1 victory in Leg Two at ONE Spokane Stadium. Danny Musovski and Paul Rothrock scored in the second half to seal the victory.",
+          "url": "https://www.soundersfc.com/news/sounders-advance-to-2026-concacaf-champions-cup-quarterfinals"
+        },
+        {
+          "title": "Sounders to face Tigres in Concacaf Champions Cup Quarterfinals",
+          "summary": "Seattle will face Liga MX side Tigres UANL in the Quarterfinals. Leg 1 is scheduled for April 8 at 6 p.m. PT at Estadio Universitario in Mexico, while Leg 2 will be on April 15 at 8:30 p.m. PT at Lumen Field.",
+          "url": "https://www.soundersfc.com/news/sounders-advance-to-2026-concacaf-champions-cup-quarterfinals"
+        }
+      ],
+      "last_game": {
+        "opponent": "Vancouver Whitecaps",
+        "result": "W 2-1 (5-1 aggregate)",
+        "highlights": "Danny Musovski header equalized in 79th minute, Paul Rothrock winner in 83rd minute at ONE Spokane Stadium to advance to Champions Cup Quarterfinals"
+      },
+      "next_game": {
+        "opponent": "Houston Dynamo",
+        "date": "April 4, 2026 - 5:30 PM PT",
+        "location": "Away (Shell Energy Stadium)"
+      }
+    }
+  ]
+}

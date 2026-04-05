@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-05",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "High-Speed Pursuit on I-5 Reaches 130 mph",
+      "summary": "Two people are in custody after a high-speed pursuit on I-5 from Federal Way to Lakewood that reached speeds of up to 130 mph, according to Washington State Patrol.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/local-news",
+      "location": "Federal Way to Lakewood"
+    },
+    {
+      "title": "The Picklr Opens New Seattle Location in Fremont",
+      "summary": "The Picklr will open its brand-new Seattle location in Fremont this weekend, with a grand opening celebration on Saturday, April 4.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "location": "Fremont, Seattle"
+    },
+    {
+      "title": "Belltown Shooting Under Investigation",
+      "summary": "Seattle police are investigating a Friday night shooting on 3rd Avenue in Belltown.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/local",
+      "location": "Belltown, Seattle"
+    },
+    {
+      "title": "Mariners Win in Extra Innings",
+      "summary": "Cole Young broke a scoreless tie with an RBI triple leading off the 10th inning, and Bryan Woo combined with the Seattle Mariners' bullpen to pitch 10 innings of scoreless baseball.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "location": "Seattle"
+    },
+    {
+      "title": "Young Gray Whale Found Dead in Willapa River",
+      "summary": "A young gray whale spotted in Willapa River has been pronounced dead, according to KIRO 7 News.",
+      "source": "KIRO 7",
+      "url": "https://www.kiro7.com/news/",
+      "location": "Willapa River"
+    },
+    {
+      "title": "SPS Superintendent on Community Engagement Tour",
+      "summary": "Seattle Public Schools' new superintendent is on the second-to-last stop of a community-engagement tour, visiting West Seattle among other neighborhoods.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/",
+      "location": "West Seattle"
+    }
+  ],
+  "top_story": {
+    "title": "High-Speed Pursuit on I-5 Reaches 130 mph",
+    "summary": "Two suspects are in custody following a dramatic high-speed pursuit on Interstate 5 from Federal Way to Lakewood. Washington State Patrol reports the chase reached speeds of up to 130 mph before the suspects were apprehended.",
+    "why_it_matters": "High-speed pursuits on major highways pose significant risks to public safety. This incident highlights ongoing law enforcement challenges in the Puget Sound region."
+  }
+}
