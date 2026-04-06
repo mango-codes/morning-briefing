@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-06",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "J.P. Crawford set to return from shoulder injury on first road trip",
+        "Mitch Garver finalizing minor league contract with Mariners",
+        "Cole Young broke scoreless tie with RBI triple leading off 10th inning in recent game"
+      ],
+      "details": {
+        "keyUpdates": ["J.P. Crawford returning from injury", "Mitch Garver signing"],
+        "situation": "Early season, building momentum",
+        "playoffPicture": "Too early to determine",
+        "achievement": "",
+        "today": "",
+        "nextMatch": "Upcoming road trip games"
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks voluntary offseason program begins April 20",
+        "League announced dates for offseason workout programs"
+      ],
+      "details": {
+        "keyUpdates": ["Offseason program starts April 20"],
+        "situation": "Offseason",
+        "playoffPicture": "N/A - Offseason",
+        "achievement": "",
+        "today": "",
+        "nextMatch": "Training camp to begin later this summer"
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken fall to Blackhawks 4-2 in recent matchup",
+        "Sacha Boisvert scored first NHL goal for Chicago in the game"
+      ],
+      "details": {
+        "keyUpdates": ["Recent loss to Blackhawks 4-2"],
+        "situation": "Regular season",
+        "playoffPicture": "Battling for position",
+        "achievement": "",
+        "today": "",
+        "nextMatch": "Upcoming games on schedule"
+      },
+      "last_game": "Lost 4-2 vs Blackhawks",
+      "next_game": null
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "CONCACAF Champions Cup Quarterfinals action ongoing",
+        "Home games rescheduled to accommodate Seahawks Week 1 opener"
+      ],
+      "details": {
+        "keyUpdates": ["Competing in CONCACAF Champions Cup"],
+        "situation": "Regular season",
+        "playoffPicture": "Early season",
+        "achievement": "",
+        "today": "",
+        "nextMatch": "Champions Cup Quarterfinals"
+      },
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

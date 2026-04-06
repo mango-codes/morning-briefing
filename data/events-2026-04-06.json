@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-06",
+  "category": "events",
+  "today": [
+    {
+      "name": "Seattle Sounders Home Game",
+      "venue": "Lumen Field",
+      "time": "Evening",
+      "category": "Sports"
+    }
+  ],
+  "this_weekend": [
+    {
+      "name": "Northwest Model Hobby Expo",
+      "venue": "Evergreen State Fairgrounds, Monroe",
+      "date": "April 10",
+      "category": "Hobby/Expo"
+    },
+    {
+      "name": "Washington State Toy Show",
+      "venue": "Angel of the Winds Arena, Everett",
+      "date": "April 11",
+      "category": "Collectibles"
+    },
+    {
+      "name": "Best of the Northwest Art Show",
+      "venue": "Northwest Art Alliance, Clinton",
+      "date": "April 11-12",
+      "category": "Art"
+    },
+    {
+      "name": "Appropriate - Theater Performance",
+      "venue": "Bagley Wright Theatre",
+      "date": "Friday April 10, 7:30pm",
+      "category": "Theater"
+    },
+    {
+      "name": "Isaac Mizrahi",
+      "venue": "Tacoma Armory",
+      "date": "Friday April 10, 7:30pm",
+      "category": "Fashion/Entertainment"
+    }
+  ]
+}

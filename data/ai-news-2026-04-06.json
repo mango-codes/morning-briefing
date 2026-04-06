@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-06",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Foxconn reports 29.7% revenue rise on strong AI demand",
+      "source": "Reuters",
+      "summary": "Taiwan's Foxconn, the world's largest contract electronics maker, saw first-quarter revenue surge on strong demand for artificial intelligence products."
+    },
+    {
+      "title": "NASA's Perseverance rover completes first AI-planned Mars drives",
+      "source": "Crescendo AI",
+      "summary": "Using Anthropic's Claude vision-language models, the rover analyzes orbital imagery and terrain data to autonomously generate safe waypoints."
+    },
+    {
+      "title": "AI companies shatter fundraising records with $297B in Q1",
+      "source": "New York Times",
+      "summary": "OpenAI, Anthropic, Waymo and other AI companies hauled in $297 billion in funding in the first three months of 2026."
+    },
+    {
+      "title": "Google's new algorithm could eliminate AI's biggest bottleneck",
+      "source": "Motley Fool",
+      "summary": "New development from Google could address one of the most significant limitations currently facing AI systems."
+    },
+    {
+      "title": "AI retail startups solving industry's 'silent killer' problem",
+      "source": "CNBC",
+      "summary": "Generative AI virtual try-on technology is finally good enough to meaningfully impact retailers' bottom lines."
+    }
+  ],
+  "top_story": {
+    "title": "AI companies shatter fundraising records with $297B in Q1 2026",
+    "source": "New York Times",
+    "summary": "OpenAI, Anthropic, Waymo and other artificial intelligence companies hauled in $297 billion in funding in the first three months of the year, marking an unprecedented investment boom."
+  }
+}

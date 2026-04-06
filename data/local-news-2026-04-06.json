@@ -1,0 +1,38 @@
+{
+  "date": "2026-04-06",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "J.P. Crawford set to return from shoulder injury on Mariners' first road trip",
+      "source": "Seattle Sports 710",
+      "summary": "Shortstop J.P. Crawford is expected to make his comeback during the Seattle Mariners' upcoming road trip."
+    },
+    {
+      "title": "Family raising money to bring father home to Kenya after Green Lake tragedy",
+      "source": "KIRO 7",
+      "summary": "Community supporting family after body was pulled from Green Lake."
+    },
+    {
+      "title": "The Picklr opens new Seattle location in Fremont",
+      "source": "KOMO News",
+      "summary": "Grand opening celebration for new pickleball facility in Fremont neighborhood."
+    },
+    {
+      "title": "25-year-old arrested after stabbing in Seattle's Cherry Hill neighborhood",
+      "source": "MyNorthwest",
+      "summary": "Incident occurred in parking lot of mental health agency."
+    },
+    {
+      "title": "Bumbershoot 2026 lineup announced featuring Death Cab for Cutie",
+      "source": "KOMO News",
+      "summary": "Annual festival lineup includes Death Cab for Cutie, Turnstile, Orville Peck and more."
+    }
+  ],
+  "weather": {
+    "forecast": "Sunny and pleasant",
+    "high": 57,
+    "low": 46,
+    "conditions": "Sunny",
+    "alert": null
+  }
+}
