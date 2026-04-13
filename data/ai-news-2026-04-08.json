@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-08",
+  "category": "ai-news",
+  "items": [
+    {
+      "headline": "Microsoft Launches Three In-House AI Models to Challenge OpenAI and Google",
+      "summary": "Microsoft AI released three new foundational models: MAI-Transcribe-1 (speech transcription across 25 languages), MAI-Voice-1 (voice generation), and MAI-Image-2 (image/video generation). The models are priced competitively to undercut rivals and represent Microsoft's push to build its own AI stack while maintaining its OpenAI partnership. Developed by the MAI Superintelligence team led by Mustafa Suleyman.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "severity": "high"
+    },
+    {
+      "headline": "Jeff Bezos' Project Prometheus Poaches xAI Cofounder Kyle Kozic from OpenAI",
+      "summary": "Kyle Kozic, who cofounded xAI with Elon Musk before joining OpenAI, has been hired by Jeff Bezos' secretive AI startup Project Prometheus. Kozic will focus on AI infrastructure at the well-funded venture, which aims to use AI to improve manufacturing. The move highlights the ongoing talent war among top AI labs.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907834/jeff-bezos-ai-lab-poaches-xai-cofounder-kyle-kozic-from-openai",
+      "severity": "high"
+    },
+    {
+      "headline": "OpenAI, Anthropic, and Google Cooperate to Fend Off Chinese Model Cloning",
+      "summary": "The three rival AI companies are sharing information through the Frontier Model Forum to detect and prevent 'adversarial distillation' attempts by Chinese competitors. The collaboration aims to stop users from extracting results from cutting-edge U.S. AI models to create imitation versions that could undercut American firms on price while posing national security risks.",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/04/07/tech/openai-anthropic-google-china-copy/",
+      "severity": "high"
+    },
+    {
+      "headline": "Japan Pushes Physical AI from Pilot Projects to Real-World Deployment",
+      "summary": "Driven by severe labor shortages and demographic decline, Japan is rapidly deploying AI-powered robots across factories, warehouses, and infrastructure. The government aims to capture 30% of the global physical AI market by 2040 and has committed $6.3 billion to strengthen AI capabilities and robotics integration. Japanese companies currently account for about 70% of the global industrial robotics market.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "severity": "medium"
+    },
+    {
+      "headline": "Anthropic Signs Multi-Gigawatt AI Infrastructure Deal with Google and Broadcom",
+      "summary": "Anthropic announced a major partnership for 'multiple gigawatts of next-generation TPU capacity' expected to come online beginning in 2027 to power frontier Claude models. The company also revealed its run-rate revenue has surpassed $30 billion, marking significant growth for the OpenAI rival backed by Amazon and Google.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "severity": "medium"
+    },
+    {
+      "headline": "Google Launches Free Offline AI Dictation App 'AI Edge Eloquent'",
+      "summary": "Google released AI Edge Eloquent, a free live AI transcription app for iOS with no subscription or usage limits. The app automatically polishes speech by filtering out filler words like 'um' and requires no internet connection. Google plans to bring the app to Android and macOS soon.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "severity": "low"
+    },
+    {
+      "headline": "Google Releases Gemma 4 Open AI Models with Apache 2.0 License",
+      "summary": "Google announced Gemma 4, the latest version of its open AI model series, switching from a restrictive custom license to the more permissive Apache 2.0 license widely used by developers. The move addresses previous criticism of licensing restrictions and offers performance improvements for developers building on open models.",
+      "source": "The Verge / Ars Technica",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "severity": "medium"
+    },
+    {
+      "headline": "Mercor AI Training Data Company Hit by Security Breach",
+      "summary": "Mercor, a company that provides AI training data and staffing, suffered a security breach that put AI industry secrets at risk. Meta has paused work with the company while OpenAI investigates the incident. The breach highlights ongoing security concerns in the AI supply chain as companies rely on third-party data providers.",
+      "source": "Wired / The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "severity": "medium"
+    }
+  ]
+}

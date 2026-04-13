@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-07",
+  "region": "Seattle / Pacific Northwest",
+  "weather": {
+    "location": "Seattle, WA",
+    "date": "2026-04-07",
+    "high_temp_f": 54,
+    "low_temp_f": 42,
+    "conditions": "Overcast morning, partly cloudy afternoon",
+    "current_temp_f": 47,
+    "feels_like_f": 45,
+    "humidity_percent": 74,
+    "wind": "4 mph SE",
+    "precipitation": "0.0 inches",
+    "sunrise": "6:35 AM",
+    "sunset": "7:48 PM",
+    "forecast_summary": "Overcast skies this morning with clouds breaking up to partly cloudy by afternoon. High around 54°F. Clear skies expected tonight with lows near 42°F."
+  },
+  "stories": [
+    {
+      "id": 1,
+      "headline": "Seattle-Tacoma Airport Chaos: 79 Disruptions on April 7",
+      "category": "Transportation",
+      "source": "Travel Tourister / FOX 13 Seattle",
+      "published": "2026-04-07",
+      "summary": "Seattle-Tacoma International Airport recorded 8 cancellations and 71 delays today, leaving hundreds of passengers stranded. Alaska Airlines was hardest-hit with 30 delays and 2 cancellations. Ongoing runway construction under the $5 billion Upgrade SEA program is generating 15-30 minute departure holds even on clear days, compounding post-Easter travel strain.",
+      "url": "https://www.traveltourister.com/news/seattle-tacoma-airport-chaos-april-7-2026/"
+    },
+    {
+      "id": 2,
+      "headline": "Seattle Millionaire Asks Washington Supreme Court to Allow Referendum on Income Tax",
+      "category": "Politics",
+      "source": "OPB / Washington State Standard",
+      "published": "2026-04-05",
+      "summary": "Brian Heywood, founder of Let's Go Washington, filed an emergency petition asking the state Supreme Court to allow a referendum effort on Washington's new 'millionaires tax.' The law imposes a 9.9% levy on household wage income above $1 million starting in 2028. Opponents need 154,455 signatures by June 10 to qualify for the November ballot.",
+      "url": "https://www.opb.org/article/2026/04/05/heywood-asks-supreme-court-referendum-effort-on-income-tax/"
+    },
+    {
+      "id": 3,
+      "headline": "Three Gray Whale Deaths in One Week Raise Alarm Along Washington Coast",
+      "category": "Environment",
+      "source": "FOX 13 Seattle / The New York Times",
+      "published": "2026-04-06",
+      "summary": "Six gray whales have stranded along Washington shores this year, compared to just one by this point last year. A whale that swam 20 miles up a Washington river was found dead on Monday. Researchers from Cascadia Research Collective conducted a necropsy and note that most gray whale mortality occurs in April, May, and June.",
+      "url": "https://www.fox13seattle.com/news/gray-whale-deaths-washington-coast"
+    },
+    {
+      "id": 4,
+      "headline": "The Picklr: Seattle's Massive Indoor Pickleball Courts Open in Fremont",
+      "category": "Business / Recreation",
+      "source": "KOMO News / FOX 13 Seattle",
+      "published": "2026-04-06",
+      "summary": "Seattle's newest indoor pickleball facility, The Picklr Fremont, is now open in the former Theo Chocolate building. The facility held its grand opening celebration on Saturday, April 4. The opening marks a significant addition to Seattle's growing pickleball scene, which has exploded in popularity across the Pacific Northwest.",
+      "url": "https://www.fox13seattle.com/news/indoor-pickleball-courts-fremont-seattle"
+    },
+    {
+      "id": 5,
+      "headline": "FIFA World Cup Trophy Makes Pit Stop in Seattle",
+      "category": "Sports / Events",
+      "source": "KING 5 / FOX 13 Seattle",
+      "published": "2026-04-06",
+      "summary": "With just 66 days until the 2026 FIFA World Cup, the original World Cup Trophy made a stop in Seattle this week. The trophy drew crowds as celebrations ramp up ahead of the tournament, which is expected to bring an estimated 750,000 additional visitors to Seattle and Western Washington.",
+      "url": "https://www.fox13seattle.com/news/how-see-fifa-world-cup-trophy-seattle"
+    },
+    {
+      "id": 6,
+      "headline": "Four Washington Sheriffs Sue Over Law Enforcement Eligibility Bill",
+      "category": "Politics / Public Safety",
+      "source": "FOX 13 Seattle",
+      "published": "2026-04-06",
+      "summary": "Four Eastern Washington sheriffs are suing to block a new state law they say allows an unelected board to unseat elected officials. The lawsuit represents growing tension between state lawmakers and local law enforcement over new police accountability legislation.",
+      "url": "https://www.fox13seattle.com/news/washington-sheriffs-sue-eligibility-law"
+    },
+    {
+      "id": 7,
+      "headline": "West Seattle Light Rail 'Shovel Ready,' Construction Could Start This Year",
+      "category": "Transportation / Infrastructure",
+      "source": "FOX 13 Seattle",
+      "published": "2026-04-02",
+      "summary": "Sound Transit leaders say construction on the long-awaited West Seattle light rail extension could begin sooner than expected, even as the project faces a multi-billion-dollar budget gap. The announcement comes as Seattle expands its public transit network to serve growing neighborhoods.",
+      "url": "https://www.fox13seattle.com/news/west-seattle-light-rail-ready-construction"
+    },
+    {
+      "id": 8,
+      "headline": "Seattle Leaders Declare City 'Ready' for NBA Return as Expansion Talks Move Forward",
+      "category": "Sports / Business",
+      "source": "FOX 13 Seattle",
+      "published": "2026-04-02",
+      "summary": "Seattle leaders, former players and fan groups came together at City Hall to make their case for the return of the NBA. The push for a new Sonics team gains momentum as the league considers expansion, with Seattle positioned as a top candidate for a new franchise.",
+      "url": "https://www.fox13seattle.com/news/seattle-leaders-supersonics-return"
+    }
+  ],
+  "story_count": 8,
+  "categories_covered": ["Transportation", "Politics", "Environment", "Business", "Sports", "Public Safety", "Infrastructure"],
+  "sources": ["Travel Tourister", "OPB", "FOX 13 Seattle", "KOMO News", "KING 5", "Washington State Standard"],
+  "generated_at": "2026-04-07T14:32:00Z"
+}

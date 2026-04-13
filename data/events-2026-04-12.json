@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-12",
+  "category": "events",
+  "events": [
+    {
+      "name": "Seattle Mariners vs Houston Astros",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "date": "2026-04-12",
+      "time": "1:10 PM",
+      "description": "Seattle Mariners home game against the Houston Astros. Baseball season opener series continues.",
+      "url": "https://www.mlb.com/mariners/schedule/2026-04"
+    },
+    {
+      "name": "Les Misérables Broadway Musical",
+      "type": "theater",
+      "venue": "Paramount Theatre",
+      "date": "2026-04-12",
+      "time": "1:00 PM & 6:30 PM",
+      "description": "The Broadway revival of the beloved musical tells an enthralling story of broken dreams, passion, sacrifice, and redemption.",
+      "url": "https://www.stgpresents.org/events/les-miserables/"
+    },
+    {
+      "name": "Ari Lennox Concert",
+      "type": "concert",
+      "venue": "Moore Theatre",
+      "date": "2026-04-12",
+      "time": "8:00 PM",
+      "description": "R&B singer-songwriter Ari Lennox performs live in Seattle.",
+      "url": "https://www.stgpresents.org/moore/"
+    },
+    {
+      "name": "Cherry Blossom & Japanese Cultural Festival",
+      "type": "festival",
+      "venue": "Seattle Center",
+      "date": "2026-04-12",
+      "time": "All Day",
+      "description": "Celebrate Seattle's friendship with Japan with Japanese art, dance, music, martial arts, and food. Features cultural performances and exhibits.",
+      "url": "https://seattlecenter.com/events/featured-events/festal/seattle-cherry-blossom-festival"
+    },
+    {
+      "name": "Candlelight: Tribute to Fleetwood Mac",
+      "type": "concert",
+      "venue": "Arctic Club Hotel",
+      "date": "2026-04-12",
+      "time": "8:30 PM",
+      "description": "A string quartet performs Fleetwood Mac classics in the warm glow of candlelight.",
+      "url": "https://fever.pxf.io/Kj6j5x"
+    },
+    {
+      "name": "Seattle Jazz Vespers",
+      "type": "concert",
+      "venue": "Seattle First Baptist Church",
+      "date": "2026-04-12",
+      "time": "6:00 PM - 8:00 PM",
+      "description": "FREE event featuring Deseo Carmin playing a fiery fusion of Latin rhythms, soulful jazz/funk grooves, and passionate flamenco.",
+      "url": "https://www.facebook.com/events/1206175121554839"
+    },
+    {
+      "name": "The Big Taste",
+      "type": "festival",
+      "venue": "Block 41, Belltown",
+      "date": "2026-04-12",
+      "time": "4:00 PM - 7:30 PM",
+      "description": "A bevvie festival featuring 10 tastes of wine, beer, cider, or spirits with live music and food for sale. Fundraiser event.",
+      "url": "https://usrotary.org/the-big-taste/"
+    },
+    {
+      "name": "Best of the Northwest Spring Art Show",
+      "type": "exhibition",
+      "venue": "Hangar 30 at Magnuson Park",
+      "date": "2026-04-12",
+      "time": "10:00 AM - 5:00 PM",
+      "description": "100 artists displaying jewelry, clothing, paintings, glass art, and sculptures plus food trucks.",
+      "url": "https://nwartalliance.org/nwaa-events/best-of-the-northwest-spring-show-2026"
+    },
+    {
+      "name": "Moisture Festival",
+      "type": "theater",
+      "venue": "Broadway Performance Hall",
+      "date": "2026-04-12",
+      "time": "Various Times",
+      "description": "The world's largest comedy/variety festival presents 30 shows featuring circus acts, comedy, and variety performances.",
+      "url": "https://moisturefestival.org"
+    },
+    {
+      "name": "Steven Ho Comedy",
+      "type": "theater",
+      "venue": "The Neptune Theatre",
+      "date": "2026-04-12",
+      "time": "7:00 PM",
+      "description": "Comedian Steven Ho performs live stand-up comedy.",
+      "url": "https://www.stgpresents.org/neptune/"
+    }
+  ],
+  "top_pick": {
+    "name": "Cherry Blossom & Japanese Cultural Festival",
+    "why": "This FREE festival at Seattle Center is the perfect spring weekend activity. Celebrating Seattle's friendship with Japan and the gift of 1000 cherry trees from 1976, it offers a rich cultural experience with traditional Japanese art, dance, music, martial arts demonstrations, and delicious food. The timing coincides with peak cherry blossom season, making it a visually stunning and culturally enriching way to spend a Sunday. Great for all ages and budgets!"
+  }
+}

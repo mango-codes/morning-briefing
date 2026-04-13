@@ -1,0 +1,76 @@
+{
+  "date": "2026-04-09",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Trader Joe's announces new store location in North Seattle",
+      "summary": "Trader Joe's confirmed it is opening a new grocery store at 401 NE Northgate Way in North Seattle, near Northgate Mall and the Seattle Kraken Community Iceplex. An official opening date has not yet been announced. This follows recent openings in Woodinville, Lacey, Greenwood, and Bellingham.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/trader-joes-announces-new-store-location-western-washington/281-a7bd1022-6f40-4ba3-a6df-700d9b8c1bee",
+      "category": "business"
+    },
+    {
+      "title": "Pierce County cold case from 1992 leads to arrest of Graham woman's husband",
+      "summary": "Pierce County prosecutors have charged James Robert Randle with first-degree murder in the 1992 death of his estranged wife, Janice Randle. She was found dead in her Graham home with signs of a struggle while their 18-month-old daughter was found alive nearby. The case was reopened after detectives recovered scene photos and records.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/pierce-county-cold-case-1992-arrest-graham-husband/281-391f3ab5-2093-4c76-9dcb-f7a0bf0e716a",
+      "category": "crime"
+    },
+    {
+      "title": "Fireball spotted over western Washington",
+      "summary": "A bright fireball meteor lit up skies across western Washington on Saturday night, visible from Pierce County to Oregon and British Columbia. NASA determined the fireball became visible about 50 miles above Wilkeson, traveling 43 miles northwest at 38,600 mph before disintegrating above Wauna. Over 100 people reported sightings.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/weather/weather-blog/fireball-western-washington/281-60d6a854-9605-4fd7-987e-4a8e6de93e04",
+      "category": "other"
+    },
+    {
+      "title": "Washington sets penny rounding rules for businesses",
+      "summary": "Gov. Bob Ferguson signed legislation establishing rounding rules for businesses phasing out pennies following the federal government's decision to stop producing the one-cent coin. Charges ending in 1, 2, 6, or 7 cents round down, while those ending in 3, 4, 8, or 9 cents round up. The U.S. Mint halted penny production in November 2025.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/washington-state-sets-penny-rounding-rules-for-businesses/281-6ea8e460-7927-4cc2-8f2b-5234d3fea996",
+      "category": "politics"
+    },
+    {
+      "title": "The fight continues: a look at union efforts in Washington state",
+      "summary": "Nurses and healthcare workers are pushing for safety measures and better staffing ratios amid rising hospital violence. Workers picketed outside MultiCare Hospitals in Seattle, Yakima, and Puyallup demanding higher pay, affordable healthcare coverage, and stronger safety protections. The report also covers ongoing union activities at REI and Starbucks.",
+      "source": "Crosscut / Cascade PBS",
+      "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/04/the-fight-continues-a-look-at-union-efforts-in-washington-state/",
+      "category": "business"
+    },
+    {
+      "title": "Nighttime I-5 lane reductions near Lake Samish through April",
+      "summary": "WSDOT is reducing Interstate 5 to one lane in each direction south of Lake Samish from 8 p.m. to 5 a.m. Sunday through Thursday nights through April. The work is part of a fish passage project to replace culverts and improve habitat in Lake Creek and Chuckanut Creek. The interstate remains fully open on weekend nights.",
+      "source": "Cascadia Daily News",
+      "url": "https://www.cascadiadaily.com/2026/apr/06/expect-nighttime-i-5-lane-reductions-near-lake-samish-through-april/",
+      "category": "traffic"
+    },
+    {
+      "title": "Why Seattle tech companies are still laying off workers",
+      "summary": "Tech sector layoffs continue at a blistering pace with over 52,000 job cuts nationwide this year. Seattle-area companies including Amazon, Microsoft, Meta, and Oracle have all announced significant workforce reductions. Artificial intelligence is cited as a leading cause, with about 25% of all job cuts across industries blamed on AI-driven automation.",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/apr/06/why-seattle-tech-companies-are-still-laying-off-wo/",
+      "category": "business"
+    },
+    {
+      "title": "WSU Murrow News Fellowship fights news deserts across Washington",
+      "summary": "A new fellowship program at Washington State University's Murrow College is placing journalists in underserved communities across the state to combat news deserts. The initiative aims to provide local reporting in areas that have lost newspapers and media outlets, ensuring residents have access to critical information about their communities.",
+      "source": "Crosscut / Cascade PBS",
+      "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/04/wsu-murrow-news-fellowship-fights-news-deserts-across-washington/",
+      "category": "other"
+    },
+    {
+      "title": "Seattle Parks and Recreation celebrates Earth Month with volunteer events",
+      "summary": "Seattle Parks and Recreation is hosting numerous Earth Month events throughout April, including work parties at Carkeek Park on April 18 and litter clean-ups at Green Lake, Cowen/Ravenna, and Lincoln Park on April 25. Residents can participate in restoration, planting, and conservation activities across the city.",
+      "source": "Seattle Parks and Recreation",
+      "url": "https://parkways.seattle.gov/2026/04/03/discover-2026-earth-month-events-activities-with-seattle-parks-and-recreation/",
+      "category": "other"
+    }
+  ],
+  "weather": {
+    "forecast": "Sunny and pleasant with temperatures climbing from the mid-40s in the morning to the low 60s by afternoon. Light winds from the east-northeast. Clear skies continue through the evening with overnight lows in the upper 40s. Perfect spring weather for outdoor activities.",
+    "high": 63,
+    "low": 43,
+    "conditions": "Sunny",
+    "alert": null
+  }
+}

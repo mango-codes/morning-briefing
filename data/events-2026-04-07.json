@@ -1,0 +1,143 @@
+{
+  "date": "2026-04-07",
+  "today": [
+    {
+      "title": "Les Misérables",
+      "type": "Theater",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "price": "$70+",
+      "description": "Broadway revival of the beloved musical about broken dreams, passion, sacrifice, and redemption"
+    },
+    {
+      "title": "Emily Wilson Comedy",
+      "type": "Comedy",
+      "time": "7:30 PM",
+      "venue": "Emerald City Comedy Club",
+      "price": "$53-$71",
+      "description": "Stand-up comedy show at Seattle's popular comedy venue on Capitol Hill"
+    },
+    {
+      "title": "Currents / ERRA / Aviana Caskets",
+      "type": "Concert",
+      "time": "7:00 PM",
+      "venue": "The Crocodile",
+      "price": "$25-$35",
+      "description": "Metalcore concert featuring Currents with supporting acts ERRA and Aviana Caskets"
+    },
+    {
+      "title": "Seattle Kraken vs Minnesota Wild",
+      "type": "Sports",
+      "time": "5:00 PM (away game viewing)",
+      "venue": "Various sports bars / ESPN+",
+      "price": "Free-$20",
+      "description": "NHL hockey - Kraken play at Minnesota Wild, watch at local sports bars"
+    },
+    {
+      "title": "Moisture Festival",
+      "type": "Comedy/Variety",
+      "time": "7:30 PM",
+      "venue": "Broadway Performance Hall",
+      "price": "$20-$35",
+      "description": "World's largest comedy/variety festival - cabaret and circus-style entertainment"
+    },
+    {
+      "title": "Grease",
+      "type": "Theater",
+      "time": "7:30 PM",
+      "venue": "Village Theatre (Issaquah)",
+      "price": "$35-$65",
+      "description": "All-American musical trip back to the 1950s high school scene"
+    },
+    {
+      "title": "Ain't Misbehavin'",
+      "type": "Theater",
+      "time": "7:30 PM",
+      "venue": "Taproot Theatre (Greenwood)",
+      "price": "$25-$45",
+      "description": "Rowdy jazz music by Fats Waller - musical revue"
+    },
+    {
+      "title": "Mary Jane",
+      "type": "Theater",
+      "time": "7:30 PM",
+      "venue": "Seattle Repertory Theatre",
+      "price": "$30-$70",
+      "description": "Drama about a mother who is her son's caregiver and an organizer of women"
+    }
+  ],
+  "weekend": [
+    {
+      "title": "On Cinema Live - Tim Heidecker & Gregg Turkington",
+      "type": "Comedy",
+      "date": "Saturday, April 11",
+      "time": "8:00 PM",
+      "venue": "The Neptune Theatre",
+      "price": "$35-$55",
+      "description": "Movie expertise and alternative education comedy show from the popular podcast duo"
+    },
+    {
+      "title": "Seattle Kraken vs Vegas Golden Knights",
+      "type": "Sports",
+      "date": "Thursday, April 9",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "price": "$45-$200",
+      "description": "NHL hockey home game - Kraken vs Golden Knights"
+    },
+    {
+      "title": "Seattle Kraken vs Calgary Flames",
+      "type": "Sports",
+      "date": "Saturday, April 11",
+      "time": "4:00 PM",
+      "venue": "Climate Pledge Arena",
+      "price": "$45-$200",
+      "description": "NHL hockey home game - Kraken vs Flames"
+    },
+    {
+      "title": "Ari Lennox",
+      "type": "Concert",
+      "date": "Sunday, April 12",
+      "time": "8:00 PM",
+      "venue": "Moore Theatre",
+      "price": "$40-$80",
+      "description": "R&B/soul singer-songwriter live performance"
+    },
+    {
+      "title": "Seattle Sounders vs Real Salt Lake",
+      "type": "Sports",
+      "date": "Sunday, April 12",
+      "time": "6:00 PM",
+      "venue": "Lumen Field",
+      "price": "$25-$120",
+      "description": "MLS soccer home match"
+    },
+    {
+      "title": "Cherry Blossom & Japanese Cultural Festival",
+      "type": "Festival",
+      "date": "Friday-Sunday, April 10-12",
+      "time": "10:00 AM - 6:00 PM",
+      "venue": "Seattle Center (Armory & Fisher Pavilion)",
+      "price": "Free",
+      "description": "Celebration of Seattle's friendship with Japan with art, dance, music, martial arts, and food"
+    },
+    {
+      "title": "Giselle - Pacific Northwest Ballet",
+      "type": "Dance",
+      "date": "Friday-Sunday, April 10-12",
+      "time": "Various times",
+      "venue": "McCaw Hall",
+      "price": "$40-$150",
+      "description": "Romantic period ballet - ethereal masterpiece about love beyond the grave"
+    },
+    {
+      "title": "Seattle Mariners vs Houston Astros",
+      "type": "Sports",
+      "date": "Friday-Saturday, April 10-11",
+      "time": "6:40 PM / 1:10 PM",
+      "venue": "T-Mobile Park",
+      "price": "$15-$100",
+      "description": "MLB baseball home games opening series"
+    }
+  ]
+}

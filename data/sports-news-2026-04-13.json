@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-13",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    }
+  ],
+  "note": "To be populated by OpenClaw subagent using web_search"
+}

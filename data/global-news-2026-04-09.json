@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-09",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "At least 182 killed as Israel strikes central Beirut after saying Iran truce doesn't apply there",
+      "source": "AP News",
+      "category": "Middle East",
+      "summary": "Israel launched a large wave of strikes hitting southern Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced."
+    },
+    {
+      "title": "Ceasefire in the Iran war teeters with disagreements over Lebanon and the Strait of Hormuz",
+      "source": "AP News",
+      "category": "Middle East",
+      "summary": "The two-week ceasefire between US and Iran faces challenges as Israel expands attacks to Lebanon and Iran threatens to close the Strait of Hormuz again."
+    },
+    {
+      "title": "Iran's proposal to collect tolls in the Strait of Hormuz violates trade norms",
+      "source": "AP News",
+      "category": "Trade",
+      "summary": "Iran's demand to act as toll booth keeper at the world's most critical oil chokepoint could leave energy markets vulnerable and hardwire higher prices."
+    },
+    {
+      "title": "Artemis crew returning to Earth with discoveries from Moon",
+      "source": "BBC News",
+      "category": "Space",
+      "summary": "The four astronauts said they were returning to Earth with 'so many more pictures, so many more stories' from their lunar mission."
+    },
+    {
+      "title": "Trump criticises NATO as alliance chief describes meeting as 'very frank'",
+      "source": "BBC News",
+      "category": "World Politics",
+      "summary": "The US president says NATO 'wasn't there when we needed them' during the Iran war."
+    },
+    {
+      "title": "Russian security agents search Novaya Gazeta Moscow office",
+      "source": "Reuters",
+      "category": "Russia",
+      "summary": "Masked security service agents were searching the independent Russian newspaper's Moscow office as part of an unspecified investigation."
+    },
+    {
+      "title": "Italy declares state of emergency over major landslide",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Government moved to limit disruption from a landslide that cut rail and motorway links along a key north-south transport corridor."
+    },
+    {
+      "title": "Beijing ready to work with North Korea to improve ties",
+      "source": "Reuters",
+      "category": "Asia",
+      "summary": "Chinese Foreign Minister Wang Yi said during a meeting with his North Korean counterpart on a visit to Pyongyang."
+    },
+    {
+      "title": "Kremlin says Russia has right to defend itself from 'piracy' after English Channel incident",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "A Russian navy frigate reportedly escorted oil tankers sanctioned by Britain through the English Channel."
+    },
+    {
+      "title": "BTS delights fans with first show in $1bn world tour",
+      "source": "BBC News",
+      "category": "Entertainment",
+      "summary": "The pop stars will perform 85 shows across the world in their first global tour since 2019."
+    }
+  ]
+}

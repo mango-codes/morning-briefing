@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-08",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners lose game of inches in frustrating extra-innings affair",
+        "Mariners at No. 5 in latest Power Rankings",
+        "Mariners make simple plan to flush bad luck: Don't hit to Adell"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Record: 4-8 after 12 games",
+          "4th place in AL West, 2.5 games behind division leaders",
+          "On a 4-game losing streak",
+          "Team batting average at .191 (30th in MLB)",
+          "Team slugging percentage at .317 (30th in MLB)",
+          "Luke Raley showing strong spring performance with 439-foot home run",
+          "Raley platooning with Rob Refsnyder in corner outfield spot"
+        ],
+        "situation": "Struggling early in the season with offensive woes. The Mariners are near the bottom of the league in hitting statistics but remain within striking distance in the AL West division race.",
+        "playoffPicture": "Early season - too soon to tell, but currently 4th in AL West. Wild card race is wide open.",
+        "achievement": "Ranked No. 5 in latest MLB Power Rankings despite poor record, suggesting underlying potential",
+        "today": "Off day or check schedule for today's game",
+        "nextMatch": "Check MLB.com for upcoming series against division opponents"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks enter 2026 NFL Draft as defending Super Bowl champions",
+        "Seahawks hold pick No. 32 in first round",
+        "Seahawks will be featured on HBO's Hard Knocks during 2026 training camp",
+        "Seahawks lost two key members of secondary this offseason"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Defending Super Bowl champions entering 2026 season",
+          "Only four picks in the 2026 NFL Draft",
+          "Voluntary offseason program begins April 20",
+          "Team featured in Hard Knocks documentary series this summer",
+          "Secondary depth a concern after losing key players in free agency",
+          "Mock drafts suggest trading back from pick 32 may be optimal strategy"
+        ],
+        "situation": "Coming off Super Bowl victory, Seahawks face challenge of defending title with limited draft capital. Front office may look to trade back to acquire more picks.",
+        "playoffPicture": "N/A - Offseason mode. Regular season begins September 2026.",
+        "achievement": "Super Bowl champions (2025 season)",
+        "today": "NFL Draft preparation phase",
+        "nextMatch": "2026 NFL Draft - April 24-26, 2026"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken fall 4-2 to Blackhawks, extending struggles",
+        "Seattle has just one win in past nine games (1-6-2)",
+        "Four straight losses (0-3-1) drop Kraken six points behind playoff spot",
+        "Sacha Boisvert scored first NHL goal for Chicago in recent matchup"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Record: 32-32-11 (75 points) through 75 games",
+          "Six points behind Nashville and LA Kings for final wild card spot",
+          "1-6-2 record in last 9 games",
+          "Currently on 4-game winless streak (0-3-1)",
+          "Tyler Bertuzzi scored team-leading 32nd goal for Chicago in recent game",
+          "Season winding down with playoff hopes fading"
+        ],
+        "situation": "The Kraken are in serious jeopardy of missing the playoffs. A late-season collapse has dropped them significantly behind the wild card race with limited games remaining.",
+        "playoffPicture": "Fading fast - 6 points behind final wild card spot with dwindling games left. Need immediate winning streak to stay in contention.",
+        "achievement": "Tyler Bertuzzi leading team with 32 goals",
+        "today": "Check schedule for upcoming matchup",
+        "nextMatch": "Critical games against wild card competitors needed"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders tied for 5th in Western Conference with Real Salt Lake",
+        "Team qualified for 2026 CONCACAF Champions Cup as 2025 Leagues Cup winners",
+        "Sounders to compete in 2026 Leagues Cup",
+        "Brian Schmetzer enters 10th full MLS season as head coach"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Record: 4-1-1 (13 points) through 6 games",
+          "Tied for 5th place in Western Conference",
+          "Goal difference: +4 (6 goals scored, 2 conceded)",
+          "Goals conceded rank 3rd best in league (2)",
+          "Defensive strength a key to early success",
+          "2026 season is 18th MLS season for Sounders franchise",
+          "43rd season overall for professional Sounders team dating to 1974"
+        ],
+        "situation": "Strong start to the 2026 MLS season with solid defensive play. Sounders are positioned well in the Western Conference and have international competition ahead in Champions Cup.",
+        "playoffPicture": "Well-positioned for playoff contention early in season. Top 9 in conference qualify for MLS Cup Playoffs.",
+        "achievement": "2025 Leagues Cup champions, qualified for 2026 CONCACAF Champions Cup",
+        "today": "Regular season matchday - check schedule",
+        "nextMatch": "vs St. Louis CITY SC at Lumen Field - Saturday, April 18, 2026"
+      }
+    },
+    {
+      "name": "Washington Huskies",
+      "league": "NCAA",
+      "headlines": [
+        "Sophomore forward Bryson Tucker enters 2026 NBA Draft",
+        "Hannes Steinbach speculated to enter 2026 NBA Draft",
+        "Huskies looking at transfer portal for reinforcements",
+        "UW may pursue All-Atlantic 10 First Team guard Terrence Hill Jr. from VCU"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Bryson Tucker (former 5-star recruit) declares for NBA Draft after one season at UW",
+          "Hannes Steinbach also expected to enter NBA Draft",
+          "Multiple players entering transfer portal including Zoom Diallo, JJ Mandaquit, Courtland Muldrew",
+          "Coach Danny Sprinkle rebuilding roster through transfers",
+          "Target: Terrence Hill Jr. from VCU (averaged 15 PPG, 37% 3PT)",
+          "Also looking at Seattle U's Austin Maurer from transfer portal"
+        ],
+        "situation": "Major roster turnover for Huskies basketball. Multiple players leaving for NBA Draft and transfer portal. Coach Sprinkle actively rebuilding through transfers.",
+        "playoffPicture": "N/A - Offseason. 2026-27 season begins November 2026.",
+        "achievement": "2025-26 season concluded - now in roster rebuild phase",
+        "today": "Transfer portal and NBA Draft declaration period",
+        "nextMatch": "2026-27 season opener - November 2026"
+      }
+    }
+  ]
+}

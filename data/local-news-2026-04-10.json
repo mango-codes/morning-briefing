@@ -1,0 +1,146 @@
+{
+  "date": "2026-04-10",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "What's Up This Weekend: Your PNW Events Guide April 10-12",
+      "source": "KOMO News",
+      "url": "https://komonews.com",
+      "summary": "The Washington State Spring Fair kicks off this weekend with Fisher Scones and fun rides. Also features Ice Cube, HARDY, Weird Al and more at the Washington State Fair 2026 Concert series.",
+      "category": "events"
+    },
+    {
+      "title": "Seattle Cherry Blossom & Japanese Cultural Festival",
+      "source": "Seattle Center",
+      "url": "https://www.seattlecenter.com/events/event-calendar",
+      "summary": "Seattle Center Festál presents the annual Cherry Blossom & Japanese Cultural Festival celebrating Japanese heritage and spring blooms.",
+      "category": "events"
+    },
+    {
+      "title": "Northwest Model Hobby Expo",
+      "source": "Seattle Refined",
+      "url": "https://seattlerefined.com/lifestyle/april-festivals-and-events-2026-seattle-in-bloom-ultimate-pnw-events-guide-for-april-2026",
+      "summary": "April 10 at Evergreen State Fairgrounds in Monroe - featuring model hobby displays and exhibitions.",
+      "category": "events"
+    },
+    {
+      "title": "Barnes & Noble set to reopen in downtown Seattle",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/money/business/barnes-noble-reopen-downtown-seattle/281-8939153b-c863-4b5d-a47b-a8d57a9bf7bc",
+      "summary": "The two-level store will span more than 17,000 square feet at 520 Pike Street, signaling retail momentum in downtown Seattle.",
+      "category": "business"
+    },
+    {
+      "title": "Seattle millionaires tax sparks fears of business exodus among owners",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/washington-business-owners-fear-socialist-millionaires-tax-driving-businesses-out-theyre-next",
+      "summary": "Business owners in Washington State are worried that the recently passed 'millionaires tax' will drive economic activity out of the state.",
+      "category": "business"
+    },
+    {
+      "title": "Seattle Kraken co-owner Tod Leiweke sees need for change as team struggles",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "summary": "Leadership changes being considered as the hockey team faces performance challenges.",
+      "category": "sports"
+    },
+    {
+      "title": "Chateau Ste. Michelle unveils 2026 summer concert lineup",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "summary": "Popular Woodinville winery announces its summer concert series lineup for 2026.",
+      "category": "entertainment"
+    },
+    {
+      "title": "Seattle Police Department Launches New Neighborhood Resource Officer Initiative in Magnuson Park",
+      "source": "SPD Blotter",
+      "url": "https://spdblotter.seattle.gov/2026/04/07/seattle-police-department-launches-new-neighborhood-resource-officer-nro-initiative-in-magnuson-park/",
+      "summary": "Sworn Neighborhood Resource Officers (NROs) will walk or bike in and around the park to get to know people, help solve problems, and join community events.",
+      "category": "community"
+    },
+    {
+      "title": "Garfield High School bomb threat was Bitcoin extortion attempt",
+      "source": "Capitol Hill Seattle News",
+      "url": "https://www.capitolhillseattle.com/",
+      "summary": "Last Friday's bomb threat that cleared the Garfield High School campus was part of a resurgence of coordinated, often mass-scale hoax threats targeting schools.",
+      "category": "community"
+    },
+    {
+      "title": "Bellevue high school's prom in jeopardy following Columbia Tower Club closure",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/local-news",
+      "summary": "Students are seeking community help to find an alternative venue after last-minute closure of their planned prom location.",
+      "category": "community"
+    },
+    {
+      "title": "West Seattle Water Taxi transitions to spring/summer schedule",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/04/traffic-weather-transit-aprils-first-monday/",
+      "summary": "Regular West Seattle service continues with schedule change to spring/summer timing this weekend.",
+      "category": "transportation"
+    },
+    {
+      "title": "Washington State Ferries Triangle Route schedule changes continue",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/04/traffic-weather-transit-tuesday-notes-2/",
+      "summary": "Fauntleroy/Vashon/Southworth route running a two-boat schedule with a third unscheduled boat for about two weeks to help manage traffic.",
+      "category": "transportation"
+    },
+    {
+      "title": "I-5 southbound lane closures planned for April 17-18",
+      "source": "WSDOT",
+      "url": "https://wsdot.wa.gov/",
+      "summary": "Beginning at 11 p.m. nightly Friday, April 17, and Saturday, April 18, all lanes of southbound I-5 at 54th Avenue East will close for maintenance.",
+      "category": "transportation"
+    },
+    {
+      "title": "Seattle April 2026 weather outlook: Cool and reasonably dry",
+      "source": "AccuWeather",
+      "url": "https://www.accuweather.com/en/us/seattle/98104/april-weather/351409",
+      "summary": "Daily high temperatures ranging from 51° to 69°, with overnight lows between 38° and 49°. The average high for April is 59° with an average low of 44°.",
+      "category": "weather"
+    },
+    {
+      "title": "United Airlines raising checked bag fees by $10",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/tag/business",
+      "summary": "Checked bag fees increasing to $50 for travelers purchasing tickets starting Friday, affecting Sea-Tac travelers.",
+      "category": "business"
+    },
+    {
+      "title": "Fire crews respond to explosion at marijuana facility in Arlington",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "summary": "Emergency response to explosion at cannabis processing facility in Arlington area.",
+      "category": "breaking"
+    },
+    {
+      "title": "ULI Northwest hosting trivia night April 16 in Lower Queen Anne",
+      "source": "Seattle DJC",
+      "url": "https://www.djc.com/",
+      "summary": "Urban Land Institute trivia event coming to Uptown (Lower Queen Anne) neighborhood next Thursday.",
+      "category": "events"
+    },
+    {
+      "title": "Seattle University honoring Earth Month with events throughout April",
+      "source": "Seattle University",
+      "url": "https://www.seattleu.edu/newsroom/2026/honoring-earth-month.php",
+      "summary": "Events throughout April will include Earth Day celebration plus diverse slate of offerings.",
+      "category": "community"
+    },
+    {
+      "title": "Investigation into suspicious mail leads to stash of undelivered Amazon orders",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/local-news",
+      "summary": "Pierce County deputies discovered massive stash of undelivered Amazon orders valued at thousands of dollars during Parkland investigation.",
+      "category": "crime"
+    },
+    {
+      "title": "Today is Local News Day - support local journalism",
+      "source": "The SeaTac Blog",
+      "url": "https://seatacblog.com/2026/04/09/today-is-local-news-day-please-support-the-local-news-that-supports-you/",
+      "summary": "April 9, 2026 marked Local News Day, highlighting the importance of supporting local journalism in the community.",
+      "category": "community"
+    }
+  ]
+}

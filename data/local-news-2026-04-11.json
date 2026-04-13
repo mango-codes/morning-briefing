@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-11",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle Kraken Part Ways with President Ron Francis",
+      "summary": "The Seattle Kraken announced that Ron Francis will step down as President of Hockey Operations at the end of the season. Francis, who became the first General Manager in franchise history in 2019, leaves behind a legacy that helped shape the NHL's 32nd franchise, including a playoff appearance in their second season.",
+      "source": "KING5 / NHL.com",
+      "url": "https://www.nhl.com/kraken/news/seattle-kraken-announce-transition-as-ron-francis-concludes-tenure-as-president-of-hockey-operations-pr"
+    },
+    {
+      "title": "Trader Joe's Announces New North Seattle Location",
+      "summary": "Trader Joe's confirmed it is opening a new grocery store at 401 NE Northgate Way, serving communities near Northgate Mall and the Seattle Kraken Community Iceplex. The location benefits from the nearby Northgate Station, which opened in 2021. An official opening date has not yet been announced.",
+      "source": "KING5",
+      "url": "https://www.king5.com/article/news/local/trader-joes-announces-new-store-location-western-washington/281-a7bd1022-6f40-4ba3-a6df-700d9b8c1bee"
+    },
+    {
+      "title": "Fireball Spotted Over Western Washington",
+      "summary": "A bright fireball lit up western Washington skies, traveling across Pierce County at 8:34 p.m. Saturday. Over 100 people submitted reports to the American Meteor Society from Washington, Oregon, and British Columbia. NASA determined the meteor became visible about 50 miles above Wilkeson and disintegrated about 30 miles above Wauna.",
+      "source": "KING5",
+      "url": "https://www.king5.com/article/weather/weather-blog/fireball-western-washington/281-60d6a854-9605-4fd7-987e-4a8e6de93e04"
+    },
+    {
+      "title": "Chateau Ste. Michelle Unveils 2026 Summer Concert Lineup",
+      "summary": "The Woodinville winery announced its summer concert series kicking off May 24 with over 20 performances. The lineup includes Bob Dylan, Ziggy Marley, Yellowcard, Sarah McLachlan, Dierks Bentley, Boyz II Men, and the Gipsy Kings. The concert series has been a tradition since 1984.",
+      "source": "KING5",
+      "url": "https://www.king5.com/article/entertainment/television/programs/evening/chateau-ste-michelle-2026-summer-concert-lineup/281-fcab4691-5b58-429e-a3c3-3bef4070e79f"
+    },
+    {
+      "title": "Robots Reveal 'Shipwreck City' Beneath Lake Union",
+      "summary": "Beneath the waters of Lake Union lie dozens of shipwrecks, and modern robotics technology is allowing for improved imaging and documentation. A high-resolution sonar survey identified nearly 100 targets on the lakebed, with roughly half believed to be shipwrecks. Ocean engineer Phil Parisi has been documenting wrecks that are too polluted and dangerous for divers.",
+      "source": "KING5",
+      "url": "https://www.king5.com/article/news/local/remote-vehicles-shipwreck-city-lake-union-seattle/281-b3ad2d78-a84d-418e-90f0-09800fda29f7"
+    },
+    {
+      "title": "Seattle Cherry Blossom & Japanese Cultural Festival This Weekend",
+      "summary": "The 51st Annual Seattle Cherry Blossom & Japanese Cultural Festival takes place April 10-12 at Seattle Center. The festival features traditional and contemporary Japanese art, taiko drumming, Japanese dance, martial arts, Japanese foods, sake tasting, and children's activities as part of the Seattle Center Festál series.",
+      "source": "Seattle Center",
+      "url": "https://www.seattlecenter.com/events/featured-events/festal/seattle-cherry-blossom-festival"
+    },
+    {
+      "title": "Washington State Toy Show in Everett Today",
+      "summary": "The Washington State Toy Show takes place at the Angel of the Winds Arena in Everett on April 11 from 10am-4pm (early bird entry at 9am). The show features modern and vintage toys, with vendors selling everything from dolls to action figures. Kids 12 and under are free.",
+      "source": "WA State Toy Show",
+      "url": "https://www.watoyshow.com/"
+    },
+    {
+      "title": "Cascadia Spring Tea Festival in Everett",
+      "summary": "The fifth annual Cascadia Tea Festival takes place April 11 at Floral Hall in Everett from 11am-5pm. The event features local tea vendors, tea tasting (bring your own cup), tea arts and crafts, and workshops. Attendees can learn about tea types, brewing methods, history, and global culture.",
+      "source": "Cascadia Tea Festival",
+      "url": "https://www.cascadiatea.org"
+    },
+    {
+      "title": "Seattle Median Rent Reaches $1,995 in April 2026",
+      "summary": "As of April 2026, the median rent for all bedroom counts and property types in Seattle is $1,995, which is 4% higher than the national average. The largest share of rentals (32%) fall between $1,501-$2,000 per month, while typical rents for larger homes remain around $3,300-$3,700.",
+      "source": "Zumper",
+      "url": "https://www.zumper.com/rent-research/seattle-wa"
+    },
+    {
+      "title": "WSDOT Revive I-5 Construction Continues Through Spring",
+      "summary": "WSDOT's Revive I-5 project continues with long-term lane reductions on northbound I-5 across the Ship Canal Bridge. Construction will wrap up before the 2026 FIFA World Cup games in June and July, with all lanes reopened during the tournament. No long-term or daytime lane reductions will occur during World Cup events.",
+      "source": "WSDOT / Seattle.gov",
+      "url": "https://www.seattle.gov/transportation/getting-around/wsdot-revive-i-5"
+    }
+  ],
+  "top_story": {
+    "title": "Seattle Kraken Part Ways with President Ron Francis",
+    "summary": "The Seattle Kraken announced that Ron Francis will step down as President of Hockey Operations at the end of the season. Francis, who became the first General Manager in franchise history in 2019, leaves behind a legacy that helped shape the NHL's 32nd franchise, including a playoff appearance in their second season. CEO Tod Leiweke stated this is a thoughtful transition for both Francis and the organization as they move in a new direction.",
+    "source": "KING5 / NHL.com",
+    "url": "https://www.nhl.com/kraken/news/seattle-kraken-announce-transition-as-ron-francis-concludes-tenure-as-president-of-hockey-operations-pr"
+  }
+}

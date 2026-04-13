@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-09",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Anthropic Withholds Claude Mythos From Public Release Due to Cybersecurity Risks",
+      "summary": "Anthropic announced it will not publicly release its most powerful AI model, Claude Mythos (codenamed Capybara), after internal testing revealed it could exploit software vulnerabilities 'in ways that far outpace the efforts of defenders.' The model discovered thousands of zero-day vulnerabilities in major operating systems and browsers, including some dating back 27 years. Instead of public release, Anthropic is offering access only to select cybersecurity partners under 'Project Glasswing' including Apple, Amazon, Microsoft, CrowdStrike, and Palo Alto Networks.",
+      "source": "The Guardian / Axios",
+      "url": "https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software",
+      "type": "research"
+    },
+    {
+      "title": "Pentagon's Anthropic Blacklisting Opens Doors for Small Defense AI Startups",
+      "summary": "Small defense AI startups like Smack Technologies and EdgeRunner AI are experiencing a surge in military contracts and investor interest following the Pentagon's decision to blacklist Anthropic as a 'supply-chain risk.' Companies report accelerated procurement timelines, with one Marine Corps contract moving up by more than a year. The Pentagon is rapidly diversifying its AI providers after realizing its heavy dependence on a single vendor.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/pentagons-ouster-anthropic-opens-doors-small-ai-rivals-2026-04-09/",
+      "type": "policy"
+    },
+    {
+      "title": "Meta Debuts Muse Spark AI Model in Bid to Catch OpenAI and Google",
+      "summary": "Meta released its first major AI model since hiring Scale AI's Alexandr Wang in a $14.3 billion deal nine months ago. Dubbed Muse Spark and developed by Meta Superintelligence Labs, the model is designed to be 'small and fast by design' while capable of reasoning through complex questions in science, math, and health. Meta's stock rose 6.5% on the announcement. The company plans to invest $115-135 billion in AI infrastructure in 2026.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+      "type": "product"
+    },
+    {
+      "title": "Google Releases Gemma 4: Most Capable Open-Source AI Model Yet",
+      "summary": "Google released Gemma 4 on April 2, its most capable open-weight model family to date, licensed under Apache 2.0 for unrestricted commercial use. The model delivers 'frontier-level intelligence per parameter' and is competitive with closed-source models on several reasoning benchmarks. It supports context windows up to 256,000 tokens and handles multimodal inputs. This puts significant pressure on Meta's Llama and other open-source competitors.",
+      "source": "Renovate QR / Various",
+      "url": "https://renovateqr.com/blog/ai-models-april-2026",
+      "type": "product"
+    },
+    {
+      "title": "Google Quietly Launches Offline-First AI Dictation App 'Eloquent'",
+      "summary": "Google released 'Google AI Edge Eloquent,' an offline-first dictation app for iOS that uses Gemma AI models to transcribe speech without requiring cloud connectivity. The app automatically filters filler words and offers text transformation options. An Android version with system-wide keyboard integration is planned. The app competes with startups like Wispr Flow and SuperWhisper in the growing AI-powered dictation market.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "type": "product"
+    },
+    {
+      "title": "Naver Shuts Down Clova X, Pivots to Vertical AI Strategy",
+      "summary": "South Korean tech giant Naver ended its conversational AI service Clova X on April 9, shifting to a 'Vertical AI' strategy that integrates AI into its existing platforms including search, shopping, finance, and healthcare. The company stated Clova X served as a 'laboratory' for its HyperCLOVA X model, and now plans to deliver industry-specific AI services rather than standalone chatbots.",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/finance/2026/04/09/naver-shuts-down-clova-x-accelerates-ai-service-integration",
+      "type": "product"
+    },
+    {
+      "title": "Tech Industry Layoffs Hit Nearly 80,000 in Q1 2026, Nearly Half Attributed to AI",
+      "summary": "According to Nikkei Asia, 78,557 tech workers were laid off in the first quarter of 2026, with 47.9% of those positions (37,638 jobs) attributed to AI and workflow automation. However, experts including OpenAI CEO Sam Altman suggest some companies are using 'AI washing' to mask layoffs that would have occurred regardless. Cognizant's Chief AI Officer predicts the full impact of AI on employment won't be visible for another 6-12 months.",
+      "source": "Tom's Hardware / Nikkei Asia",
+      "url": "https://www.tomshardware.com/tech-industry/tech-industry-lays-off-nearly-80-000-employees-in-the-first-quarter-of-2026-almost-50-percent-of-affected-positions-cut-due-to-ai",
+      "type": "other"
+    },
+    {
+      "title": "OpenAI Plans Staggered Rollout of New Model Over Cybersecurity Concerns",
+      "summary": "Following Anthropic's lead, OpenAI is reportedly finalizing a new AI model with advanced cybersecurity capabilities that will be released only to a select set of partners rather than the general public. The move reflects growing concerns among AI labs about the potential for their tools to be misused for hacking and cyberattacks. This marks a shift toward more restricted release strategies for the most capable AI models.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/04/09/openai-new-model-cyber-mythos-anthopic",
+      "type": "policy"
+    },
+    {
+      "title": "xAI Reorganizes Engineering Team Ahead of SpaceX IPO",
+      "summary": "Elon Musk's xAI is undergoing a major engineering team reorganization as the company merges more closely with SpaceX ahead of the space giant's anticipated blockbuster IPO. The restructuring comes as xAI continues development of Grok 4.20, which features a novel multi-agent architecture with four specialized AI agents running in parallel on complex queries.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/elon-musk-reorganizes-xai-ahead-of-spacex-ipo-2026-4",
+      "type": "other"
+    },
+    {
+      "title": "AI Model Landscape April 2026: Gemini 3.1 Pro Leads Benchmarks, GPT-5.5 'Spud' Coming",
+      "summary": "The April 2026 AI model landscape is highly competitive. Google's Gemini 3.1 Pro currently leads 13 of 16 major benchmarks, tied with GPT-5.4 Pro on the Artificial Analysis Intelligence Index. OpenAI has completed pretraining on GPT-5.5 (codenamed 'Spud'), expected in Q2 2026. Meanwhile, xAI's Grok 4.20 introduces a unique multi-agent architecture, and Llama 4 brings open-source models closer to proprietary frontier performance.",
+      "source": "Renovate QR",
+      "url": "https://renovateqr.com/blog/ai-models-april-2026",
+      "type": "research"
+    }
+  ],
+  "top_story": {
+    "title": "Anthropic Withholds Claude Mythos From Public Release Due to Unprecedented Cybersecurity Risks",
+    "summary": "Anthropic made the unprecedented decision to withhold its most powerful AI model, Claude Mythos, from public release after discovering it could identify and exploit software vulnerabilities at a scale never seen before. The model found thousands of zero-day vulnerabilities in every major operating system and web browser, including flaws that had gone unnoticed for 27 years. Rather than risk malicious use, Anthropic is providing access only to a select consortium of 40+ cybersecurity companies and tech giants under 'Project Glasswing,' arming defenders before offensive capabilities become widespread. The company is also working with CISA and has committed $100 million in compute resources to the defensive effort. This marks a significant shift in AI release strategy, with OpenAI reportedly planning similar restricted rollouts for its most capable models.",
+    "why_it_matters": "This represents a watershed moment in AI safety and release strategy. For the first time, a major AI lab has deemed its own creation too dangerous for public release—a decision that could establish new norms for the industry. It highlights the dual-use nature of advanced AI: the same capabilities that could revolutionize cybersecurity defense could also enable unprecedented cyberattacks. The move also intensifies the debate about AI regulation, as companies self-police while governments grapple with how to oversee increasingly powerful systems. For businesses and developers, it signals that the most capable AI tools may become increasingly restricted, available only to select partners and large enterprises."
+  }
+}

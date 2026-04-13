@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-10",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners.TV launches for 2026 season with new streaming options",
+        "Brendan Donovan acquired from Cardinals in trade",
+        "Rob Refsnyder signed for infield/outfield depth",
+        "Randy Johnson Number Retirement Ceremony scheduled for May 2"
+      ],
+      "details": "The Mariners are in the early stages of the 2026 MLB season. Cal Raleigh has had a slow start which is concerning for fantasy managers. The team has new broadcast TV affiliates carrying 10 games on KING 5 TV beginning April 10. Mariners.TV is now available for streaming games.",
+      "last_game": "April 6, 2026",
+      "next_game": "April 14 @ San Diego Padres (6:40 PM PDT)"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "2026 offseason program begins April 20",
+        "OTA workouts scheduled for May 26, May 28-29, June 1, June 3-4",
+        "Mandatory minicamp set for June 9-11",
+        "Sam Darnold got married - second ring of 2026"
+      ],
+      "details": "The Seahawks are in the NFL offseason. The voluntary offseason program kicks off April 20, with OTAs throughout May and June. The team is preparing for the 2026 NFL Draft which begins April 23. Free agency moves are being tracked as the new league year is underway.",
+      "last_game": "End of 2025 season",
+      "next_game": "2026 NFL Season (TBD)"
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Lost 6 consecutive games, 9 of last 10 (1-7-2)",
+        "Currently 7th in Western Conference wild-card race",
+        "Jordan Eberle and Jared McCann leading scorers",
+        "Fell 2-0 to Tigres in Concacaf Champions Cup (incorrect - Sounders game)"
+      ],
+      "details": "The Kraken are struggling down the stretch, losing five straight games and nine of their last ten. They are in seventh place in the Western Conference wild-card race with 75 points (32-34-11). The team has been eliminated from playoff contention. Jordan Eberle and Jared McCann have been the team's offensive leaders.",
+      "last_game": "April 6 vs Winnipeg Jets (Lost)",
+      "next_game": "April 9 vs Vegas Golden Knights"
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Lost 2-0 to Tigres UANL in Concacaf Champions Cup quarterfinal first leg (April 8)",
+        "Playing away matches through April due to Lumen Field World Cup preparations",
+        "Paul Rothrock scored in recent victory over Minnesota United",
+        "Andrew Thomas making key saves in goal"
+      ],
+      "details": "The Sounders are competing in the Concacaf Champions Cup and MLS regular season. They fell 2-0 to Liga MX's Tigres in the first leg of the quarterfinals in Monterrey, Mexico. The team is playing consecutive away matches while Lumen Field undergoes World Cup preparations including grass pitch installation.",
+      "last_game": "April 8 @ Tigres UANL (Lost 2-0)",
+      "next_game": "Concacaf Champions Cup second leg (TBD)"
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        "Nneka Ogwumike confirms departure after two seasons",
+        "2026 preseason begins April 25 at Golden State Valkyries",
+        "Home preseason game April 29 vs Portland Fire",
+        "WNBA collective bargaining agreement negotiations ongoing"
+      ],
+      "details": "The Storm are preparing for the 2026 WNBA season. Nneka Ogwumike has confirmed her departure from the team in free agency after two seasons. The preseason schedule includes a trip to San Francisco on April 25 and a home game at Climate Pledge Arena on April 29 against the Portland Fire.",
+      "last_game": "End of 2025 season",
+      "next_game": "April 25 @ Golden State Valkyries (Preseason)"
+    }
+  ],
+  "league_news": {
+    "nba": {
+      "headlines": [
+        "OKC Thunder clinch No. 1 seed in West",
+        "Spurs locked in at No. 2, Wolves at No. 6",
+        "Suns locked into No. 7 play-in spot",
+        "Warriors positioned for play-in tournament",
+        "Play-In Tournament: April 14-17",
+        "NBA Playoffs begin April 18"
+      ]
+    },
+    "nhl": {
+      "headlines": [
+        "Stanley Cup Playoffs race heating up",
+        "Philadelphia Flyers jump into third place in Metro Division",
+        "Edmonton Oilers surpass Anaheim Ducks for first place in West",
+        "New York Islanders coaching debut for Peter DeBoer",
+        "Ottawa Senators maintain lead in second wild card race"
+      ]
+    },
+    "mlb": {
+      "headlines": [
+        "2026 MLB season began March 25",
+        "Opening Day featured Giants vs Yankees at Oracle Park",
+        "Max Fried dominant in Yankees debut (6.1 innings, 2 hits)",
+        "Regular season runs through September 27",
+        "Postseason begins September 29",
+        "World Series begins October 2026"
+      ]
+    }
+  }
+}

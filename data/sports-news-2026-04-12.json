@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-12",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Oklahoma City Thunder",
+      "league": "NBA",
+      "headlines": [
+        "Thunder became first team to clinch playoff spot on March 17, 2026",
+        "Locked in as #1 seed in Western Conference"
+      ],
+      "details": {
+        "keyUpdates": [
+          "First team to clinch 2026 NBA playoff berth",
+          "Holding #1 seed in West with 95% championship odds per projections"
+        ],
+        "situation": "Top seed in Western Conference, awaiting Play-In Tournament winner for first round matchup",
+        "today": "NBA regular season finale - Thunder already locked into #1 seed position"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken eliminated from NHL playoffs for 3rd straight year",
+        "Seattle defeated Calgary Flames 4-1 on Saturday night"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Officially eliminated from 2025-26 NHL playoff race on April 12",
+          "Matty Beniers and coach Lane Lambert spoke after 4-1 win over Calgary"
+        ],
+        "situation": "Missed playoffs for third consecutive season since joining NHL",
+        "today": "Elimination confirmed despite recent 4-1 victory over Flames"
+      }
+    },
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Bryan Woo strong through three starts in 2026 season",
+        "Luke Raley rotating in lineup after 3-for-14 stretch"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Woo: 3 ER on 10 hits, 4 BB, 17 K over 18 innings (no wins yet)",
+          "Woo scheduled to face Padres on the road next"
+        ],
+        "situation": "Early season action, building rotation and lineup chemistry",
+        "today": "Regular season games ongoing - Woo's next start upcoming vs Padres"
+      }
+    },
+    {
+      "name": "Atlanta Hawks",
+      "league": "NBA",
+      "headlines": [
+        "Hawks clinch Southeast Division and top-6 playoff seed",
+        "Routed Cleveland Cavaliers 124-102 to secure spot"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Clinched division title and guaranteed playoff berth",
+          "Described as 'cohesive, fluid team no one wants to meet in postseason'"
+        ],
+        "situation": "Locked in as #5 seed in East, will face Cleveland Cavaliers in first round",
+        "today": "Regular season finale - positioning finalized"
+      }
+    },
+    {
+      "name": "Denver Nuggets",
+      "league": "NBA",
+      "headlines": [
+        "Nuggets locked into #3 seed in Western Conference",
+        "Will face Minnesota Timberwolves in first round"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Clinched playoff spot earlier in season",
+          "Part of crowded West playoff picture"
+        ],
+        "situation": "#3 seed in West, matched up against #6 Minnesota",
+        "today": "Final regular season games determining exact positioning"
+      }
+    },
+    {
+      "name": "Toronto Raptors / Orlando Magic / Philadelphia 76ers",
+      "league": "NBA",
+      "headlines": [
+        "Three teams competing for final #6 seed in Eastern Conference",
+        "Play-In Tournament spots still being determined on final day"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Toronto: clinch with win OR losses by Orlando AND Philadelphia",
+          "Orlando: clinch with win AND Toronto loss",
+          "Philadelphia: clinch with win AND losses by Toronto AND Orlando"
+        ],
+        "situation": "10 seeds could change based on April 12 results",
+        "today": "Final regular season games determining playoff seeding and Play-In participants"
+      }
+    },
+    {
+      "name": "Alex Ovechkin",
+      "league": "NHL",
+      "headlines": [
+        "Ovechkin scores 929th career goal in potential final Pittsburgh game",
+        "Received lengthy standing ovation from Penguins crowd"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Scored empty-netter in what could be his final game in Pittsburgh",
+          "Continues pursuit of Wayne Gretzky's all-time goal record"
+        ],
+        "situation": "Washington Capitals playoff positioning ongoing",
+        "today": "Historic goal and emotional moment in Pittsburgh"
+      }
+    }
+  ],
+  "top_story": {
+    "title": "Masters 2026 Final Round: Rory McIlroy Defends Title Against Cameron Young",
+    "summary": "The 2026 Masters Tournament concludes today (April 12) at Augusta National Golf Club with defending champion Rory McIlroy tied for the lead with Cameron Young at 11 under par. The final round features a dramatic showdown as McIlroy attempts to become a back-to-back Masters champion while Young seeks his first major victory. Seven golfers remain within five shots of the lead, setting up a potentially historic Sunday at Augusta.",
+    "why_it_matters": "The Masters is golf's most prestigious major tournament and a cultural touchstone in sports. McIlroy going for back-to-back titles adds significant drama, while a Young victory would crown a first-time major champion. The tournament draws massive global viewership and represents the unofficial start of the golf season for casual fans."
+  },
+  "additional_stories": [
+    {
+      "sport": "Tennis",
+      "title": "Monte Carlo Masters Final: Alcaraz vs Sinner for World #1",
+      "summary": "Defending champion Carlos Alcaraz faces Jannik Sinner in the Monte Carlo Masters final on April 12. The winner will claim the world number one ranking in a winner-takes-all showdown between two of tennis's biggest rivals."
+    },
+    {
+      "sport": "NBA",
+      "title": "NBA Play-In Tournament Set to Begin April 14",
+      "summary": "The SoFi NBA Play-In Tournament tips off April 14-17, with the full playoffs beginning April 18. Multiple seeds remain undetermined entering the final day of the regular season."
+    },
+    {
+      "sport": "NHL",
+      "title": "NHL 'Supreme Saturday' with 15 Games Determines Playoff Picture",
+      "summary": "April 12 features a full slate of 15 NHL games with multiple playoff spots still on the line. Seven spots remained unclaimed entering the final day of the regular season."
+    }
+  ]
+}

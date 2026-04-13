@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-11",
+  "category": "global-news",
+  "headlines": [
+    {
+      "title": "US and Iran Begin Historic Direct Peace Talks in Islamabad",
+      "summary": "US Vice President JD Vance leads the American delegation in direct ceasefire negotiations with Iranian officials in Islamabad, Pakistan. These are the first direct US-Iran talks since the 1979 Islamic Revolution, mediated by Pakistan, aimed at stabilizing the two-week ceasefire and negotiating a permanent end to the conflict.",
+      "source": "Al Jazeera / Reuters / New York Times",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "Russia and Ukraine Exchange 175 Prisoners Each Ahead of Easter Truce",
+      "summary": "Russia and Ukraine carried out a major prisoner-of-war exchange, with 175 prisoners swapped from each side, mediated by the United Arab Emirates. The exchange comes ahead of an Orthodox Easter ceasefire, though fighting continues with Russian strikes on Odesa killing two people.",
+      "source": "Bloomberg / Moscow Times",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-11/russia-and-ukraine-exchange-pows-ahead-of-easter-ceasefire",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "Israeli Strike Kills at Least Six at Gaza Police Checkpoint",
+      "summary": "An Israeli airstrike hit a police checkpoint in Bureij camp in the central Gaza Strip early Saturday, killing at least six people and injuring several others according to medics. The conflict continues amid ongoing ceasefire tensions between Israel and Hamas.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/israel-hamas/",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "Trump Announces US Military Clearing Strait of Hormuz, Iranian Minelaying Ships Sunk",
+      "summary": "President Trump posted on social media that the US military has begun clearing the Strait of Hormuz and that all Iranian minelaying ships have been sunk. This follows the two-week ceasefire agreement where Iran agreed to reopen the vital oil shipping passage.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-defiant-eve-trumps-ceasefire-deadline-2026-04-07/",
+      "severity": "high",
+      "category": "war"
+    },
+    {
+      "title": "Peru Prepares for Presidential Election with 35 Candidates",
+      "summary": "Peru is set to elect its 9th president in less than a decade, with 35 candidates in the race. The election comes amid rising corruption and crime, with voters hoping to break the cycle of political instability that has plagued the country.",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/world/",
+      "severity": "medium",
+      "category": "politics"
+    },
+    {
+      "title": "Molotov Cocktail Thrown at OpenAI CEO Sam Altman's San Francisco Home",
+      "summary": "OpenAI CEO Sam Altman reported that a suspect hurled a Molotov cocktail at his San Francisco residence, supposedly motivated by anger against tech leaders amid rising public anxiety about artificial intelligence.",
+      "source": "NDTV / AP",
+      "url": "https://www.ndtv.com/world-news",
+      "severity": "medium",
+      "category": "other"
+    },
+    {
+      "title": "World Bank Warns Middle East War to Cut Global Growth",
+      "summary": "The World Bank chief warned that the ongoing Middle East war will deliver cascading impacts on global economic growth. Oil markets remain tense despite the ceasefire, with analysts predicting a potential market deficit in 2026.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/",
+      "severity": "medium",
+      "category": "economy"
+    },
+    {
+      "title": "NPR Reports from Last ISIS Detention Camp in Northeastern Syria",
+      "summary": "NPR visited the last detention camp for ISIS wives and children in increasingly precarious northeastern Syria, highlighting the ongoing security and humanitarian challenges in the region.",
+      "source": "NPR",
+      "url": "https://www.npr.org/sections/world/",
+      "severity": "low",
+      "category": "other"
+    }
+  ],
+  "top_story": {
+    "title": "US and Iran Begin Historic Direct Peace Talks in Islamabad",
+    "summary": "In a landmark diplomatic moment, US Vice President JD Vance leads direct negotiations with Iranian officials in Islamabad, Pakistan. These are the first direct talks between the US and Iran since the 1979 Islamic Revolution. The talks, mediated by Pakistan, aim to stabilize the two-week ceasefire announced by President Trump and negotiate a permanent resolution to the conflict. The outcome could reshape Middle East geopolitics and determine whether the Strait of Hormuz remains open for global oil shipments.",
+    "why_it_matters": "This represents a historic diplomatic breakthrough after decades of hostility between the US and Iran. The success or failure of these talks could determine the future of the Iran war, the stability of global oil markets through the Strait of Hormuz, and the broader security landscape of the Middle East. A successful agreement could prevent further military escalation and establish a new framework for US-Iran relations."
+  }
+}

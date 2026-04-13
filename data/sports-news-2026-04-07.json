@@ -1,0 +1,146 @@
+{
+  "date": "2026-04-07",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Colt Emerson signs unprecedented 8-year, $95M extension before reaching Majors",
+        "Cal Raleigh snaps HR drought in 12-pitch battle but offense still struggling",
+        "Randy Johnson Number Retirement Ceremony scheduled for May 2"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Colt Emerson (20) signs 8-year, $95M extension — unprecedented commitment to prospect",
+          "Emerson day-to-day after fouling ball off foot in Triple-A Tacoma game (X-rays negative)",
+          "Cal Raleigh broke HR drought in recent game"
+        ],
+        "situation": "Early season struggles, 4-7 record",
+        "playoffPicture": "4th in AL West, 2 games behind",
+        "achievement": "",
+        "today": "GAME DAY: vs Texas Rangers at Globe Life Field, 8:05 PM PT",
+        "nextMatch": "vs Rangers, April 7 @ 8:05 PM PT (George Kirby pitching)"
+      },
+      "last_game": {
+        "date": "2026-04-06",
+        "opponent": "Texas Rangers",
+        "result": "L 2-1",
+        "location": "@ Texas",
+        "note": "Jacob deGrom and five Rangers relievers combined for a two-hitter"
+      },
+      "next_game": {
+        "date": "2026-04-07",
+        "opponent": "Texas Rangers",
+        "location": "@ Texas",
+        "time": "8:05 PM PT",
+        "pitcher": "George Kirby (1-1, 3.75 ERA)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks announce 2026 offseason program begins April 20",
+        "Jaxon Smith-Njigba signs multi-year extension with Seattle",
+        "Chris Shaheed returns on three-year, $51M deal ($34.7M guaranteed)"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Voluntary offseason program starts April 20",
+          "Jaxon Smith-Njigba signed to multi-year extension",
+          "Chris Shaheed re-signs: 3 years, $51M",
+          "Chazz Surratt re-signed at linebacker"
+        ],
+        "situation": "Offseason - preparing for 2026 season",
+        "playoffPicture": "N/A - Offseason",
+        "achievement": "",
+        "today": "No game today - offseason",
+        "nextMatch": "Season opener: Wednesday, September 9, 2026"
+      },
+      "last_game": null,
+      "next_game": {
+        "date": "2026-09-09",
+        "opponent": "TBD",
+        "location": "TBD",
+        "time": "TBD",
+        "note": "2026 NFL Season Opener"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken lose 6-2 to Jets, extend losing streak to 5 games",
+        "Seattle 1-7-2 in past 10 games, 8 points out of wild card",
+        "Philipp Grubauer left game with undisclosed injury in second period"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Lost 6-2 to Winnipeg Jets on April 6",
+          "5-game losing streak, 9 of last 10 lost (1-7-2)",
+          "Philipp Grubauer injured, replaced by Joey Daccord",
+          "Jordan Eberle and Jared McCann scored against Jets",
+          "8 points out of second wild card with 6 games remaining"
+        ],
+        "situation": "Late season slump, playoff hopes fading",
+        "playoffPicture": "13th in West, 8 points behind wild card",
+        "achievement": "",
+        "today": "GAME DAY: vs Minnesota Wild at 5:00 PM PT",
+        "nextMatch": "@ Minnesota Wild, April 7 @ 5:00 PM PT"
+      },
+      "last_game": {
+        "date": "2026-04-06",
+        "opponent": "Winnipeg Jets",
+        "result": "L 6-2",
+        "location": "@ Winnipeg",
+        "note": "Grubauer injured in 2nd period; Eberle and McCann scored"
+      },
+      "next_game": {
+        "date": "2026-04-07",
+        "opponent": "Minnesota Wild",
+        "location": "@ Minnesota (St. Paul)",
+        "time": "5:00 PM PT",
+        "broadcast": "ESPN+"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders earn 1-0 road win over Houston Dynamo",
+        "Paul Rothrock scores team-leading 5th goal in all competitions",
+        "Team travels to Mexico for CONCACAF Champions Cup quarterfinals vs Tigres"
+      ],
+      "details": {
+        "keyUpdates": [
+          "1-0 win at Houston Dynamo on April 4-5",
+          "Paul Rothrock scored 83rd minute winner (5th goal of season)",
+          "Andrew Thomas recorded 5th clean sheet",
+          "Record: 4-1-1, 13 points in MLS play",
+          "Champions Cup quarterfinal first leg at Tigres UANL on April 8"
+        ],
+        "situation": "Strong MLS start, advancing in Champions Cup",
+        "playoffPicture": "Early season - strong position",
+        "achievement": "",
+        "today": "No MLS game today - preparing for Champions Cup",
+        "nextMatch": "CONCACAF Champions Cup @ Tigres UANL, April 8 @ 6:00 PM PT"
+      },
+      "last_game": {
+        "date": "2026-04-05",
+        "opponent": "Houston Dynamo FC",
+        "result": "W 1-0",
+        "location": "@ Houston",
+        "note": "Paul Rothrock 83' winner; Andrew Thomas 5th clean sheet"
+      },
+      "next_game": {
+        "date": "2026-04-08",
+        "opponent": "Tigres UANL",
+        "location": "@ Estadio Universitario (Mexico)",
+        "time": "6:00 PM PT",
+        "competition": "CONCACAF Champions Cup Quarterfinals (First Leg)",
+        "broadcast": "FS2, TUDN, ConcacafGO"
+      }
+    }
+  ]
+}

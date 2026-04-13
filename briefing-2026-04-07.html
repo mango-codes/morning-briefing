@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Morning Briefing — April 7, 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #e8e8e8;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding-bottom: 30px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            letter-spacing: -1px;
+            margin-bottom: 8px;
+            background: linear-gradient(135deg, #fff 0%, #a8d8ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .date {
+            color: #8892b0;
+            font-size: 1.1rem;
+        }
+        
+        .weather-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.08);
+        }
+        
+        .weather-icon {
+            font-size: 3rem;
+        }
+        
+        .weather-main {
+            flex: 1;
+        }
+        
+        .weather-temp {
+            font-size: 2.5rem;
+            font-weight: 300;
+        }
+        
+        .weather-desc {
+            color: #8892b0;
+        }
+        
+        .weather-details {
+            display: flex;
+            gap: 20px;
+            font-size: 0.9rem;
+            color: #8892b0;
+        }
+        
+        .weather-details span {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .section {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            padding: 28px;
+            margin-bottom: 24px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        
+        .section h2 {
+            font-size: 1.3rem;
+            font-weight: 500;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: #fff;
+        }
+        
+        .section-icon {
+            font-size: 1.4rem;
+        }
+        
+        /* Top Story Highlight */
+        .top-story {
+            background: linear-gradient(135deg, rgba(233, 69, 96, 0.15) 0%, rgba(233, 69, 96, 0.05) 100%);
+            border: 1px solid rgba(233, 69, 96, 0.2);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .top-story-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #e94560;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+        
+        .top-story h3 {
+            font-size: 1.15rem;
+            margin-bottom: 10px;
+            color: #fff;
+            line-height: 1.4;
+        }
+        
+        .top-story p {
+            color: #a8b2d1;
+            font-size: 0.95rem;
+        }
+        
+        /* Story Cards */
+        .story-list {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        
+        .story-item {
+            padding: 16px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .story-item:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        
+        .story-item:first-child {
+            padding-top: 0;
+        }
+        
+        .story-category {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #64ffda;
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+        
+        .story-item h4 {
+            font-size: 1rem;
+            font-weight: 500;
+            margin-bottom: 6px;
+            color: #fff;
+            line-height: 1.4;
+        }
+        
+        .story-item p {
+            color: #8892b0;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        
+        .story-source {
+            font-size: 0.8rem;
+            color: #5a6a8a;
+            margin-top: 8px;
+        }
+        
+        /* Sports Cards */
+        .sports-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+        }
+        
+        .team-card {
+            background: rgba(255,255,255,0.04);
+            border-radius: 12px;
+            padding: 18px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        
+        .team-name {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 4px;
+            color: #fff;
+        }
+        
+        .team-league {
+            font-size: 0.8rem;
+            color: #5a6a8a;
+            margin-bottom: 12px;
+        }
+        
+        .team-status {
+            font-size: 0.85rem;
+            color: #ccd6f6;
+            margin-bottom: 8px;
+        }
+        
+        .team-game {
+            font-size: 0.8rem;
+            color: #8892b0;
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.08);
+        }
+        
+        .game-today {
+            color: #64ffda;
+            font-weight: 500;
+        }
+        
+        /* Events */
+        .events-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 16px;
+        }
+        
+        .event-card {
+            background: rgba(255,255,255,0.04);
+            border-radius: 12px;
+            padding: 18px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        
+        .event-type {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #e94560;
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+        
+        .event-title {
+            font-weight: 600;
+            font-size: 1rem;
+            margin-bottom: 8px;
+            color: #fff;
+        }
+        
+        .event-meta {
+            font-size: 0.85rem;
+            color: #8892b0;
+            margin-bottom: 6px;
+        }
+        
+        .event-price {
+            font-size: 0.8rem;
+            color: #64ffda;
+        }
+        
+        .weekend-section {
+            margin-top: 24px;
+            padding-top: 24px;
+            border-top: 1px solid rgba(255,255,255,0.08);
+        }
+        
+        .weekend-section h3 {
+            font-size: 1rem;
+            color: #a8b2d1;
+            margin-bottom: 16px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #5a6a8a;
+            font-size: 0.85rem;
+        }
+        
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .weather-card {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .weather-details {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Morning Briefing</h1>
+            <div class="date">Tuesday, April 7, 2026</div>
+        </header>
+        
+        <!-- Weather -->
+        <div class="weather-card">
+            <div class="weather-icon">☁️</div>
+            <div class="weather-main">
+                <div class="weather-temp">47°F</div>
+                <div class="weather-desc">Overcast morning, partly cloudy afternoon • High 54° / Low 42°</div>
+            </div>
+            <div class="weather-details">
+                <span>💧 74% humidity</span>
+                <span>💨 4 mph SE</span>
+                <span>🌅 6:35 AM</span>
+                <span>🌇 7:48 PM</span>
+            </div>
+        </div>
+        
+        <!-- AI News -->
+        <div class="section">
+            <h2><span class="section-icon">🤖</span> AI News</h2>
+            
+            <div class="top-story">
+                <div class="top-story-label">Top Story</div>
+                <h3>OpenAI Closes Historic $122 Billion Funding Round at $852 Billion Valuation</h3>
+                <p>The largest private funding round ever, backed by Amazon, NVIDIA, SoftBank, and Microsoft. This massive capital injection signals unprecedented investor confidence and provides OpenAI with the war chest to compete aggressively in the race toward AGI.</p>
+            </div>
+            
+            <div class="story-list">
+                <div class="story-item">
+                    <div class="story-category">Research</div>
+                    <h4>Anthropic's Claude Mythos Leaked: "Most Powerful AI Model Ever Developed"</h4>
+                    <p>A data leak revealed Anthropic is testing Claude Mythos, representing a "step change in capabilities" with significant improvements in reasoning, coding, and cybersecurity.</p>
+                    <div class="story-source">Fortune / TechBriefly</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Product</div>
+                    <h4>Microsoft Launches Three Homegrown AI Models, Competing with OpenAI</h4>
+                    <p>Microsoft unveiled MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 — signaling increasing independence despite their $135B stake in OpenAI.</p>
+                    <div class="story-source">The Register</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Research</div>
+                    <h4>Neuro-Symbolic AI Breakthrough Cuts Energy Use by 100x</h4>
+                    <p>Tufts University researchers developed a system combining neural networks with symbolic reasoning, achieving 95% success vs 34% for traditional models while reducing training time from over a day to 34 minutes.</p>
+                    <div class="story-source">ScienceDaily</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Funding</div>
+                    <h4>Q1 2026 Shatters Records: $297 Billion in AI Startup Investment</h4>
+                    <p>AI companies now attract 33% of total VC funding, with median deal values reaching $143 million.</p>
+                    <div class="story-source">Crunchbase / New York Times</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Local News -->
+        <div class="section">
+            <h2><span class="section-icon">📰</span> Seattle & PNW News</h2>
+            
+            <div class="story-list">
+                <div class="story-item">
+                    <div class="story-category">Transportation</div>
+                    <h4>Sea-Tac Airport Chaos: 79 Disruptions on April 7</h4>
+                    <p>8 cancellations and 71 delays today, with Alaska Airlines hardest-hit. Ongoing $5 billion runway construction is generating 15-30 minute departure holds even on clear days.</p>
+                    <div class="story-source">FOX 13 Seattle</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Politics</div>
+                    <h4>Legal Challenge to Washington's New "Millionaires Tax"</h4>
+                    <p>Brian Heywood filed an emergency petition asking the state Supreme Court to allow a referendum on the 9.9% levy on household income above $1 million starting in 2028.</p>
+                    <div class="story-source">OPB / Washington State Standard</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Environment</div>
+                    <h4>Three Gray Whale Deaths in One Week Raise Alarm</h4>
+                    <p>Six gray whales have stranded along Washington shores this year (vs one last year). A whale that swam 20 miles up a river was found dead Monday.</p>
+                    <div class="story-source">FOX 13 Seattle / NYT</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Sports</div>
+                    <h4>FIFA World Cup Trophy Makes Pit Stop in Seattle</h4>
+                    <p>With 66 days until the 2026 World Cup, the original trophy drew crowds. Seattle expects 750,000 additional visitors for the tournament.</p>
+                    <div class="story-source">KING 5 / FOX 13</div>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Recreation</div>
+                    <h4>The Picklr: Massive Indoor Pickleball Courts Open in Fremont</h4>
+                    <p>Seattle's newest indoor pickleball facility is now open in the former Theo Chocolate building, marking a major addition to the city's exploding pickleball scene.</p>
+                    <div class="story-source">KOMO News / FOX 13</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Sports -->
+        <div class="section">
+            <h2><span class="section-icon">🏆</span> Seattle Sports</h2>
+            
+            <div class="sports-grid">
+                <div class="team-card">
+                    <div class="team-name">⚾ Mariners</div>
+                    <div class="team-league">MLB • 4-7, 4th in AL West</div>
+                    <div class="team-status game-today">🟢 GAME DAY</div>
+                    <div class="team-game">vs Rangers @ 8:05 PM PT<br>George Kirby pitching</div>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-name">🏒 Kraken</div>
+                    <div class="team-league">NHL • 1-7-2 in last 10</div>
+                    <div class="team-status game-today">🟢 GAME DAY</div>
+                    <div class="team-game">@ Minnesota Wild @ 5:00 PM PT<br>ESPN+ • 8 pts out of wild card</div>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-name">⚽ Sounders</div>
+                    <div class="team-league">MLS • 4-1-1, 13 pts</div>
+                    <div class="team-status">1-0 win at Houston</div>
+                    <div class="team-game">Next: @ Tigres (Champions Cup)<br>Wed @ 6:00 PM PT on FS2</div>
+                </div>
+                
+                <div class="team-card">
+                    <div class="team-name">🏈 Seahawks</div>
+                    <div class="team-league">NFL • Offseason</div>
+                    <div class="team-status">Voluntary program starts Apr 20</div>
+                    <div class="team-game">Season opener: Sept 9, 2026</div>
+                </div>
+            </div>
+            
+            <div class="story-list" style="margin-top: 20px;">
+                <div class="story-item">
+                    <div class="story-category">Mariners News</div>
+                    <h4>Colt Emerson Signs Unprecedented 8-Year, $95M Extension</h4>
+                    <p>The 20-year-old prospect signed an unprecedented deal before reaching the majors. He's day-to-day after fouling a ball off his foot (X-rays negative). Cal Raleigh snapped his HR drought.</p>
+                </div>
+                
+                <div class="story-item">
+                    <div class="story-category">Seahawks News</div>
+                    <h4>Jaxon Smith-Njigba Signs Extension; Shaheed Returns</h4>
+                    <p>JSN signed a multi-year extension, and Chris Shaheed returns on a 3-year, $51M deal ($34.7M guaranteed).</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Events -->
+        <div class="section">
+            <h2><span class="section-icon">🎭</span> Events Tonight</h2>
+            
+            <div class="events-grid">
+                <div class="event-card">
+                    <div class="event-type">Theater</div>
+                    <div class="event-title">Les Misérables</div>
+                    <div class="event-meta">🕰️ 7:30 PM • 📍 Paramount Theatre</div>
+                    <div class="event-price">$70+</div>
+                </div>
+                
+                <div class="event-card">
+                    <div class="event-type">Comedy</div>
+                    <div class="event-title">Emily Wilson Comedy</div>
+                    <div class="event-meta">🕰️ 7:30 PM • 📍 Emerald City Comedy Club</div>
+                    <div class="event-price">$53-$71</div>
+                </div>
+                
+                <div class="event-card">
+                    <div class="event-type">Concert</div>
+                    <div class="event-title">Currents / ERRA / Aviana Caskets</div>
+                    <div class="event-meta">🕰️ 7:00 PM • 📍 The Crocodile</div>
+                    <div class="event-price">$25-$35</div>
+                </div>
+                
+                <div class="event-card">
+                    <div class="event-type">Comedy/Variety</div>
+                    <div class="event-title">Moisture Festival</div>
+                    <div class="event-meta">🕰️ 7:30 PM • 📍 Broadway Performance Hall</div>
+                    <div class="event-price">$20-$35</div>
+                </div>
+                
+                <div class="event-card">
+                    <div class="event-type">Theater</div>
+                    <div class="event-title">Grease</div>
+                    <div class="event-meta">🕰️ 7:30 PM • 📍 Village Theatre (Issaquah)</div>
+                    <div class="event-price">$35-$65</div>
+                </div>
+                
+                <div class="event-card">
+                    <div class="event-type">Theater</div>
+                    <div class="event-title">Ain't Misbehavin'</div>
+                    <div class="event-meta">🕰️ 7:30 PM • 📍 Taproot Theatre</div>
+                    <div class="event-price">$25-$45</div>
+                </div>
+            </div>
+            
+            <div class="weekend-section">
+                <h3>This Weekend (April 10-12)</h3>
+                <div class="events-grid">
+                    <div class="event-card">
+                        <div class="event-type">Comedy • Saturday</div>
+                        <div class="event-title">On Cinema Live</div>
+                        <div class="event-meta">🕰️ 8:00 PM • 📍 Neptune Theatre</div>
+                        <div class="event-price">$35-$55</div>
+                    </div>
+                    
+                    <div class="event-card">
+                        <div class="event-type">Festival • Fri-Sun</div>
+                        <div class="event-title">Cherry Blossom & Japanese Cultural Festival</div>
+                        <div class="event-meta">🕰️ 10 AM - 6 PM • 📍 Seattle Center</div>
+                        <div class="event-price">FREE</div>
+                    </div>
+                    
+                    <div class="event-card">
+                        <div class="event-type">Sports • Friday</div>
+                        <div class="event-title">Mariners vs Astros</div>
+                        <div class="event-meta">🕰️ 6:40 PM • 📍 T-Mobile Park</div>
+                        <div class="event-price">$15-$100</div>
+                    </div>
+                    
+                    <div class="event-card">
+                        <div class="event-type">Sports • Saturday</div>
+                        <div class="event-title">Kraken vs Flames</div>
+                        <div class="event-meta">🕰️ 4:00 PM • 📍 Climate Pledge Arena</div>
+                        <div class="event-price">$45-$200</div>
+                    </div>
+                    
+                    <div class="event-card">
+                        <div class="event-type">Concert • Sunday</div>
+                        <div class="event-title">Ari Lennox</div>
+                        <div class="event-meta">🕰️ 8:00 PM • 📍 Moore Theatre</div>
+                        <div class="event-price">$40-$80</div>
+                    </div>
+                    
+                    <div class="event-card">
+                        <div class="event-type">Sports • Sunday</div>
+                        <div class="event-title">Sounders vs Real Salt Lake</div>
+                        <div class="event-meta">🕰️ 6:00 PM • 📍 Lumen Field</div>
+                        <div class="event-price">$25-$120</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            Generated April 7, 2026 • Morning Briefing for James
+        </footer>
+    </div>
+</body>
+</html>

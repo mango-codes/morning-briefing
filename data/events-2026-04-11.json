@@ -1,0 +1,270 @@
+{
+  "date": "2026-04-11",
+  "category": "events",
+  "events": [
+    {
+      "title": "Best of the Northwest Spring Art Show",
+      "date": "April 11-12, 2026 (10 AM - 5 PM)",
+      "venue": "Hangar 30 at Magnuson Park, 6310 NE 74th St, Seattle",
+      "description": "37th Annual Spring Show - Seattle's premier fine art and craft show featuring over 100 talented artists, special exhibits and food trucks.",
+      "url": "https://www.eventbrite.com/e/best-of-the-northwest-spring-art-show-2026-seattle-tickets-1981455453601",
+      "category": "arts"
+    },
+    {
+      "title": "Cherry Blossom & Japanese Cultural Festival",
+      "date": "April 11-12, 2026",
+      "venue": "Seattle Center, 305 Harrison St, Seattle",
+      "description": "Celebrates Seattle's friendship with Japan and Japan's gift of 1000 cherry trees in 1976. Enjoy Japanese art, dance, music, martial arts, and food in the Armory, at Fisher Pavilion, and on Fisher Stage.",
+      "url": "https://seattlecenter.com/events/featured-events/festal/seattle-cherry-blossom-festival",
+      "category": "arts"
+    },
+    {
+      "title": "Yuri's Night - Space Party",
+      "date": "April 11, 2026 (6-11 PM)",
+      "venue": "Museum of Flight, 9404 E Marginal Way S, Seattle",
+      "description": "Celebrate the first man to orbit the earth in 1961 at this space-themed spectacle that transforms the Museum of Flight into an intergalactic nightclub with electronic DJ music, lighted art, drinks, and food trucks. Age 21+.",
+      "url": "https://www.museumofflight.org/exhibits-and-events/yuris-night",
+      "category": "other"
+    },
+    {
+      "title": "Seattle Mariners vs Houston Astros",
+      "date": "April 11, 2026 (6:40 PM)",
+      "venue": "T-Mobile Park, 1250 1st Ave S, Seattle",
+      "description": "MLB home game - Seattle Mariners host the Houston Astros.",
+      "url": "https://www.mlb.com/mariners/schedule",
+      "category": "sports"
+    },
+    {
+      "title": "Seattle Mariners vs Houston Astros",
+      "date": "April 12-13, 2026 (1:10 PM)",
+      "venue": "T-Mobile Park, 1250 1st Ave S, Seattle",
+      "description": "MLB home games - Seattle Mariners host the Houston Astros.",
+      "url": "https://www.mlb.com/mariners/schedule",
+      "category": "sports"
+    },
+    {
+      "title": "Seattle Kraken vs Calgary Flames",
+      "date": "April 11, 2026 (4:00 PM)",
+      "venue": "Climate Pledge Arena, 334 1st Ave N, Seattle",
+      "description": "NHL home game - Seattle Kraken host the Calgary Flames.",
+      "url": "https://www.nhl.com/kraken/schedule",
+      "category": "sports"
+    },
+    {
+      "title": "Seattle Kraken vs Los Angeles Kings",
+      "date": "April 13, 2026 (6:30 PM)",
+      "venue": "Climate Pledge Arena, 334 1st Ave N, Seattle",
+      "description": "NHL home game - Seattle Kraken host the Los Angeles Kings.",
+      "url": "https://www.nhl.com/kraken/schedule",
+      "category": "sports"
+    },
+    {
+      "title": "Les Misérables - Broadway Musical",
+      "date": "April 11-19, 2026",
+      "venue": "The Paramount Theatre, 911 Pine St, Seattle",
+      "description": "Broadway revival of the popular musical telling an enthralling story of broken dreams and unrequited love, passion, sacrifice, and redemption.",
+      "url": "https://www.stgpresents.org/events/les-miserables/",
+      "category": "arts"
+    },
+    {
+      "title": "Giselle - Pacific Northwest Ballet",
+      "date": "April 11-19, 2026",
+      "venue": "McCaw Hall, 321 Mercer St, Seattle",
+      "description": "Pacific Northwest Ballet performs the Romance-period ballet, an ethereal, haunting, and tender masterpiece about love beyond the grave.",
+      "url": "https://www.pnb.org/season/giselle/",
+      "category": "arts"
+    },
+    {
+      "title": "Moisture Festival - Comedy/Variety",
+      "date": "April 11-12, 2026",
+      "venue": "Broadway Performance Hall, 1625 Broadway, Seattle",
+      "description": "World's largest comedy/variety festival presenting 30 shows. Friday shows are for age 18+.",
+      "url": "https://moisturefestival.org",
+      "category": "arts"
+    },
+    {
+      "title": "Ari Lennox Concert",
+      "date": "April 12, 2026 (8:00 PM)",
+      "venue": "The Moore Theatre, 1932 Second Avenue, Seattle",
+      "description": "R&B singer Ari Lennox live performance.",
+      "url": "https://www.stgpresents.org/events/ari-lennox/",
+      "category": "music"
+    },
+    {
+      "title": "Jim Jefferies: Son of a Carpenter - Comedy",
+      "date": "April 11, 2026 (7:00 PM)",
+      "venue": "The Moore Theatre, 1932 Second Avenue, Seattle",
+      "description": "Stand-up comedy show featuring Jim Jefferies.",
+      "url": "https://www.stgpresents.org/events/jim-jefferies-son-of-a-carpenter/",
+      "category": "arts"
+    },
+    {
+      "title": "On Cinema Live",
+      "date": "April 11, 2026 (4:00 PM)",
+      "venue": "The Neptune Theatre, 1303 Northeast 45th Street, Seattle",
+      "description": "Live show based on the popular comedy series.",
+      "url": "https://www.stgpresents.org/events/on-cinema-live/",
+      "category": "arts"
+    },
+    {
+      "title": "Steven Ho: Not Your Hero Tour",
+      "date": "April 12, 2026 (7:00 PM)",
+      "venue": "The Neptune Theatre, 1303 Northeast 45th Street, Seattle",
+      "description": "Comedy show featuring Steven Ho.",
+      "url": "https://www.stgpresents.org/events/steven-ho/",
+      "category": "arts"
+    },
+    {
+      "title": "Eggy & Taper's Choice Concert",
+      "date": "April 11, 2026 (8:00 PM)",
+      "venue": "Neumos, 925 East Pike Street, Seattle",
+      "description": "Live music performance.",
+      "url": "https://www.stgpresents.org/events/eggy-tapers-choice/",
+      "category": "music"
+    },
+    {
+      "title": "Cascadia Spring Tea Festival",
+      "date": "April 11, 2026 (11 AM - 5 PM)",
+      "venue": "Floral Hall, 802 E Mukilteo Blvd, Everett",
+      "description": "Features local vendors, tea tasting (bring your own cup), tea arts and crafts, and workshops.",
+      "url": "https://www.cascadiatea.org/event-details/2026-cascadia-tea-festival",
+      "category": "food"
+    },
+    {
+      "title": "Washington State Toy Show",
+      "date": "April 11, 2026 (9 AM - 4 PM)",
+      "venue": "Angel of the Winds Arena, 2000 Hewitt Ave, Everett",
+      "description": "Shop from 250 vendors of vintage and modern toys, comics, and collectibles. Children 12 and under free.",
+      "url": "https://www.watoyshow.com/",
+      "category": "other"
+    },
+    {
+      "title": "Navruz Celebration - Central Asian Festival",
+      "date": "April 11, 2026 (1-5 PM)",
+      "venue": "Shoreline Community College, 16101 Greenwood Ave N, Shoreline",
+      "description": "Central Asian meal, dance performances, fashion show, and children's area.",
+      "url": "https://tickets.evvnt.com/events/stscas-2026-navruz-celebration-4-11-2026",
+      "category": "arts"
+    },
+    {
+      "title": "Burien Uncorked Wine Walk",
+      "date": "April 11, 2026 (1-6 PM)",
+      "venue": "Discover Burien, 611 SW 152nd St, Burien",
+      "description": "Wine tasting at Burien shops. Age 21+.",
+      "url": "https://www.discoverburien.org/calendar/2026/4/burien-uncorked-wine-walk",
+      "category": "food"
+    },
+    {
+      "title": "Downtown Kent Wine Walk",
+      "date": "April 11, 2026 (5-8 PM)",
+      "venue": "Kent Downtown Partnership, 202 W Gowe St, Kent",
+      "description": "Beer, cider, and food samples with live music. Age 21+.",
+      "url": "https://www.downtownkentwa.com/event/winewalk_april/",
+      "category": "food"
+    },
+    {
+      "title": "Plate of Nations - Taste of Rainier Valley",
+      "date": "April 11-12, 2026",
+      "venue": "Rainier Valley, Seattle",
+      "description": "Special deals on international meals at 50 participating restaurants.",
+      "url": "https://www.plateofnations.com/",
+      "category": "food"
+    },
+    {
+      "title": "Puyallup Spring Fair",
+      "date": "April 11-19, 2026",
+      "venue": "Washington State Fair Events Center, 110 9th Ave SW, Puyallup",
+      "description": "Farm animals, pig races, performing dogs, fair food, rides, entertainers, demolition derbies, and kids' zone.",
+      "url": "https://www.thefair.com/spring-fair/",
+      "category": "other"
+    },
+    {
+      "title": "NW Model Hobby Expo",
+      "date": "April 11-12, 2026",
+      "venue": "Evergreen State Fairgrounds, 14405 179th Ave SE, Monroe",
+      "description": "Radio controlled cars, airplanes, boats, robots, and trains. Kids 10 and under free.",
+      "url": "https://www.nwmhe.com/",
+      "category": "other"
+    },
+    {
+      "title": "Welcome the Whales Festival",
+      "date": "April 11-12, 2026",
+      "venue": "Langley Whale Center, 105 Anthes Ave, Langley (Whidbey Island)",
+      "description": "Honors Orca whales with costume making, parade, beach ceremony, documentary screening, and boat trips.",
+      "url": "https://www.orcanetwork.org/events/welcome-the-whales-2",
+      "category": "other"
+    },
+    {
+      "title": "Candlelight Concert - Classical Music",
+      "date": "April 11, 2026",
+      "venue": "Arctic Club Hotel, Seattle",
+      "description": "String quartet playing classical music in the warm glow of simulated candles.",
+      "url": "https://fever.pxf.io/6yRY3G",
+      "category": "music"
+    },
+    {
+      "title": "Candlelight Concert - Fleetwood Mac",
+      "date": "April 12, 2026",
+      "venue": "Arctic Club Hotel, Seattle",
+      "description": "String quartet playing Fleetwood Mac songs in the warm glow of simulated candles.",
+      "url": "https://fever.pxf.io/K0eNjn",
+      "category": "music"
+    },
+    {
+      "title": "Ballard Art Walk",
+      "date": "April 11, 2026 (6-9 PM)",
+      "venue": "Ballard, Seattle",
+      "description": "Free art walk between venues displaying artwork.",
+      "url": "https://www.visitballard.com/event/ballard-artwalk-2/2026-04-11/",
+      "category": "arts"
+    },
+    {
+      "title": "Georgetown Art Attack Art Walk",
+      "date": "April 11, 2026",
+      "venue": "Georgetown, Seattle",
+      "description": "Free art walk in Georgetown.",
+      "url": "https://www.seattleartists.com/event/georgetown-art-attack-art-walk/2026-04-11/",
+      "category": "arts"
+    },
+    {
+      "title": "Seattle Jazz Vespers",
+      "date": "April 12, 2026 (6-8 PM)",
+      "venue": "Seattle First Baptist, 1111 Harvard Ave, Seattle",
+      "description": "Free jazz performance featuring Deseo Carmin playing Latin rhythms, soulful jazz/funk grooves, and flamenco.",
+      "url": "https://www.facebook.com/events/1206175121554839",
+      "category": "music"
+    },
+    {
+      "title": "The Big Taste",
+      "date": "April 12, 2026 (4-7:30 PM)",
+      "venue": "Block 41, 115 Bell St, Seattle",
+      "description": "Includes 10 tastes of wine, beer, cider, or spirits, with live music and food for sale. Age 21+.",
+      "url": "https://usrotary.org/the-big-taste/",
+      "category": "food"
+    },
+    {
+      "title": "Madame Butterfly Opera",
+      "date": "April 12, 2026 (3 PM)",
+      "venue": "Meydenbauer Center, 11000 NE 6th St, Bellevue",
+      "description": "Bellevue Opera performs Madame Butterfly with Bellevue Symphony.",
+      "url": "https://www.bellevueopera.com/events/madame-butterterfly",
+      "category": "arts"
+    },
+    {
+      "title": "Free Moore Theatre Tour",
+      "date": "April 11, 2026 (10 AM - 12 PM)",
+      "venue": "The Moore Theatre, 1932 Second Avenue, Seattle",
+      "description": "Free behind-the-scenes tour of the historic Moore Theatre.",
+      "url": "https://www.stgpresents.org/events/free-moore-tour/",
+      "category": "arts"
+    },
+    {
+      "title": "Songwriters Rooms",
+      "date": "April 12, 2026 (2:00 PM)",
+      "venue": "Kerry Hall, 710 E Roy St, Seattle",
+      "description": "Songwriting showcase and performance.",
+      "url": "https://www.stgpresents.org/events/songwriters-rooms/",
+      "category": "music"
+    }
+  ]
+}

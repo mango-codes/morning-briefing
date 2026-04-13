@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-12",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "CoreWeave Strikes Multi-Year Cloud Deal with Anthropic",
+      "summary": "AI cloud infrastructure provider CoreWeave announced a multi-year agreement with Anthropic to power its Claude family of AI models. The deal caused CoreWeave shares to surge over 13%, and means nine of the top ten AI model providers now leverage CoreWeave's platform. This comes just one day after Meta committed an additional $21 billion to the cloud provider.",
+      "source": "Reuters/CNBC",
+      "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
+      "type": "funding"
+    },
+    {
+      "title": "UK Financial Regulators Rush to Assess Risks of Anthropic's Claude Mythos Model",
+      "summary": "The Bank of England, Financial Conduct Authority, and HM Treasury are holding urgent talks with the UK's National Cyber Security Centre and major banks to assess cybersecurity risks posed by Anthropic's latest AI model, Claude Mythos Preview. This follows similar concerns raised by US Treasury Secretary Scott Bessent with Wall Street banks.",
+      "source": "Reuters/Financial Times",
+      "url": "https://www.reuters.com/world/uk/uk-financial-regulators-rush-assess-risks-anthropics-latest-ai-model-ft-reports-2026-04-12/",
+      "type": "policy"
+    },
+    {
+      "title": "EU Weighing Tighter Regulation for OpenAI Under Digital Services Act",
+      "summary": "The European Commission is analyzing whether OpenAI's ChatGPT should be classified as a large online search engine under the Digital Services Act after reporting user numbers exceeding 45 million. ChatGPT search had approximately 120.4 million average monthly active users in the EU, which would subject it to stricter oversight and compliance requirements.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/openai-faces-tighter-regulation-under-eus-digital-service-act-handelsblatt-says-2026-04-10/",
+      "type": "policy"
+    },
+    {
+      "title": "OpenAI Halts UK Stargate Project Amid Regulatory and Energy Cost Concerns",
+      "summary": "OpenAI is pausing its major Stargate data center project in Britain, citing unfavorable regulatory conditions and high energy costs. The decision represents a setback to the UK government's push to position the country as an AI hub. OpenAI cited industrial electricity costs and AI copyright regulatory uncertainty as key barriers.",
+      "source": "CNBC/Reuters",
+      "url": "https://www.cnbc.com/2026/04/09/openai-halts-uk-stargate-project.html",
+      "type": "policy"
+    },
+    {
+      "title": "AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
+      "summary": "Researchers have developed a neuro-symbolic AI approach that could reduce energy consumption by up to 100 times while improving task performance. The hybrid system combines neural networks with symbolic reasoning for robotics applications. This addresses growing concerns about AI's energy footprint, which already exceeds 10% of US electricity production.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "type": "research"
+    },
+    {
+      "title": "Nebius Emerges as Hidden AI Infrastructure Play with Major Acquisitions",
+      "summary": "Nebius, an AI infrastructure company, is gaining attention from Wall Street analysts with its aggressive expansion. The company has secured over 2 gigawatts of capacity, acquired Tavily for agentic search capabilities, and is reportedly in talks to acquire AI21 Labs. Nebius plans to offer NVIDIA's upcoming Vera Rubin NVL72 systems starting in H2 2026.",
+      "source": "AOL/Motley Fool",
+      "url": "https://www.aol.com/articles/1-artificial-intelligence-ai-stock-080200779.html",
+      "type": "funding"
+    },
+    {
+      "title": "Meta Commits Additional $21 Billion to CoreWeave AI Infrastructure",
+      "summary": "Meta announced an additional $21 billion spending commitment with CoreWeave for AI cloud infrastructure, adding to a prior $14.2 billion agreement from September 2025. The massive investment underscores the escalating compute requirements for training and running large AI models.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/09/meta-commits-to-spending-additional-21-billion-with-coreweave-.html",
+      "type": "funding"
+    },
+    {
+      "title": "India's AI Startup Funding Surged 277% in 2025",
+      "summary": "According to recent reports, AI startup funding in India increased by 277% in 2025, with $5.62 billion raised across 531 equity funding rounds through April 2026. The surge reflects growing global investor interest in India's emerging AI ecosystem.",
+      "source": "The CEO Magazine/Tracxn",
+      "url": "https://startup.theceo.in/india-ai-startup-funding-2025/",
+      "type": "funding"
+    },
+    {
+      "title": "GE Aerospace Scales AI from Pilots to Production Operations",
+      "summary": "GE Aerospace is moving artificial intelligence from pilot projects to core operations, delivering measurable gains in efficiency and productivity. The company is using India as an anchor for global AI capability development, integrating AI across manufacturing and supply chain operations.",
+      "source": "The Hindu BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/ge-aerospace-scales-ai-from-pilots-to-production-india-anchors-global-capability/article70853789.ece",
+      "type": "product"
+    },
+    {
+      "title": "2026 Called 'Breakthrough Year' for Reliable AI World Models",
+      "summary": "Industry observers are highlighting 2026 as a pivotal year for AI world models and continual learning prototypes. Key innovations including Nested Learning, Titans/Hope architecture, Genie 3, and inference-time reasoning are expected to accelerate capabilities through 2028, moving beyond pure scaling to algorithmic improvements.",
+      "source": "NextBigFuture",
+      "url": "https://www.nextbigfuture.com/2026/04/2026-is-breakthrough-year-for-reliable-ai-world-models-and-continual-learning-prototypes.html",
+      "type": "research"
+    }
+  ],
+  "top_story": {
+    "title": "CoreWeave Strikes Multi-Year Cloud Deal with Anthropic",
+    "summary": "AI cloud infrastructure provider CoreWeave announced a significant multi-year agreement with Anthropic to support the development and deployment of its Claude family of AI models. The deal caused CoreWeave's stock to surge over 13% and represents a major validation of the specialized AI cloud provider's platform. With this agreement, nine of the top ten AI model providers now leverage CoreWeave's infrastructure. The announcement came just one day after Meta committed an additional $21 billion to CoreWeave, bringing total commitments from these two deals alone to over $35 billion. The deal underscores the massive infrastructure demands required to train and serve frontier AI models, as well as the emergence of specialized 'neocloud' providers as critical players in the AI ecosystem alongside hyperscalers like AWS, Google Cloud, and Azure.",
+    "why_it_matters": "This deal signals a major shift in how AI companies source compute infrastructure. Rather than relying solely on hyperscalers, leading AI labs are increasingly turning to specialized providers like CoreWeave that offer optimized GPU clusters for AI workloads. The scale of investment—over $35 billion from just two customers in two days—demonstrates the enormous capital requirements for frontier AI development. It also highlights the growing concentration of AI infrastructure among a small number of providers, raising questions about supply chain resilience and competitive dynamics in the AI industry."
+  }
+}

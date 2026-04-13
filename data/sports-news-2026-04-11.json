@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-11",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners defeated Astros 9-6 on April 10 - Randy Arozarena hit his first homer of the year",
+        "Dominic Canzone drove an RBI double in the win over Houston",
+        "Mariners currently 5th in AL West standings",
+        "Team batting average at .190 (30th in MLB)"
+      ],
+      "details": {
+        "record": "5-9",
+        "division": "AL West",
+        "division_rank": "5th",
+        "games_back": "2.5 GB",
+        "team_stats": {
+          "runs": 49,
+          "batting_average": ".190",
+          "on_base_percentage": ".297",
+          "slugging_percentage": ".311"
+        },
+        "team_leaders": {
+          "batting_average": "Brendan Donovan (.316)",
+          "home_runs": "Luke Raley (3)",
+          "rbi": "Cole Young (7)"
+        }
+      },
+      "last_game": {
+        "date": "2026-04-10",
+        "opponent": "Houston Astros",
+        "result": "W 9-6",
+        "highlights": "Randy Arozarena's first homer of the year; Dominic Canzone RBI double"
+      },
+      "next_game": {
+        "date": "2026-04-11",
+        "opponent": "Houston Astros",
+        "location": "T-Mobile Park",
+        "time": "9:40 PM PT"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Offseason program begins April 20, 2026",
+        "Mandatory minicamp scheduled for June 9-11",
+        "Jaxon Smith-Njigba extension discussions ongoing",
+        "Cooper Kupp set to make $13.5 million in 2026",
+        "Jobe likely to step into starting CB role opposite Devon Witherspoon after Woolen departure"
+      ],
+      "details": {
+        "season_status": "Offseason",
+        "offseason_program_start": "2026-04-20",
+        "mandatory_minicamp": "June 9-11",
+        "ota_workouts": "Scheduled between April 20 and June 9",
+        "key_contracts": {
+          "jaxon_smith_njigba": "Extension talks ongoing",
+          "cooper_kupp": "$13.5M for 2026"
+        },
+        "defensive_changes": "Tariq Woolen gone; Jobe steps into starting CB role"
+      },
+      "last_game": {
+        "date": "2026-01-XX",
+        "opponent": "N/A - Offseason",
+        "result": "N/A",
+        "highlights": "Seahawks won Super Bowl LIX (per coach Macdonald comments)"
+      },
+      "next_game": {
+        "date": "2026-09",
+        "opponent": "TBD - Regular Season",
+        "location": "TBD",
+        "time": "TBD"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken defeated Vegas Golden Knights in shootout on April 10",
+        "Berkly Catton scored in the shootout for the win",
+        "Team fighting for playoff spot with postseason elimination looming",
+        "Ron Francis stepping down as Kraken President",
+        "Fan Appreciation Night scheduled for April 13"
+      ],
+      "details": {
+        "record": "33-34-11",
+        "points": 77,
+        "division": "Pacific",
+        "division_rank": "6th",
+        "team_stats": {
+          "goals_for_per_game": 2.77,
+          "goals_against_per_game": 3.14,
+          "power_play_pct": "19.9%",
+          "penalty_kill_pct": "71.5%"
+        },
+        "playoff_status": "Fighting for spot; needs wins and help from other teams"
+      },
+      "last_game": {
+        "date": "2026-04-10",
+        "opponent": "Vegas Golden Knights",
+        "result": "W (SO)",
+        "highlights": "Berkly Catton shootout goal secured victory"
+      },
+      "next_game": {
+        "date": "2026-04-11",
+        "opponent": "Calgary Flames",
+        "location": "Climate Pledge Arena",
+        "time": "4:00 PM PT"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders tied for 5th in Western Conference",
+        "Team has 4 points through 6 games (4-1-1 record)",
+        "Only 2 goals conceded - 3rd best in league",
+        "Paul Rothrock finding scoring form",
+        "FIFA World Cup 2026 tickets available for Seattle matches"
+      ],
+      "details": {
+        "record": "4-1-1",
+        "points": 13,
+        "conference": "Western",
+        "conference_rank": "T-5th",
+        "team_stats": {
+          "goals_scored": 6,
+          "goals_conceded": 2,
+          "goal_difference": 4,
+          "assists": 5
+        },
+        "standings_context": "Tied with Real Salt Lake at 13 points"
+      },
+      "last_game": {
+        "date": "Recent",
+        "opponent": "Various",
+        "result": "4-1-1 season record",
+        "highlights": "Paul Rothrock scoring goals; strong defensive record"
+      },
+      "next_game": {
+        "date": "2026-04-18",
+        "opponent": "St. Louis CITY SC",
+        "location": "Lumen Field",
+        "time": "9:30 PM PT"
+      }
+    },
+    {
+      "name": "Washington Huskies",
+      "league": "NCAA",
+      "headlines": [
+        "Huskies part ways with offensive coordinator Jimmie Dougherty",
+        "Three players have entered transfer portal in past six days",
+        "Women's basketball team competed in NCAA Tournament vs South Dakota State",
+        "2026 recruiting class analysis ongoing"
+      ],
+      "details": {
+        "football": {
+          "coaching_change": "New offensive coordinator needed",
+          "transfer_portal": "3 players departed in 6 days",
+          "recruiting": "2026 class being evaluated"
+        },
+        "basketball": {
+          "women": "NCAA Tournament appearance vs South Dakota State"
+        }
+      },
+      "last_game": {
+        "date": "N/A",
+        "opponent": "N/A - Offseason",
+        "result": "N/A",
+        "highlights": "Football in offseason; Women's basketball in NCAA Tournament"
+      },
+      "next_game": {
+        "date": "2026-08/09",
+        "opponent": "TBD - Football Season",
+        "location": "Husky Stadium",
+        "time": "TBD"
+      }
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        "Nika Mühl to miss 2026 season with torn ACL",
+        "Nneka Ogwumike confirms departure from Storm in free agency",
+        "Storm hold No. 3 pick in upcoming WNBA Draft",
+        "Azzi Miles and Fam mentioned in draft/free agency discussions",
+        "Gabby Williams and Skylar Diggins-Smith key roster pieces"
+      ],
+      "details": {
+        "injuries": [
+          {
+            "player": "Nika Mühl",
+            "injury": "Torn right ACL",
+            "status": "Out for 2026 season",
+            "date": "March 11, 2026 (EuroBasket qualifying with Croatia)"
+          },
+          {
+            "player": "Katie Lou Samuelson",
+            "injury": "Day-to-day"
+          }
+        ],
+        "free_agency": {
+          "departures": "Nneka Ogwumike confirmed leaving",
+          "returns": "TBD"
+        },
+        "draft": "Hold No. 3 overall pick",
+        "2025_record": "23-21 (.523)"
+      },
+      "last_game": {
+        "date": "2025-09",
+        "opponent": "N/A - Offseason",
+        "result": "N/A",
+        "highlights": "2025 season ended 23-21; missed playoffs"
+      },
+      "next_game": {
+        "date": "2026-04-25",
+        "opponent": "Golden State Valkyries",
+        "location": "Chase Center (Away)",
+        "time": "8:30 PM PT"
+      }
+    }
+  ]
+}

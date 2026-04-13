@@ -1,0 +1,197 @@
+{
+  "date": "2026-04-09",
+  "category": "events",
+  "today": [
+    {
+      "title": "Alyssa Edwards - Thanks For Everything Tour 2026",
+      "type": "comedy",
+      "time": "8:00 PM",
+      "venue": "Neptune Theatre",
+      "description": "A heartwarming and hilarious wild ride through the life and times of Alyssa Edwards from RuPaul's Drag Race. An evening of comedy, storytelling, and performance.",
+      "url": "https://www.ticketmaster.com/event/0F0064369B457D91",
+      "price": "$59+"
+    },
+    {
+      "title": "Seattle Kraken vs. Vegas Golden Knights",
+      "type": "sports",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "NHL hockey action as the Seattle Kraken take on the Vegas Golden Knights at home.",
+      "url": "https://www.ticketmaster.com/climate-pledge-arena-tickets-seattle/venue/123894",
+      "price": "$45+"
+    },
+    {
+      "title": "Les Misérables",
+      "type": "theater",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "description": "The acclaimed Broadway touring production of Les Misérables, the epic musical phenomenon. Running April 7-19 with various showtimes.",
+      "url": "https://www.stgpresents.org/events/les-miserables/",
+      "price": "$55+"
+    },
+    {
+      "title": "Seattle Symphony: Rachmaninov Symphonic Dances",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "Benaroya Hall",
+      "description": "The Seattle Symphony performs Rachmaninov's Symphonic Dances at Benaroya Hall's S. Mark Taper Foundation Auditorium.",
+      "url": "https://seattle-wa.events/event/seattle-symphony-rachmaninov-symphonic-dances-seattle-thursday-april-9-2026-730-pm/",
+      "price": "$35+"
+    },
+    {
+      "title": "Chelsea Cutler - Proof of Life Tour",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Neumos",
+      "description": "Singer-songwriter Chelsea Cutler brings her Proof of Life tour to Neumos in Capitol Hill.",
+      "url": "https://www.neumos.com/",
+      "price": "$30+"
+    },
+    {
+      "title": "Candlelight: 90s Unplugged",
+      "type": "concert",
+      "time": "6:15 PM",
+      "venue": "The Museum of Flight",
+      "description": "A candlelit tribute to 90s unplugged classics performed in the unique setting of the Museum of Flight.",
+      "url": "https://seattle-wa.events/event/candlelight-90s-unplugged-seattle-thursday-april-9-2026-615-pm/",
+      "price": "$40+"
+    },
+    {
+      "title": "We Three Band",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "The sibling trio brings their unique blend of pop, rock, and folk to Showbox SoDo.",
+      "url": "https://seattle-wa.events/event/we-three-band-seattle-thursday-april-9-2026-700-pm/",
+      "price": "$25+"
+    },
+    {
+      "title": "Cameron Esposito",
+      "type": "comedy",
+      "time": "9:00 PM",
+      "venue": "Substation Seattle",
+      "description": "Stand-up comedy from Cameron Esposito at Substation in Fremont.",
+      "url": "https://seattle-wa.events/",
+      "price": "$20+"
+    },
+    {
+      "title": "Alvin Kuai",
+      "type": "comedy",
+      "time": "7:30 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "Stand-up comedy performance at Seattle's premier comedy club on Capitol Hill.",
+      "url": "https://seattle-wa.events/event/alvin-kuai-seattle-thursday-april-9-2026-730-pm/",
+      "price": "$25+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Seattle Mariners vs. Houston Astros",
+      "date": "Friday, April 10",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "description": "Opening weekend continues as the Mariners host the Astros. First 40,000 fans receive an Ichiro Suzuki statue giveaway!",
+      "url": "https://www.mlb.com/mariners/tickets",
+      "price": "$28+"
+    },
+    {
+      "title": "Seattle Mariners vs. Houston Astros",
+      "date": "Saturday, April 11",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "description": "Saturday night baseball at T-Mobile Park as the Mariners continue their series against the Astros.",
+      "url": "https://www.mlb.com/mariners/tickets",
+      "price": "$28+"
+    },
+    {
+      "title": "Les Misérables",
+      "date": "Friday, April 10 & Saturday, April 11",
+      "type": "theater",
+      "venue": "Paramount Theatre",
+      "description": "Broadway's epic musical continues its run with Friday 8pm and Saturday 2pm & 8pm performances.",
+      "url": "https://www.stgpresents.org/events/les-miserables/",
+      "price": "$55+"
+    },
+    {
+      "title": "Rory Scovel",
+      "date": "Friday, April 10",
+      "type": "comedy",
+      "venue": "Neptune Theatre",
+      "description": "Stand-up comedy from Rory Scovel with two shows at 7pm (Sold Out) and 9:45pm.",
+      "url": "https://www.stgpresents.org/events/",
+      "price": "$35+"
+    },
+    {
+      "title": "Eggy",
+      "date": "Saturday, April 11",
+      "type": "concert",
+      "venue": "The Crocodile",
+      "description": "Jam band Eggy performs at The Crocodile's new Belltown location.",
+      "url": "https://seattle-wa.events/concerts/",
+      "price": "$20+"
+    },
+    {
+      "title": "Bayymack",
+      "date": "Saturday, April 11",
+      "type": "concert",
+      "venue": "Neumos",
+      "description": "Live music at Neumos in Capitol Hill.",
+      "url": "https://www.neumos.com/events",
+      "price": "$25+"
+    },
+    {
+      "title": "Pink Turns Blue",
+      "date": "Saturday, April 11",
+      "type": "concert",
+      "venue": "Substation Seattle",
+      "description": "Darkwave/post-punk band Pink Turns Blue performs at Substation.",
+      "url": "https://seattle-wa.events/",
+      "price": "$20+"
+    },
+    {
+      "title": "Timmy No Brakes",
+      "date": "Saturday, April 11",
+      "type": "comedy",
+      "venue": "Emerald City Comedy Club",
+      "description": "Stand-up comedy at Emerald City Comedy Club on Capitol Hill.",
+      "url": "https://comedy.tickets/city/seattle/",
+      "price": "$55+"
+    },
+    {
+      "title": "Steven Ho",
+      "date": "Sunday, April 12",
+      "type": "comedy",
+      "venue": "Emerald City Comedy Club",
+      "description": "Sunday evening comedy with Steven Ho.",
+      "url": "https://comedy.tickets/city/seattle/",
+      "price": "$45+"
+    },
+    {
+      "title": "Real Salt Lake vs. Seattle Sounders FC",
+      "date": "Sunday, April 12",
+      "type": "sports",
+      "venue": "Lumen Field",
+      "description": "MLS soccer action as the Sounders take on Real Salt Lake at Lumen Field.",
+      "url": "https://www.soundersfc.com/schedule",
+      "price": "$35+"
+    },
+    {
+      "title": "Seattle Cherry Blossom & Japanese Cultural Festival",
+      "date": "Friday, April 10 - Sunday, April 12",
+      "type": "festival",
+      "venue": "Seattle Center",
+      "description": "Festál presents the annual Cherry Blossom & Japanese Cultural Festival featuring cultural performances, arts, crafts, and food.",
+      "url": "https://www.seattlecenter.com/events/event-calendar",
+      "price": "Free"
+    },
+    {
+      "title": "Washington Huskies vs. Minnesota Golden Gophers",
+      "date": "Friday, April 10",
+      "type": "sports",
+      "venue": "Husky Stadium",
+      "description": "College football spring game at Husky Stadium.",
+      "url": "https://gohuskies.com/schedule",
+      "price": "$15+"
+    }
+  ]
+}

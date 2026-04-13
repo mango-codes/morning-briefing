@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T14:00:00Z",
+  "source": "cron-morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Russia and Ukraine agree to Orthodox Easter truce",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Vladimir Putin announced a truce between Russia and Ukraine that will last from Saturday afternoon through Easter Sunday.",
+      "timestamp": "2026-04-10T12:00:00Z"
+    },
+    {
+      "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "The US president accused Iran of 'doing a very poor job' with the waterway as Israel and Lebanon prepare to begin peace talks.",
+      "timestamp": "2026-04-10T02:00:00Z"
+    },
+    {
+      "title": "Kuwait blames Iran for drone strikes as Trump casts doubt on ceasefire",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Kuwait has blamed Iran for drone strikes amid growing uncertainty about the US-Iran ceasefire agreement.",
+      "timestamp": "2026-04-10T14:00:00Z"
+    },
+    {
+      "title": "Ukraine and Russia moving towards potential peace deal, Zelenskiy aide says",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Bloomberg News reported that Ukraine and Russia are moving towards a potential deal to end the war, citing the top aide to Ukrainian President Volodymyr Zelenskiy.",
+      "timestamp": "2026-04-10T13:00:00Z"
+    },
+    {
+      "title": "Taiwan opposition leader meets Xi Jinping in Beijing",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "Cheng Li-wun, leader of the Kuomintang party, is the first sitting leader to visit China in a decade.",
+      "timestamp": "2026-04-10T08:00:00Z"
+    },
+    {
+      "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
+      "source": "BBC/AP",
+      "category": "US & Canada",
+      "summary": "The First Lady called rumors that Epstein introduced her to Donald Trump 'mean-spirited attempts to defame my reputation' and delivered a statement at the White House.",
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Ukrainian President Zelenskyy revealed that Ukrainian forces shot down Iranian-made Shahed drones in Middle Eastern countries during the conflict.",
+      "timestamp": "2026-04-10T12:00:00Z"
+    },
+    {
+      "title": "China and North Korea pledge to enhance communication on international affairs",
+      "source": "Reuters",
+      "category": "Asia",
+      "summary": "China's foreign minister met with North Korean leader Kim Jong Un, with both sides agreeing to further enhance coordination in major international and regional affairs.",
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "title": "India 'deeply concerned' by civilian casualties in Lebanon",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "The Indian foreign ministry expressed deep concern over reports of civilian casualties in Lebanon, two days after Israel's worst bombardment killed more than 300 people.",
+      "timestamp": "2026-04-10T11:00:00Z"
+    },
+    {
+      "title": "Artemis crew returning to Earth with Moon discoveries",
+      "source": "BBC",
+      "category": "Science",
+      "summary": "The four astronauts said they were returning to Earth with 'so many more pictures, so many more stories' following their lunar mission.",
+      "timestamp": "2026-04-10T07:00:00Z"
+    },
+    {
+      "title": "Hip-hop pioneer Afrika Bambaataa dies at age 68",
+      "source": "BBC/AP",
+      "category": "Culture",
+      "summary": "The Bronx-born rapper's global hit Planet Rock is credited with shaping hip-hop in the 1980s.",
+      "timestamp": "2026-04-10T06:00:00Z"
+    },
+    {
+      "title": "Ireland protesters willing to 'close the country' over fuel costs",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Travel across parts of the Republic of Ireland has been affected for the fourth day as vehicles, including tractors, block roads in protest over rising fuel costs.",
+      "timestamp": "2026-04-10T13:00:00Z"
+    }
+  ]
+}

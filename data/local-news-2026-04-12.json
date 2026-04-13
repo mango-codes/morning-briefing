@@ -1,0 +1,74 @@
+{
+  "date": "2026-04-12",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "King County Water Taxi Launches Summer Schedule with Late-Night Weekend Service",
+      "summary": "The King County Water Taxi has begun its summer sailing schedule starting April 11, featuring expanded service to West Seattle and Vashon Island. The new schedule includes late-night sailings through 11 p.m. on Fridays and Saturdays, plus new weekend service to Vashon starting April 12. The service runs through October 9 and offers free shuttle connections to West Seattle Junction and Alki.",
+      "source": "King County Metro",
+      "url": "https://kingcountymetro.blog/2026/04/08/summer-sunsets-water-taxis-summer-sailing-schedule-starts-saturday-april-11-with-the-return-of-late-night-weekend-service-to-west-seattle/",
+      "category": "community"
+    },
+    {
+      "title": "Seattle Housing Debate Heats Up as Mayor Wilson Pushes 'Taller, Denser, Faster' Plan",
+      "summary": "Mayor Katie Wilson is accelerating Seattle's comprehensive plan update with a push for more housing density across all neighborhoods. The proposal faces fierce opposition from some homeowners who argue new development will harm the environment, while housing advocates rally for more affordable options. The City Council is currently reviewing the 'centers and corridors' portion of the plan.",
+      "source": "PubliCola",
+      "url": "https://publicola.com/",
+      "category": "politics"
+    },
+    {
+      "title": "Seattle Mariners Face Houston Astros in Weekend Series",
+      "summary": "The Seattle Mariners continue their early-season series against the Houston Astros on April 12. The game features Luis Castillo on the mound for the Mariners, coming off a strong start to the season. The Mariners previously defeated the Astros 9-6 on April 10th.",
+      "source": "theScore.com",
+      "url": "https://www.thescore.com/mlb/events/98709",
+      "category": "sports"
+    },
+    {
+      "title": "Seattle City Council Expands Library Levy to $480 Million",
+      "summary": "The Seattle City Council has added nearly $70 million to Mayor Katie Wilson's initial $410 million library levy proposal. The additional funding will cover repairs at the Central Library, seismic upgrades, multilingual children's programming, and air conditioning for libraries that currently lack it. The levy faces a state-imposed property tax cap challenge.",
+      "source": "PubliCola",
+      "url": "https://publicola.com/2026/04/09/larger-library-levy-moves-forward-founder-of-ai-worker-surveillance-startup-appointed-to-ethics-commission/",
+      "category": "politics"
+    },
+    {
+      "title": "SPD Permanently Assigns Three Officers to Magnuson Park",
+      "summary": "Seattle Police Department is dedicating three full-time officers to Magnuson Park in Northeast Seattle following a successful pilot program. Chief Shon Barnes cited a 'double-digit' reduction in crime during the pilot. The park is home to hundreds of low-income residents and has been the site of community concerns about disorder crimes.",
+      "source": "PubliCola",
+      "url": "https://publicola.com/2026/04/08/spd-dedicates-three-officers-to-magnuson-park-citing-success-with-disorder-and-property-crimes-during-pilot/",
+      "category": "community"
+    },
+    {
+      "title": "Seattle Cherry Blossom and Japanese Cultural Festival This Weekend",
+      "summary": "The Seattle Cherry Blossom and Japanese Cultural Festival is taking place April 10-12 at Seattle Center, celebrating the peak cherry blossom season. Additional Japanese cultural events include origami and tea ceremonies at the Seattle Japanese Garden. The festival is part of a busy April events calendar that also includes Sakura-Con and the Washington State Spring Fair.",
+      "source": "City Cast Seattle",
+      "url": "https://seattle.citycast.fm/guides/2026-april-seattle-guide",
+      "category": "community"
+    },
+    {
+      "title": "Plate of Nations Celebrates South Seattle Restaurants Through April 12",
+      "summary": "Plate of Nations, a celebration of South Seattle's diverse restaurant scene, concludes its run on April 12. More than 50 participating restaurants offer special sample plates ranging from $15 to $40, showcasing the area's rich culinary diversity. The event highlights the cultural and economic vibrancy of South Seattle's immigrant-owned businesses.",
+      "source": "City Cast Seattle",
+      "url": "https://seattle.citycast.fm/guides/2026-april-seattle-guide",
+      "category": "community"
+    },
+    {
+      "title": "Seattle Weather: Mild Spring Weekend with Temperatures in the 50s",
+      "summary": "Seattle is experiencing typical spring weather this weekend with temperatures in the upper 40s to mid-50s Fahrenheit. The forecast shows cloudy conditions with low chance of precipitation. April temperatures in Seattle typically range from highs of 51° to 69° with overnight lows between 38° and 49°.",
+      "source": "KING 5 / AccuWeather",
+      "url": "https://www.king5.com/",
+      "category": "weather"
+    },
+    {
+      "title": "Developers Seek Reduction in Mandatory Housing Affordability Fees",
+      "summary": "A group of Seattle developers calling themselves the Seattle Housing Roundtable is asking the city to temporarily reduce Mandatory Housing Affordability (MHA) fees by 90% this year. They argue that high fees, combined with rising construction costs and interest rates, have stalled new housing development. MHA funding has dropped from $74 million in 2021 to just $22 million last year.",
+      "source": "PubliCola",
+      "url": "https://publicola.com/2026/04/10/developers-ask-for-mandatory-affordable-housing-fee-holiday-as-permits-for-new-apartments-dry-up/",
+      "category": "politics"
+    }
+  ],
+  "top_story": {
+    "title": "Mayor Wilson's 'Taller, Denser, Faster' Housing Plan Sparks Major Seattle Debate",
+    "summary": "Mayor Katie Wilson has announced an ambitious plan to accelerate Seattle's comprehensive plan update, calling for 'taller, denser, faster' housing development across all neighborhoods. The proposal would restore neighborhood centers removed by the previous administration and expand transit zones where apartments can be built. The plan has galvanized both supporters who see it as essential for affordability and opponents who fear environmental and neighborhood impacts. The City Council is currently debating the proposal amid packed public hearings and competing rallies.",
+    "why_it_matters": "This represents the most significant potential change to Seattle's housing policy in years. With Seattle facing an acute housing shortage and rising rents, the outcome will determine whether the city can build enough housing to accommodate growth while maintaining neighborhood character. The debate reflects broader tensions between homeowners and renters, with implications for affordability, displacement, and urban development for decades to come."
+  }
+}

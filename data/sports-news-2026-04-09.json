@@ -1,0 +1,169 @@
+{
+  "date": "2026-04-09",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Mariners shut out by Rangers 3-0, manage just two hits",
+          "summary": "Seattle managed just two hits — singles by Mitch Garver and Cole Young — and struck out 13 times in a 3-0 loss to the Texas Rangers. MacKenzie Gore allowed only one hit in five innings for Texas.",
+          "url": "https://www.espn.com/mlb/recap?gameId=401814866"
+        },
+        {
+          "title": "Mariners' top prospect Emerson injures foot; X-rays negative",
+          "summary": "Mariners' top prospect Colt Emerson suffered a foot injury but X-rays came back negative, avoiding a more serious setback.",
+          "url": "https://www.mlb.com/mariners"
+        },
+        {
+          "title": "Robles (pec strain) goes on IL; Mariners select Connor Joe",
+          "summary": "Victor Robles was placed on the injured list with a pec strain, prompting the Mariners to select Connor Joe to the active roster.",
+          "url": "https://www.mlb.com/mariners"
+        }
+      ],
+      "last_game": {
+        "opponent": "Texas Rangers",
+        "result": "L 3-0",
+        "highlights": "Seattle managed just two hits (singles by Mitch Garver and Cole Young) and struck out 13 times. MacKenzie Gore pitched five shutout innings for Texas."
+      },
+      "next_game": {
+        "opponent": "TBD",
+        "date": "No game scheduled",
+        "location": "N/A"
+      },
+      "record": "4-9",
+      "standing": "5th in AL West"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "2026 NFL Draft approaching: Seahawks hold pick No. 32",
+          "summary": "Following their Super Bowl LX victory over the Patriots, the Seahawks will have the 32nd pick in the first round, and picks No. 64 and 96 in Rounds 2 and 3, respectively. The draft takes place April 23-25, 2026.",
+          "url": "https://www.seahawks.com/news/2026-mock-draft-tracker-6-0-what-will-the-seahawks-do-with-pick-no-32"
+        },
+        {
+          "title": "Mock Draft Roundup: Who Seahawks could pick at 32",
+          "summary": "Analysts suggest the Seahawks may target Georgia Tech guard Keylan Rutledge ('the toughest dude in the draft') or UW Huskies running back Jonah Coleman as an under-the-radar prospect.",
+          "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks/2026-mock-draft-roundup-seattle-seahawks-projected-pick-32/1844750"
+        },
+        {
+          "title": "Seahawks have met with prospects R Mason Thomas, Keyron Crawford, and Keyshawn James-Newby",
+          "summary": "The Seahawks have conducted pre-draft meetings with several prospects including edge rushers and defensive players who could be available at picks 32 or 64.",
+          "url": "https://nationaltoday.com/us/pa/pittsburgh/news/2026/04/08/seahawks-fans-weigh-in-on-2026-nfl-draft-plans/"
+        }
+      ],
+      "last_game": {
+        "opponent": "New England Patriots (Super Bowl LX)",
+        "result": "W - Super Bowl Champions",
+        "highlights": "Seahawks won Super Bowl LX, securing their second championship in franchise history."
+      },
+      "next_game": {
+        "opponent": "2026 Regular Season",
+        "date": "September 2026 (TBD)",
+        "location": "TBD"
+      },
+      "note": "Currently in offseason. 2026 NFL Draft begins April 23."
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken lose 5-2 to Wild, fall to brink of elimination",
+          "summary": "The Minnesota Wild defeated the Kraken 5-2, extending Seattle's losing streak to six games (0-5-1). Joel Eriksson Ek had a goal and two assists for Minnesota. Brandon Montour and Adam Larsson scored for the Kraken.",
+          "url": "https://www.nhl.com/news/seattle-kraken-minnesota-wild-game-recap-april-7-2026"
+        },
+        {
+          "title": "Kraken President Ron Francis stepping down",
+          "summary": "Kraken President Ron Francis is stepping down from his role with the organization.",
+          "url": "https://www.nhl.com/kraken/news/kraken-president-ron-francis-is-stepping-down-bn"
+        },
+        {
+          "title": "Wild benefit from replay reviews in victory over Kraken",
+          "summary": "The Minnesota Wild twice benefited from replay reviews in their 5-2 victory, including a goal that was allowed after review.",
+          "url": "https://www.espn.com.au/nhl/recap/_/gameId/401803591"
+        }
+      ],
+      "last_game": {
+        "opponent": "Minnesota Wild",
+        "result": "L 5-2",
+        "highlights": "Brandon Montour and Adam Larsson scored for Seattle. Joey Daccord made 24 saves. Kraken have now lost six straight games and 10 of their past 11."
+      },
+      "next_game": {
+        "opponent": "Vegas Golden Knights",
+        "date": "April 9, 2026 at 7:00 PM PT",
+        "location": "Home (Climate Pledge Arena)"
+      },
+      "record": "32-34-11",
+      "note": "Fan Appreciation Night presented by Amazon"
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "2026 MLS Regular Season schedule released",
+          "summary": "The MLS regular season schedule was released November 20, 2025. The Sounders will play 34 matches — 17 at home and 17 away — primarily against the 14 other teams in the Western Conference.",
+          "url": "https://www.soundersfc.com/2026-schedule-release/"
+        },
+        {
+          "title": "Sounders to face Tigres UANL in Concacaf Champions Cup",
+          "summary": "Seattle will host Tigres UANL in the 2nd Leg of the Concacaf Champions Cup on April 15 at Lumen Field.",
+          "url": "https://www.soundersfc.com/schedule/matches"
+        }
+      ],
+      "last_game": {
+        "opponent": "TBD",
+        "result": "Check recent results",
+        "highlights": "Last updated match played April 4, 2026 per Wikipedia."
+      },
+      "next_game": {
+        "opponent": "Tigres UANL",
+        "date": "April 15, 2026 at 11:30 PM PT",
+        "location": "Home (Lumen Field) - Concacaf Champions Cup 2nd Leg"
+      },
+      "upcoming_matches": [
+        {
+          "opponent": "St. Louis CITY SC",
+          "date": "April 18, 2026 at 9:30 PM PT",
+          "location": "Home - MLS"
+        },
+        {
+          "opponent": "FC Dallas",
+          "date": "April 25, 2026 at 10:30 PM PT",
+          "location": "Away - MLS"
+        }
+      ]
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        {
+          "title": "Storm announces 2026 regular season schedule",
+          "summary": "The Seattle Storm announced their 2026 regular season schedule. Seattle fans will have two opportunities to see the 2026 No. 1 draft pick and the Dallas Wings in Seattle on June 22 and September 23.",
+          "url": "https://storm.wnba.com/news/storm-announces-2026-regular-season-schedule"
+        },
+        {
+          "title": "Storm to host defending champion Las Vegas Aces",
+          "summary": "The Storm will host the defending WNBA champions, the Las Vegas Aces, on Thursday, September 17 at Climate Pledge Arena.",
+          "url": "https://storm.wnba.com/news/storm-announces-2026-regular-season-schedule"
+        }
+      ],
+      "last_game": {
+        "opponent": "2025 Season Complete",
+        "result": "N/A",
+        "highlights": "2026 WNBA season has not yet begun."
+      },
+      "next_game": {
+        "opponent": "2026 Regular Season",
+        "date": "May 2026 (TBD)",
+        "location": "TBD"
+      },
+      "note": "WNBA season typically runs May through September. 2026 schedule announced."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "headline": "Meta Launches Muse Spark: First AI Model from Superintelligence Labs, Departs from Open-Source Llama Legacy",
+    "summary": "Meta unveiled Muse Spark, its first proprietary AI model from the newly formed Meta Superintelligence Labs (MSL). The model features 'visual chain of thought' reasoning, multi-agent orchestration, and 'thought compression' for efficiency. Muse Spark achieves a 52 on the Artificial Analysis Intelligence Index, nearly triple Llama 4 Maverick's score of 18. The move marks a controversial departure from Meta's open-source roots, with the model currently available only through Meta AI apps and a private API preview.",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+    "category": "product_launch",
+    "published_date": "2026-04-08",
+    "key_points": [
+      "First model from Meta Superintelligence Labs led by former Scale AI CEO Alexandr Wang",
+      "Features 'Contemplating' mode with parallel sub-agent reasoning",
+      "Achieved 58% on 'Humanity's Last Exam' and 80.4% on MMMU Pro",
+      "Uses 'thought compression' to reduce compute by over 10x compared to Llama 4",
+      "Proprietary only - departure from open-weight Llama series"
+    ]
+  },
+  {
+    "id": "2",
+    "headline": "Google Quietly Releases Offline-First AI Dictation App 'Google AI Edge Eloquent' on iOS",
+    "summary": "Google launched a new AI-powered dictation app called 'Google AI Edge Eloquent' on iOS, competing with apps like Wispr Flow and SuperWhisper. The app uses Gemma-based ASR models that work offline, automatically filtering filler words and polishing text. It offers features like key points extraction, formal/short/long text transformations, and can import custom vocabulary from Gmail. An Android version with system-wide keyboard integration is coming soon.",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "category": "product_launch",
+    "published_date": "2026-04-07",
+    "key_points": [
+      "Free iOS app with offline Gemma-based speech recognition",
+      "Automatically removes filler words like 'um' and 'ah'",
+      "Cloud mode optional - uses Gemini models when enabled",
+      "Can import custom vocabulary from Gmail",
+      "Android version with system keyboard integration coming soon"
+    ]
+  },
+  {
+    "id": "3",
+    "headline": "Jeff Bezos' Secretive AI Lab 'Project Prometheus' Poaches xAI Cofounder from OpenAI",
+    "summary": "Kyle Kozic, a cofounder of Elon Musk's xAI who had recently joined OpenAI, has been hired by Jeff Bezos' secretive AI lab operating under the code name 'Project Prometheus.' The well-funded startup, co-led by Bezos and former Google exec Vikram Bajaj, is focused on using AI to improve manufacturing. Kozic will focus on infrastructure at the company, marking the latest move in an ongoing wave of AI talent reshuffling.",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/907834/jeff-bezos-ai-lab-poaches-xai-cofounder-kyle-kozic-from-openai",
+    "category": "industry_development",
+    "published_date": "2026-04-07",
+    "key_points": [
+      "Kyle Kozic moves from OpenAI to Bezos' Project Prometheus",
+      "Project Prometheus focused on AI for manufacturing",
+      "Co-led by Jeff Bezos and former Google exec Vikram Bajaj",
+      "Latest in ongoing AI talent wars between major labs"
+    ]
+  },
+  {
+    "id": "4",
+    "headline": "OpenAI Surpasses $25 Billion in Annualized Revenue, IPO Rumors Intensify",
+    "summary": "OpenAI has topped $25 billion in annualized revenue as of February 2026, representing a 17% increase from $21.4 billion at year-end 2025. The company has grown from effectively zero revenue in late 2022 to over $25 billion in just over three years. The Information reports OpenAI is taking early steps toward a public listing potentially as soon as late 2026, with valuations up to $1 trillion being discussed.",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/openai-tops-25-billion-annualized-revenue-last-month-information-reports-2026-03-05/",
+    "category": "funding",
+    "published_date": "2026-03-05",
+    "key_points": [
+      "$25B annualized revenue as of February 2026",
+      "17% increase from $21.4B at year-end 2025",
+      "From zero revenue in late 2022 to $25B in ~3 years",
+      "IPO potentially coming as soon as late 2026",
+      "Targeting ~$600B in compute spending through 2030"
+    ]
+  },
+  {
+    "id": "5",
+    "headline": "Google Updates Gemini with Enhanced Mental Health Crisis Support Interface",
+    "summary": "Google has updated Gemini with a redesigned 'one-touch' interface to better direct distressed users to mental health resources during crisis moments. The update includes more empathetic responses and keeps help options visible throughout conversations. The change comes as Google faces a wrongful death lawsuit alleging its chatbot 'coached' a man to die by suicide. Google also announced $30 million in funding over three years for global mental health hotlines.",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+    "category": "product_launch",
+    "published_date": "2026-04-10",
+    "key_points": [
+      "New 'one-touch' crisis interface for faster access to help",
+      "More empathetic responses to encourage seeking help",
+      "Help options remain visible throughout conversation",
+      "$30M committed to global mental health hotlines over 3 years",
+      "Comes amid wrongful death lawsuit and industry scrutiny"
+    ]
+  },
+  {
+    "id": "6",
+    "headline": "Perplexity AI Faces Class-Action Lawsuit Over Alleged Data Sharing with Meta and Google",
+    "summary": "Perplexity AI has been hit with a proposed class-action lawsuit alleging the company 'effectively planted a bug' by embedding trackers from Meta and Google inside its AI search engine without user consent. The lawsuit claims Perplexity shared personal information with Meta Platforms and Alphabet's Google through embedded ad trackers including Facebook Meta Pixel, Google Ads, and Google DoubleClick, violating California privacy laws.",
+    "source": "Bloomberg / The Verge",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google",
+    "category": "industry_development",
+    "published_date": "2026-04-01",
+    "key_points": [
+      "Class-action lawsuit filed in California",
+      "Alleges embedding of Meta Pixel, Google Ads, DoubleClick trackers",
+      "Claims personal data shared without user consent",
+      "Lawsuit seeks injunction to stop alleged tracking practices"
+    ]
+  },
+  {
+    "id": "7",
+    "headline": "Q1 2026 Venture Funding Shatters Records as AI Boom Drives $300B in Startup Investment",
+    "summary": "Global venture funding reached unprecedented levels in Q1 2026, with AI-driven startups leading the charge. Foundational AI startup funding in Q1 alone was double all of 2025. Notable deals include Shield AI's $1.5 billion Series G and World Labs' $1 billion seed round (Europe's largest ever). The surge reflects continued investor confidence in AI infrastructure and applications despite broader economic uncertainties.",
+    "source": "Crunchbase News",
+    "url": "https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/",
+    "category": "funding",
+    "published_date": "2026-04-04",
+    "key_points": [
+      "Q1 2026 AI funding doubled all of 2025",
+      "Shield AI raised $1.5B Series G",
+      "World Labs raised $1B in Europe's largest seed round",
+      "Fintech AI startups raised $12B across 751 deals",
+      "SpaceX IPO now primary vehicle for xAI public exposure"
+    ]
+  },
+  {
+    "id": "8",
+    "headline": "The AI Scientist-v2: First Fully AI-Generated Peer-Review-Accepted Workshop Paper",
+    "summary": "Researchers have introduced The AI Scientist-v2, an end-to-end agentic system capable of producing the first entirely AI-generated peer-review-accepted workshop paper. The system uses agentic tree search to iteratively formulate scientific hypotheses, conduct experiments, and write research papers. This marks a significant milestone in automated scientific discovery, bringing AI agents closer to independently contributing to scientific knowledge.",
+    "source": "arXiv",
+    "url": "https://arxiv.org/abs/2504.08066",
+    "category": "research",
+    "published_date": "2026-04-10",
+    "key_points": [
+      "First entirely AI-generated peer-review-accepted workshop paper",
+      "Uses agentic tree search for scientific discovery",
+      "End-to-end system: hypothesis to publication",
+      "Developed by Sakana AI research team"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-10",
+  "category": "events",
+  "events": [
+    {
+      "name": "Seattle Cherry Blossom & Japanese Cultural Festival",
+      "venue": "Seattle Center (Armory, Fisher Pavilion, Exhibition Hall)",
+      "date_time": "April 10-12, 2026, 11:00 AM - 5:00 PM",
+      "description": "The 51st annual festival celebrating Seattle's friendship with Japan and Japan's gift of 1000 cherry trees in 1976. Features Japanese art, dance, music, martial arts, Taiko drums, contemporary Japanese arts, traditional tea ceremony, and food.",
+      "category": "Festival"
+    },
+    {
+      "name": "Seattle Mariners vs. Houston Astros",
+      "venue": "T-Mobile Park",
+      "date_time": "April 10, 2026, 6:40 PM",
+      "description": "MLB baseball home opener series. Watch the Seattle Mariners take on the Houston Astros at T-Mobile Park.",
+      "category": "Sports"
+    },
+    {
+      "name": "Cameron Esposito Comedy Show",
+      "venue": "The Crocodile",
+      "date_time": "April 10, 2026, 6:00 PM",
+      "description": "Stand-up comedy performance by Cameron Esposito with Andy Iwancio at The Crocodile.",
+      "category": "Comedy"
+    },
+    {
+      "name": "Alingon Mitra Comedy",
+      "venue": "Tacoma Comedy Club - 6th and Proctor",
+      "date_time": "April 10, 2026, 7:30 PM",
+      "description": "Stand-up comedy show featuring Alingon Mitra in Tacoma.",
+      "category": "Comedy"
+    },
+    {
+      "name": "Moisture Festival",
+      "venue": "Broadway Performance Hall, Capitol Hill",
+      "date_time": "April 10-12, 2026 (multiple showtimes)",
+      "description": "The world's largest comedy/variety festival presenting 30 shows featuring comedy, variety acts, and performances. Friday shows are 18+.",
+      "category": "Comedy/Variety"
+    },
+    {
+      "name": "Les Misérables - Broadway Revival",
+      "venue": "The Paramount Theatre",
+      "date_time": "April 10-19, 2026 (various times)",
+      "description": "Broadway revival of the popular musical telling an enthralling story of broken dreams and unrequited love, passion, sacrifice, and redemption.",
+      "category": "Theater"
+    },
+    {
+      "name": "Giselle - Pacific Northwest Ballet",
+      "venue": "McCaw Hall, Seattle Center",
+      "date_time": "April 10-19, 2026 (various times)",
+      "description": "Romance-period ballet performance of 'Giselle,' an ethereal, haunting, and tender masterpiece about love beyond the grave.",
+      "category": "Dance/Ballet"
+    },
+    {
+      "name": "Community Stages Fund: Fifth Anniversary Celebration",
+      "venue": "Benaroya Hall",
+      "date_time": "April 10, 2026, 7:30 PM",
+      "description": "The Seattle Symphony performs with members of the Seattle community in this free community concert.",
+      "category": "Classical Music"
+    },
+    {
+      "name": "Canto Ostinato - Classical Concert",
+      "venue": "Emerald City Music, South Lake Union",
+      "date_time": "April 10, 2026, 8:00 PM",
+      "description": "Originally written for piano, Canto Ostinato is a big hit in the Netherlands, performed by six artists.",
+      "category": "Classical Music"
+    },
+    {
+      "name": "Washington State Spring Fair",
+      "venue": "Washington State Fair Events Center, Puyallup",
+      "date_time": "April 10-19, 2026 (Fri-Sun only)",
+      "description": "Features farm animals, pig races, performing dogs, fair food, rides, entertainers, demolition derbies, and a kids' zone.",
+      "category": "Festival"
+    },
+    {
+      "name": "NW Model Hobby Expo",
+      "venue": "Evergreen State Fairgrounds, Monroe",
+      "date_time": "April 10-12, 2026",
+      "description": "Vendors of radio controlled cars, airplanes, boats, robots, and trains. Try it yourself and learn about clubs. Kids under 10 free.",
+      "category": "Hobby/Expo"
+    },
+    {
+      "name": "Plate of Nations - Taste of Rainier Valley",
+      "venue": "Rainier Valley (50+ participating restaurants)",
+      "date_time": "April 10-12, 2026",
+      "description": "Special deals on international meals from over 50 restaurants in Rainier Valley celebrating diverse cuisines.",
+      "category": "Food Festival"
+    },
+    {
+      "name": "Madame Butterfly - Bellevue Opera",
+      "venue": "Meydenbauer Center, Bellevue",
+      "date_time": "April 10 & 12, 2026",
+      "description": "Opera telling the story of a young Japanese woman abandoned by her American naval officer husband. Music played by Bellevue Symphony.",
+      "category": "Opera"
+    },
+    {
+      "name": "Belltown Art Walk",
+      "venue": "Belltown neighborhood venues",
+      "date_time": "April 10, 2026, 6:00 PM - 9:00 PM",
+      "description": "Free evening art walk between venues displaying artwork throughout Belltown.",
+      "category": "Art"
+    },
+    {
+      "name": "Art BFA Showcase - Cornish College",
+      "venue": "9th Ave Gallery, Downtown Seattle",
+      "date_time": "April 10-17, 2026 (open until 4 PM)",
+      "description": "Cornish College of the Arts showcases the work of its Bachelor of Fine Arts students. Free admission.",
+      "category": "Art"
+    },
+    {
+      "name": "Grease - Village Theatre",
+      "venue": "Village Theatre, Issaquah",
+      "date_time": "April 10 - May 3, 2026 (various times)",
+      "description": "All-American musical taking a rollicking trip back to the 1950s with the cast navigating high school and love.",
+      "category": "Theater"
+    },
+    {
+      "name": "Live Theater - Multiple Shows",
+      "venue": "Various theaters (Seattle Rep, Taproot, Arts West, etc.)",
+      "date_time": "April 10, 2026 (various times)",
+      "description": "Multiple theater productions including: The 39 Steps (Federal Way), Ain't Misbehavin' (Greenwood), Appropriate (Seattle Rep), Footloose (Marysville), Hurricane Diane (Green Lake), Mary Jane (Seattle Rep), Silver Lining (Edmonds), Steel Magnolias (Renton), Sweet Charity (Tacoma), Walden (Arts West).",
+      "category": "Theater"
+    },
+    {
+      "name": "Skagit Valley Tulip Festival",
+      "venue": "Mount Vernon (61 miles north)",
+      "date_time": "April 10-30, 2026",
+      "description": "Spectacular fields of blooming tulips and daffodils. Check bloom status before visiting. Some fields require admission fee.",
+      "category": "Festival"
+    }
+  ]
+}

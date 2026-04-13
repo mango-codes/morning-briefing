@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-08",
+  "timestamp": "2026-04-08T14:00:00Z",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "US and Iran agree to two-week ceasefire with Pakistani mediation",
+      "source": "BBC / Reuters / AP",
+      "summary": "The United States, Israel and Iran have agreed to a conditional two-week ceasefire, reached with Pakistani and Turkish mediation. U.S. and Iranian officials are expected to hold talks on Friday to discuss a long-term settlement.",
+      "category": "Conflict/Diplomacy"
+    },
+    {
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "source": "BBC",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war began.",
+      "category": "Business"
+    },
+    {
+      "title": "Israel carries out large wave of air strikes across Lebanon",
+      "source": "BBC",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
+      "category": "Conflict"
+    },
+    {
+      "title": "Russia and China veto watered-down UN resolution aimed at reopening Strait of Hormuz",
+      "source": "AP",
+      "summary": "Russia and China blocked a UN resolution aimed at reopening the critical Strait of Hormuz amid ongoing tensions.",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "American journalist Shelly Kittleson released after kidnapping in Iraq",
+      "source": "AP",
+      "summary": "American journalist Shelly Kittleson has been released one week after being kidnapped in Iraq, according to Secretary Rubio.",
+      "category": "Breaking"
+    },
+    {
+      "title": "Greece to ban social media for under-15s from next year",
+      "source": "BBC",
+      "summary": "Greece will ban social media for children under 15 starting next year, following similar moves in France and Spain.",
+      "category": "Technology/Policy"
+    },
+    {
+      "title": "Madagascar declares state of emergency over severe fuel shortages linked to Iran war",
+      "source": "BBC",
+      "summary": "The presidency says it is taking action as it fears fuel shortages linked to the Iran conflict could lead to public disorder.",
+      "category": "Crisis"
+    },
+    {
+      "title": "Artemis II breaks Apollo 13 distance record, flies over Moon's far side",
+      "source": "AP",
+      "summary": "NASA's Artemis II mission has broken the distance record set by Apollo 13 and successfully flown over the far side of the Moon.",
+      "category": "Science/Space"
+    },
+    {
+      "title": "Top Australian soldier charged with war crimes to remain in jail on remand",
+      "source": "BBC / Reuters",
+      "summary": "Ben Roberts-Smith, Australia's most decorated living soldier, faces five charges of the war crime of murder and will remain in custody.",
+      "category": "Legal"
+    },
+    {
+      "title": "IMF: Wars cause large and persistent economic losses, output declines 7% over five years",
+      "source": "Reuters",
+      "summary": "The International Monetary Fund released research showing wars cause output to decline by roughly 7% over five years on average, with economic scars lasting more than a decade.",
+      "category": "Economy"
+    }
+  ]
+}

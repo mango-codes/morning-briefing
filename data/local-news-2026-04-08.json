@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-08",
+  "category": "local-news",
+  "items": [
+    {
+      "headline": "Seattle Police Launch Neighborhood Resource Officer Program at Magnuson Park",
+      "summary": "SPD is launching a permanent Neighborhood Resource Officer initiative at Magnuson Park, assigning three officers to patrol a three-mile radius via foot and bike. The program follows a successful 90-day pilot and aims to increase visibility and quick response to community issues.",
+      "source": "KOMO News / FOX 13 Seattle",
+      "url": "https://komonews.com/news/local/seattle-police-open-permanent-resource-center-at-magnuson-park",
+      "severity": "medium"
+    },
+    {
+      "headline": "Two Arrested in Chinatown-International District Murder Case",
+      "summary": "Seattle police detectives arrested two suspects, ages 18 and 19, in connection with the robbery and murder of a 24-year-old man in the Chinatown-International District on September 22, 2025. The arrests follow a months-long investigation.",
+      "source": "SPD Blotter / FOX 13 Seattle",
+      "url": "https://spdblotter.seattle.gov/2026/04/06/detectives-arrest-two-for-robbing-killing-man-in-chinatown-international-district/",
+      "severity": "high"
+    },
+    {
+      "headline": "Ohio Fugitive Wanted for Murder Arrested in Seattle",
+      "summary": "Seattle police detectives and SWAT arrested a 24-year-old Ohio fugitive with a nationwide warrant for murder, felony assault, and cocaine trafficking. The suspect was located in the Seattle area following a tip to the Gun Violence Reduction Unit.",
+      "source": "SPD Blotter",
+      "url": "https://spdblotter.seattle.gov/2026/04/06/police-arrest-ohio-fugitive-wanted-for-murder-assault-trafficking-cocaine/",
+      "severity": "high"
+    },
+    {
+      "headline": "Seattle Weather: Mild Spring Temperatures Continue",
+      "summary": "April 2026 forecast shows daily high temperatures ranging from 55°F to 70°F, with overnight lows between 40°F and 50°F. The average high for April is 61°F with an average low of 44°F. Expect partly sunny skies with occasional spring showers.",
+      "source": "AccuWeather",
+      "url": "https://www.accuweather.com/en/us/seattle/98104/april-weather/351409",
+      "severity": "low"
+    },
+    {
+      "headline": "Seattle Restaurant Week and Spring Events Underway",
+      "summary": "April brings Seattle Restaurant Week and various spring activities including the Run Like the Wind Running Festival in Ellensburg. The University District Farmers Market continues Saturdays as Seattle's oldest and largest farmers-only neighborhood market.",
+      "source": "EverOut Seattle / Events12",
+      "url": "https://everout.com/seattle/articles/the-best-things-to-do-in-seattle-this-month-april-2026/",
+      "severity": "low"
+    },
+    {
+      "headline": "Three Men Injured in West Seattle Encampment Robbery",
+      "summary": "Seattle police are investigating a violent armed robbery at a tent encampment inside Rotary Viewpoint Park that left three men hospitalized. The incident occurred near 35th Avenue Southwest and Southwest Alaska Street.",
+      "source": "SPD Blotter / KOMO News",
+      "url": "https://spdblotter.seattle.gov/2026/03/29/three-men-hospitalized-after-robbery-in-west-seattle-encampment/",
+      "severity": "medium"
+    },
+    {
+      "headline": "Seattle Police Re-Arrest Vehicular Homicide Suspect",
+      "summary": "Traffic Collision Investigation Squad detectives re-arrested a 27-year-old man for vehicular homicide following his release from a treatment facility. The suspect was connected to a deadly crash that occurred on May 23, 2024.",
+      "source": "SPD Blotter",
+      "url": "https://spdblotter.seattle.gov/2026/04/06/update-detectives-re-arrest-vehicular-homicide-suspect-after-treatment-release/",
+      "severity": "medium"
+    },
+    {
+      "headline": "Seattle Small Businesses Face Marketing Cost Challenges",
+      "summary": "Local small businesses are facing increased marketing costs that could undermine critical outreach efforts. The concerns come as businesses prepare for the upcoming FIFA World Cup, with Airbnb launching a host incentive program for Seattle-area homeowners.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "severity": "low"
+    }
+  ]
+}
