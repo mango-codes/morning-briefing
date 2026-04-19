@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-17",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners lose 5-2 to Padres on Thursday night, ending road trip",
+        "Andrés Muñoz calls recent outing 'worst of his career' after blown save",
+        "Seattle walked off by San Diego 7-6 on Wednesday after blowing four-run lead",
+        "Bryan Woo frustrated by balk call in 4-1 loss to Padres",
+        "Rob Refsnyder placed on paternity list as wife welcomes third child",
+        "Cal Raleigh '70s Jersey promotion - April 18",
+        "Randy Johnson Number Retirement Ceremony scheduled for May 2"
+      ],
+      "last_game": {
+        "date": "2026-04-16",
+        "opponent": "San Diego Padres",
+        "location": "away",
+        "score": "5-2 L",
+        "record": "8-11"
+      },
+      "next_game": {
+        "date": "2026-04-18",
+        "opponent": "TBD (Home series)",
+        "location": "home",
+        "notes": "Cal Raleigh '70s Jersey promotion night"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks Legend Cliff Avril to announce Seattle's Round 2 and 3 selections at NFL Draft in Pittsburgh",
+        "NFL Draft begins April 23 in Pittsburgh - Seahawks hold four picks",
+        "ESPN's Mel Kiper projects Seahawks taking Jadarian Price at pick 32",
+        "Brock Huard highlights three young Seahawks players poised for breakout in 2026",
+        "Seahawks Super Bowl champions parade held February 11, 2026",
+        "Seahawks won Super Bowl LX (2026 season)",
+        "Cornerback identified as key position of need heading into draft"
+      ],
+      "last_game": {
+        "date": "2026-02-09",
+        "opponent": "Super Bowl LX",
+        "location": "neutral",
+        "score": "Champions",
+        "notes": "Won Super Bowl LX in San Francisco"
+      },
+      "next_game": {
+        "date": "2026-09",
+        "opponent": "2026 NFL Season Opener",
+        "location": "TBD",
+        "notes": "NFL Draft April 23-25, 2026 in Pittsburgh. Rounds 2-3 on April 24, Rounds 4-7 on April 25."
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken lose 2-0 to Colorado Avalanche in regular season finale on April 16",
+        "Scott Wedgewood makes 22 saves for Avalanche shutout",
+        "Seattle eliminated from NHL playoff race for 3rd straight season",
+        "Shane Wright scored in 4-1 loss to Vegas Golden Knights on April 15",
+        "Golden Knights clinch Pacific Division with win over Kraken",
+        "Bobby McMann impresses since deadline trade, called 'best player'",
+        "Nikke Kokko made 22 saves in final games, showing promise",
+        "Kraken finish season 34-36-11"
+      ],
+      "last_game": {
+        "date": "2026-04-16",
+        "opponent": "Colorado Avalanche",
+        "location": "away",
+        "score": "2-0 L",
+        "record": "34-36-11 (Final)"
+      },
+      "next_game": {
+        "date": "2026-10",
+        "opponent": "2026-27 NHL Season",
+        "location": "TBD",
+        "notes": "Season complete. 3rd straight year missing playoffs."
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders eliminated from 2026 Concacaf Champions Cup by Liga MX side Tigres UANL",
+        "Sounders went 5-2-1 during 8-game stretch away from Lumen Field due to World Cup preparations",
+        "First match back at Lumen Field since February 22 season opener",
+        "Lumen Field preparing for 2026 FIFA World Cup matches",
+        "FIFA World Cup 2026 tickets available - all-inclusive packages starting at $1575"
+      ],
+      "last_game": {
+        "date": "2026-04-15",
+        "opponent": "Tigres UANL",
+        "location": "home",
+        "score": "Eliminated from Champions Cup",
+        "competition": "Concacaf Champions Cup"
+      },
+      "next_game": {
+        "date": "TBD",
+        "opponent": "MLS Regular Season",
+        "location": "home",
+        "notes": "Returned to Lumen Field for first time since February 22. Check schedule for next MLS match."
+      }
+    }
+  ]
+}

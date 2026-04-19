@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-16",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners fall to Padres 4-1 in series opener at Petco Park",
+        "Jackie Robinson Day celebrated across MLB - players wear #42",
+        "Rob Refsnyder placed on paternity list, Patrick Wisdom called up",
+        "Julio Rodríguez picks up videography hobby following in footsteps of Griffey, Johnson",
+        "Bryan Woo still seeking first win despite 2.16 ERA through four starts"
+      ],
+      "details": {
+        "keyUpdates": "Rob Refsnyder placed on paternity list; Patrick Wisdom recalled from minors. Emerson Hancock scheduled to start today vs Padres.",
+        "situation": "Early season struggles continue with inconsistent offense. Woo has received minimal run support despite strong pitching performances.",
+        "playoffPicture": "Too early in season for playoff standings. Mariners considered contenders with 18% implied probability on 2026 AL Champion market (2nd behind Yankees).",
+        "achievement": "Jackie Robinson Day observance across organization",
+        "today": "Game 2 of 3-game series at San Diego Padres - Emerson Hancock on the mound",
+        "nextMatch": "April 17-19: 3-game series at Los Angeles Angels"
+      },
+      "last_game": {
+        "date": "April 15, 2026",
+        "opponent": "San Diego Padres",
+        "result": "Loss 4-1",
+        "location": "Petco Park"
+      },
+      "next_game": {
+        "date": "April 16, 2026",
+        "opponent": "San Diego Padres",
+        "time": "Evening",
+        "location": "Petco Park",
+        "pitcher": "Emerson Hancock"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks to begin voluntary offseason program on April 20",
+        "Sam Darnold married Katie Hoofnagle on April 3, 2026",
+        "Team coming off Super Bowl LX championship victory",
+        "Chris Shaheed re-signs with Seattle after championship run",
+        "Jaxon Smith-Njigba in line for massive contract extension"
+      ],
+      "details": {
+        "keyUpdates": "Voluntary offseason program begins April 20. Super Bowl champions preparing for title defense.",
+        "situation": "Coming off Super Bowl LX victory. Key receivers Smith-Njigba and Cooper Kupp ($13.5M in 2026) form expensive receiver room for run-first team.",
+        "playoffPicture": "Defending Super Bowl champions entering 2026 season",
+        "achievement": "Super Bowl LX champions",
+        "today": "Offseason - voluntary workouts begin April 20",
+        "nextMatch": "2026 NFL Season - dates TBD"
+      },
+      "last_game": {
+        "date": "February 2026",
+        "opponent": "Super Bowl LX",
+        "result": "Super Bowl Champions",
+        "location": "San Francisco"
+      },
+      "next_game": {
+        "date": "September 2026",
+        "opponent": "TBD",
+        "note": "2026 NFL Regular Season"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken lose 4-1 to Golden Knights, Vegas clinches Pacific Division",
+        "Team set to miss playoffs for 4th time in 5 years",
+        "CEO Tod Leiweke declares start of 'on season' - not offseason",
+        "GM Jason Botterill takes full control after Ron Francis departure",
+        "Final game tonight vs Colorado Avalanche at Ball Arena"
+      ],
+      "details": {
+        "keyUpdates": "Ron Francis out as president of hockey ops; Jason Botterill now leads as GM without president above him. Organization conducting full audit.",
+        "situation": "Missed playoffs for 4th time in 5 years. Finished in bottom 8 of NHL. Joining Blackhawks as only teams in bottom eight for multiple seasons.",
+        "playoffPicture": "Eliminated from playoff contention. Season ends April 16.",
+        "achievement": "None this season",
+        "today": "Final game of season at Colorado Avalanche (10:00 PM ET at Ball Arena)",
+        "nextMatch": "2025-26 season concludes; 2026-27 season begins October 2026"
+      },
+      "last_game": {
+        "date": "April 15, 2026",
+        "opponent": "Vegas Golden Knights",
+        "result": "Loss 4-1",
+        "location": "T-Mobile Arena"
+      },
+      "next_game": {
+        "date": "April 16, 2026",
+        "opponent": "Colorado Avalanche",
+        "time": "10:00 PM ET",
+        "location": "Ball Arena, Denver",
+        "note": "Season finale"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders eliminated from CONCACAF Champions Cup on away goals tiebreaker",
+        "3-3 aggregate draw with Tigres UANL ends continental campaign",
+        "Albert Rusnák scores twice in valiant 3-1 second leg victory",
+        "Danny Musovski also scores but Tigres advance on away goals rule",
+        "Tigres to face Nashville SC in semifinals"
+      ],
+      "details": {
+        "keyUpdates": "Eliminated from Champions Cup quarterfinals. Lost 2-0 in first leg at Mexico, won 3-1 at home but Tigres advance on away goals (3-3 aggregate).",
+        "situation": "Continental campaign ends in quarterfinals. Strong second leg performance not enough to overcome first leg deficit.",
+        "playoffPicture": "Out of CONCACAF Champions Cup. Focus returns to MLS regular season.",
+        "achievement": "Reached Champions Cup quarterfinals",
+        "today": "No match - recovering from midweek Champions Cup exit",
+        "nextMatch": "MLS regular season match TBD"
+      },
+      "last_game": {
+        "date": "April 15, 2026",
+        "opponent": "Tigres UANL",
+        "result": "Win 3-1 (Eliminated 3-3 on away goals)",
+        "location": "Lumen Field",
+        "competition": "CONCACAF Champions Cup Quarterfinals"
+      },
+      "next_game": {
+        "date": "TBD",
+        "opponent": "TBD",
+        "note": "MLS Regular Season"
+      }
+    },
+    {
+      "name": "Washington Huskies",
+      "league": "NCAA (Big Ten)",
+      "headlines": [
+        "Huskies football practiced at Seahawks VMAC facility Tuesday",
+        "Men's basketball sees major roster turnover - German star to NBA, second-leading scorer transfers to SEC",
+        "Football spring practice #7 highlighted by defense leading offense",
+        "Freshman QBs Derek Zammit and Demond Williams taking turns in practice",
+        "UW Softball sweeping Gophers in weekly action"
+      ],
+      "details": {
+        "keyUpdates": "Football team held practice at Seahawks' Virginia Mason Athletic Center. Men's basketball losing key players to NBA and transfer portal.",
+        "situation": "Football: Defense ahead of offense in spring practice. Basketball: Major roster rebuild with four new starters expected next season.",
+        "playoffPicture": "Football preparing for 2026 season in Big Ten. Basketball facing rebuild.",
+        "achievement": "Football: Innovative practice location at VMAC. Softball sweeping Minnesota.",
+        "today": "Spring football practice ongoing",
+        "nextMatch": "Football: Spring Game TBD; Basketball: Offseason"
+      },
+      "last_game": {
+        "note": "Spring practice period - no recent games"
+      },
+      "next_game": {
+        "note": "Football Spring Game date TBD"
+      }
+    }
+  ]
+}

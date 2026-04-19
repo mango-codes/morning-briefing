@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-17",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Strait of Hormuz 'completely open' to commercial ships for remainder of ceasefire, Iran says",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Iran announces the Strait of Hormuz is open to commercial shipping during the ceasefire period, while President Trump states the US blockade of Iranian ports will remain until a permanent peace deal is agreed."
+    },
+    {
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "A 10-day truce between Israel and Lebanon is now in effect, with Iran-backed Hezbollah voicing support as negotiations continue between the US and Iran."
+    },
+    {
+      "title": "Europe has 'maybe 6 weeks of jet fuel left,' energy agency head warns",
+      "source": "AP",
+      "category": "Energy/Geopolitics",
+      "summary": "IEA Executive Director Fatih Birol warns of major economic disruptions if ships are not allowed through the Strait of Hormuz, with Europe facing critical jet fuel shortages."
+    },
+    {
+      "title": "Pope Leo blasts leaders who spend billions on wars, says world 'ravaged by a handful of tyrants'",
+      "source": "Reuters",
+      "category": "World/Politics",
+      "summary": "In unusually forceful remarks in Cameroon, Pope Leo criticized global military spending and leadership, reflecting growing concern with the direction of world affairs."
+    },
+    {
+      "title": "Iran rejects US ceasefire proposal, demands permanent end to war",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "Iran has conveyed its response to the U.S. proposal through Pakistan, rejecting a temporary ceasefire and emphasizing the necessity of a permanent end to the conflict."
+    },
+    {
+      "title": "Ukrainian drone attacks significantly impacting Russian nitrogen fertilizer industry",
+      "source": "Reuters",
+      "category": "Russia-Ukraine War",
+      "summary": "Billionaire Andrei Melnichenko, founder of EuroChem, reports that Ukrainian drone attacks in recent months are having a significant impact on Russia's nitrogen fertilizer industry."
+    },
+    {
+      "title": "Kremlin warns European countries becoming more involved in Ukraine war",
+      "source": "Reuters",
+      "category": "Russia-Ukraine War",
+      "summary": "The Kremlin states that European countries are becoming more involved in the war, referencing warnings about drone production sites across the continent and in Britain."
+    },
+    {
+      "title": "Hungary's incoming PM Peter Magyar begins EU talks to unblock frozen funds",
+      "source": "Reuters",
+      "category": "Europe/Politics",
+      "summary": "Hungary's election winner Peter Magyar starts initial talks with EU officials in Budapest to unblock funds frozen by the bloc over disputes with his predecessor."
+    },
+    {
+      "title": "Palestinians hand over suspect in 1982 attack on Jewish restaurant in Paris",
+      "source": "BBC",
+      "category": "Europe/Law",
+      "summary": "Hicham Harb, suspected of directing the 1982 Rue des Rosiers attack and acting as one of the gunmen, has been handed over to authorities."
+    },
+    {
+      "title": "Runaway wolf finally captured after nine-day search in South Korea",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "A wolf that escaped and evaded capture for nine days has been caught, gripping South Korea and even inspiring a meme coin during the search."
+    }
+  ],
+  "generatedAt": "2026-04-17T14:00:00Z"
+}

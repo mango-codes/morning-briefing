@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-19",
+  "source": "global-news-cron",
+  "headlines": [
+    {
+      "title": "US negotiators to return to Pakistan for talks as Trump repeats threat to Iran's infrastructure",
+      "source": "BBC",
+      "category": "World",
+      "summary": "President Trump says the US will hit Iran's power plants and bridges if a deal isn't reached."
+    },
+    {
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "source": "BBC",
+      "category": "World",
+      "summary": "At least two merchant vessels hit by gunfire attempting to cross the strait. India summoned the Iranian ambassador over shooting incidents involving Indian-flagged ships."
+    },
+    {
+      "title": "Iran rejects ceasefire, demands permanent end to war",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "Iran conveyed its response to the U.S. proposal via Pakistan, rejecting a ceasefire and emphasizing necessity of permanent end to the war."
+    },
+    {
+      "title": "Iran war fallout spreads to copper and nickel supply chains",
+      "source": "Reuters",
+      "category": "Business",
+      "summary": "After disrupting global aluminium markets, the Iran war's economic impact is now affecting copper and nickel supply chains."
+    },
+    {
+      "title": "North Korea fires ballistic missiles into the sea",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "North Korea accelerates missile launches amid Iran war tensions and talk of possible meetings with U.S. and South Korea."
+    },
+    {
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Attacker took hostages inside a supermarket, killed after shoot-out with police."
+    },
+    {
+      "title": "Zelensky condemns US extension of Russian sanctions waiver",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "US argues waiver meant to ease energy supply crunch sparked by US-Israel war with Iran."
+    },
+    {
+      "title": "French President Macron to renew Greece security pact",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Macron will travel to Greece next week to renew security pact between the two countries against backdrop of Iran war."
+    },
+    {
+      "title": "Hungary election winner Peter Magyar's Tisza party increases supermajority",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Tisza party increases parliamentary supermajority to 141 seats out of 199 after processing postal and foreign votes."
+    },
+    {
+      "title": "Rat poison found in HiPP baby food jar in Austria",
+      "source": "BBC/Reuters",
+      "category": "Europe",
+      "summary": "Product recalled from 1,500 SPAR supermarkets; police say consuming purées may be potentially life-threatening."
+    }
+  ]
+}

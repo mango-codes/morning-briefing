@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-18",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Washington's wolf population rises 17.4% despite human-caused deaths",
+      "summary": "Washington's wolf population grew by 17.4% in 2025, with successful breeding pairs rising 27%. However, researchers warn that human-caused wolf deaths may slow the species' expansion across the state.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/washingtons-wolf-population-increases-more-than-17-percent",
+      "category": "other"
+    },
+    {
+      "title": "WSDOT to relocate Bellingham Rock on I-5 for fish passage work",
+      "summary": "The Washington State Department of Transportation will begin relocating the well-known 'Bellingham Rock' along Interstate 5 as early as April 20 as part of a fish passage project to help steelhead migration in Chuckanut Creek.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/wsdot-to-relocate-bellingham-rock-on-i-5",
+      "category": "other"
+    },
+    {
+      "title": "Family of 2-year-old fatally shot in Federal Way objects to suspect's release",
+      "summary": "Family members of a toddler who was shot and killed in Federal Way are concerned by a judge's decision to allow the suspect to leave jail for a day to attend a family funeral.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/family-of-2-year-old-who-was-fatally-shot-in-federal-way",
+      "category": "crime"
+    },
+    {
+      "title": "Weekend closure of northbound I-405 from Renton to Bellevue expected to cause delays",
+      "summary": "WSDOT is warning of long backups during the weekend closure of northbound I-405 between Renton and Bellevue for construction work, coinciding with ongoing Ship Canal Bridge repairs on I-5.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/northbound-interstate-i-405-closed-between-renton-bellevue",
+      "category": "traffic"
+    },
+    {
+      "title": "Seattle police investigating string of overnight armed robberies",
+      "summary": "SPD is looking into an overnight crime spree involving three armed robberies reported within a half-hour of each other in West Seattle and South Seattle.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/crime-blotter/overnight-armed-robberies/4229447",
+      "category": "crime"
+    },
+    {
+      "title": "Pacific Northwest vinyl stores prepare for Record Store Day",
+      "summary": "Records shops across Oregon and Southwest Washington are offering limited copies of exclusive releases for Record Store Day on April 18, with shop owners hoping to spur interest in vinyl.",
+      "source": "OPB",
+      "url": "https://www.opb.org/article/2026/04/17/pacific-northwest-vinyl-stores-shoppers-prepare-for-record-store-day/",
+      "category": "other"
+    },
+    {
+      "title": "Seattle bagel shop wins two first-place prizes at LA competition",
+      "summary": "University Village's Hey Bagel swept the competition at last weekend's BagelFest West with two first-place finishes at the trade show in Los Angeles.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/lifestyle/hey-bagel-seattle-competition/4229259",
+      "category": "business"
+    },
+    {
+      "title": "Gas prices poised to fall as oil plunges on Strait of Hormuz reopening",
+      "summary": "Relief is in sight for drivers after weeks of soaring gas prices as Iran reopens the Strait of Hormuz, causing oil prices to tumble more than 10%.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/money/gas-prices-strait-of-hormuz/4229376",
+      "category": "business"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly cloudy with mild spring temperatures. April in Seattle typically sees daily highs ranging from 49°F to 66°F with overnight lows between 36°F and 51°F. The average high for April is 60°F.",
+    "high": 66,
+    "low": 46,
+    "conditions": "Partly Cloudy",
+    "alert": null
+  }
+}

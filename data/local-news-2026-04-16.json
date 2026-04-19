@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-16",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "West Seattle homeless encampment cleared after years of crime and safety concerns",
+      "source": "FOX 13 Seattle / MyNorthwest",
+      "url": "https://www.fox13seattle.com/news/west-seattle-homeless-encampment-swept",
+      "summary": "City crews cleared a homeless encampment at Rotary Viewpoint Park (Totem Park) in West Seattle following years of complaints about crime, violence, and drug use. The sweep comes after recent violent incidents including a shooting where bullets struck a home and vehicle. Councilmember Rob Saka supported the action, citing safety concerns for nearby residents, elderly neighbors, and a daycare. Displaced residents reported minimal warning and loss of belongings.",
+      "severity": "high"
+    },
+    {
+      "title": "Snapchat to lay off over 90 Seattle and Bellevue employees",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/wa-workers-snapchat-layoffs",
+      "summary": "Snap Inc. is laying off 95 workers in Washington state - 56 in Bellevue, 37 in Seattle, and 2 remote workers. The layoffs are part of a company-wide reduction of approximately 1,000 employees (16% of workforce) as the company pivots toward AI. Separations are expected between April 16 and June 16.",
+      "severity": "high"
+    },
+    {
+      "title": "Councilmember Rob Saka calls for audit of SDOT's Vision Zero safety initiative",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/04/16/",
+      "summary": "District 1 City Councilmember Rob Saka announced a call for an audit of SDOT's 'Vision Zero' traffic safety initiative, which aims to eliminate traffic deaths and serious injuries. The announcement came on a day with three notable crashes in West Seattle. Saka stated the audit will examine what's working, what's not, and where approaches need sharpening to prevent further tragedies.",
+      "severity": "medium"
+    },
+    {
+      "title": "Washington unemployment rises to 5.1% as job growth slows",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/local/wa-unemployment-rises-job-growth/4228582",
+      "summary": "Washington state's unemployment rate climbed to 5.1% as job growth slowed significantly in February, with only 700 net jobs added according to new state numbers. This marks a concerning trend for the state's economic outlook.",
+      "severity": "medium"
+    },
+    {
+      "title": "Earthquake swarm detected off Washington coast with 18+ quakes in 12 hours",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/earthquake-swarm-hits-off-washington-coast-18-quakes-in-12-hours-up-to-42-magnitude-juan-de-fuca-cascadia-subduction-zone-big-one-risk-evacuation-safwty-volcano-update",
+      "summary": "An active swarm of earthquakes struck about 250 miles offshore at the Juan de Fuca Ridge, with 18 quakes detected up to magnitude 4.2. The Pacific Northwest Seismic Network confirmed the quakes are not near the Cascadia Subduction Zone and pose no hazard to onshore areas. The swarm is also not related to the Axial Seamount Volcano.",
+      "severity": "low"
+    },
+    {
+      "title": "Seattle cruise season begins Friday with first ship docking",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/seattle-cruise-season-starts-friday",
+      "summary": "Seattle's cruise season officially kicks off Friday, marking the start of the busy tourism period at the city's ports. The cruise industry brings significant economic activity to the region during the spring and summer months.",
+      "severity": "low"
+    },
+    {
+      "title": "Social Justice Film Festival opens in Seattle today",
+      "source": "Seattle Refined",
+      "url": "https://seattlerefined.com/lifestyle/april-festivals-and-events-2026-seattle-in-bloom-ultimate-pnw-events-guide-for-april-2026",
+      "summary": "The Social Justice Film Festival begins today (April 16) and runs through April 19 at Pacific Tower in Seattle. The festival features films focused on social justice themes and community engagement.",
+      "severity": "low"
+    }
+  ],
+  "top_story": {
+    "title": "West Seattle homeless encampment cleared after years of crime and safety concerns",
+    "source": "FOX 13 Seattle",
+    "url": "https://www.fox13seattle.com/news/west-seattle-homeless-encampment-swept",
+    "summary": "City crews cleared a homeless encampment at Rotary Viewpoint Park in West Seattle following years of complaints about crime, violence, and drug use. The sweep comes amid mounting pressure from residents and business owners after recent violent incidents including a shooting. The action has sparked debate as it appears to contradict Mayor Katie Wilson's pledge to move away from traditional sweeps in favor of long-term solutions. Displaced residents reported minimal warning and loss of belongings, while Councilmember Rob Saka supported the action citing safety concerns for nearby residents and a daycare.",
+    "whyItMatters": "This story highlights the ongoing tension between addressing homelessness with compassion and ensuring public safety. It raises questions about the city's approach to encampments and whether sweeps effectively solve the underlying issues or simply displace vulnerable populations. The incident also underscores community safety concerns in West Seattle and the challenges facing the new administration's homelessness strategy."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-17",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI Launches GPT-Rosalind: First Specialized AI Model for Life Sciences Research",
+      "source": "Reuters / Ars Technica / VentureBeat",
+      "summary": "OpenAI announced GPT-Rosalind, its first domain-specific model fine-tuned for biochemistry, genomics, and protein engineering. Named after Rosalind Franklin (who helped discover DNA's structure), the model can query databases, read scientific papers, and suggest new experiments. It's designed to accelerate drug discovery by compressing years of traditional R&D into actionable insights. Partners include Moderna, NVIDIA, and the Allen Institute. Access is currently limited to US-based entities due to safety concerns.",
+      "url": "https://openai.com/index/introducing-gpt-rosalind/"
+    },
+    {
+      "title": "Google Expands Gemini with Personal Intelligence and Photo Integration",
+      "source": "CNBC / Tech Advisor",
+      "summary": "Google is rolling out Personal Intelligence globally for Gemini AI Ultra, Pro, and Plus subscribers, with free user access coming soon. The feature allows Gemini to connect to Google apps for personalized answers. Additionally, users can now connect their Google Photos to Gemini and the Nano Banana image generator, enabling AI-generated images based on personal photo libraries with opt-in consent.",
+      "url": "https://www.cnbc.com/2026/04/16/google-photo-gemini-chatbot-nano-banana.html"
+    },
+    {
+      "title": "Stanford's 2026 AI Index Report: Anthropic Leads, US and China Nearly Tied",
+      "source": "MIT Technology Review",
+      "summary": "The annual Stanford AI Index report reveals that despite predictions of a slowdown, top AI models keep improving. As of March 2026, Anthropic leads the pack, followed closely by xAI, Google, and OpenAI. Chinese models from DeepSeek and Alibaba are closing the gap rapidly. The report also highlights environmental concerns: AI data centers now draw 29.6 gigawatts of power (enough for New York State), and GPT-4o alone uses water equivalent to 1.2 million people's annual drinking needs.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+    },
+    {
+      "title": "Meta's Muse Spark AI Model Reaches Major Milestone",
+      "source": "Mashable / Progressive Robot",
+      "summary": "Meta announced Muse Spark, a new family of AI models that can reportedly reach the same capability level as Llama 4 Maverick with over an order of magnitude less compute. This development marks a shift in Meta's AI strategy and distribution model. The debut model, Spark, is now available and represents Meta's continued push into efficient, high-performance AI.",
+      "url": "https://mashable.com/article/mark-zuckerberg-meta-announce-new-muse-spark-ai-models"
+    },
+    {
+      "title": "NVIDIA Debuts New AI Models for Quantum Computing, Rubin Series Unveiled",
+      "source": "CNBC / LightCounting",
+      "summary": "NVIDIA announced new open-source AI models designed to advance quantum computing, causing quantum stocks to rally. At GTC 2026, the company unveiled its Rubin series solutions anchored by the Vera Rubin platform. NVIDIA also announced a strategic partnership with Marvell Technology to connect to the NVIDIA AI factory and AI-RAN ecosystem through NVLink Fusion.",
+      "url": "https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html"
+    },
+    {
+      "title": "Apple Sending Siri Engineers to AI Coding Bootcamp",
+      "source": "9to5Mac / PYMNTS",
+      "summary": "Apple is reportedly sending a significant portion of its Siri programming team to a multi-week bootcamp to learn AI-assisted coding. This move signals Apple's renewed focus on improving Siri's capabilities through AI. The company is also reportedly planning to launch over 15 new devices by end of 2026, including a foldable iPhone and smart glasses, with AI integration expected to play a major role.",
+      "url": "https://9to5mac.com/2026/04/15/report-apple-to-send-siri-engineers-to-multi-week-ai-coding-bootcamp/"
+    },
+    {
+      "title": "OpenAI Revamps Codex with Desktop Control and Background Operation",
+      "source": "PM Interview Prep Club",
+      "summary": "OpenAI announced a major revamp of Codex, its automated coding tool. New features include the ability to operate in the background and control a user's desktop, allowing Codex to open any app and perform tasks autonomously. This upgrade significantly expands Codex's capabilities beyond code generation into general desktop automation.",
+      "url": "https://pminterviewprepclub.substack.com/p/robots-learn-factory-raises-upscale"
+    },
+    {
+      "title": "Anthropic Surpasses 1,000 Enterprise Customers with $1M+ Annual Spending",
+      "source": "PANews",
+      "summary": "By April 2026, Anthropic has grown to over 1,000 enterprise customers spending more than $1 million annually, doubling in just two months. API calls and customized enterprise services now account for over 80% of total revenue. This growth has helped Anthropic steal significant limelight from OpenAI in both Wall Street and Silicon Valley circles.",
+      "url": "https://www.panewslab.com/en/articles/019d80dd-0720-75bd-b7cc-28eba57e34e8"
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI Launches GPT-Rosalind: First Specialized AI Model for Life Sciences Research",
+    "source": "Reuters / Ars Technica / VentureBeat",
+    "summary": "OpenAI announced GPT-Rosalind, its first domain-specific model fine-tuned for biochemistry, genomics, and protein engineering. Named after Rosalind Franklin (who helped discover DNA's structure), the model can query databases, read scientific papers, and suggest new experiments. It's designed to accelerate drug discovery by compressing years of traditional R&D into actionable insights. Partners include Moderna, NVIDIA, and the Allen Institute. Access is currently limited to US-based entities due to safety concerns.",
+    "url": "https://openai.com/index/introducing-gpt-rosalind/"
+  }
+}

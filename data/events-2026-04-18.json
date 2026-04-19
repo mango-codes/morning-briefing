@@ -1,0 +1,147 @@
+{
+  "date": "2026-04-18",
+  "category": "events",
+  "today": [
+    {
+      "title": "Seattle Mariners vs. Texas Rangers",
+      "type": "sports",
+      "time": "4:15 PM",
+      "venue": "T-Mobile Park",
+      "description": "MLB baseball game featuring the Seattle Mariners hosting the Texas Rangers.",
+      "url": "https://www.ticketmaster.com/seattle-mariners-tickets/artist/806019",
+      "price": "From $12"
+    },
+    {
+      "title": "Seattle Torrent vs. Vancouver Goldeneyes (PWHL)",
+      "type": "sports",
+      "time": "2:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "Professional Women's Hockey League game featuring Seattle's PWHL team against Vancouver.",
+      "url": "https://www.thepwhl.com/en/news/2026/april/06/seattle-torrent-announce-april-18-home-game-to-start-at-2-p-m-pt",
+      "price": "Varies"
+    },
+    {
+      "title": "Les Misérables",
+      "type": "theater",
+      "time": "2:00 PM & 8:00 PM",
+      "venue": "Paramount Theatre",
+      "description": "The acclaimed musical production of Les Misérables continues its Seattle run.",
+      "url": "https://www.stgpresents.org/events/les-miserables/",
+      "price": "From $66"
+    },
+    {
+      "title": "Goldfinger with Broadway Calls & Sullvn",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Ska punk band Goldfinger performs with Broadway Calls and Sullvn. 21+ show.",
+      "url": "https://www.showboxpresents.com/events/detail/1253308",
+      "price": "From $57"
+    },
+    {
+      "title": "William Black with Wink and Sportmode",
+      "type": "concert",
+      "time": "9:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "Electronic music producer William Black performs with support from Wink and Sportmode.",
+      "url": "https://www.showboxpresents.com/events/detail/1225882",
+      "price": "From $84"
+    },
+    {
+      "title": "Drugdealer",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Crocodile",
+      "description": "Indie pop/rock project Drugdealer performs live at The Crocodile.",
+      "url": "https://www.songkick.com/concerts/43004734-drugdealer-at-crocodile",
+      "price": "Varies"
+    },
+    {
+      "title": "Paul Thorn with Will Hoge",
+      "type": "concert",
+      "time": "2:00 PM",
+      "venue": "Tractor Tavern",
+      "description": "Americana and roots rock performance featuring Paul Thorn with special guest Will Hoge.",
+      "url": "https://www.songkick.com/concerts/42941637-paul-thorn-at-tractor-tavern",
+      "price": "Varies"
+    },
+    {
+      "title": "Kitchen Dwellers with Dug",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Neumos",
+      "description": "Montana-based bluegrass band Kitchen Dwellers perform with Dug.",
+      "url": "https://www.songkick.com/concerts/42986560-kitchen-dwellers-at-neumos",
+      "price": "Varies"
+    },
+    {
+      "title": "The Messthetics and James Brandon Lewis",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Clock-Out Lounge",
+      "description": "Experimental jazz and post-rock fusion featuring The Messthetics with saxophonist James Brandon Lewis.",
+      "url": "https://www.songkick.com/concerts/42981094-messthetics-at-clockout-lounge",
+      "price": "Varies"
+    },
+    {
+      "title": "Tsunami Bomb with crimewave 66, BERZERK, and Fleamale",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "El Corazon",
+      "description": "Punk rock show featuring Tsunami Bomb with supporting acts.",
+      "url": "https://www.songkick.com/concerts/43008007-tsunami-bomb-at-el-corazon",
+      "price": "Varies"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Les Misérables",
+      "date": "Sunday, April 19",
+      "type": "theater",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/events/les-miserables/"
+    },
+    {
+      "title": "Behemoth with Deicide, Rotting Christ, Immolation",
+      "date": "Sunday, April 19",
+      "type": "concert",
+      "venue": "Showbox SoDo",
+      "url": "https://www.showboxpresents.com/events/detail/1289237"
+    },
+    {
+      "title": "Bethel Music",
+      "date": "Sunday, April 19",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://www.showboxpresents.com/events/detail/1258061"
+    },
+    {
+      "title": "Margaret Cho Comedy Show",
+      "date": "Sunday, April 19",
+      "type": "comedy",
+      "venue": "Moore Theatre",
+      "url": "https://www.songkick.com/concerts/42701072-margaret-cho-at-moore-theatre"
+    },
+    {
+      "title": "Seattle Mariners vs. Athletics",
+      "date": "Sunday, April 19",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "url": "https://www.ticketmaster.com/tmobile-park-tickets-seattle/venue/123209"
+    },
+    {
+      "title": "Hatsune Miku Expo 2026",
+      "date": "Monday, April 20",
+      "type": "concert",
+      "venue": "WAMU Theater",
+      "url": "https://www.songkick.com/festivals/3600839-hatsune-miku-expo/id/42856964-hatsune-miku-expo-2026"
+    },
+    {
+      "title": "Cory Wong with Devon Gilfillian and Antwaun Stanley",
+      "date": "Tuesday, April 21",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.songkick.com/concerts/42896781-cory-wong-at-paramount-theatre"
+    }
+  ]
+}

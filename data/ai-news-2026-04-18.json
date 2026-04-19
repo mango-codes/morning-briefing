@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-18",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI Shifts Focus to Business Users Amid Anthropic Competition",
+      "summary": "OpenAI is pivoting from consumer products to enterprise solutions, introducing a new AI model for 'high-value professional work.' The company shut down its Sora video generator app and is focusing on business customers, which now account for 40% of revenue. This comes as rival Anthropic gains momentum with $30B annualized revenue and rapid growth in the coding/enterprise space.",
+      "source": "TechXplore / Associated Press",
+      "url": "https://techxplore.com/news/2026-04-chatgpt-maker-openai-shifts-focus.html",
+      "type": "product"
+    },
+    {
+      "title": "AI Coding Startup Cursor in Talks to Raise $2 Billion at $50B+ Valuation",
+      "summary": "Cursor, a leading AI coding assistant startup, is in advanced talks to raise approximately $2 billion at a valuation exceeding $50 billion. The company forecasts reaching an annualized run rate of over $6 billion by end of 2026, indicating strong enterprise adoption despite competition from Claude Code and Codex.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-17/ai-coding-startup-cursor-in-talks-to-raise-2-billion-in-funding",
+      "type": "funding"
+    },
+    {
+      "title": "Anthropic Unveils Major UK Expansion with 800-Person London Office",
+      "summary": "Anthropic announced plans to expand its London presence with new office space for 800 people in the Knowledge Quarter, just days after OpenAI unveiled its first permanent UK office. The expansion comes as Anthropic's annual run-rate revenue surpassed $30 billion with over 1,000 businesses spending more than $1 million annually.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/16/anthropic-london-office-800-staff-openai-expansion.html",
+      "type": "other"
+    },
+    {
+      "title": "TSMC Q1 Profit Rises 58% to Record High on AI Chip Demand",
+      "summary": "Taiwan Semiconductor Manufacturing Company reported a 58% increase in first-quarter profit, beating estimates and hitting a fresh record as demand for AI chips stayed strong. The company forecast full-year 2026 revenue growth of more than 30% year over year, with AI-related demand described as 'extremely robust.'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+      "type": "other"
+    },
+    {
+      "title": "Netflix Launches TikTok-Style Vertical Video Feed with AI Recommendations",
+      "summary": "Netflix announced plans to launch a vertical video feed within its apps this month, alongside broader AI integration for content creation and recommendations. The company acquired Ben Affleck's AI filmmaking company InterPositive and expects to generate $3 billion in ad revenue this year using AI-powered ad targeting.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
+      "type": "product"
+    },
+    {
+      "title": "AI-Rendered Val Kilmer Debuts in 'As Deep as the Grave' Trailer",
+      "summary": "Filmmakers debuted the first look at an AI-rendered version of Val Kilmer in the indie film 'As Deep as the Grave' at CinemaCon. The actor, who died last year at 65, appears for over an hour in the film. The production worked with Kilmer's estate and followed SAG-AFTRA guidelines for consent, compensation, and collaboration.",
+      "source": "Associated Press / Coeur d'Alene Press",
+      "url": "https://cdapress.com/news/2026/apr/18/ai-rendered-val-kilmer-debuts-in-as-deep-as-the-grave-trailer/",
+      "type": "other"
+    },
+    {
+      "title": "OpenAI Leadership Departures: Kevin Weil and Bill Peebles Exit as Sora Shuts Down",
+      "summary": "Key OpenAI executives Kevin Weil and Bill Peebles are leaving the company amid the shutdown of Sora, OpenAI's consumer video generation app. The departures signal a major strategic pivot away from consumer 'moonshot' projects toward enterprise AI solutions.",
+      "source": "AIToolly",
+      "url": "https://aitoolly.com/ai-news/article/2026-04-18-openai-leadership-departures-kevin-weil-and-bill-peebles-exit-as-sora-shuts-down",
+      "type": "other"
+    },
+    {
+      "title": "China Central Bank Governor Flags AI Risks and Opportunities at IMF",
+      "summary": "China's central bank governor Pan Gongsheng stated that artificial intelligence is driving a new wave of technological and industrial transformation that brings both opportunities and risks to the global economy, speaking at an IMF meeting.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-18/china-central-bank-s-pan-flags-ai-risks-opportunities-at-imf",
+      "type": "policy"
+    },
+    {
+      "title": "Cerebras Files for US IPO Amid AI Boom",
+      "summary": "AI chipmaker Cerebras Systems disclosed its filing for a U.S. IPO, aiming to raise $3 billion+ at a $35 billion+ valuation—a 60% premium to its February valuation. The listing comes as competition in the AI chip market intensifies beyond Nvidia.",
+      "source": "Reuters / The Information",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "type": "funding"
+    },
+    {
+      "title": "UK Unveils £500M Fund to Boost British AI Firms",
+      "summary": "The UK's Science, Innovation and Technology Secretary unveiled a £500 million fund to support and boost British AI companies, as part of ongoing efforts to position the UK as a global AI hub.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+      "type": "policy"
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI Shifts Focus to Business Users Amid Intensifying Anthropic Competition",
+    "summary": "OpenAI is undergoing a major strategic pivot, moving away from consumer products like Sora to focus on enterprise AI solutions. The company introduced a new model codenamed 'Spud' for high-value professional work as business customers now account for 40% of revenue (up from 20% in 2024). This shift comes as rival Anthropic rapidly gains ground with $30B annualized revenue, viral coding agent Claude Code, and its powerful Mythos model. The competition highlights a broader industry maturation—from explosive growth to a focus on sustainable business models and enterprise adoption.",
+    "why_it_matters": "This represents a significant inflection point in the AI industry. OpenAI, long seen as the consumer AI leader with 900M+ weekly ChatGPT users, is now prioritizing paying business customers over its massive free user base. The intensifying rivalry with Anthropic—founded by ex-OpenAI safety-focused researchers—shows the market maturing beyond hype toward sustainable revenue models. With both companies losing money and racing toward IPOs, their strategic choices will shape how AI is deployed in workplaces worldwide and which approach (consumer vs. enterprise) proves more viable long-term."
+  }
+}

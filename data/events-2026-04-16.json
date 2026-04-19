@@ -1,0 +1,190 @@
+{
+  "date": "2026-04-16",
+  "category": "events",
+  "events": [
+    {
+      "name": "Maya Hawke",
+      "venue": "The Triple Door",
+      "time": "Evening",
+      "description": "Live concert performance by actress and singer Maya Hawke",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle/2026",
+      "category": "music"
+    },
+    {
+      "name": "ThxSoMch, MISSIO, guardin, The Haunt (AnastasiaMax), and Oxymorrons",
+      "venue": "El Corazon",
+      "time": "Evening",
+      "description": "Multi-artist rock and alternative music concert",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle/2026",
+      "category": "music"
+    },
+    {
+      "name": "The Totally '80s Sing Along",
+      "venue": "Central Cinema",
+      "time": "8:00 PM - 10:45 PM",
+      "description": "Sing along to 30 music videos with subtitles featuring Madonna, Prince, Michael Jackson, Billy Idol, George Michael, Depeche Mode, Whitney Houston, and David Bowie",
+      "url": "https://central-cinema.com/movie/totally-80s-sing-along/",
+      "category": "music"
+    },
+    {
+      "name": "Les Misérables",
+      "venue": "The Paramount Theatre",
+      "time": "Various times",
+      "description": "Broadway revival of the popular musical about broken dreams, unrequited love, passion, sacrifice, and redemption",
+      "url": "https://www.stgpresents.org/events/les-miserables/",
+      "category": "arts"
+    },
+    {
+      "name": "Giselle - Pacific Northwest Ballet",
+      "venue": "McCaw Hall",
+      "time": "Various times",
+      "description": "Romance-period ballet about love beyond the grave - ethereal, haunting, and tender masterpiece",
+      "url": "https://www.pnb.org/season/giselle/",
+      "category": "arts"
+    },
+    {
+      "name": "Candlelight Concert: Taylor Swift",
+      "venue": "Arctic Club Hotel",
+      "time": "Evening",
+      "description": "String quartet playing Taylor Swift songs in the warm glow of simulated candles",
+      "url": "https://fever.pxf.io/Kj6j5x",
+      "category": "music"
+    },
+    {
+      "name": "Walden",
+      "venue": "Arts West",
+      "time": "Evening",
+      "description": "Three-person drama about humanity's future",
+      "url": "https://www.artswest.org/events/walden/",
+      "category": "arts"
+    },
+    {
+      "name": "She's Got Rhythm",
+      "venue": "Broadway Performance Hall",
+      "time": "7:30 PM - 9:30 PM",
+      "description": "Jazzy cabaret show performed by Sister Kate Dance Company with singer and 11-piece jazz ensemble",
+      "url": "https://www.sisterkatedancecompany.com/rhythm",
+      "category": "arts"
+    },
+    {
+      "name": "Social Justice Film Festival",
+      "venue": "Pacific Tower",
+      "time": "Various times",
+      "description": "Showcases fresh voices and brave storytelling demonstrating courage in action by resilient people around the world",
+      "url": "https://socialjusticefilminstitute.org/",
+      "category": "arts"
+    },
+    {
+      "name": "Seattle Mariners vs. Texas Rangers",
+      "venue": "T-Mobile Park",
+      "time": "6:40 PM (Friday), 4:15 PM (Saturday), 1:10 PM (Sunday)",
+      "description": "MLB baseball home games - Mariners vs Texas Rangers series",
+      "url": "https://www.mlb.com/mariners/schedule/2026-04",
+      "category": "sports"
+    },
+    {
+      "name": "Röyksopp",
+      "venue": "Substation",
+      "time": "Friday Evening",
+      "description": "Norwegian electronic music duo live performance",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle",
+      "category": "music"
+    },
+    {
+      "name": "Bloodywood: System Of A Brown Tour 2026",
+      "venue": "Neptune Theatre",
+      "time": "Friday 7:00 PM",
+      "description": "Indian metal band Bloodywood with Pretty Wild, LAdrones, and ANKOR",
+      "url": "https://www.ticketmaster.com/discover/seattle",
+      "category": "music"
+    },
+    {
+      "name": "Tommy Emmanuel",
+      "venue": "Moore Theatre",
+      "time": "Friday Evening",
+      "description": "Australian virtuoso guitarist live performance",
+      "url": "https://stubhub.prf.hn/l/p3xwOl0/",
+      "category": "music"
+    },
+    {
+      "name": "Goldfinger",
+      "venue": "Showbox",
+      "time": "Saturday Evening",
+      "description": "American punk rock band live concert",
+      "url": "https://www.showboxpresents.com/events/detail/1253308",
+      "category": "music"
+    },
+    {
+      "name": "Bethel Music",
+      "venue": "Showbox",
+      "time": "Sunday Evening",
+      "description": "Christian worship collective live performance",
+      "url": "https://www.showboxpresents.com/events/detail/1258061",
+      "category": "music"
+    },
+    {
+      "name": "Pop Cats Cat Convention",
+      "venue": "Seattle Center Exhibition Hall",
+      "time": "Saturday-Sunday",
+      "description": "Cat and pop culture convention with artwork, adoptable cats, speakers, workshops, and vendors",
+      "url": "https://popcats.co/cat-convention-pop-cats/seattle2026/",
+      "category": "other"
+    },
+    {
+      "name": "International Children's Friendship Festival",
+      "venue": "Fisher Pavilion, Seattle Center",
+      "time": "Saturday-Sunday 11 AM - 6 PM",
+      "description": "Children from around the world dance, sing, play music, make origami, and get faces painted",
+      "url": "https://childrensfest.tacawa.org/",
+      "category": "other"
+    },
+    {
+      "name": "Rat City Roller Derby",
+      "venue": "Hangar 30, Magnuson Park",
+      "time": "Saturday 3:30 PM & 6:00 PM",
+      "description": "Exciting roller derby games with snacks and beer garden",
+      "url": "https://ratcityrollerderby.com/events/season-20-home-team-championships-april-18-2026/",
+      "category": "sports"
+    },
+    {
+      "name": "Columbia City Night Market",
+      "venue": "Columbia City (37th Ave S)",
+      "time": "Saturday 6:00 PM - 10:00 PM",
+      "description": "Monthly night market with 8 food trucks, 20 makers and vendors, live music, and beer garden",
+      "url": "https://www.peacepeloton.com/night-market",
+      "category": "food"
+    },
+    {
+      "name": "Cherry Blossom & Japanese Cultural Festival",
+      "venue": "Seattle Center",
+      "time": "Saturday-Sunday",
+      "description": "Celebrates Seattle's friendship with Japan with art, dance, music, martial arts, and food",
+      "url": "https://seattlecenter.com/events/featured-events/festal/seattle-cherry-blossom-festival",
+      "category": "arts"
+    },
+    {
+      "name": "Science Fiction + Fantasy Short Film Festival",
+      "venue": "SIFF Cinema Uptown",
+      "time": "Saturday-Sunday",
+      "description": "Juried selections of sci-fi and fantasy short films from around the world",
+      "url": "https://www.siff.net/sffsff",
+      "category": "arts"
+    },
+    {
+      "name": "Spring Fair",
+      "venue": "Washington State Fair Events Center, Puyallup",
+      "time": "Friday-Sunday",
+      "description": "Farm animals, pig races, performing dogs, fair food, rides, entertainers, demolition derbies, and kids' zone",
+      "url": "https://www.thefair.com/spring-fair/",
+      "category": "other"
+    },
+    {
+      "name": "Skagit Valley Tulip Festival Street Fair",
+      "venue": "Mount Vernon Downtown",
+      "time": "Friday-Sunday",
+      "description": "Street fair during tulip season with spectacular fields of blooming tulips and daffodils nearby",
+      "url": "https://tulipfestivalstreetfair.com/",
+      "category": "other"
+    }
+  ]
+}

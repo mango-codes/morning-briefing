@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-18",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners drop series finale to Padres, completing San Diego's sweep in the 2026 Vedder Cup",
+        "Mariners return home to face Texas Rangers after being swept in San Diego"
+      ],
+      "last_game": {
+        "date": "2026-04-16",
+        "opponent": "San Diego Padres",
+        "location": "away",
+        "result": "L 5-2",
+        "record_after": "8-13"
+      },
+      "next_game": {
+        "date": "2026-04-18",
+        "opponent": "Texas Rangers",
+        "location": "home",
+        "time": "7:15 PM PT",
+        "venue": "T-Mobile Park"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks to begin voluntary offseason program on April 20",
+        "Seahawks host veteran pass rusher Dante Fowler for visit",
+        "Seahawks set to host Arizona CB Treydan Stukes on top-30 visit ahead of 2026 NFL Draft"
+      ],
+      "last_game": {
+        "note": "2025 season concluded; offseason mode"
+      },
+      "next_game": {
+        "note": "2026 NFL Draft approaching; preseason begins August 2026"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken eliminated from playoff contention for 4th time in 5 years",
+        "Kraken lose final regular season game 2-0 to Colorado Avalanche",
+        "The Athletic: Inside the Kraken's 5-year struggle as NBA expansion looms"
+      ],
+      "last_game": {
+        "date": "2026-04-17",
+        "opponent": "Colorado Avalanche",
+        "location": "away",
+        "result": "L 2-0",
+        "note": "Final game of 2025-26 season"
+      },
+      "next_game": {
+        "note": "Season concluded; 2026-27 season begins October 2026"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders eliminated from 2026 Concacaf Champions Cup by Liga MX side Tigres UANL",
+        "Sounders return to MLS play after 8-match road stretch (5-2-1 record)",
+        "Sounders FC brings back 'First Match On Us' fan engagement initiative"
+      ],
+      "last_game": {
+        "date": "2026-04-15",
+        "opponent": "Tigres UANL",
+        "location": "home",
+        "result": "W 3-1",
+        "note": "Eliminated from Champions Cup on away goals (3-3 aggregate)"
+      },
+      "next_game": {
+        "date": "2026-04-18",
+        "opponent": "St. Louis CITY SC",
+        "location": "home",
+        "time": "6:30 PM PT",
+        "venue": "Lumen Field (Emerald Queen Casino Pitch)"
+      }
+    }
+  ]
+}

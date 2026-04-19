@@ -1,0 +1,68 @@
+{
+  "date": "2026-04-17",
+  "category": "events",
+  "today": [
+    {
+      "name": "Tommy Emmanuel with Jack Schneider",
+      "time": "7:30 PM",
+      "venue": "Moore Theatre",
+      "description": "Legendary Australian fingerstyle guitarist Tommy Emmanuel brings his masterful acoustic guitar skills to Seattle. Known for his energetic performances and technical brilliance."
+    },
+    {
+      "name": "Bloodywood: System Of A Brown Tour 2026",
+      "time": "7:00 PM",
+      "venue": "Neptune Theatre",
+      "description": "Indian metal band Bloodywood brings their unique blend of heavy metal and Indian folk music to Seattle. High-energy show featuring traditional instruments mixed with modern metal."
+    },
+    {
+      "name": "Grag Queen with Bright Light Bright Light",
+      "time": "6:30 PM",
+      "venue": "Barboza (at Neumos)",
+      "description": "Brazilian drag queen and singer Grag Queen, winner of Queen of the Universe, brings her pop performance to Capitol Hill with special guest Bright Light Bright Light."
+    },
+    {
+      "name": "Flyte with Samantha Crain",
+      "time": "6:00 PM",
+      "venue": "The Crocodile",
+      "description": "London-based indie folk band Flyte performs with Oklahoma singer-songwriter Samantha Crain. Intimate evening of thoughtful lyrics and melodic indie rock."
+    }
+  ],
+  "this_weekend": [
+    {
+      "name": "Goldfinger with Broadway Calls & Sullvn",
+      "date": "Saturday, April 18",
+      "venue": "The Showbox",
+      "description": "Legendary ska-punk band Goldfinger brings their energetic live show to The Showbox. Known for hits like 'Here in Your Bedroom' and 'Superman.' 21+ show."
+    },
+    {
+      "name": "Zarna Garg: Million Dollar Excuses",
+      "date": "Saturday, April 18",
+      "venue": "Neptune Theatre",
+      "description": "Comedian Zarna Garg brings her stand-up show 'Million Dollar Excuses' to Seattle. Her comedy blends cultural insights with sharp observations on family and modern life."
+    },
+    {
+      "name": "Aha Mele Hawaiian Festival",
+      "date": "Saturday, April 18",
+      "venue": "Tacoma Community College (Tacoma)",
+      "description": "Annual Hawaiian cultural festival celebrating spring with live music, hula performances, authentic Hawaiian food, vendors, workshops, and kids' activities. 11 AM - 7 PM."
+    },
+    {
+      "name": "Bethel Music",
+      "date": "Sunday, April 19",
+      "venue": "The Showbox",
+      "description": "Contemporary worship collective Bethel Music brings their soulful and uplifting performance to Seattle. Evening of modern worship music and spiritual connection."
+    },
+    {
+      "name": "Ballard Farmers Market",
+      "date": "Sunday, April 19",
+      "venue": "Ballard Ave NW (Ballard)",
+      "description": "Seattle's largest and most popular farmers market featuring local produce, artisan foods, crafts, and flowers. Open rain or shine, 9 AM - 2 PM. Spring produce now in season!"
+    },
+    {
+      "name": "Fremont Sunday Market",
+      "date": "Sunday, April 19",
+      "venue": "34th St (Fremont)",
+      "description": "Seattle's favorite treasure hunt featuring local makers, vintage finds, antiques, and street food. Now in its spring/summer location on 34th Street. Open 10 AM - 4 PM."
+    }
+  ]
+}

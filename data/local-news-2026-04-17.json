@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-17",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Washington State Ferries Outlines Service Plan for 2026 FIFA World Cup",
+      "source": "WSDOT / KOMO News",
+      "summary": "Washington State Ferries is preparing for a surge in ridership during the 2026 FIFA World Cup matches in Seattle. The system plans to have 20 of its 21 vessels available for service, with additional staffing and standby boats ready to reduce cancellations. Seattle will host six matches during the tournament, with additional games in Vancouver, BC.",
+      "url": "https://wsdot.wa.gov/about/news/2026/washington-state-ferries-outlines-service-plan-2026-mens-soccer-world-championship"
+    },
+    {
+      "title": "Chateau Ste. Michelle Unveils 2026 Summer Concert Lineup",
+      "source": "KING 5 / Seattle Times",
+      "summary": "The Woodinville winery announced its 2026 summer concert series featuring performances from Bob Dylan, Boyz II Men, Dierks Bentley, Sarah McLachlan, Ziggy Marley, Yellowcard, The Fray, Kaleo, and more. The series kicks off May 24.",
+      "url": "https://www.king5.com/article/entertainment/television/programs/evening/chateau-ste-michelle-2026-summer-concert-lineup/281-fcab4691-5b58-429e-a3c3-3bef4070e79f"
+    },
+    {
+      "title": "Seattle Public Schools Spring Break Concludes Today",
+      "source": "West Seattle Blog",
+      "summary": "Seattle Public Schools' spring break week comes to an end today. Regular school schedules resume next week. Metro buses are running regular schedules, and the West Seattle Water Taxi has expanded to its summer schedule with extra Friday, Saturday, and Sunday runs including later-night service.",
+      "url": "https://westseattleblog.com/2026/04/traffic-cams-weather-transit-friday-weekend/"
+    },
+    {
+      "title": "Mariners Return Home to T-Mobile Park",
+      "source": "West Seattle Blog / MLB",
+      "summary": "The Seattle Mariners are back home at T-Mobile Park. The team is celebrating its historic 50th season in 2026. Check the Mariners schedule for upcoming home games and promotions.",
+      "url": "https://www.mlb.com/mariners/schedule"
+    },
+    {
+      "title": "Indoor Plant Festival This Weekend in Lynnwood",
+      "source": "Seattle Refined",
+      "summary": "The Indoor Plant Festival takes place April 17-19 at the Lynnwood Event Center. The event features a wide variety of plants, gardening supplies, and expert advice for plant enthusiasts.",
+      "url": "https://seattlerefined.com/lifestyle/april-festivals-and-events-2026-seattle-in-bloom-ultimate-pnw-events-guide-for-april-2026"
+    },
+    {
+      "title": "First 8 PM Sunset in 8 Months Arrives in Seattle",
+      "source": "KING 5",
+      "summary": "Seattle residents can enjoy the first 8:00 PM sunset in eight months today, marking a milestone in the transition to longer spring and summer days. Sunset today is at 8:02 PM.",
+      "url": "https://www.king5.com/"
+    }
+  ],
+  "weather": {
+    "forecast": "Mostly sunny with light clouds, high in the mid-50s. Pleasant spring weather with light winds.",
+    "high": 56,
+    "low": 44,
+    "conditions": "Mostly Sunny",
+    "alert": null
+  }
+}
