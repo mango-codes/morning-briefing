@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-19",
+  "source": "ai-news-research",
+  "headlines": [
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "source": "TechCrunch / Reuters",
+      "category": "Industry",
+      "summary": "Cerebras Systems, an Nvidia rival building AI hardware for training and inference, has filed to go public. The company raised $1 billion in February at a $23 billion valuation and recently announced a multi-billion dollar deal with OpenAI. Cerebras reported $510 million in revenue in 2025."
+    },
+    {
+      "title": "China's DeepSeek raising funds at $10 billion valuation",
+      "source": "Reuters / The Information",
+      "category": "Funding",
+      "summary": "Chinese AI startup DeepSeek is in talks to raise at least $300 million at a $10 billion valuation. The company, known for low-cost models that disrupted the industry last year, has previously turned down funding offers from China's top VC firms."
+    },
+    {
+      "title": "Meta releases Llama 4 Scout and Maverick with Mixture-of-Experts architecture",
+      "source": "BuildFastWithAI",
+      "category": "Model Release",
+      "summary": "Meta launched Llama 4 Scout and Maverick on April 5, featuring the first Llama models with native MoE architecture and multimodal training from pretraining. Scout offers 10 million token context windows while Maverick supports 1 million tokens."
+    },
+    {
+      "title": "Google releases open-source Gemma 4 models",
+      "source": "Google AI / Wikipedia",
+      "category": "Model Release",
+      "summary": "Google DeepMind released Gemma 4 in early April, the latest in their series of open-source large language models. The release includes 4 variants up to 31B parameters, all under Apache 2.0 license, featuring the same rigorous safety evaluations as Gemini."
+    },
+    {
+      "title": "Anthropic releases Claude Mythos Preview",
+      "source": "Anthropic / New York Times",
+      "category": "Model Release",
+      "summary": "Anthropic launched Claude Mythos Preview on April 8, their most powerful AI model to date. The company has warned Washington that the model could uncover and potentially create cybersecurity vulnerabilities at unprecedented speed and scale."
+    },
+    {
+      "title": "The RAM shortage could last until 2027 or beyond",
+      "source": "The Verge / Nikkei Asia",
+      "category": "Hardware",
+      "summary": "Memory makers are only expected to meet 60% of DRAM demand by end of 2027. SK Group chairman warns shortages could last until 2030. The crisis is driving price increases for phones, laptops, VR headsets, and gaming devices as AI data centers prioritize high-bandwidth memory."
+    },
+    {
+      "title": "World ID expands to Tinder with identity-verifying orb technology",
+      "source": "The Verge",
+      "category": "Industry Partnership",
+      "summary": "Sam Altman's World is bringing its iris-scanning orb tech to Tinder and other apps. Users who verify they're human through the physical orb receive a 'verified human badge' and perks like free Tinder boosts. World is also integrating with Zoom and Docusign."
+    },
+    {
+      "title": "White House releases National Policy Framework for AI",
+      "source": "JDSupra / Alston & Bird",
+      "category": "Policy/Regulation",
+      "summary": "On March 20, 2026, the White House released a National Policy Framework for Artificial Intelligence with legislative recommendations for seven policy areas. The RAISE Act also took effect March 19, imposing transparency and safety requirements on frontier AI model developers."
+    },
+    {
+      "title": "Google Gemini 3.1 Pro hits 750 million users",
+      "source": "Tech Insider",
+      "category": "Industry",
+      "summary": "Google's Gemini has reached 750 million users as of April 2026. Gemini 3.1 Pro set new benchmarks including 94.3% on GPQA Diamond science reasoning tests, ahead of GPT-5.2 (92.4%) and Claude Opus 4.6 (91.3%)."
+    },
+    {
+      "title": "Meta raises Quest headset prices due to AI spending and RAM shortage",
+      "source": "Ars Technica",
+      "category": "Hardware",
+      "summary": "Meta is increasing Quest VR headset prices by $50-$100 (12-20%) starting April 19. The company cites rising costs of RAM and other computing components driven by AI demand, as well as their own AI spending spree."
+    }
+  ]
+}

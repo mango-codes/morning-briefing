@@ -1,0 +1,87 @@
+{
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Progressive Bulgaria secures majority in parliament",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/world/europe",
+      "published": "2026-04-20",
+      "category": "Politics",
+      "summary": "With 87% of the vote counted, Progressive Bulgaria has secured a majority in parliament, marking a significant political shift in the country."
+    },
+    {
+      "title": "Slovenia's Freedom Movement to go into opposition after failing to secure coalition",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/",
+      "published": "2026-04-20",
+      "category": "Politics",
+      "summary": "Outgoing Prime Minister Robert Golob announced his liberal Freedom Movement will go into opposition after narrowly winning a parliamentary vote in March but failing to secure a majority coalition."
+    },
+    {
+      "title": "US seizes Iranian cargo ship near Strait of Hormuz; Tehran vows retaliation",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19/",
+      "published": "2026-04-19",
+      "category": "International Conflict",
+      "summary": "Tensions escalate as the US seizes an Iranian-flagged vessel near the critical Strait of Hormuz, with Iran promising swift retaliation."
+    },
+    {
+      "title": "Strait of Hormuz shipping traffic faces uncertainty amid Iran-US tensions",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/",
+      "published": "2026-04-20",
+      "category": "Geopolitics",
+      "summary": "Stop-start shipping traffic through the Strait of Hormuz underscores profound uncertainty hanging over the world's most critical oil and gas chokepoint."
+    },
+    {
+      "title": "Pope Leo XIV criticizes exploitation by authoritarians during Angola visit",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-iran-cite-progress-talks-uncertainty-hangs-over-strait-2026-04-19/",
+      "published": "2026-04-20",
+      "category": "Religion",
+      "summary": "Pope Leo lamented that many people in the world were being 'exploited by authoritarians and defrauded by the rich' during an event in Angola, continuing his forceful new speaking style on his four-nation African tour."
+    },
+    {
+      "title": "Pope Leo XIV says he was not 'trying to debate' Trump over Iran war",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/18/pope-leo-donald-trump-iran",
+      "published": "2026-04-18",
+      "category": "International Relations",
+      "summary": "Pope Leo XIV stated it was 'not in my interest at all' to debate President Trump about the Iran war, but pledged to continue preaching the Gospel message of peace."
+    },
+    {
+      "title": "Lebanese return to destroyed homes as 10-day ceasefire with Israel begins",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/",
+      "published": "2026-04-19",
+      "category": "Middle East Conflict",
+      "summary": "A 10-day ceasefire between Lebanon and Israel has begun, allowing Lebanese civilians to return to homes destroyed in the conflict."
+    },
+    {
+      "title": "Pope Leo XIV urges permanent end to Middle East hostilities",
+      "source": "AP News",
+      "url": "https://apnews.com/live/iran-war-israel-trump-04-19-2026",
+      "published": "2026-04-19",
+      "category": "Religion",
+      "summary": "Speaking in Angola, Pope Leo XIV called the Israel-Hezbollah ceasefire a 'sign of relief' and encouraged diplomats to continue peace talks for a permanent end to hostilities."
+    },
+    {
+      "title": "Iran's Deputy Foreign Minister attends Antalya Diplomacy Forum",
+      "source": "AP News",
+      "url": "https://apnews.com/world-news",
+      "published": "2026-04-18",
+      "category": "Diplomacy",
+      "summary": "Iran's Deputy Foreign Minister Saeed Khatibzadeh participated in the Antalya Diplomacy Forum in Turkey as regional tensions remain high."
+    },
+    {
+      "title": "WHO driver killed by Israeli gunfire in Gaza, relatives say",
+      "source": "CNN",
+      "url": "https://www.cnn.com/world/middleeast/israel",
+      "published": "2026-04-08",
+      "category": "Humanitarian",
+      "summary": "A World Health Organization driver was reportedly killed by Israeli gunfire in Gaza according to relatives, adding to concerns about civilian casualties."
+    }
+  ]
+}

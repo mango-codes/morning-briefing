@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-19",
+  "source": "local-news-research",
+  "headlines": [
+    {
+      "title": "Port of Seattle Sets Record with 2.1M Expected Passengers for 2026 Alaska Cruise Season",
+      "source": "KING5 / Port of Seattle",
+      "category": "business",
+      "summary": "The Port of Seattle kicked off a historic 2026 Alaska cruise season with 330 vessel calls and a projected 2.1 million passengers—the highest totals in the port's history. The season runs through October 11 and includes two new cruise lines. Last year saw 1.9 million passengers and 298 port calls."
+    },
+    {
+      "title": "Mayor Katie Wilson Limits CCTV Use for 2026 World Cup, Cameras Only Activated for Credible Threats",
+      "source": "KIRO 7",
+      "category": "city politics",
+      "summary": "Seattle Police Department announced it will not use CCTV cameras to monitor World Cup crowds unless there's a credible threat, following a directive from Mayor Wilson. The World Cup starts June 15 at Lumen Field with a match between Egypt and Belgium, expected to draw hundreds of thousands of fans from 180 countries. SPD Chief Shon Barnes defended the Real Time Crime Center, noting officers are three times more likely to make arrests when it's involved."
+    },
+    {
+      "title": "Groups Call on Seattle Mayor to Choose 'Community Not Cameras' in Real Time Crime Center Expansion",
+      "source": "Capitol Hill Seattle News",
+      "category": "city politics",
+      "summary": "A coalition of social justice and labor groups is calling on Mayor Katie Wilson to permanently cancel expansion plans for SPD's camera surveillance system to Capitol Hill and the Central District. The groups are concerned about privacy and potential misuse of footage by federal agents for immigration enforcement."
+    },
+    {
+      "title": "Only 8 Metro Fare Enforcement Citations Given Across Nearly a Year—None Were Paid",
+      "source": "KOMO News",
+      "category": "transportation",
+      "summary": "Nearly a year after King County Metro reinstated fare enforcement, data shows just eight citations were issued between May 2025 and December 2025—and none have been paid. Metro employs about 30 fare enforcement officers logging 1,200 hours weekly, yet roughly one-third of riders are estimated to not pay fares. The agency plans to conduct an onboard survey in 2026 to better understand why some riders don't pay."
+    },
+    {
+      "title": "Seattle City Council Set to Send $480M Library Levy Proposal to Voters",
+      "source": "Capitol Hill Seattle News",
+      "category": "city politics",
+      "summary": "The Seattle City Council approved legislation paving the way for a proposed $410-480 million library levy to appear on the summer ballot. The levy would fund library operations, capital improvements, and expanded services across the Seattle Public Library system."
+    },
+    {
+      "title": "SPD Holding 'Our City, Our Safety' Community Meeting for East Precinct Neighborhoods",
+      "source": "Capitol Hill Seattle News",
+      "category": "public safety",
+      "summary": "Seattle Police Department held a community safety meeting at Miller Community Center on April 14 as part of a new monthly 'Our City, Our Safety' conversation series. The meetings aim to increase transparency and dialogue between police and residents in Capitol Hill and surrounding neighborhoods."
+    },
+    {
+      "title": "Seattle Cherry Blossom & Japanese Cultural Festival Returns April 10-12",
+      "source": "Seattle Center",
+      "category": "community events",
+      "summary": "The annual Seattle Cherry Blossom & Japanese Cultural Festival took place at Seattle Center, featuring Taiko drums, contemporary Japanese arts, traditional tea ceremonies, and celebrating the deep friendship between Seattle and Japan. The festival is part of the Seattle Center Festál series."
+    },
+    {
+      "title": "Seattle Weather: Mild Spring Temperatures Continue with Highs in the 60s",
+      "source": "AccuWeather",
+      "category": "weather",
+      "summary": "Seattle's April 2026 forecast shows daily high temperatures ranging from 58°F to 71°F, with overnight lows between 46°F and 52°F. The average high for April is 65°F. Conditions are typical for spring in the Pacific Northwest with mild temperatures and occasional showers."
+    },
+    {
+      "title": "Seattle Police Chief Touts 2025 Crime Reduction, Outlines 2026 Plan",
+      "source": "Everett Post / The Center Square",
+      "category": "public safety",
+      "summary": "SPD Chief Shon Barnes reported an 18% overall reduction in crime citywide in 2025, with 37 homicides—36% fewer than the 58 in 2024. The 2026 plan focuses on continuing to reduce crime, expanding community policing, and increasing officer staffing. Downtown crime reports were down 27% from 2022."
+    },
+    {
+      "title": "Transportation Chair Calls for Performance Audit of City's Traffic Safety Goals",
+      "source": "Capitol Hill Seattle News",
+      "category": "transportation",
+      "summary": "Seattle City Council Transportation Chair Rob Saka called for a comprehensive performance audit of the city's Vision Zero traffic safety goals with four years remaining until the 2030 deadline. The review aims to implement data-driven adjustments to enhance road safety for all residents."
+    }
+  ]
+}

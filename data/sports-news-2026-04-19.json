@@ -1,0 +1,224 @@
+{
+  "date": "2026-04-19",
+  "source": "sports-news-research",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners snap four-game losing streak with 7-3 win over Rangers",
+        "George Kirby delivers solid 5.2 innings with 5 strikeouts",
+        "Luke Raley hits 5th home run of the season",
+        "Bryce Miller begins rehab assignment from oblique strain",
+        "J.P. Crawford recovering from shoulder inflammation in Arizona"
+      ],
+      "details": {
+        "keyUpdates": [
+          "George Kirby earned his 3rd win of the season (3-2) with 5.2 innings of one-run ball",
+          "Luke Raley continues torrid start: .318/.375/.636 with 5 HR and 13 RBI",
+          "Cole Young went 2-for-3 with 2 RBI, a walk, and his first stolen base of the season",
+          "Brendan Donovan day-to-day with left hip tightness",
+          "Bryce Miller (oblique) threw first rehab start with increased velocity",
+          "Andrés Muñoz earned the save, striking out the only batter he faced"
+        ],
+        "situation": "Mariners are 9-13 on the season after snapping a four-game skid. The team is dealing with early-season injuries to key players but showing signs of life with young prospects like Cole Young contributing.",
+        "record": "9-13",
+        "standing": "4th in AL West"
+      },
+      "last_game": {
+        "date": "2026-04-18",
+        "opponent": "Texas Rangers",
+        "result": "W 7-3",
+        "location": "Home (T-Mobile Park)",
+        "highlights": "George Kirby pitched 5.2 innings allowing 1 run; Luke Raley hit his 5th home run; Cole Young drove in 2 runs and stole a base"
+      },
+      "next_game": {
+        "date": "2026-04-19",
+        "opponent": "Texas Rangers",
+        "time": "4:10 PM PDT",
+        "location": "Home (T-Mobile Park)",
+        "note": "Series rubber match - winner takes the three-game series"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks begin voluntary offseason program on April 20",
+        "Jaxon Smith-Njigba signed to multi-year extension",
+        "Linebacker Chazz Surratt re-signed",
+        "Free agency tracker: Key roster moves continue"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Voluntary offseason workout program begins April 20, 2026",
+          "All-Pro receiver Jaxon Smith-Njigba signed multi-year extension",
+          "Linebacker Chazz Surratt re-signed",
+          "Special teams standout Brady Russell signed to two-year deal",
+          "Cornerback depth being evaluated after roster moves"
+        ],
+        "situation": "Seahawks are in offseason mode preparing for the 2026 season. Key extensions and re-signings have prioritized keeping the core together. The team will open the 2026 season on September 9.",
+        "record": "2025 Season: Super Bowl LX Champions",
+        "standing": "NFC West Champions"
+      },
+      "last_game": {
+        "date": "2026-02-08",
+        "opponent": "Super Bowl LX",
+        "result": "World Champions",
+        "location": "San Francisco",
+        "highlights": "Seahawks won Super Bowl LX - parade held February 11 in Seattle"
+      },
+      "next_game": {
+        "date": "2026-09-09",
+        "opponent": "TBD",
+        "time": "Season Opener",
+        "location": "TBD",
+        "note": "2026 NFL season kickoff"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken lose season finale 2-0 to Avalanche, finish 34-37-11",
+        "Miss playoffs for 4th time in 5 years",
+        "President Ron Francis stepping down",
+        "Goalie prospect Victor Ostman makes NHL debut in finale"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Lost final game 2-0 to Colorado Avalanche on April 16",
+          "Finished season with record of 34-37-11 (79 points)",
+          "Missed playoffs for 4th time in franchise's 5-year history",
+          "President Ron Francis announced he is stepping down",
+          "19-year-old prospect Berkly Catton showing development",
+          "Goalie Joey Daccord nominated for King Clancy Memorial Trophy for humanitarian work",
+          "Victor Ostman got first NHL start in season finale; parents traveled from Stockholm to attend"
+        ],
+        "situation": "Disappointing season ends with Kraken missing playoffs again. Front office changes are underway with Ron Francis stepping down. Team finished in bottom eight of league standings. Young prospects like Shane Wright and Berkly Catton provide hope for future.",
+        "record": "34-37-11",
+        "standing": "6th in Pacific Division (missed playoffs)"
+      },
+      "last_game": {
+        "date": "2026-04-16",
+        "opponent": "Colorado Avalanche",
+        "result": "L 0-2",
+        "location": "Away (Ball Arena)",
+        "highlights": "Season finale; Victor Ostman made NHL debut; Kraken shut out"
+      },
+      "next_game": {
+        "date": "2026-10-2026",
+        "opponent": "TBD",
+        "time": "2026-27 Season Opener",
+        "location": "TBD",
+        "note": "Offseason begins with front office changes expected"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "2026 MLS season underway",
+        "Sounders defeated Colorado Rapids 2-0 in February",
+        "Final season under spring-autumn format before MLS switches to autumn-spring schedule"
+      ],
+      "details": {
+        "keyUpdates": [
+          "2026 season is the last under traditional spring-autumn MLS format",
+          "League switching to autumn-spring schedule for 2027",
+          "Started season with 2-0 win over Colorado Rapids on Feb 23",
+          "All matches available on Apple TV; select matches on FOX"
+        ],
+        "situation": "Sounders are competing in the 2026 MLS season. This is a transitional year as the league prepares to shift to a fall-spring schedule format. The team qualified for 2025 playoffs but was eliminated in first round by Minnesota United.",
+        "record": "2026 Season In Progress",
+        "standing": "Western Conference"
+      },
+      "last_game": {
+        "date": "2026-02-23",
+        "opponent": "Colorado Rapids",
+        "result": "W 2-0",
+        "location": "Home",
+        "highlights": "Season opener victory"
+      },
+      "next_game": {
+        "date": "2026",
+        "opponent": "TBD",
+        "time": "Regular Season",
+        "location": "TBD",
+        "note": "Full schedule includes matches through October/November"
+      }
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        "Storm select Awa Fam with No. 3 overall pick in 2026 WNBA Draft",
+        "Spanish center joins young core with Dominique Malonga",
+        "Five players signed to training camp contracts",
+        "Brittney Sykes acquired in trade with Washington Mystics"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Drafted 6'4\" Spanish center Awa Fam 3rd overall in 2026 WNBA Draft",
+          "Awa Fam is 7th international player drafted in Top 3 in WNBA history",
+          "Signed five players to training camp contracts: Rennia Davis, Beatrice Mompremier, Jaelyn Brown, Elle Ladine, Jalyn Brown",
+          "Acquired Brittney Sykes from Washington Mystics in exchange for Alysha Clark and 2026 first-round pick",
+          "Awa Fam signed rookie scale contract on April 16"
+        ],
+        "situation": "Storm are building for the future with a strong draft selection. Awa Fam joins Dominique Malonga to form a young, formidable frontcourt. Training camp roster taking shape with multiple signings.",
+        "record": "2026 Season Preparing",
+        "standing": "WNBA"
+      },
+      "last_game": {
+        "date": "2025",
+        "opponent": "2025 Season",
+        "result": "Completed",
+        "location": "N/A",
+        "highlights": "Previous season concluded; team preparing for 2026 campaign"
+      },
+      "next_game": {
+        "date": "2026-05-2026",
+        "opponent": "TBD",
+        "time": "2026 Season Opener",
+        "location": "TBD",
+        "note": "Training camp underway; regular season begins in May"
+      }
+    },
+    {
+      "name": "Washington Huskies",
+      "league": "NCAA (Big Ten)",
+      "headlines": [
+        "2026 football schedule unveiled",
+        "Spring game 'Dawgs After Dark' took place April 2",
+        "First year in Big Ten conference",
+        "Full schedule includes matchups against Penn State, Oregon, USC"
+      ],
+      "details": {
+        "keyUpdates": [
+          "UW Football Coaches Clinic featured stellar speaker lineup in early April",
+          "Spring game 'Dawgs After Dark' held April 2",
+          "2026 schedule opens Sept. 5 vs Washington State",
+          "Key matchups: Penn State (Nov 7), at Oregon (Nov 28), at USC (Oct 3), Iowa (Oct 10)",
+          "First season as member of Big Ten conference"
+        ],
+        "situation": "Huskies are transitioning to the Big Ten conference for 2026 season. Spring practices concluded with the annual spring game. Full schedule features challenging conference matchups including road games at USC, Nebraska, Michigan State, and Oregon.",
+        "record": "Spring 2026",
+        "standing": "Big Ten Conference"
+      },
+      "last_game": {
+        "date": "2026-04-02",
+        "opponent": "Spring Game (Dawgs After Dark)",
+        "result": "Completed",
+        "location": "Home (Husky Stadium)",
+        "highlights": "Annual spring football game concluded spring practice period"
+      },
+      "next_game": {
+        "date": "2026-09-05",
+        "opponent": "Washington State",
+        "time": "Season Opener",
+        "location": "Home",
+        "note": "Apple Cup rivalry opens the season; first game as Big Ten member"
+      }
+    }
+  ]
+}

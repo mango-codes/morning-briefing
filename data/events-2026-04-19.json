@@ -1,0 +1,166 @@
+{
+  "date": "2026-04-19",
+  "source": "events-research",
+  "events": [
+    {
+      "name": "Les Misérables",
+      "time": "1:00 PM & 6:30 PM",
+      "venue": "The Paramount Theatre",
+      "category": "Theater/Broadway",
+      "description": "The world's most popular musical, seen by over 130 million people worldwide in 53 countries. Final weekend of performances.",
+      "url": "https://www.stgpresents.org/events/les-miserables/"
+    },
+    {
+      "name": "Margaret Cho - Live Comedy",
+      "time": "7:00 PM",
+      "venue": "The Moore Theatre",
+      "category": "Comedy",
+      "description": "Comedian Margaret Cho brings her live comedy show to Seattle.",
+      "url": "https://www.stgpresents.org/events/margaret-cho/"
+    },
+    {
+      "name": "Behemoth and Deicide",
+      "time": "Evening",
+      "venue": "Showbox SoDo",
+      "category": "Music/Concert",
+      "description": "Heavy metal concert featuring Behemoth and Deicide.",
+      "url": "https://www.songkick.com/concerts/42986567-behemoth-at-showbox-sodo"
+    },
+    {
+      "name": "Bethel Music",
+      "time": "Evening",
+      "venue": "Showbox at the Market",
+      "category": "Music/Concert",
+      "description": "Christian worship music collective performing live.",
+      "url": "https://www.songkick.com/concerts/42947246-bethel-music-at-showbox-at-the-market"
+    },
+    {
+      "name": "Felix Cartal",
+      "time": "Evening",
+      "venue": "On the Hiyu, MOHAI",
+      "category": "Music/Concert",
+      "description": "Electronic dance music DJ set at MOHAI.",
+      "url": "https://www.songkick.com/concerts/43031687-felix-cartal-at-on-the-hiyu-mohai"
+    },
+    {
+      "name": "10 Ft. Ganja Plant with Double Tiger",
+      "time": "Evening",
+      "venue": "Nectar Lounge",
+      "category": "Music/Concert",
+      "description": "Reggae/dub music featuring 10 Ft. Ganja Plant and Double Tiger.",
+      "url": "https://www.songkick.com/concerts/43102744-10-ft-ganja-plant-at-nectar-lounge"
+    },
+    {
+      "name": "Art Brut",
+      "time": "Evening",
+      "venue": "Sunset Tavern",
+      "category": "Music/Concert",
+      "description": "Indie rock band from the UK performing live.",
+      "url": "https://www.songkick.com/concerts/42884538-art-brut-at-sunset-tavern"
+    },
+    {
+      "name": "Fantasy Fangirls Podcast - Live",
+      "time": "6:00 PM",
+      "venue": "The Neptune Theatre",
+      "category": "Podcast/Special Event",
+      "description": "Live recording of the Fantasy Fangirls Podcast.",
+      "url": "https://www.stgpresents.org/events/fantasy-fangirls-podcast/"
+    },
+    {
+      "name": "DANCE This Spring Workshop",
+      "time": "12:00 PM - 5:00 PM",
+      "venue": "Kerry Hall",
+      "category": "Dance/Workshop",
+      "description": "Spring dance workshop for all skill levels.",
+      "url": "https://www.stgpresents.org/events/dance-this-spring-workshop/"
+    },
+    {
+      "name": "Broadway + Performing Arts Workshop Series",
+      "time": "9:30 AM - 11:00 AM",
+      "venue": "Kerry Hall",
+      "category": "Theater/Workshop",
+      "description": "Workshop series for Broadway and performing arts enthusiasts.",
+      "url": "https://www.stgpresents.org/events/broadway-performing-arts-workshop-series/"
+    },
+    {
+      "name": "Seattle Restaurant Week",
+      "time": "All Day",
+      "venue": "Various Restaurants",
+      "category": "Food/Festival",
+      "description": "Two-week culinary event with curated menus at set price points ($20, $35, $50, $65).",
+      "url": "https://srweek.org"
+    },
+    {
+      "name": "Seattle Cocktail Week",
+      "time": "Various Times",
+      "venue": "Various Venues",
+      "category": "Food & Drink/Festival",
+      "description": "Drink-forward events including tarot nights, spirits tastings, and creative cocktail pairings.",
+      "url": "https://seattlecocktailweek.com/events"
+    },
+    {
+      "name": "Hatsune Miku Expo 2026",
+      "time": "Evening (April 20)",
+      "venue": "WAMU Theater",
+      "category": "Music/Concert",
+      "description": "Virtual pop star Hatsune Miku's world tour featuring holographic performances.",
+      "url": "https://www.songkick.com/festivals/3600839-hatsune-miku-expo/id/42856964-hatsune-miku-expo-2026"
+    },
+    {
+      "name": "Cory Wong with Devon Gilfillian",
+      "time": "8:30 PM (April 21)",
+      "venue": "The Paramount Theatre",
+      "category": "Music/Concert",
+      "description": "Funk guitarist Cory Wong brings his high-energy show to Seattle.",
+      "url": "https://www.stgpresents.org/events/cory-wong/"
+    },
+    {
+      "name": "Mae Martin: The Possum",
+      "time": "7:00 PM & 9:45 PM (April 23)",
+      "venue": "The Neptune Theatre",
+      "category": "Comedy",
+      "description": "Comedian Mae Martin brings their new show 'The Possum' to Seattle.",
+      "url": "https://www.stgpresents.org/events/mae-martin/"
+    },
+    {
+      "name": "Electric Callboy with Scene Queen",
+      "time": "7:00 PM (April 24)",
+      "venue": "The Paramount Theatre",
+      "category": "Music/Concert",
+      "description": "German electronicore band performing with special guest Scene Queen.",
+      "url": "https://www.stgpresents.org/events/electric-callboy/"
+    },
+    {
+      "name": "Ben Schwartz & Friends",
+      "time": "8:00 PM (April 25)",
+      "venue": "The Paramount Theatre",
+      "category": "Comedy",
+      "description": "Comedian and actor Ben Schwartz brings his improv show to Seattle.",
+      "url": "https://www.stgpresents.org/events/ben-schwartz-friends/"
+    },
+    {
+      "name": "Laser 420",
+      "time": "7:30 PM (April 20)",
+      "venue": "Pacific Science Center",
+      "category": "Special Event",
+      "description": "Laser dome show celebrating 4/20 with music from Wu-Tang Clan, Childish Gambino, and Luniz.",
+      "url": "https://pacificsciencecenter.org/events/laser-420/"
+    },
+    {
+      "name": "The Sleeping Beauty by International Ballet Stars",
+      "time": "7:00 PM (April 26)",
+      "venue": "The Paramount Theatre",
+      "category": "Dance/Ballet",
+      "description": "Classic ballet performance by international ballet stars.",
+      "url": "https://www.stgpresents.org/events/the-sleeping-beauty-by-international-ballet-stars/"
+    },
+    {
+      "name": "Seattle Sounders FC vs FC Dallas",
+      "time": "7:30 PM (April 25)",
+      "venue": "Lumen Field",
+      "category": "Sports/Soccer",
+      "description": "MLS regular season match featuring Seattle Sounders FC.",
+      "url": "https://www.soundersfc.com/schedule/matches"
+    }
+  ]
+}
