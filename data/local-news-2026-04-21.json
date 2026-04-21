@@ -1,0 +1,34 @@
+{
+  "date": "2026-04-21",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle Weather: Mild Spring Conditions Continue",
+      "summary": "April temperatures in Seattle are ranging from highs of 58-71°F with overnight lows between 46-52°F. The forecast shows typical spring variability with a mix of sun and clouds.",
+      "source": "AccuWeather",
+      "url": "https://www.accuweather.com/en/us/seattle/98104/april-weather/351409",
+      "category": "weather"
+    },
+    {
+      "title": "WSDOT Real-Time Traffic Data Available for Commuters",
+      "summary": "Washington State Department of Transportation continues providing real-time travel data through interactive maps and route-based alerts for drivers across the state.",
+      "source": "WSDOT",
+      "url": "https://wsdot.com/travel/real-time/",
+      "category": "traffic"
+    },
+    {
+      "title": "Seattle Times Traffic Section Updates",
+      "summary": "Local traffic coverage includes bicycle routes, mountain pass conditions, border crossings, and highway camera feeds for comprehensive travel planning.",
+      "source": "Seattle Times",
+      "url": "https://www.seattletimes.com/traffic/",
+      "category": "traffic"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly cloudy with mild spring temperatures. Highs in the mid-60s, lows in the upper 40s. Typical April variability with occasional showers possible.",
+    "high": 65,
+    "low": 49,
+    "conditions": "Partly cloudy",
+    "alert": null
+  }
+}

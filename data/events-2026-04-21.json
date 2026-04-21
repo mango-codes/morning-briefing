@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-21",
+  "category": "events",
+  "today": [
+    {
+      "title": "Cory Wong featuring Devon Gilfillian and Antwaun Stanley",
+      "type": "concert",
+      "time": "8:30 PM",
+      "venue": "Paramount Theatre",
+      "description": "Funk guitarist Cory Wong brings his high-energy show to Seattle with special guests.",
+      "url": "https://www.ticketmaster.com/discover/seattle",
+      "price": "$45+"
+    },
+    {
+      "title": "Comedy Show Wednesday Night Comedy Mix",
+      "type": "comedy",
+      "time": "8:00 PM",
+      "venue": "Laughs Comedy Club - Seattle",
+      "description": "Weekly comedy showcase featuring local and touring comedians.",
+      "url": "https://www.eventbrite.com/d/wa--seattle/comedy-shows/",
+      "price": "$20+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Dude Dad's Parents Night Out",
+      "date": "Friday",
+      "type": "comedy",
+      "venue": "Pantages Theater, Tacoma",
+      "url": "https://www.ticketmaster.com/discover/seattle"
+    },
+    {
+      "title": "The Big Taste",
+      "date": "Saturday",
+      "type": "festival",
+      "venue": "Block 41, Seattle",
+      "url": "https://www.events12.com/seattle/"
+    },
+    {
+      "title": "Augustine Strings Guitar Festival",
+      "date": "Weekend",
+      "type": "festival",
+      "venue": "Multiple venues",
+      "url": "https://www.bandsintown.com/c/seattle-wa"
+    }
+  ]
+}

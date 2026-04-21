@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-21",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Mariners Fall to Athletics 6-4",
+          "summary": "Carlos Cortes, Nick Kurtz and Shea Langeliers each hit solo homers as Oakland overcame an early three-run deficit to defeat Seattle.",
+          "url": "https://www.espn.com/mlb/recap?gameId=401815024"
+        },
+        {
+          "title": "Mariners Finalizing Minor League Deal with Mitch Garver",
+          "summary": "The Seattle Mariners and catcher Mitch Garver are working on a minor league contract agreement.",
+          "url": "https://www.seattlepi.com/sports/"
+        }
+      ],
+      "last_game": {
+        "opponent": "Athletics",
+        "result": "L 4-6",
+        "highlights": "Mariners jumped to early 3-run lead but Oakland rallied with 3 home runs"
+      },
+      "next_game": {
+        "opponent": "Athletics",
+        "date": "Today 1:10 PM",
+        "location": "Home"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks Eyeing Versatile Defensive Backs in Draft",
+          "summary": "Brock Huard highlighted Arizona's Treydan Stukes as a speedy, playmaking chess piece for the Seahawks in the upcoming NFL Draft.",
+          "url": "https://sports.mynorthwest.com/nfl/seattle-seahawks"
+        }
+      ],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [],
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

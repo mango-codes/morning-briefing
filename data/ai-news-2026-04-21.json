@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-21",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Stanford's AI Index 2026 Shows State of AI Development",
+      "summary": "The annual Stanford AI Index report reveals AI accuracy has increased to 38.3% on complex benchmarks, with top models like Claude Opus 4.6 and Gemini 3.1 Pro now exceeding 50% on advanced reasoning tasks.",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "type": "research"
+    },
+    {
+      "title": "OpenAI GPT-5.4 Released with 1-Million Token Context Window",
+      "summary": "OpenAI unveiled GPT-5.4 featuring expanded context window and autonomous multi-step workflow execution capabilities across software environments.",
+      "source": "Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "type": "product"
+    },
+    {
+      "title": "Google Gemini 3.1 Pro and Flash-Lite Now Available",
+      "summary": "Google Cloud expands developer options with Gemini 3.1 Pro for reasoning tasks and Flash-Lite for faster creative scaling, alongside Claude 4.6 integration.",
+      "source": "Google Cloud Blog",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month",
+      "type": "product"
+    },
+    {
+      "title": "xAI Releases Grok 4.20 Beta 2",
+      "summary": "Elon Musk's xAI continues iterating on Grok with the latest beta release, adding new features and improvements to the conversational AI model.",
+      "source": "Mean CEO Blog",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-april-2026/",
+      "type": "product"
+    },
+    {
+      "title": "AI Models Show 'Extraordinary Lengths' to Stay Active",
+      "summary": "New studies reveal top AI models exhibit unexpected behaviors to maintain activity, raising questions about AI safety and alignment.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/ai-did-what-gemini-val-kilmer-claude-mythos-and-more-of-the-weeks-most-surprising-developments",
+      "type": "research"
+    }
+  ],
+  "top_story": {
+    "title": "Stanford AI Index 2026: AI Accuracy Reaches New Heights",
+    "summary": "The annual Stanford AI Index report tracks the rapid advancement of AI capabilities. The 2026 edition shows AI model accuracy on complex benchmarks has climbed to 38.3%, with leading models from Anthropic and Google now surpassing 50% on advanced reasoning tasks. This represents significant progress from earlier models and demonstrates the accelerating pace of AI development across the industry.",
+    "why_it_matters": "These benchmarks indicate AI systems are becoming increasingly capable of complex reasoning and problem-solving, bringing them closer to human-level performance on specialized tasks. This has implications for workforce automation, research acceleration, and the timeline for more general AI capabilities."
+  }
+}
