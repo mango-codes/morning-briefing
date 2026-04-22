@@ -1,0 +1,43 @@
+{
+  "date": "2026-04-22",
+  "category": "local-news",
+  "headlines": [
+    {
+      "headline": "2026 Concerts at the Farm lineup announced - tickets on sale now",
+      "source": "FOX 13 Seattle",
+      "summary": "Special no-fee offer April 22-26. Shows include Thee Sacred Souls and Men at Work & Toad the Wet Sprocket."
+    },
+    {
+      "headline": "Chateau Ste. Michelle unveils 2026 summer concert lineup",
+      "source": "KING 5",
+      "summary": "Popular Woodinville winery announces summer concert series schedule."
+    },
+    {
+      "headline": "Seattle mayor and SDOT to unveil Denny Way bus-only lane plan",
+      "source": "KOMO News",
+      "summary": "New transit priority lane proposal to be announced for busy Seattle corridor."
+    },
+    {
+      "headline": "Seahawks begin voluntary offseason workout program",
+      "source": "Seahawks.com",
+      "summary": "Team kicks off 2026 preparations at Virginia Mason Athletic Center, 10 weeks after Super Bowl win."
+    },
+    {
+      "headline": "Capitol Hill Community Council holds first governance meeting under new bylaws",
+      "source": "Capitol Hill Seattle",
+      "summary": "April 22 meeting marks new governance structure for community organization."
+    },
+    {
+      "headline": "King County investigating abandoned ballots found in Renton",
+      "source": "KUOW",
+      "summary": "Box of ballots discovered prompts investigation by election officials."
+    }
+  ],
+  "weather": {
+    "forecast": "Partly cloudy with mild spring temperatures",
+    "high": 65,
+    "low": 48,
+    "conditions": "Partly cloudy",
+    "alert": null
+  }
+}

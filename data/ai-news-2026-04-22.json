@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-22",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "headline": "Lloyds Banking Group introduces AI investment tool for customers",
+      "source": "Reuters",
+      "summary": "First UK lender to use AI for investment decisions as scrutiny on AI in financial advice grows."
+    },
+    {
+      "headline": "AI eliminating jobs on Wall Street - major bank cuts 1,000 positions",
+      "source": "New York Times",
+      "summary": "Bank cites 'eliminating work and applying technology' through AI for attrition-based job cuts."
+    },
+    {
+      "headline": "Top law firm Sullivan & Cromwell apologizes for AI hallucinations in court filing",
+      "source": "New York Times",
+      "summary": "Lawyers submitted court filing with fake citations created by AI, highlighting ongoing reliability concerns."
+    },
+    {
+      "headline": "Snap CEO announces 1,000 layoffs, cites rapid AI advancements",
+      "source": "Crescendo AI",
+      "summary": "Roughly quarter of planned headcount cut as AI changes workforce needs."
+    },
+    {
+      "headline": "PwC study: 75% of AI economic gains captured by just 20% of companies",
+      "source": "PwC",
+      "summary": "Leading companies focused on growth rather than just productivity are pulling ahead in AI returns."
+    },
+    {
+      "headline": "Generative AI now has 'seat in the war room' for military decisions",
+      "source": "MIT Technology Review",
+      "summary": "AI reshaping military intelligence sharing, Big Tech partnerships, and lethal decision-making processes."
+    },
+    {
+      "headline": "Software developer employment for ages 22-25 down 20% since 2022",
+      "source": "Stanford/MIT Technology Review",
+      "summary": "Study suggests AI beginning to affect young workers in specific professions."
+    }
+  ],
+  "top_story": {
+    "headline": "AI eliminating jobs on Wall Street - major bank cuts 1,000 positions",
+    "source": "New York Times",
+    "summary": "A major bank's bottom line was helped by shedding 1,000 jobs through attrition by 'eliminating work and applying technology,' which executives specified was artificial intelligence. This marks a significant moment in AI's impact on high-skill professional jobs."
+  }
+}

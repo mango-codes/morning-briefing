@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-22",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Athletics defeat Mariners 5-2 on April 21 - Mariners fall to 10-15",
+        "Rob Refsnyder breaks slump with first-pitch leadoff home run after returning from paternity list",
+        "Mariners vs Athletics today at 1:10 PM PDT - final game of series"
+      ],
+      "last_game": {
+        "opponent": "Athletics",
+        "result": "L 5-2",
+        "date": "2026-04-21"
+      },
+      "next_game": {
+        "opponent": "Athletics",
+        "date": "2026-04-22",
+        "time": "1:10 PM PDT"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks begin voluntary offseason workout program April 20",
+        "Team begins 2026 preparations 10 weeks after Super Bowl win",
+        "John Schneider and Mike Macdonald discuss upcoming NFL Draft"
+      ],
+      "last_game": {
+        "opponent": "Super Bowl LIX",
+        "result": "Champions",
+        "date": "2026-02"
+      },
+      "next_game": {
+        "opponent": "2026 Season Opener",
+        "date": "September 2026"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "NHL regular season concluded",
+        "Awaiting playoff picture clarity"
+      ],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "MLS season ongoing",
+        "Home games rescheduled to accommodate Seahawks Week 1 opener"
+      ],
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

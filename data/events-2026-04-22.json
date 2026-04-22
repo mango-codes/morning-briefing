@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-22",
+  "category": "events",
+  "today": [
+    {
+      "name": "Capitol Hill Community Council Governance Meeting",
+      "time": "Evening",
+      "location": "Capitol Hill",
+      "description": "First community governance meeting since CHCC redid its bylaws - open discussion for members"
+    },
+    {
+      "name": "Fair Housing Month Film Screening & Panel",
+      "time": "Various times",
+      "location": "Seattle area",
+      "description": "Film screening and panel discussion as part of Fair Housing Month"
+    }
+  ],
+  "this_weekend": [
+    {
+      "name": "Carnival of Cocktails",
+      "date": "Saturday, April 25",
+      "location": "Pacific Place (4 floors)",
+      "description": "Main event of Seattle Cocktail Week - bigger than ever with four floors of tastings"
+    },
+    {
+      "name": "Seattle Torrent vs Minnesota Frost",
+      "date": "This week",
+      "location": "Climate Pledge Arena",
+      "description": "PWHL hockey action at Seattle Center"
+    },
+    {
+      "name": "Dancing With The Stars: Live! 2026 Tour",
+      "date": "Multiple dates",
+      "location": "Wamu Theater",
+      "description": "Live tour performance of popular dance competition show"
+    },
+    {
+      "name": "Seattle Cocktail Week",
+      "date": "Through Sunday",
+      "location": "Various venues",
+      "description": "Annual celebration of Seattle's cocktail culture"
+    }
+  ]
+}
