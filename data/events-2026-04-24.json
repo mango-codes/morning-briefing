@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-24",
+  "category": "events",
+  "events": [
+    {
+      "name": "Electric Callboy: Tanzneid World Tour",
+      "time": "7:00 PM",
+      "venue": "Paramount Theatre, Seattle",
+      "category": "Concert/Live Music",
+      "description": "German electronicore band Electric Callboy brings their high-energy Tanzneid World Tour to Seattle. Expect an electrifying set with hits plus new releases like 'Elevator Operator' and 'Revery.'"
+    },
+    {
+      "name": "Beauz",
+      "time": "Evening",
+      "venue": "Showbox, Seattle",
+      "category": "Concert/Live Music",
+      "description": "Electronic music performance at the iconic Showbox venue."
+    },
+    {
+      "name": "Pat Metheny",
+      "time": "Evening (through April 26)",
+      "venue": "Jazz Alley, Seattle",
+      "category": "Concert/Live Music",
+      "description": "Legendary jazz guitarist Pat Metheny performs a multi-night residency at Dimitriou's Jazz Alley."
+    },
+    {
+      "name": "César Franck — Symphony in D minor",
+      "time": "7:30 PM - 9:30 PM",
+      "venue": "Epiphany Parish of Seattle",
+      "category": "Concert/Live Music",
+      "description": "Classical music performance featuring Franck's Symphony in D minor. Tickets $40.50-$155.50."
+    },
+    {
+      "name": "Seattle Seawolves vs. Chicago Hounds",
+      "time": "7:00 PM",
+      "venue": "Starfire Stadium, Tukwila",
+      "category": "Sports",
+      "description": "Major League Rugby match as the Seattle Seawolves host the Chicago Hounds. 'Run with the Pack' fan event."
+    },
+    {
+      "name": "Washington Huskies Softball vs. UCLA Bruins",
+      "time": "6:00 PM",
+      "venue": "Husky Softball Stadium, Seattle",
+      "category": "Sports",
+      "description": "NCAA softball matchup between the Washington Huskies and UCLA Bruins."
+    },
+    {
+      "name": "Cooper Tires PBR Tacoma",
+      "time": "6:45 PM",
+      "venue": "Tacoma Dome, Tacoma",
+      "category": "Sports",
+      "description": "Professional Bull Riders event featuring top bull riding action."
+    },
+    {
+      "name": "Dude Dad's Parents Night Out",
+      "time": "7:00 PM",
+      "venue": "Pantages Theater, Tacoma",
+      "category": "Comedy",
+      "description": "Comedy show by Dude Dad (Taylor Calmus), featuring his popular parenting humor. Ages 18+."
+    },
+    {
+      "name": "Chelcie Lynn - Trailer Trash Tammy",
+      "time": "7:00 PM",
+      "venue": "Emerald City Comedy Club, Seattle",
+      "category": "Comedy",
+      "description": "Stand-up comedy from Chelcie Lynn, known for her viral 'Trailer Trash Tammy' character."
+    },
+    {
+      "name": "Sweet Charity",
+      "time": "Evening",
+      "venue": "Tacoma Musical Playhouse, Tacoma",
+      "category": "Theater",
+      "description": "High-energy 1960s musical set in New York. Tony Award-winning production."
+    },
+    {
+      "name": "Victorian Heritage Festival",
+      "time": "All Day (through April 26)",
+      "venue": "Port Townsend",
+      "category": "Festival/Fair",
+      "description": "Annual festival featuring walking tours, teas, opening houses, Victorian fashion show, and contra dance. Festival headquarters at Cotton Building, 607 Water St."
+    },
+    {
+      "name": "Evergreen Spring Home Show",
+      "time": "All Day (April 24-26)",
+      "venue": "Evergreen State Fairgrounds, Monroe",
+      "category": "Festival/Fair",
+      "description": "Spring home show featuring vendors, demonstrations, and home improvement exhibits."
+    },
+    {
+      "name": "City Nature Challenge - Guided Walk",
+      "time": "3:30 PM - 5:30 PM",
+      "venue": "Delridge Community Center Outdoor Space, Seattle",
+      "category": "Community",
+      "description": "Participate in a guided walk to learn about the City Nature Challenge as part of Earth Month activities with Seattle Parks and Recreation."
+    },
+    {
+      "name": "Washington State Annual History Awards",
+      "time": "7:30 PM",
+      "venue": "Town Hall Seattle",
+      "category": "Community",
+      "description": "Annual awards honoring writers, educators, and cultural leaders shaping how Washington State understands its past."
+    },
+    {
+      "name": "Skagit Valley Tulip Festival",
+      "time": "All Day (through April 30)",
+      "venue": "Mount Vernon (Various Locations)",
+      "category": "Festival/Fair",
+      "description": "Annual tulip festival featuring colorful tulip fields, art shows, and community events throughout the Skagit Valley."
+    }
+  ]
+}

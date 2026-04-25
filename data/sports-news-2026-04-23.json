@@ -1,0 +1,141 @@
+{
+  "date": "2026-04-23",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners walk off A's 5-4 on Wednesday with back-to-back-to-back hits from Raleigh, Rodriguez, and Naylor",
+        "Cal Raleigh homers in back-to-back games, showing signs of heating up",
+        "Alex Hoppe recalled from Triple-A Tacoma to reinforce bullpen",
+        "Bryce Miller making rehab start with Triple-A Tacoma, averaging 97.1 mph on fastball",
+        "Brendan Donovan placed on 10-day IL with left groin strain"
+      ],
+      "details": {
+        "keyUpdates": [
+          "The Mariners' offense finally delivered in the clutch with a walk-off win against the A's on April 22",
+          "Cal Raleigh appears to be heating up after homering in consecutive games",
+          "Bryce Miller is progressing well in rehab, showing promising velocity and pitch mix",
+          "Top prospect Colt Emerson's future with the organization is secure as he continues development"
+        ],
+        "situation": "The Mariners are showing signs of life after a slow start. The walk-off win against the A's demonstrated the heart of the order can deliver when it matters. Cal Raleigh's recent power surge is particularly encouraging.",
+        "today": "No game scheduled for April 23. The team has an off day before their next series."
+      },
+      "last_game": {
+        "date": "2026-04-22",
+        "opponent": "Oakland Athletics",
+        "result": "W 5-4",
+        "highlights": "Walk-off victory with consecutive hits from Cal Raleigh, Julio Rodriguez, and Josh Naylor in the bottom of the 9th"
+      },
+      "next_game": {
+        "date": "2026-04-24",
+        "opponent": "TBD",
+        "time": "TBD",
+        "location": "T-Mobile Park"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "2026 NFL Draft kicks off tonight in Pittsburgh - Round 1 begins April 23",
+        "Seahawks enter draft with only four picks over three days",
+        "Seahawks hold pick No. 32 in first round (last pick)",
+        "Team needs focus on running back and cornerback positions",
+        "Top targets include Notre Dame RB Jadarian Price and San Diego State CB Chris Johnson"
+      ],
+      "details": {
+        "keyUpdates": [
+          "The 2026 NFL Draft begins Thursday, April 23 at 5:00 PM PT from Pittsburgh",
+          "Seahawks have just four picks total, including No. 32 in the first round",
+          "Coming off Super Bowl championship, the roster is strong and picks are 'cherries on top'",
+          "Running back is the biggest need after losing Kenneth Walker III",
+          "Team may trade out of first round as they have done in the past"
+        ],
+        "situation": "The defending Super Bowl champion Seahawks are in a unique position with minimal draft capital but a loaded roster. They can afford to take best player available or trade back to accumulate more picks.",
+        "today": "Round 1 of the 2026 NFL Draft kicks off at 5:00 PM PT. Seahawks fans should settle in for a long evening as Seattle picks last at No. 32."
+      },
+      "last_game": {
+        "date": "2026-02-09",
+        "opponent": "Super Bowl LX",
+        "result": "Champions",
+        "highlights": "Seahawks captured Super Bowl title in February 2026"
+      },
+      "next_game": {
+        "date": "2026-09",
+        "opponent": "2026 Regular Season",
+        "time": "TBD",
+        "location": "Lumen Field"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken officially eliminated from playoff contention on April 11",
+        "Third consecutive season missing playoffs after 2022-23 postseason appearance",
+        "Team unraveled after Olympic break following strong first three quarters",
+        "Philipp Grubauer finished with 14 goals saved above expected - team best",
+        "Matty Beniers achieved second 50-point campaign of his career"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Eliminated from playoffs on April 11 when LA Kings defeated Edmonton Oilers",
+          "Goaltending was a bright spot - finished at .903 save percentage (8th in NHL)",
+          "Power play converted at 23% before Olympic break but cratered to 10.5% after",
+          "Young players like Berkly Catton (66 games) and Ryan Winterton made meaningful contributions",
+          "Team played meaningful games in April, sitting three points out of wild card on April 1"
+        ],
+        "situation": "The Kraken's season ended in disappointment after a promising start. They were in playoff contention until the Olympic break but collapsed down the stretch. The emergence of young talent and stabilizing goaltending are positives to build on for next season.",
+        "today": "Season has concluded. Team is in offseason mode with roster questions and coaching debates ahead."
+      },
+      "last_game": {
+        "date": "2026-04-11",
+        "opponent": "Calgary Flames",
+        "result": "L 4-1",
+        "highlights": "Season finale - team ran out of gas in final games after Olympic break"
+      },
+      "next_game": {
+        "date": "2026-10",
+        "opponent": "2026-27 Regular Season",
+        "time": "TBD",
+        "location": "Climate Pledge Arena"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders host FC Dallas on Saturday, April 25 at 7:30 PM PT at Lumen Field",
+        "Cristian Roldan named to MLS Team of the Matchday after brace vs St. Louis",
+        "Sounders dismantled St. Louis CITY SC 4-1 last weekend",
+        "Andrew Thomas ranks 3rd in MLS in Goals-Expected Goals (-3.02)",
+        "Sounders matches now re-air weekly on FOX 13+ starting April 21"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Sounders are 5-1-1 (16 points, 4th in West) heading into weekend match vs Dallas",
+          "Cristian Roldan delivered a masterclass performance with two goals against St. Louis",
+          "Goalkeeper Andrew Thomas has been outstanding in his first season as No. 1",
+          "Team has scored 7 goals in last 2 home games after scoring just 9 in 8 away matches",
+          "Sounders have lost just once to FC Dallas in last 10 meetings (6-1-3)"
+        ],
+        "situation": "The Sounders are in strong form early in the 2026 season, sitting 4th in the Western Conference. After a slow start on the road, the attack has exploded at home. Cristian Roldan is playing at an elite level.",
+        "today": "Preparing for Saturday's match vs FC Dallas at Lumen Field (7:30 PM PT). The team is well-rested after last weekend's dominant 4-1 victory."
+      },
+      "last_game": {
+        "date": "2026-04-18",
+        "opponent": "St. Louis CITY SC",
+        "result": "W 4-1",
+        "highlights": "Cristian Roldan scored twice, leading Sounders to emphatic home victory"
+      },
+      "next_game": {
+        "date": "2026-04-25",
+        "opponent": "FC Dallas",
+        "time": "7:30 PM PT",
+        "location": "Lumen Field"
+      }
+    }
+  ]
+}

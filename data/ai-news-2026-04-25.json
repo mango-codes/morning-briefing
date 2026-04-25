@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-25",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
+      "summary": "Google has committed to invest as much as $40 billion in Anthropic as the AI startup accelerates its business behind the explosive growth of Claude Code. This represents one of the largest AI investments to date.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+      "type": "funding"
+    },
+    {
+      "title": "AI Arms Race Accelerates With New Models from OpenAI, DeepSeek and Anthropic",
+      "summary": "New AI model releases include DeepSeek's V4, OpenAI's GPT-5.5 and Claude Opus 4.7. The rapid pace of releases highlights the intensifying competition in the AI space.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/services-and-software/openai-deepseek-anthropic-new-ai-models/",
+      "type": "product"
+    },
+    {
+      "title": "Google Puts AI Agents at Heart of Enterprise Money-Making Push",
+      "summary": "Alphabet is deepening its push into enterprise software, signaling that AI agents are a linchpin of its strategy to monetize artificial intelligence at Google Cloud.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/google-puts-ai-agents-heart-its-enterprise-money-making-push-2026-04-22/",
+      "type": "product"
+    },
+    {
+      "title": "Google's Internal Struggle is Handing the AI Coding Race to Anthropic and OpenAI",
+      "summary": "Some teams at DeepMind, including those working on Gemini, reportedly use Claude Code internally. Google is now releasing new AI agents to challenge OpenAI and Anthropic in the coding assistant market.",
+      "source": "Los Angeles Times",
+      "url": "https://www.latimes.com/business/story/2026-04-22/googles-internal-struggle-is-handing-ai-coding-race-to-anthropic-openai",
+      "type": "other"
+    },
+    {
+      "title": "Stanford's AI Index for 2026 Shows the State of AI",
+      "summary": "The latest AI Index shows accuracy improvements in AI models, with top-scoring models like Claude Opus 4.6 and Gemini 3.1 Pro now exceeding 50% on key benchmarks.",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "type": "research"
+    }
+  ],
+  "top_story": {
+    "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
+    "summary": "In a landmark deal announced Friday, Google has committed to invest as much as $40 billion in Anthropic. The investment comes as Anthropic's Claude Code product experiences explosive growth among developers. This massive capital injection will help Anthropic compete directly with OpenAI and Google's own AI initiatives. The deal represents one of the largest investments in an AI company to date and signals Google's strategy of maintaining strong positions across multiple AI labs.",
+    "why_it_matters": "This investment reshapes the competitive landscape of AI. With $40B in backing, Anthropic becomes a formidable challenger to OpenAI's dominance. It also shows Google's hedging strategy - investing in external AI labs while developing Gemini internally. For developers and enterprises, this likely means more competition, better tools, and continued rapid innovation in AI coding assistants."
+  }
+}

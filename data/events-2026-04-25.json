@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-25",
+  "category": "events",
+  "events": [
+    {
+      "name": "Carnival of Cocktails",
+      "time": "Saturday, April 25",
+      "location": "Pacific Place - Four Floors",
+      "description": "Main event of Seattle Cocktail Week. Bigger than ever, taking over four floors of Pacific Place with various vendors and tastings.",
+      "category": "Food & Drink",
+      "url": "https://seattlerefined.com/",
+      "price": "Varies"
+    },
+    {
+      "name": "Ben Schwartz & Friends",
+      "time": "7:00 PM",
+      "location": "Paramount Theatre",
+      "description": "Comedy improv show featuring Ben Schwartz and friends at the historic Paramount Theatre.",
+      "category": "Comedy",
+      "url": "https://do206.com/events/2026/04/25",
+      "price": "$35+"
+    },
+    {
+      "name": "Seattle Symphony - Xian Conducts Daniil Trifonov",
+      "time": "Saturday, April 25",
+      "location": "Benaroya Hall - Taper Auditorium",
+      "description": "The Seattle Symphony performs with conductor Xian and pianist Daniil Trifonov.",
+      "category": "Music",
+      "url": "https://allevents.in/seattle/this-weekend",
+      "price": "$45+"
+    },
+    {
+      "name": "West Seattle Tool Library Annual Tool Sale",
+      "time": "11:00 AM - 4:00 PM",
+      "location": "Youngstown Cultural Arts Center",
+      "description": "Annual tool sale featuring quality used tools at bargain prices. Support this community resource.",
+      "category": "Community",
+      "url": "https://www.westsideseattle.com/",
+      "price": "Free entry"
+    },
+    {
+      "name": "Emerald City Ride",
+      "time": "Saturday Morning",
+      "location": "Highway 99 & West Seattle Bridge",
+      "description": "Cascade Bicycle Club's signature ride closes parts of southbound Highway 99 and the West Seattle Bridge to motor vehicles for a few hours.",
+      "category": "Sports & Recreation",
+      "url": "https://westseattleblog.com/",
+      "price": "Registration required"
+    }
+  ]
+}

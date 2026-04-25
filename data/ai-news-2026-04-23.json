@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-23",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Google unveils new AI agents and TPU chips to challenge OpenAI and Anthropic",
+      "source": "Bloomberg",
+      "summary": "At Google Cloud Next 2026, Google announced a suite of AI agent tools for enterprise automation and debuted the TPU 8t and TPU 8i chips, claiming 2.7x better price-to-performance than prior generations."
+    },
+    {
+      "title": "Anthropic's new Mythos AI model triggers global alarms",
+      "source": "The New York Times",
+      "summary": "Anthropic's Mythos model has triggered emergency responses from central banks and intelligence agencies worldwide as the company decides who gets access to the powerful system."
+    },
+    {
+      "title": "OpenAI announces workspace agents in ChatGPT for teams",
+      "source": "LLM Stats",
+      "summary": "OpenAI introduced Codex-powered shared agents that let teams create collaborative AI agents for complex tasks, described as an evolution of GPTs."
+    },
+    {
+      "title": "Anthropic expands TPU usage and launches Claude enterprise marketplace",
+      "source": "The Next Web / Motley Fool",
+      "summary": "Anthropic announced expanded usage of Google's TPUs and launched a marketplace for Claude-powered enterprise tools, with Model Context Protocol reaching 10,000 servers."
+    },
+    {
+      "title": "Meta to capture employee mouse movements and keystrokes for AI training",
+      "source": "Reuters",
+      "summary": "Meta announced plans to start collecting employee input data including mouse movements and keystrokes to train its AI systems, raising privacy concerns."
+    },
+    {
+      "title": "US government ramps up mass surveillance using AI technology",
+      "source": "Salon",
+      "summary": "Reports indicate the US government is increasingly using AI to speed analysis of government and commercial data for surveillance purposes."
+    },
+    {
+      "title": "Apple names John Ternus as new CEO, signaling AI era focus",
+      "source": "CNN Business",
+      "summary": "Apple announced John Ternus will take over as CEO later this year, with analysts suggesting the leadership change hints at Apple's strategic plans for the AI era."
+    },
+    {
+      "title": "74% of Americans say AI education is important for college students",
+      "source": "Quinnipiac University Poll / Fingerlakes1",
+      "summary": "A new poll found strong public support for AI education in colleges, though Americans remain wary of AI's broader use in society."
+    },
+    {
+      "title": "Chinese military already using AI to enhance combat power",
+      "source": "The Washington Times",
+      "summary": "Adm. Paparo, commander of US Indo-Pacific Command, told Congress that China's PLA is actively using AI for targeting and mass data analytics to enhance military capabilities."
+    },
+    {
+      "title": "Researchers blend quantum computing with AI for better predictions",
+      "source": "ScienceDaily",
+      "summary": "New research shows combining quantum computing with AI can dramatically improve predictions of complex, chaotic systems by identifying hidden patterns in data."
+    }
+  ],
+  "top_story": {
+    "title": "Google unveils new AI agents and TPU chips to challenge OpenAI and Anthropic",
+    "source": "Bloomberg / Google Cloud Next 2026",
+    "summary": "Google made its biggest AI infrastructure push of the year at Cloud Next 2026, unveiling new AI agent tools for enterprise automation and two new AI chips (TPU 8t and TPU 8i) that directly challenge Nvidia's dominance. The company claims 2.7x better price-to-performance and announced Anthropic has expanded to multiple gigawatts of next-generation TPU capacity, signaling serious competition in the AI infrastructure race."
+  }
+}

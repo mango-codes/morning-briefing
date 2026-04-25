@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-25",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle Police Investigate Crash Involving Truck and Cyclists",
+      "summary": "Seattle police are investigating a crash that involved a truck and two cyclists on a Lime bike Monday morning.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/local-news",
+      "type": "breaking"
+    },
+    {
+      "title": "70-Year-Old Traffic Flagger Hospitalized After Capitol Hill Incident",
+      "summary": "A 70-year-old traffic flagger was hospitalized after being struck by a dump truck on Capitol Hill on Friday morning, according to Seattle police.",
+      "source": "KOMO News",
+      "url": "https://komonews.com",
+      "type": "breaking"
+    },
+    {
+      "title": "City Begins Safety Improvements at Gas Works Park",
+      "summary": "The city has begun safety improvements at Gas Works Park following recent concerns about the popular waterfront destination.",
+      "source": "KIRO 7",
+      "url": "https://www.kiro7.com/news/",
+      "type": "community"
+    },
+    {
+      "title": "Tensions Flare Over Adams Elementary School Principal Appointment",
+      "summary": "Tensions flared more than once this week over the newly appointed principal of Seattle's Adams Elementary School, located in Ballard.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/local",
+      "type": "education"
+    },
+    {
+      "title": "Emerald City Ride Takes Over West Seattle Streets Saturday",
+      "summary": "The Cascade Bicycle Club's Emerald City Ride will keep motor-vehicle traffic off part of southbound Highway 99 and the West Seattle Bridge for a few hours Saturday morning.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/",
+      "type": "community"
+    }
+  ],
+  "top_story": {
+    "title": "Traffic Flagger Injured on Capitol Hill",
+    "summary": "A 70-year-old traffic flagger was hospitalized Friday morning after being struck by a dump truck on Capitol Hill. Seattle police are investigating the incident. The flagger was working at a construction site when the collision occurred.",
+    "why_it_matters": "This incident highlights ongoing safety concerns for construction workers and pedestrians in Seattle's busy urban areas. It comes as the city continues to grapple with traffic safety issues and construction zone protocols."
+  }
+}

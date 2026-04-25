@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-23",
+  "category": "events",
+  "today": [
+    {
+      "name": "Wednesday: Bleeds Tour 2026",
+      "venue": "Moore Theatre",
+      "time": "8:00 PM",
+      "description": "Wednesday and Gouge Away perform live at the historic Moore Theatre. Alternative/indie rock concert."
+    },
+    {
+      "name": "Moonchild with Brittney Carter",
+      "venue": "The Crocodile",
+      "time": "8:00 PM",
+      "description": "Moonchild brings their soulful R&B/jazz sound to The Crocodile with special guest Brittney Carter."
+    },
+    {
+      "name": "Josiah Queen Jervis Campbell",
+      "venue": "Showbox SoDo",
+      "time": "Evening",
+      "description": "Christian music artist Josiah Queen performs at Showbox SoDo."
+    },
+    {
+      "name": "Jacques Greene",
+      "venue": "Substation",
+      "time": "Evening",
+      "description": "Electronic music producer Jacques Greene brings his house and techno beats to Substation."
+    },
+    {
+      "name": "Brew Review Fundraiser",
+      "venue": "Rough & Tumble Pub, Ballard",
+      "time": "5:00 PM - 8:00 PM",
+      "description": "$30 fundraiser for Unemployment Law Project offering beer, cider, wine, games, and music. Ticket includes food and two drinks. Free for children 12 and under."
+    },
+    {
+      "name": "Candlelight Concert: 1990s Music",
+      "venue": "Museum of Flight",
+      "time": "Evening",
+      "description": "String quartet playing familiar 90s songs for an hour in the warm glow of simulated candles."
+    },
+    {
+      "name": "Candlelight Concert: Adele",
+      "venue": "Museum of Flight",
+      "time": "Evening",
+      "description": "String quartet performing Adele's hits in an intimate candlelit setting."
+    },
+    {
+      "name": "Walden",
+      "venue": "Arts West",
+      "time": "Evening",
+      "description": "A three-person drama about humanity's future. Live theater performance."
+    },
+    {
+      "name": "Pat Metheny",
+      "venue": "Jazz Alley",
+      "time": "Evening (through April 26)",
+      "description": "Legendary jazz guitarist Pat Metheny performs a multi-night engagement at Jazz Alley."
+    },
+    {
+      "name": "Seattle Restaurant Week",
+      "venue": "Various locations",
+      "time": "All day (through May 2)",
+      "description": "Special deals at 220+ restaurants across Seattle and Eastside."
+    }
+  ],
+  "this_weekend": [
+    {
+      "name": "FKA twigs: Body High Tour",
+      "venue": "LT Pacific Place, Downtown",
+      "time": "Saturday, April 25",
+      "description": "Chameleonic artist FKA twigs brings her experimental pop and electronic sound to Seattle on her Body High Tour."
+    },
+    {
+      "name": "Pancakes & Booze Art Show",
+      "venue": "El Corazon",
+      "time": "Saturday, April 25, 8:00 PM - 11:59 PM",
+      "description": "A traveling underground art exhibition featuring 70+ artists, free pancakes, DJ music, live body painting, and a bar. Age 21+."
+    },
+    {
+      "name": "HOMESHAKE",
+      "venue": "Barboza",
+      "time": "Saturday, April 25, 7:00 PM",
+      "description": "Indie pop/lo-fi artist HOMESHAKE (Peter Sagar) performs live at Barboza."
+    },
+    {
+      "name": "Ayybo",
+      "venue": "Showbox",
+      "time": "Saturday, April 25",
+      "description": "Electronic music artist Ayybo brings energetic dance beats to the Showbox."
+    },
+    {
+      "name": "Robin Hood",
+      "venue": "Seattle Children's Theatre",
+      "time": "Saturday, April 25",
+      "description": "The hero Robin Hood fights for justice in this family-friendly theatrical production."
+    },
+    {
+      "name": "Carnival of Cocktails",
+      "venue": "Pacific Place, Downtown",
+      "time": "Saturday, April 25, 12:00 PM - 7:00 PM",
+      "description": "The highlight of Seattle Cocktail Week! Watch cocktail demonstrations, shop at food trucks, and use 12 tokens to taste spirits or mini cocktails. $69, age 21+."
+    },
+    {
+      "name": "Candlelight Concert: Beatles",
+      "venue": "Nordic Museum",
+      "time": "Sunday, April 26",
+      "description": "String quartet performing Beatles classics in a beautiful candlelit setting."
+    },
+    {
+      "name": "Candlelight Concert: Coldplay",
+      "venue": "Nordic Museum",
+      "time": "Sunday, April 26",
+      "description": "String quartet playing Coldplay's greatest hits in an intimate atmosphere."
+    },
+    {
+      "name": "Seattle Symphony: Xian Conducts Daniil Trifonov",
+      "venue": "Benaroya Hall",
+      "time": "Friday, April 24, 4:00 PM",
+      "description": "World-renowned pianist Daniil Trifonov performs with the Seattle Symphony under conductor Xian Zhang."
+    },
+    {
+      "name": "MOMIX: Alice",
+      "venue": "Meany Center for the Performing Arts",
+      "time": "Friday-Saturday, April 24-25, 7:30 PM",
+      "description": "The dance company MOMIX creates surreal and fantastic worlds with light, shadow, props and the human body in this Alice in Wonderland-inspired performance."
+    },
+    {
+      "name": "Professional Bull Riders: Unleash the Beast",
+      "venue": "Tacoma Dome",
+      "time": "Friday-Saturday, April 24-25",
+      "description": "Professional bull riders compete to see who can last the longest atop a bucking bull."
+    },
+    {
+      "name": "Emerald Cup",
+      "venue": "Meydenbauer Center, Bellevue",
+      "time": "Friday-Sunday, April 24-26",
+      "description": "Bodybuilding, fitness, figure, bikini, and physique championship with health-industry vendors."
+    },
+    {
+      "name": "Cherry Blossom & Japanese Cultural Festival",
+      "venue": "Seattle Center",
+      "time": "Saturday-Sunday, April 25-26, 11:00 AM - 6:00 PM",
+      "description": "FREE festival celebrating Seattle's friendship with Japan. Enjoy Japanese art, dance, music, martial arts, and food."
+    },
+    {
+      "name": "Seattle Cherry Blossom Run",
+      "venue": "Seward Park",
+      "time": "Saturday-Sunday, April 18-19",
+      "description": "Run or walk under the cherry trees. Saturday features 5K & 10K, Sunday features half marathon."
+    },
+    {
+      "name": "Columbia City Night Market",
+      "venue": "Columbia City",
+      "time": "Saturday, April 18, 6:00 PM - 10:00 PM",
+      "description": "Monthly night market with 8 food trucks, 20 makers and vendors, live music, and a beer garden. FREE admission."
+    },
+    {
+      "name": "International Children's Friendship Festival",
+      "venue": "Seattle Center, Fisher Pavilion",
+      "time": "Sunday, April 19, 11:00 AM - 6:00 PM",
+      "description": "FREE festival where children from around the world dance, sing, play music, make origami, and get faces painted."
+    },
+    {
+      "name": "Pop Cats Convention",
+      "venue": "Seattle Center Exhibition Hall",
+      "time": "Sunday, April 19, 11:00 AM - 4:00 PM",
+      "description": "Cat convention celebrating cats and pop culture with artwork, adoptable cats, speakers, workshops, and vendors. You can even bring your own cat!"
+    },
+    {
+      "name": "Seussical the Musical",
+      "venue": "Kenmore",
+      "time": "Friday, April 24",
+      "description": "Dr. Seuss characters come to life in this family-friendly musical for all ages."
+    },
+    {
+      "name": "Sweet Charity",
+      "venue": "Tacoma Musical Playhouse",
+      "time": "Friday, April 24",
+      "description": "High-energy 1960s musical set in New York about a dancer looking for love."
+    },
+    {
+      "name": "ABBA Night",
+      "venue": "The Swedish Club",
+      "time": "Friday, April 24, 5:30 PM - 11:00 PM",
+      "description": "DJ playing ABBA and Euro pop, followed by Seattle tribute band Abbagrahics performing live. Nordic food for sale. $72, age 21+."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Seven dead in major Russian attack on Ukraine, Dnipro hit hardest",
+      "source": "BBC News",
+      "category": "Europe",
+      "summary": "Russian drone and missile strikes on the Ukrainian city of Dnipro killed at least seven people. Four died in a strike on a residential building. Over 20 wounded including a nine-year-old child and two police officers.",
+      "published": "2026-04-25T10:00:00Z"
+    },
+    {
+      "title": "Trump dispatches Witkoff and Kushner to Pakistan for Iran peace talks",
+      "source": "Associated Press",
+      "category": "Middle East",
+      "summary": "US envoy Steve Witkoff and Trump's son-in-law Jared Kushner traveled to Pakistan for new talks with Iran's foreign minister. Trump extended a three-week ceasefire to allow more time for negotiations.",
+      "published": "2026-04-24T20:00:00Z"
+    },
+    {
+      "title": "NATO says 'no provision' to expel members after report US could seek to suspend Spain",
+      "source": "BBC News",
+      "category": "World",
+      "summary": "An internal Pentagon email reportedly outlines options to punish NATO allies over perceived lack of support for Iran war. NATO officials push back at reported US threat to Spain.",
+      "published": "2026-04-24T16:00:00Z"
+    },
+    {
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "source": "BBC News",
+      "category": "Africa",
+      "summary": "Witnesses report clashes in the centre and north of Mali in what has been described as the largest jihadist attack in years.",
+      "published": "2026-04-25T11:00:00Z"
+    },
+    {
+      "title": "Altman apologizes after OpenAI failed to alert police before Tumbler Ridge killings",
+      "source": "Associated Press",
+      "category": "Technology",
+      "summary": "OpenAI CEO Sam Altman apologized after the company failed to alert authorities before killings in Tumbler Ridge.",
+      "published": "2026-04-24T18:00:00Z"
+    },
+    {
+      "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
+      "source": "BBC News",
+      "category": "Asia",
+      "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+      "published": "2026-04-25T00:00:00Z"
+    },
+    {
+      "title": "US soldier charged with using classified intel to win $400K on Maduro raid betting",
+      "source": "Associated Press",
+      "category": "US",
+      "summary": "A US soldier was charged with using classified intelligence to win $400,000 betting on the Maduro raid outcome on Polymarket.",
+      "published": "2026-04-24T22:00:00Z"
+    },
+    {
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "source": "BBC News",
+      "category": "Middle East",
+      "summary": "Local elections held in the occupied West Bank and one Gazan city, though Hamas and other groups are not taking part.",
+      "published": "2026-04-25T11:00:00Z"
+    },
+    {
+      "title": "China car giant BYD says it can thrive without US market",
+      "source": "BBC News",
+      "category": "Business",
+      "summary": "China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels as fuel prices rise.",
+      "published": "2026-04-25T08:00:00Z"
+    },
+    {
+      "title": "US military seizes tanker associated with Iranian oil smuggling in Strait of Hormuz",
+      "source": "Associated Press",
+      "category": "Middle East",
+      "summary": "The US military seized another tanker associated with smuggling Iranian oil, ratcheting up tensions a day after Iran's Revolutionary Guards took control of two vessels.",
+      "published": "2026-04-24T14:00:00Z"
+    }
+  ]
+}

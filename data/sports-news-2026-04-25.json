@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-25",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners face Cardinals in St. Louis this weekend",
+        "Radio coverage on Seattle Sports 710 AM"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Mariners playing series in St. Louis against Cardinals",
+          "Games available on Mariners TV and Seattle Sports 710 AM"
+        ],
+        "situation": "Regular season road series",
+        "playoffPicture": "Early season positioning",
+        "achievement": "",
+        "today": "Game vs Cardinals in St. Louis",
+        "nextMatch": "Continuing series vs Cardinals"
+      },
+      "last_game": null,
+      "next_game": "vs Cardinals in St. Louis"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "NFL Draft coverage on Seattle Sports",
+        "Seahawks working on extension for Devon Witherspoon",
+        "GM John Schneider featured on Wyman & Bob show"
+      ],
+      "details": {
+        "keyUpdates": [
+          "NFL Draft underway - Seahawks have picks in later rounds",
+          "Team prioritizing contract extension for Devon Witherspoon",
+          "GM John Schneider making media appearances during draft"
+        ],
+        "situation": "NFL Draft weekend",
+        "playoffPicture": "Building roster for 2026 season",
+        "achievement": "",
+        "today": "NFL Draft Day 2-3 coverage",
+        "nextMatch": "Preseason begins August 2026"
+      },
+      "last_game": null,
+      "next_game": "Preseason August 2026"
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken have 25 prospects featured in this year's pool rankings",
+        "Most prospects of any team in the rankings"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Kraken lead all teams with 25 prospect profiles in rankings",
+          "Strong pipeline of young talent developing"
+        ],
+        "situation": "Offseason prospect development",
+        "playoffPicture": "Building for next season",
+        "achievement": "Most prospects in pool rankings",
+        "today": "Prospect development continues",
+        "nextMatch": "2026-27 season opener"
+      },
+      "last_game": null,
+      "next_game": "2026-27 season"
+    }
+  ]
+}

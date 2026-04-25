@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-23",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "In-N-Out Burger Opens Second Washington Location in Vancouver",
+      "source": "FOX 13 Seattle",
+      "summary": "In-N-Out Burger opened its second Washington location on April 23 in Vancouver, featuring a drive-thru, indoor seating for 84 guests, and a covered patio. The restaurant at 13511 Southeast 3rd Way will employ over 100 associates with a starting wage of $19.25/hour. Hours are 10:30 a.m. to 1 a.m. daily (1:30 a.m. on weekends)."
+    },
+    {
+      "title": "Seattle/King County Clinic Returns to Seattle Center",
+      "source": "Seattle Center Spotlight",
+      "summary": "The Seattle/King County Clinic began its four-day run (April 23-26) at Seattle Center, providing free dental, vision, and medical care to people in need. Now in its 11th year, the community-driven project has provided $30 million in healthcare services to 33,000 patients since its inception."
+    },
+    {
+      "title": "Mariners Avoid Sweep with Walk-Off Win Over Athletics",
+      "source": "The Spokesman-Review",
+      "summary": "The Seattle Mariners defeated the Oakland Athletics 5-4 on Wednesday with a walk-off single by Josh Naylor in the bottom of the ninth inning. Cal Raleigh and Julio Rodríguez also delivered key hits as the trio continues to heat up after slow starts to the season."
+    },
+    {
+      "title": "Chateau Ste. Michelle Unveils 2026 Summer Concert Lineup",
+      "source": "KING 5",
+      "summary": "Chateau Ste. Michelle has announced its 2026 summer concert lineup at the Woodinville winery. The popular outdoor concert series draws thousands of music fans to the scenic venue each summer."
+    },
+    {
+      "title": "Emerald City Ride to Close West Seattle Bridge Saturday",
+      "source": "West Seattle Blog",
+      "summary": "The Cascade Bicycle Club's Emerald City Ride on Saturday, April 25 will close parts of southbound Highway 99 and the westbound West Seattle Bridge to motor vehicles for several hours. Registration closes Thursday, April 23."
+    },
+    {
+      "title": "West Seattle Water Taxi Expands to Summer Schedule",
+      "source": "West Seattle Blog",
+      "summary": "The West Seattle Water Taxi has shifted to its summer schedule, with extra Friday/Saturday/Sunday runs including later-night service on weekends. Metro buses continue on regular schedules."
+    },
+    {
+      "title": "I-405 Closure Planned for Weekend of April 24",
+      "source": "WSDOT",
+      "summary": "The Washington State Department of Transportation announced that a closure on Interstate 405 will begin late Friday, April 24, as part of ongoing improvement projects. Travelers should prepare for increased weekend congestion."
+    },
+    {
+      "title": "Seattle Cocktail Week Continues Through Weekend",
+      "source": "Seattle Met",
+      "summary": "Seattle Cocktail Week is ongoing this week, featuring special events and drinks at participating venues across the city. The event highlights local mixologists and craft cocktail culture."
+    }
+  ],
+  "weather": {
+    "forecast": "Clearing skies with high near 60°F. Sunrise at 6:05 am, sunset at 8:10 pm.",
+    "high": 60,
+    "low": 46,
+    "conditions": "Partly cloudy, clearing throughout the day",
+    "alert": null
+  }
+}

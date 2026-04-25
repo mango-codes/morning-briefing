@@ -1,0 +1,81 @@
+{
+  "date": "2026-04-24",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "DeepSeek Unveils New Flagship AI Model with Hybrid Attention Architecture",
+      "summary": "Chinese AI startup DeepSeek released its newest flagship model a year after its breakthrough, featuring architecture upgrades and a new 'Hybrid Attention Architecture' technique that improves AI's ability to remember context and information.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough",
+      "type": "product"
+    },
+    {
+      "title": "Stanford AI Index 2026: Frontier Models Now Exceed 50% on Advanced Benchmarks",
+      "summary": "The annual Stanford HAI AI Index report reveals AI accuracy has jumped to 38.3% overall, with top models like Claude Opus 4.6 and Gemini 3.1 Pro exceeding 50% on challenging benchmarks. The report highlights breakthrough capabilities while raising urgent questions about environmental costs and transparency.",
+      "source": "Stanford HAI / IEEE Spectrum",
+      "url": "https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report",
+      "type": "research"
+    },
+    {
+      "title": "Q1 2026 Shatters Venture Records: $300B Invested, 80% to AI Companies",
+      "summary": "Global venture investment hit an all-time high of $300 billion in Q1 2026, with AI companies capturing $242 billion (80% of total funding). Four of the five largest venture rounds ever closed: OpenAI ($122B), Anthropic ($30B), xAI ($20B), and Waymo ($16B).",
+      "source": "Crunchbase",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "type": "funding"
+    },
+    {
+      "title": "Jeff Bezos' Project Prometheus AI Lab Nears $38 Billion Valuation",
+      "summary": "Jeff Bezos' AI lab is reportedly close to raising $10 billion in new funding at a $38 billion valuation, marking one of the largest AI startup valuations to date.",
+      "source": "Reuters / Financial Times",
+      "url": "https://www.reuters.com/technology/jeff-bezos-ai-lab-nears-38-billion-valuation-funding-deal-ft-reports-2026-04-21/",
+      "type": "funding"
+    },
+    {
+      "title": "Cursor in Talks for $2 Billion Funding Round at $50B+ Valuation",
+      "summary": "AI coding startup Cursor is reportedly raising a $2 billion round at a valuation exceeding $50 billion, reflecting massive investor appetite for AI-powered developer tools.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+      "type": "funding"
+    },
+    {
+      "title": "NVIDIA Launches Ising: First Open AI Models for Quantum Computing",
+      "summary": "NVIDIA released the Ising open model family, the world's first open AI models designed to accelerate quantum calibration and error correction, helping researchers build scalable quantum systems.",
+      "source": "NVIDIA",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Ising-the-Worlds-First-Open-AI-Models-to-Accelerate-the-Path-to-Useful-Quantum-Computers/default.aspx",
+      "type": "product"
+    },
+    {
+      "title": "Claude Design: Anthropic's New Generative Tool for Presentations and Websites",
+      "summary": "Anthropic launched Claude Design, a generative AI tool that can build full presentations, websites, brand videos, landing pages, and apps from a single text prompt, targeting creative and marketing workflows.",
+      "source": "IMFounder",
+      "url": "https://imfounder.com/science-tech/ai/ai-updates-april-2026-openai-codex-claude-design/",
+      "type": "product"
+    },
+    {
+      "title": "EU Set to Classify ChatGPT Under Strict Online Platform Rules (DSA)",
+      "summary": "The European Commission is preparing to designate ChatGPT as a Very Large Online Platform under the Digital Services Act, subjecting OpenAI to some of the bloc's toughest digital regulations including strict obligations for limiting systemic risks.",
+      "source": "Computing.co.uk / Handelsblatt",
+      "url": "https://www.computing.co.uk/news/2026/legislation-regulation/eu-to-classify-chatgpt-under-strict-online-platform-rules",
+      "type": "policy"
+    },
+    {
+      "title": "AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy",
+      "summary": "Researchers unveiled a radically more efficient AI approach that could slash energy consumption by up to 100 times while actually improving model accuracy, addressing one of AI's biggest environmental challenges.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm",
+      "type": "research"
+    },
+    {
+      "title": "Google's TurboQuant Reduces Memory Overhead in Large AI Models",
+      "summary": "Google's research team unveiled TurboQuant at ICLR 2026, an algorithm that significantly reduces memory overhead caused by the KV cache, one of the biggest bottlenecks in running large AI models.",
+      "source": "Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "type": "research"
+    }
+  ],
+  "top_story": {
+    "title": "DeepSeek Unveils New Flagship AI Model with Hybrid Attention Architecture",
+    "summary": "Chinese AI startup DeepSeek has released its newest flagship model, marking one year since its breakthrough that shocked the industry. The new model features significant architecture upgrades including a novel 'Hybrid Attention Architecture' that improves the AI's ability to remember context and information over long sequences. This release demonstrates China's continued advancement in AI capabilities and keeps the competitive pressure on Western AI labs.",
+    "why_it_matters": "DeepSeek's continued innovation signals that the AI race is truly global, with Chinese labs maintaining pace with American frontier models. The Hybrid Attention Architecture could represent a genuine architectural improvement that other labs may adopt. With geopolitical tensions around AI and chip access, DeepSeek's ability to deliver competitive models despite export restrictions is significant for the industry's competitive landscape."
+  }
+}

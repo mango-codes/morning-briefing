@@ -1,0 +1,113 @@
+{
+  "date": "2026-04-24",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners (9-13) looking to bounce back from slow start to season",
+        "Cal Raleigh keeping the faith despite team's early struggles",
+        "Josh Naylor hits first walk-off single to cap win over Athletics",
+        "Bryce Miller making rehab start at Triple-A Tacoma",
+        "Randy Johnson Number Retirement Ceremony scheduled for May 2"
+      ],
+      "details": {
+        "record": "9-13",
+        "standing": "Struggling early in AL West",
+        "notes": "Team split opening series with Cleveland Guardians. Emerson Hancock had career-high 9 strikeouts in series. Colt Emerson (top prospect) hit HR and stole 2 bases in Triple-A but also suffered foot injury (X-rays negative)."
+      },
+      "last_game": {
+        "date": "April 22, 2026",
+        "opponent": "Athletics",
+        "result": "Win 5-4 (walk-off)",
+        "highlights": "Josh Naylor walk-off single, Cal Raleigh solo home run (5th of season)"
+      },
+      "next_game": {
+        "date": "April 24, 2026",
+        "opponent": "@ St. Louis Cardinals",
+        "time": "5:15 PM PDT",
+        "location": "Busch Stadium, St. Louis"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks are defending Super Bowl champions (first title in over a decade)",
+        "Seahawks surprisingly spurn trade frenzy to make No. 32 pick in 2026 Draft",
+        "Team selected running back to replace Kenneth Walker III who departed for Kansas City Chiefs",
+        "Sam Darnold married Katie Hoofnagle on April 3, 2026",
+        "Offseason workout program began April 20"
+      ],
+      "details": {
+        "status": "Defending Super Bowl Champions",
+        "offseason_program": "Began April 20, voluntary workouts underway",
+        "mandatory_minicamp": "June 9-11, 2026",
+        "draft_notes": "Selected RB in first round to fill need after Kenneth Walker III left in free agency. Zach Charbonnet recovering from torn ACL."
+      },
+      "last_game": {
+        "date": "Super Bowl 2026",
+        "result": "Super Bowl Champions",
+        "notes": "First Super Bowl win in over a decade"
+      },
+      "next_game": {
+        "date": "2026 Regular Season",
+        "notes": "Regular season schedule to be announced. Training camp and preseason upcoming."
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken did not make the 2026 Stanley Cup Playoffs",
+        "Team spent over 100 days holding a playoff position this season",
+        "Younger players gained valuable experience during stretch run",
+        "Prospect Villeneuve (2024 2nd-rounder) performing well in OHL playoffs with Windsor Spitfires",
+        "Early trade candidates emerging after missing playoffs"
+      ],
+      "details": {
+        "status": "Eliminated from playoff contention",
+        "season_summary": "Held playoff spot for 100+ days but fell short in final stretch",
+        "prospect_updates": "Villeneuve has 20 penalty minutes in first two rounds of OHL playoffs, improved discipline from last season (73 PIM vs 120 previous season)"
+      },
+      "last_game": {
+        "date": "April 18, 2026",
+        "result": "Season concluded",
+        "notes": "Missed playoffs after stretch run proved team's undoing"
+      },
+      "next_game": {
+        "date": "2026-27 Season",
+        "notes": "Offseason ahead with potential trades being discussed"
+      }
+    },
+    {
+      "name": "Seattle Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders defeated Tigres UANL 3-1 in Concacaf Champions Cup Quarterfinals (April 15)",
+        "Team advances in Champions Cup after strong performance vs Liga MX side",
+        "Record currently 5-1-1, 4th place in Western Conference",
+        "Six-week break coming in May-June for 2026 FIFA World Cup",
+        "Lumen Field undergoing World Cup preparations (grass pitch installation)"
+      ],
+      "details": {
+        "record": "5-1-1",
+        "standing": "4th in Western Conference",
+        "notes": "Playing home matches while Lumen Field undergoes World Cup preparations. Five consecutive away matches from February to April due to stadium work."
+      },
+      "last_game": {
+        "date": "April 18, 2026",
+        "opponent": "St. Louis",
+        "result": "Home match",
+        "notes": "Part of home stand at alternate venue during Lumen Field renovations"
+      },
+      "next_game": {
+        "date": "April 25, 2026",
+        "opponent": "vs FC Dallas",
+        "location": "Home",
+        "notes": "MLS regular season match"
+      }
+    }
+  ]
+}
