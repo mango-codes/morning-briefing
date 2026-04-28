@@ -1,0 +1,148 @@
+{
+  "date": "2026-04-27",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners complete series vs Cardinals, head to Pittsburgh for four-game series starting April 27",
+        "Bryan Woo takes 3.86 ERA, 1.06 WHIP into next start against Royals next weekend",
+        "Mariners right-hander had not allowed a home run in first 32 innings of 2026 season"
+      ],
+      "details": {
+        "currentSeries": "At Pittsburgh Pirates (April 27-30)",
+        "nextSeries": "vs Kansas City Royals (May 1-3)",
+        "notablePitcher": "Bryan Woo",
+        "wooStats": {
+          "era": 3.86,
+          "whip": 1.06,
+          "strikeouts": 27,
+          "walks": 6,
+          "innings": 35
+        }
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks trade up to select Beau Stephens with pick 148 in 2026 NFL Draft",
+        "Seahawks select ball-hawking safety Bud Clark with pick 64",
+        "Seahawks take Toledo cornerback Andre Fuller at pick 236",
+        "Seahawks enter 2026 season with upgraded offensive line",
+        "UDFA tracker: Multiple undrafted free agents signed including Lance Mason, Devean Deal, Uso Seumalo"
+      ],
+      "details": {
+        "draftYear": 2026,
+        "notablePicks": [
+          {"player": "Beau Stephens", "pick": 148, "note": "Trade up"},
+          {"player": "Bud Clark", "pick": 64, "position": "Safety", "college": "TCU"},
+          {"player": "Andre Fuller", "pick": 236, "position": "Cornerback", "college": "Toledo"}
+        ],
+        "udfaSignings": [
+          "Lance Mason (TE, Wisconsin)",
+          "Devean Deal (LB, TCU)",
+          "Uso Seumalo (DT, Kansas State)",
+          "Michael Briscoe (WR, Cal Poly)",
+          "Aidan Hubbard (EDGE, Northwestern)",
+          "Levi Wentz (WR, Kansas)",
+          "Marvin Jones Jr (DE, Oklahoma)"
+        ],
+        "rosterStatus": "75 players on active roster before draft, 8 draft picks added"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken eliminated from playoff contention after post-Olympic break struggles",
+        "Team spent most of year in playoff mix but unraveled after Olympic break",
+        "Matty Beniers achieves second 50-point campaign of his career",
+        "Dunn and Evans entering final contract years; Dunn carries $7.3M cap hit"
+      ],
+      "details": {
+        "playoffStatus": "Eliminated from playoff contention",
+        "standoutPlayer": "Matty Beniers",
+        "beniersStats": "Goal and four assists over last six outings; second 50-point campaign",
+        "contractNotes": "Dunn ($7.3M cap hit) and Evans entering final contract years in 2026-27",
+        "teamAssessment": "Organization calls team 'still a work in progress' and 'unfulfilled promise'"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders in six-week break period for 2026 FIFA World Cup preparations",
+        "Lumen Field undergoing preparations to host World Cup matches including grass pitch installation",
+        "Regular season includes extended break May-June for World Cup",
+        "Cristian Roldan set for USMNT friendlies in final push for 2026 World Cup roster spot"
+      ],
+      "details": {
+        "seasonStatus": "Regular season ongoing with World Cup break",
+        "worldCupPrep": "Lumen Field installing temporary grass pitch for World Cup matches",
+        "notablePlayer": "Cristian Roldan",
+        "roldanNote": "Competing for spot on USMNT 2026 World Cup roster via friendlies"
+      }
+    },
+    {
+      "name": "Seattle Storm",
+      "league": "WNBA",
+      "headlines": [
+        "Storm announce 2026 preseason games schedule",
+        "Five players signed to training camp contracts: Rennia Davis, Beatrice Mompremier, Jaelyn Brown, Elle Ladine, Jalyn Brown",
+        "2026 National Broadcast Schedule unveiled: 12 games on USA Network, 6 on ION, 3 on NBA TV",
+        "Regular season begins Friday, May 8 vs Valkyries at Climate Pledge Arena"
+      ],
+      "details": {
+        "seasonOpener": "May 8, 2026 vs Valkyries at Climate Pledge Arena",
+        "preseasonStatus": "Preseason games announced",
+        "trainingCampSignings": [
+          "Rennia Davis",
+          "Beatrice Mompremier",
+          "Jaelyn Brown",
+          "Elle Ladine",
+          "Jalyn Brown"
+        ],
+        "broadcastSchedule": {
+          "usaNetwork": 12,
+          "ion": 6,
+          "nbaTv": 3,
+          "peacock": 2,
+          "amazonPrime": 2,
+          "abc": 2
+        },
+        "scheduleNote": "44-game schedule includes 22 road games; longest homestand May 20-27"
+      }
+    },
+    {
+      "name": "Washington Huskies",
+      "league": "NCAA",
+      "headlines": [
+        "Huskies baseball defeats Michigan 7-5 in series finale on Sunday",
+        "Baseball team improves to 19-24 overall, 9-12 in Big Ten play",
+        "Braeden Terry hits third home run of season (408 feet)",
+        "Mic Paul adds solo home run, his third of the season",
+        "Football: Huskies wrapping up spring practices, heading into official visit season",
+        "Football: New offensive coordinator to be named after parting ways with Jimmie Dougherty"
+      ],
+      "details": {
+        "baseball": {
+          "record": "19-24 overall, 9-12 Big Ten",
+          "recentResult": "7-5 win vs Michigan (April 26)",
+          "standoutHitters": [
+            {"player": "Braeden Terry", "hr": 3, "distance": "408 feet"},
+            {"player": "Mic Paul", "hr": 3, "distance": "372 feet"}
+          ],
+          "winningPitcher": "Hayden Lewis (6.0 IP, 9 H, 3 R, 1 BB, 3 K)",
+          "nextGame": "At Eastern Michigan (Tuesday, 9 a.m. PT)"
+        },
+        "football": {
+          "springStatus": "Wrapping up spring practices",
+          "recruiting": "Entering official visit season",
+          "coachingChange": "Parted ways with offensive coordinator Jimmie Dougherty"
+        }
+      }
+    }
+  ]
+}

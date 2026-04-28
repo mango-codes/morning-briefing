@@ -1,0 +1,162 @@
+{
+  "date": "2026-04-26",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Mariners win high-scoring affair against Cardinals 11-9",
+          "summary": "The Mariners defeated the St. Louis Cardinals in a slugfest on April 25, with both teams combining for 8 home runs. Seattle's offense exploded for 11 runs on 19 hits.",
+          "url": "https://www.vivaelbirdos.com/st-louis-cardinals-game-information/69762/seattle-mariners-win-a-home-run-derby-vs-st-louis-cardinals-11-9"
+        },
+        {
+          "title": "Mariners face Cardinals in series finale today",
+          "summary": "The Mariners wrap up their series against the Cardinals at Busch Stadium with an 11:15 AM PDT start time. Seattle enters the game with a 10-14 record.",
+          "url": "https://www.mlb.com/mariners"
+        }
+      ],
+      "last_game": {
+        "opponent": "St. Louis Cardinals",
+        "result": "W 11-9",
+        "highlights": "Mariners won a home run derby with both teams hitting 8 HRs combined. Seattle had 19 hits and scored 11 runs."
+      },
+      "next_game": {
+        "opponent": "St. Louis Cardinals",
+        "date": "April 26, 2026 - 11:15 AM PDT",
+        "location": "Busch Stadium (Away)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks sign undrafted free agents after 2026 NFL Draft",
+          "summary": "Seattle signed several UDFAs including Wisconsin TE Lance Mason, TCU LB Devean Deal, Kansas State DT Uso Seumalo, Northwestern EDGE Aidan Hubbard, and Kansas WR Levi Wentz.",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-nfl-draft/167235/nfl-draft-2026-results-seattle-seahawks-udfa-tracker-roster-updates"
+        },
+        {
+          "title": "Seahawks add WR Emmanuel Henderson Jr. in draft day trade",
+          "summary": "Seattle traded down and added receiver Emmanuel Henderson Jr. at pick 199. The Seahawks entered Day 3 with just a sixth-round pick but gained an additional sixth in a third-round pick swap that also netted them cornerback Julian Neal.",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-nfl-draft/167180/seahawks-2026-nfl-draft-picks-seattle-trades-down-adds-emmanuel-henderson-199"
+        },
+        {
+          "title": "Seahawks UDFA tracker: Rookie minicamp invites announced",
+          "summary": "Seattle invited several players to rookie minicamp including Fresno State DL Finn Claypool (as fullback), Eastern Michigan OL Mickey Rewolinski, Northern Illinois LB Quinn Urwiler, Tulane QB Jake Retzlaff, and Buffalo OL Tyler Doty.",
+          "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/04/25/2026-undrafted-free-agents-tracking-every-rookie-signing-by-seahawks/89802025007/"
+        }
+      ],
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken eliminated from playoff contention, season ends",
+          "summary": "The Seattle Kraken's 2025-26 season has concluded. The Vegas Golden Knights won the Pacific Division, beating the Kraken 4-1 in the final regular season game. The Kings previously clinched a playoff berth with a 5-3 victory over Seattle on April 13.",
+          "url": "https://www.nhl.com/news/los-angeles-kings-seattle-kraken-game-recap-april-13-2026"
+        },
+        {
+          "title": "Kraken miss playoffs for second consecutive season",
+          "summary": "The 2026 Stanley Cup Playoffs are scheduled to begin in late April, but the Kraken will not participate after failing to secure a postseason berth.",
+          "url": "https://sports.betmgm.com/en/blog/nhl/seattle-kraken-playoff-picture-chances-bracket-seed-bm25/"
+        }
+      ],
+      "last_game": {
+        "opponent": "Vegas Golden Knights",
+        "result": "L 1-4",
+        "highlights": "Mitch Marner broke a third-period tie as Vegas won the Pacific Division for the fifth time in their nine-year history."
+      },
+      "next_game": null
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders defeat FC Dallas 2-1 for 22nd consecutive home result",
+          "summary": "First-half goals from Jesús Ferreira (15') and Jordan Morris (30') proved the difference. Ferreira scored against his former club, and Morris notched his first goal of the season. Nolan Norris pulled one back for Dallas in the 40th minute.",
+          "url": "https://www.sounderatheart.com/2026/04/22-games-and-running-sounders-take-care-of-dallas/"
+        },
+        {
+          "title": "Jordan Morris and Jesús Ferreira both score first goals of season",
+          "summary": "The Sounders' marquee attacking players found the net for the first time in 2026. Morris had a goal and an assist, while Ferreira had a penalty saved in the 54th minute after converting earlier.",
+          "url": "https://www.sounderatheart.com/2026/04/22-games-and-running-sounders-take-care-of-dallas/"
+        },
+        {
+          "title": "Snyder Brunell shines in midfield at age 19",
+          "summary": "The young midfielder made his first team debut less than 9 months ago and has now appeared in all 12 games this season with 8 starts. His assist to Morris was described as 'perfect in every aspect.'",
+          "url": "https://www.sounderatheart.com/2026/04/22-games-and-running-sounders-take-care-of-dallas/"
+        }
+      ],
+      "last_game": {
+        "opponent": "FC Dallas",
+        "result": "W 2-1",
+        "highlights": "Goals from Jesús Ferreira (15') and Jordan Morris (30'). Ferreira had a penalty saved in the second half. Sounders extended home unbeaten streak to 22 games."
+      },
+      "next_game": {
+        "opponent": "Sporting Kansas City",
+        "date": "May 2, 2026",
+        "location": "Away"
+      }
+    },
+    {
+      "name": "Storm",
+      "league": "WNBA",
+      "headlines": [
+        {
+          "title": "Storm unveil 2026 local broadcast schedule",
+          "summary": "35 games including two preseason matchups will air across Washington on KOMO-TV (ABC), KUNS-TV (CW) and stream locally on Prime Video.",
+          "url": "https://komonews.com/news/local/where-to-watch-seattle-storm-wnba-announce-2026-local-broadcast-schedule-kuns-komo-news-tv-cw-seattle-refined"
+        },
+        {
+          "title": "Storm played preseason game at Golden State Valkyries yesterday",
+          "summary": "The Storm tipped off the 2026 preseason on Saturday, April 25, traveling to San Francisco to face the expansion Golden State Valkyries. Results not yet available.",
+          "url": "https://storm.wnba.com/news/storm-announces-2026-preseason-games"
+        },
+        {
+          "title": "Storm sign five players to training camp contracts",
+          "summary": "Seattle signed Rennia Davis, Beatrice Mompremier, Jaelyn Brown, Elle Ladine and Jalyn Brown to training camp contracts on April 15.",
+          "url": "https://storm.wnba.com/news"
+        }
+      ],
+      "last_game": {
+        "opponent": "Golden State Valkyries",
+        "result": "Preseason - April 25",
+        "highlights": "First preseason meeting with the expansion Valkyries franchise in San Francisco."
+      },
+      "next_game": {
+        "opponent": "Portland Fire",
+        "date": "April 29, 2026 - 7:00 PM",
+        "location": "Climate Pledge Arena (Home)"
+      }
+    },
+    {
+      "name": "UW Huskies",
+      "league": "NCAA",
+      "headlines": [
+        {
+          "title": "Huskies add 3-star forward Lattimore Ford for 2026-27 season",
+          "summary": "The UW basketball team picked up a commitment from 6-foot-6 forward Lattimore Ford for the 2026-27 season.",
+          "url": "https://uwhuskieswire-eu.usatoday.com/"
+        },
+        {
+          "title": "Washington Huskies part ways with offensive coordinator Jimmie Dougherty",
+          "summary": "The Washington Huskies will operate with a new offensive coordinator next season after parting ways with Jimmie Dougherty.",
+          "url": "https://www.foxsports.com/college-football/washington-huskies-team"
+        },
+        {
+          "title": "2026 NFL Draft Profile: Anterio Thompson",
+          "summary": "UW Dawg Pound featured a draft profile for Washington player Anterio Thompson ahead of the 2026 NFL Draft.",
+          "url": "https://www.uwdawgpound.com/"
+        }
+      ],
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

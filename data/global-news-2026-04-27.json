@@ -1,0 +1,84 @@
+{
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T14:00:00Z",
+  "headlines": [
+    {
+      "title": "White House says Trump 'stands by' Secret Service as shooting suspect due in court",
+      "source": "BBC",
+      "category": "US & Canada",
+      "url": "https://www.bbc.com/news/live/c1je28p42ret"
+    },
+    {
+      "title": "Russian fighters confirm withdrawal from northern Mali city after separatist attacks",
+      "source": "BBC",
+      "category": "World",
+      "url": "https://www.bbc.com/news/articles/c3w3wyq4v14o"
+    },
+    {
+      "title": "Michael Jackson biopic smashes box office record with $217m global opening",
+      "source": "BBC",
+      "category": "Culture",
+      "url": "https://www.bbc.com/news/articles/crl1lpzp4z5o"
+    },
+    {
+      "title": "Iran's foreign minister meets Putin in Russia as Israel continues strikes in Lebanon",
+      "source": "BBC",
+      "category": "World",
+      "url": "https://www.bbc.com/news/live/clyey0yddyrt"
+    },
+    {
+      "title": "At least 42 killed in Chad after water well dispute escalates",
+      "source": "BBC",
+      "category": "Africa",
+      "url": "https://www.bbc.com/news/articles/cr717plvxvgo"
+    },
+    {
+      "title": "Kim Jong Un opens memorial for North Korean soldiers killed in Ukraine war",
+      "source": "BBC",
+      "category": "World",
+      "url": "https://www.bbc.com/news/articles/cql7l707244o"
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
+      "source": "AP",
+      "category": "World",
+      "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026"
+    },
+    {
+      "title": "With goals of Iran war unfulfilled, Netanyahu's government faces unhappy public as elections loom",
+      "source": "AP",
+      "category": "World",
+      "url": "https://apnews.com/article/netanyahu-trump-elections-ben-gvir-israel"
+    },
+    {
+      "title": "Marathon milestone shattered: Sabastian Sawe breaks the fabled 2-hour barrier by 30 seconds",
+      "source": "AP",
+      "category": "Sports",
+      "url": "https://apnews.com/article/marathon-record-sawe-london-under-two-hours"
+    },
+    {
+      "title": "Elon Musk and OpenAI CEO Sam Altman head to court in high-stakes showdown over AI",
+      "source": "AP",
+      "category": "Business/Technology",
+      "url": "https://apnews.com/article/musk-altman-artificial-intelligence-trial-openai"
+    },
+    {
+      "title": "China blocks Meta from acquiring AI startup Manus",
+      "source": "AP",
+      "category": "Business/Technology",
+      "url": "https://apnews.com/article/china-meta-manus-ai-acquisition"
+    },
+    {
+      "title": "U.S. steps in to shield global economy from oil crunch triggered by Iran war",
+      "source": "Reuters",
+      "category": "Business",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "title": "Iran rejects ceasefire, emphasizes necessity of permanent end to war",
+      "source": "Reuters",
+      "category": "World",
+      "url": "https://www.reuters.com/live/"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-26",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle Teen's Artwork to be Featured on Google Homepage",
+      "summary": "Kameirah Johnson, a senior at Lakeside High School in North Seattle, is one of five finalists in the national Doodle for Google Contest. Her digital painting depicting three Black girls with hair spelling 'Google' will be displayed on Google's homepage on April 28. The artwork celebrates Black hair as a form of resistance and superpower.",
+      "source": "OPB",
+      "url": "https://www.opb.org/article/2026/04/26/google-to-feature-seattle-teens-painting-inspired-by-black-hair/",
+      "category": "community"
+    },
+    {
+      "title": "Man Sentenced to 3.5 Years for Shooting Navy Veteran on Seattle Waterfront",
+      "summary": "Gregory William Timm was sentenced to 42 months in prison for shooting 68-year-old Harold Powell Sr., a wheelchair-bound Navy veteran and street performer, on the Seattle Waterfront during Seafair last summer. The shooting occurred while Powell was entertaining crowds near the waterfront.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/news/man-sentenced-seattle-waterfront-shooting",
+      "category": "crime"
+    },
+    {
+      "title": "Seattle City Councilmembers Respond to Homelessness Authority Audit Findings",
+      "summary": "Councilmembers Alexis Mercedes Rinck and Dionne Foster released a statement calling the King County Regional Homelessness Authority (KCRHA) forensic audit findings 'serious, unacceptable and demand immediate action.' The audit revealed financial control issues, and councilmembers are calling for stronger oversight and accountability in the regional homelessness system.",
+      "source": "Seattle City Council",
+      "url": "https://council.seattle.gov/2026/04/22/councilmembers-rinck-and-foster-respond-to-unacceptable-king-county-regional-homelessness-authority-kcrha-forensic-audit-findings/",
+      "category": "politics"
+    },
+    {
+      "title": "New 235-Unit Affordable Housing Community Opens in Northgate",
+      "summary": "Copperleaf Northgate, a transit-oriented affordable housing development with 235 apartments, celebrated its grand opening near the Northgate Station. The project represents King County's largest affordable housing investment, developed by BRIDGE Housing and Community Roots Housing. The seven-story building includes units for households earning up to 60% of Area Median Income, with 24 units reserved for those who have experienced homelessness.",
+      "source": "King County Metro",
+      "url": "https://kingcountymetro.blog/2026/04/21/king-county-executive-zahilay-and-partners-celebrate-the-opening-of-copperleaf-a-new-235-unit-affordable-housing-community-in-northgate/",
+      "category": "business"
+    },
+    {
+      "title": "Seattle Mayor Katie Wilson Briefs Community on Plan to Add 1,000 Shelter Units",
+      "summary": "Mayor Wilson hosted a community briefing on accelerating the opening of new shelter and emergency housing units this year. The plan includes a new micro-modular shelter on Armory Way in Interbay for 75 people with behavioral health needs, an RV safe lot in West Seattle with 72 spots, and fast-tracking construction timelines from 9-12 months down to 3-5 months. The administration is also exploring master-leasing existing buildings for emergency housing.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/vote-do-you-support-an-expansion-of-tiny-home-villages-to-address-the-homelessness-crisis-seattle-city-mayor-katie-wilson-shelter-emergency-housing",
+      "category": "politics"
+    },
+    {
+      "title": "Mariners Win Weekend Series Against Cardinals",
+      "summary": "The Seattle Mariners defeated the St. Louis Cardinals 11-9 on Saturday, with Julio Rodríguez, Will Wilson, and Cole Young each homering. Leo Rivas hit a two-run single in the ninth to secure the win. The Mariners have now won six consecutive games against the Cardinals and sit at 13-15 on the season, third in the AL West.",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com",
+      "category": "other"
+    },
+    {
+      "title": "WSDOT Revive I-5 Construction Continues with Lane Reductions",
+      "summary": "The Washington State Department of Transportation's Revive I-5 project continues in 2026 with long-term lane reductions on northbound I-5 across the Ship Canal Bridge. Weekend closures are planned throughout the year, with all lanes scheduled to reopen June 8-July 10 for the 2026 FIFA World Cup games. The project focuses on bridge deck repairs and drainage improvements.",
+      "source": "Seattle Department of Transportation",
+      "url": "https://sdotblog.seattle.gov/2026/01/08/wsdot-revive-i-5-construction-resumes/",
+      "category": "traffic"
+    },
+    {
+      "title": "Seattle/King County Clinic Offers Free Medical Services Through April 26",
+      "summary": "The Seattle/King County Clinic returned to Seattle Center for its 11th year from April 23-26, offering free dental, vision, and medical services to thousands of residents. The annual event provides critical healthcare access to uninsured and underinsured individuals in the region.",
+      "source": "KOMO News",
+      "url": "https://komonews.com",
+      "category": "community"
+    }
+  ],
+  "weather": {
+    "forecast": "Sunny and pleasant with temperatures climbing through the day. Light southeast winds around 4 mph. Clear conditions continuing into the evening with overnight lows in the upper 40s. Great weather for outdoor activities.",
+    "high": 66,
+    "low": 48,
+    "conditions": "Sunny",
+    "alert": null
+  }
+}

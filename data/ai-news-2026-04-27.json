@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-27",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Microsoft and OpenAI Amend Partnership, Ending Exclusive Cloud Deal",
+      "source": "Microsoft Blog / CNBC / NYT",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "summary": "Microsoft and OpenAI announced a major amendment to their partnership. Microsoft will no longer have exclusive access to OpenAI's models and will stop paying revenue share on OpenAI products resold on Azure. OpenAI can now deploy on any cloud provider, though Microsoft remains the primary partner with first right of refusal."
+    },
+    {
+      "title": "DeepSeek Unveils New AI Model Tailored for Huawei Chips",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+      "summary": "Chinese AI startup DeepSeek launched a preview of its new AI model optimized for Huawei chip technology, signaling China's push for tech autonomy and reducing reliance on Western semiconductors."
+    },
+    {
+      "title": "Google Cloud Debuts Eighth-Generation TPUs for the 'Agentic Era'",
+      "source": "Google Cloud / Ars Technica / TechCrunch",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "summary": "Google unveiled two new TPU chips (8t for training, 8i for inference) designed specifically for AI agents. The split approach targets different workloads as Google challenges Nvidia's dominance in AI hardware."
+    },
+    {
+      "title": "ChatGPT Rolls Out GPT-5.5 with Enhanced Reasoning and Agentic Workflows",
+      "source": "Releasebot / OpenAI",
+      "url": "https://releasebot.io/updates/openai/chatgpt",
+      "summary": "OpenAI released GPT-5.5, its smartest frontier model yet for professional work, featuring stronger multi-step reasoning, tool use, coding capabilities, research functions, document creation, and agentic workflows. GPT-5.5 Pro and Thinking variants also launched."
+    },
+    {
+      "title": "OpenAI Introduces GPT-Rosalind for Life Sciences Research",
+      "source": "OpenAI",
+      "url": "https://openai.com/news/",
+      "summary": "OpenAI launched GPT-Rosalind, a specialized model designed for life sciences research, expanding their portfolio of domain-specific AI applications."
+    },
+    {
+      "title": "Snowflake Expands AI Platform for 'Agentic Enterprise'",
+      "source": "Snowflake / TechAfrica News",
+      "url": "https://www.snowflake.com/en/news/press-releases/snowflake-expands-snowflake-intelligence-and-cortex-code-to-power-the-control-plane-for-the-agentic-enterprise/",
+      "summary": "Snowflake unveiled major upgrades to Snowflake Intelligence and Cortex Code, positioning itself as the 'control plane for the agentic enterprise.' New features include VS Code extension, Claude Code plugin, and support for external data platforms like AWS Glue and Databricks."
+    },
+    {
+      "title": "Class-Action Lawsuit Accuses Perplexity of Sharing User Data with Meta and Google",
+      "source": "Bloomberg / Ars Technica / PCMag",
+      "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+      "summary": "A proposed class-action lawsuit claims Perplexity 'effectively planted a bug' by embedding Meta Pixel, Google Ads, and DoubleClick trackers, allegedly sharing user chat transcripts and personal information without consent. The suit calls Perplexity's Incognito Mode a 'sham.'"
+    },
+    {
+      "title": "NVIDIA Launches Ising: Open AI Models for Quantum Computing",
+      "source": "NVIDIA Newsroom",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-ising-the-worlds-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers",
+      "summary": "NVIDIA launched Ising, the world's first open AI models designed to accelerate quantum computing development. The models focus on quantum calibration and error correction to help researchers build scalable quantum systems."
+    },
+    {
+      "title": "US State Dept Orders Global Warning About Alleged AI Thefts by Chinese Firms",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "The US State Department reportedly ordered a global warning about alleged AI intellectual property thefts by DeepSeek and other Chinese firms, escalating tech tensions between the US and China."
+    },
+    {
+      "title": "Wall Street Divided on Quantum Computing: Goldman Retreats, JPMorgan Invests",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
+      "summary": "As quantum computing breakthroughs remain elusive, Wall Street is split on investment strategies. Goldman Sachs is pulling back while JPMorgan continues investing, reflecting uncertainty about when practical quantum advantage will arrive."
+    }
+  ],
+  "top_story": {
+    "title": "Microsoft and OpenAI Amend Partnership, Ending Exclusive Cloud Deal",
+    "source": "Microsoft Blog / CNBC / NYT",
+    "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+    "summary": "In a landmark shift for the AI industry, Microsoft and OpenAI announced a major amendment to their partnership. Microsoft will no longer have exclusive access to OpenAI's models and will stop paying revenue share on OpenAI products resold on Azure. OpenAI can now deploy on any cloud provider, though Microsoft remains the primary partner with first right of refusal. This signals OpenAI's growing independence and Microsoft's strategic pivot as the AI landscape evolves."
+  }
+}

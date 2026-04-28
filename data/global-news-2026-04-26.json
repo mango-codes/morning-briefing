@@ -1,0 +1,88 @@
+{
+  "date": "2026-04-26",
+  "source": "Morning Briefing - Global News",
+  "headlines": [
+    {
+      "id": 1,
+      "title": "Ukraine Commemorates 40th Anniversary of Chornobyl Nuclear Disaster",
+      "summary": "Ukraine marks the 40th anniversary of the world's worst nuclear disaster amid fears that Russia's ongoing war could spark a repeat catastrophe. Russia has repeatedly launched drones and missiles near the plant.",
+      "source": "Reuters / The Guardian",
+      "category": "Europe/Ukraine",
+      "published": "2026-04-26"
+    },
+    {
+      "id": 2,
+      "title": "Mali Hit by Largest Jihadist Attack in Years",
+      "summary": "Al Qaeda-linked group JNIM launched coordinated attacks across Mali, including the capital Bamako. The Defense Minister was reportedly killed in an attack on his residence at the Kati military base.",
+      "source": "BBC / New York Times",
+      "category": "Africa",
+      "published": "2026-04-25"
+    },
+    {
+      "id": 3,
+      "title": "Israel Orders 'Forceful Attacks' on Hezbollah in Lebanon",
+      "summary": "Netanyahu directed the IDF to attack Hezbollah targets after six people were killed by strikes in southern Lebanon. Hezbollah called the U.S.-mediated ceasefire extension 'meaningless.'",
+      "source": "BBC / Reuters",
+      "category": "Middle East",
+      "published": "2026-04-25"
+    },
+    {
+      "id": 4,
+      "title": "US-Iran War: Ceasefire Extended as Pakistan Hosts Negotiations",
+      "summary": "The US extended its ceasefire with Iran until May 17. Pakistan is racing to save negotiations between the US and Iran, though Trump cancelled a planned envoy trip to Islamabad.",
+      "source": "AP / New York Times",
+      "category": "Middle East",
+      "published": "2026-04-26"
+    },
+    {
+      "id": 5,
+      "title": "Trump and Officials 'Likely Targets' of Suspected Gunman at Event",
+      "summary": "The acting attorney general stated that preliminary findings suggest a suspected gunman was specifically targeting members of the Trump administration. Incident occurred at a venue where shots were fired.",
+      "source": "BBC",
+      "category": "US/Security",
+      "published": "2026-04-26"
+    },
+    {
+      "id": 6,
+      "title": "Two US Federal Agents Killed in Mexico Operation",
+      "summary": "Two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab. Mexico says the agents were not authorized to participate in local operations.",
+      "source": "AP / BBC",
+      "category": "Americas",
+      "published": "2026-04-25"
+    },
+    {
+      "id": 7,
+      "title": "Britain and Spain Reject Trump's Reported Plans for Punishment",
+      "summary": "European allies alarmed by Trump limiting American support for Ukraine and staking claims to Greenland. Britain and Spain rejected reported plans by Trump to punish them.",
+      "source": "New York Times",
+      "category": "Europe/US Relations",
+      "published": "2026-04-24"
+    },
+    {
+      "id": 8,
+      "title": "US Imposes Sanctions on China-Based Oil Refinery Over Iranian Oil",
+      "summary": "The US imposed sanctions on a China-based oil refinery and 40 shippers over Iranian oil smuggling. The US military also seized another tanker associated with Iranian oil smuggling.",
+      "source": "AP News",
+      "category": "US/China/Iran",
+      "published": "2026-04-25"
+    },
+    {
+      "id": 9,
+      "title": "Palestinians Vote in Local Elections in West Bank and Gaza",
+      "summary": "Local elections held in the occupied West Bank and one Gazan city, though Hamas and other groups are not participating. First such elections in years.",
+      "source": "BBC",
+      "category": "Middle East",
+      "published": "2026-04-25"
+    },
+    {
+      "id": 10,
+      "title": "Venezuela Prisoner Release Scheme 'Coming to an End'",
+      "summary": "Rights groups critical as Venezuela's prisoner release scheme concludes. More than 500 political prisoners have been released under the program.",
+      "source": "BBC",
+      "category": "Americas",
+      "published": "2026-04-25"
+    }
+  ],
+  "generated_at": "2026-04-26T14:00:00Z",
+  "total_headlines": 10
+}

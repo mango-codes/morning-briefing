@@ -1,0 +1,241 @@
+{
+  "date": "2026-04-26",
+  "category": "events",
+  "today": [
+    {
+      "title": "The Wedding Present: Seamonsters 35th Anniversary Tour",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Crocodile",
+      "description": "The Wedding Present celebrates the 35th anniversary of their iconic album Seamonsters with special guest Mark Robinson sings Unrest.",
+      "url": "https://www.ticketmaster.com/event/the-wedding-present-seamonsters-35th-anniversary-tour",
+      "price": "$25+"
+    },
+    {
+      "title": "The Sleeping Beauty by International Ballet Stars",
+      "type": "theater",
+      "time": "7:00 PM",
+      "venue": "Paramount Theatre",
+      "description": "A spectacular ballet production featuring world-class international ballet stars performing the classic Tchaikovsky masterpiece.",
+      "url": "https://www.stgpresents.org/events/the-sleeping-beauty-by-international-ballet-stars/",
+      "price": "$45+"
+    },
+    {
+      "title": "Shadow Of Intent - Imperium Delirium North American Tour 2026",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "El Corazon",
+      "description": "Deathcore band Shadow of Intent brings their Imperium Delirium tour to Seattle with supporting acts.",
+      "url": "https://www.elcorazonseattle.com/ticketing",
+      "price": "$30+"
+    },
+    {
+      "title": "Iris DeMent",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "The Triple Door",
+      "description": "Grammy-nominated singer-songwriter Iris DeMent performs her blend of folk, country, and gospel music.",
+      "url": "https://tickets.thetripledoor.net/ordertickets.asp?p=5327",
+      "price": "$40+"
+    },
+    {
+      "title": "DinoFest at The Burke Museum",
+      "type": "festival",
+      "time": "10:00 AM - 5:00 PM",
+      "venue": "Burke Museum",
+      "description": "Family-friendly dinosaur festival with fossil exhibits, hands-on activities, and paleontologists to talk about dinosaurs.",
+      "url": "https://www.burkemuseum.org/calendar/dino-fest-2026",
+      "price": "Free with admission"
+    },
+    {
+      "title": "Seattle Sounders FC vs TBD",
+      "type": "sports",
+      "time": "5:00 PM",
+      "venue": "Lumen Field",
+      "description": "MLS doubleheader featuring Seattle Sounders FC at home. Part of the regular season schedule.",
+      "url": "https://www.soundersfc.com/",
+      "price": "$35+"
+    },
+    {
+      "title": "Tempest Tossed",
+      "type": "theater",
+      "time": "2:00 PM",
+      "venue": "Town Hall Seattle",
+      "description": "A theatrical performance presented by Thalia Symphony Orchestra.",
+      "url": "https://www.thaliasymphony.org/events/tempest-tossed-2",
+      "price": "$25+"
+    },
+    {
+      "title": "Heated Rivalry Drag Brunch",
+      "type": "comedy",
+      "time": "12:00 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "A fun and fabulous drag brunch show with performances and comedy.",
+      "url": "https://www.emeraldcitycomedy.com/shows/364015",
+      "price": "$20+"
+    },
+    {
+      "title": "Mo Dow & Friends (Release Show)",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "The Sunset Tavern",
+      "description": "Release show featuring Mo Dow & Friends with special guests Arden Leas and Moussalangelo.",
+      "url": "https://link.dice.fm/x48c6f9a452d",
+      "price": "$15+"
+    },
+    {
+      "title": "Blair Borax w/ Natt Meek, Stefan Weiner",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "The Tractor Tavern",
+      "description": "Partially seated show featuring indie folk artist Blair Borax with supporting acts.",
+      "url": "https://www.ticketweb.com/event/blair-borax-natt-meek-stefan-tractor-tickets/14151604",
+      "price": "$18+"
+    },
+    {
+      "title": "Tightwire w/ Sneer and The Subjunctives",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "The Vera Project",
+      "description": "All-ages punk/rock show presented by The Vera Project.",
+      "url": "https://link.dice.fm/z818cf7f47e4",
+      "price": "$12+"
+    },
+    {
+      "title": "Mirah, Naomi Wachira",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Ballard Homestead",
+      "description": "Intimate acoustic evening with indie folk artists Mirah and Naomi Wachira.",
+      "url": "https://events.humanitix.com/26-4-26-mirah",
+      "price": "$20+"
+    },
+    {
+      "title": "Cydeways, The Irie, Native Leaves",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Spanish Ballroom (McMenamins)",
+      "description": "Reggae and roots music night featuring Cydeways with The Irie and Native Leaves.",
+      "url": "https://www.mcmenamins.com/events/274623-cydeways",
+      "price": "$15+"
+    },
+    {
+      "title": "The Toxhards",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Barboza",
+      "description": "High-energy rock show at Barboza in Capitol Hill.",
+      "url": "https://www.axs.com/events/1367723/the-toxhards-tickets",
+      "price": "$15+"
+    },
+    {
+      "title": "THIS IS FOR YOU: An Improvised Theatre Poetry Experience",
+      "type": "theater",
+      "time": "7:00 PM",
+      "venue": "Unexpected Productions",
+      "description": "Closing night of an improvised theater and poetry fusion show at Pike Place Market.",
+      "url": "https://do206.com/events/2026/4/26/this-is-for-you-an-improvised-theatre-poetry-experience-closing-night-tickets",
+      "price": "$20+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Helloween: 40th Anniversary North American Tour",
+      "date": "Tuesday, April 28",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/events/helloween/"
+    },
+    {
+      "title": "Alice Phoebe Lou",
+      "date": "Tuesday, April 28",
+      "type": "concert",
+      "venue": "Neptune Theatre",
+      "url": "https://www.stgpresents.org/events/alice-phoebe-lou/"
+    },
+    {
+      "title": "Queens of the Stone Age",
+      "date": "Wednesday, April 29",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.ticketmaster.com/queens-of-the-stone-age-tickets"
+    },
+    {
+      "title": "Silent Movie Mondays - Faust (1926)",
+      "date": "Monday, April 27",
+      "type": "theater",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/events/silent-movie-mondays-faust/"
+    },
+    {
+      "title": "La Dispute",
+      "date": "Friday, May 1",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://do206.com/events/2026/5/1/la-dispute-tickets"
+    },
+    {
+      "title": "José González",
+      "date": "Friday, May 1",
+      "type": "concert",
+      "venue": "Showbox SoDo",
+      "url": "https://www.stgpresents.org/events/jose-gonzalez/"
+    },
+    {
+      "title": "Waxahatchee and MJ Lenderman with Brennan Wedl",
+      "date": "Sunday, May 3",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://seatgeek.com/waxahatchee-mj-lenderman-tickets"
+    },
+    {
+      "title": "Seattle Erotic Art Festival 2026",
+      "date": "Friday-Sunday, May 1-3",
+      "type": "festival",
+      "venue": "Seattle Center Exhibition Hall",
+      "url": "https://everout.com/seattle/events/seattle-erotic-art-festival-2026/e165507/"
+    },
+    {
+      "title": "William Basinski & Kelly Moran",
+      "date": "Monday, April 27",
+      "type": "concert",
+      "venue": "Substation",
+      "url": "https://www.songkick.com/concerts/william-basinski-kelly-moran"
+    },
+    {
+      "title": "Jonny Fritz",
+      "date": "Monday, April 27",
+      "type": "concert",
+      "venue": "Sunset Tavern",
+      "url": "https://www.songkick.com/concerts/jonny-fritz"
+    },
+    {
+      "title": "John Andrews and the Yawns",
+      "date": "Tuesday, April 28",
+      "type": "concert",
+      "venue": "Neptune Theatre",
+      "url": "https://www.songkick.com/concerts/john-andrews-and-the-yawns"
+    },
+    {
+      "title": "Claire Rosinkranz",
+      "date": "Tuesday, April 28",
+      "type": "concert",
+      "venue": "The Crocodile",
+      "url": "https://seatgeek.com/claire-rosinkranz-tickets"
+    },
+    {
+      "title": "SCRAMBLER JAM!",
+      "date": "Tuesday, April 28",
+      "type": "concert",
+      "venue": "Chop Suey",
+      "url": "https://www.ticketmaster.com/scrambler-jam-tickets"
+    },
+    {
+      "title": "WIL E HAZE",
+      "date": "Monday, April 27",
+      "type": "concert",
+      "venue": "Spanish Ballroom at Elks Temple",
+      "url": "https://www.bandsintown.com/c/seattle-wa"
+    }
+  ]
+}
