@@ -1,0 +1,120 @@
+{
+  "date": "2026-04-28",
+  "category": "events",
+  "today": [
+    {
+      "title": "Helloween: 40th Anniversary North American Tour 2026",
+      "type": "Concert",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "description": "German power metal legends Helloween celebrate their 40th anniversary with a massive North American tour featuring their iconic lineup.",
+      "url": "https://www.ticketmaster.com/helloween-40th-anniversary-north-american-tour-seattle-washington-04-28-2026/event/0F00635BD89C69FE",
+      "price": "$45+"
+    },
+    {
+      "title": "Alice Phoebe Lou",
+      "type": "Concert",
+      "time": "8:00 PM",
+      "venue": "Neptune Theatre",
+      "description": "South African-born, Berlin-based indie folk singer-songwriter brings her soulful, intimate live performance to Seattle.",
+      "url": "https://www.ticketmaster.com/alice-phoebe-lou-seattle-washington-04-28-2026/event/0F0063512BBA7DA6",
+      "price": "$38+"
+    },
+    {
+      "title": "Black Veil Brides with From Ashes to New",
+      "type": "Concert",
+      "time": "6:30 PM",
+      "venue": "Showbox SoDo",
+      "description": "American rock band Black Veil Brides brings their theatrical hard rock show with special guests From Ashes to New, As December Falls, and TX2.",
+      "url": "https://www.axs.com/events/1305729/black-veil-brides-tickets",
+      "price": "$35+"
+    },
+    {
+      "title": "Jensen McRae",
+      "type": "Concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Rising indie folk-pop artist known for her poignant lyrics and soulful voice. Blends elements of indie pop and folk in an intimate setting.",
+      "url": "https://www.ticketmaster.com/jensen-mcrae-tickets/artist/2299980",
+      "price": "$58+"
+    },
+    {
+      "title": "SCRAMBLER JAM!",
+      "type": "Open Mic / Community Event",
+      "time": "7:00 PM (Show 8:00 PM)",
+      "venue": "Chop Suey",
+      "description": "Free community open mic event focused on strengthening local artist community. Sign-ups start at 7PM, show at 8PM. 21+ event.",
+      "url": "https://chopsuey.com/tm-event/scrambler-jam/",
+      "price": "Free"
+    },
+    {
+      "title": "National Geographic Live: Uncovering Our Concrete Jungle",
+      "type": "Lecture / Speaker Series",
+      "time": "7:30 PM",
+      "venue": "Benaroya Hall - Taper Auditorium",
+      "description": "Urban ecologist Chris Schell reveals the wildlife that roams our cities' alleys and backyards in this fascinating National Geographic Live presentation.",
+      "url": "https://www.seattlesymphony.org/benaroyahall/concerts-tickets/nat-geo",
+      "price": "$25+"
+    },
+    {
+      "title": "Seattle Mariners vs. Minnesota Twins",
+      "type": "Sports - MLB",
+      "time": "6:40 PM",
+      "venue": "T-Mobile Park",
+      "description": "Seattle Mariners host the Minnesota Twins for an evening MLB matchup at T-Mobile Park.",
+      "url": "https://www.mlb.com/mariners",
+      "price": "$15+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "DOORS 2026: STG's Annual Fundraiser with Nile Rodgers & CHIC",
+      "date": "Saturday, May 2, 2026",
+      "type": "Concert / Fundraiser",
+      "venue": "Paramount Theatre",
+      "url": "https://allevents.in/seattle/doors-2026-stgs-annual-fundraiser-with-nile-rodgers-and-chic/200029845259336"
+    },
+    {
+      "title": "Charlie Puth with Daniel Seavey & Ally Salort",
+      "date": "Saturday, May 2, 2026",
+      "type": "Concert",
+      "venue": "WaMu Theater at Lumen Field Event Center",
+      "url": "https://allevents.in/seattle/charlie-puth-daniel-seavey-and-ally-salort/2300029497505130"
+    },
+    {
+      "title": "Charlie Puth",
+      "date": "Sunday, May 3, 2026",
+      "type": "Concert",
+      "venue": "WaMu Theater - Seattle",
+      "url": "https://allevents.in/seattle/charlie-puth-at-wamu-theater-seattle/2400029524308746"
+    },
+    {
+      "title": "José González with Abby Sage",
+      "date": "Friday, May 1, 2026",
+      "type": "Concert",
+      "venue": "Showbox SoDo",
+      "url": "https://allevents.in/seattle/josé-gonzález-abby-sage-in-seattle/3300029506394357"
+    },
+    {
+      "title": "LeAnn Rimes",
+      "date": "Friday, May 1, 2026",
+      "type": "Concert",
+      "venue": "Benaroya Hall - Taper Auditorium",
+      "url": "https://allevents.in/seattle/leann-rimes-at-benaroya-hall-taper-auditorium/2400029255180704"
+    },
+    {
+      "title": "Seattle Mariners vs. Atlanta Braves",
+      "date": "Sunday, May 3, 2026",
+      "type": "Sports - MLB",
+      "venue": "T-Mobile Park",
+      "url": "https://allevents.in/seattle/seattle-mariners-vs-atlanta-braves/2300028774180133"
+    },
+    {
+      "title": "Seattle Kraken Playoff Game - Western Conference First Round",
+      "date": "Friday, May 1, 2026",
+      "type": "Sports - NHL Playoffs",
+      "venue": "Climate Pledge Arena",
+      "url": "https://allevents.in/seattle/tbd-at-seattle-kraken-western-conference-first-round-home-game-4/3200029827196146"
+    }
+  ]
+}

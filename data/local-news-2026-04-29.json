@@ -1,0 +1,40 @@
+{
+  "date": "2026-04-29",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Shots fired near Seattle Mayor Katie Wilson's press conference at Yesler Community Center",
+      "source": "KING5 / FOX 13 Seattle",
+      "summary": "Gunfire struck a building near Yesler Community Center on Tuesday afternoon just after Mayor Katie Wilson concluded a press conference announcing new investments in Seattle's children and families. Police received a 911 call around 5:10 p.m. reporting gunfire near the community center. Witnesses reported three to four suspects fled the area in a dark-colored sedan. No injuries were reported from the gunfire."
+    },
+    {
+      "title": "Man critically injured in shooting at West Seattle encampment",
+      "source": "KING5",
+      "summary": "Seattle Police are investigating after a man was found shot Tuesday morning near Delridge Way Southwest and 17th Avenue Southwest in West Seattle. The victim was discovered at a homeless encampment in the South Delridge area and was transported to the hospital in critical condition. The incident marks another violent episode at local encampments, raising ongoing safety concerns."
+    },
+    {
+      "title": "Barnes & Noble to open new flagship store in downtown Seattle on May 6",
+      "source": "MyNorthwest / Puget Sound Business Journal",
+      "summary": "Barnes & Noble will open its first downtown Seattle store in six years on May 6, 2026, at 520 Pike Street in the former North Face space. The opening is part of a massive expansion effort that will add 60 new locations across the U.S. this year, signaling renewed retail confidence in the recovering downtown Seattle market."
+    },
+    {
+      "title": "Seattle Parks proposes eliminating 36 pickleball courts, sparking community backlash",
+      "source": "KIRO 7 / KOMO News",
+      "summary": "A controversial proposal by Seattle Parks and Recreation would eliminate 36 outdoor pickleball courts citywide, reducing the total from 92 to 56 courts as early as June 2026. The plan is part of a new Outdoor Racquet Sports Strategy to separate pickleball and tennis facilities. The Seattle Metro Pickleball Association has launched a petition that has gathered over 2,000 signatures calling on the city to pause the plan."
+    },
+    {
+      "title": "23rd annual Seattle Black Film Festival returns April 30-May 3",
+      "source": "Capitol Hill Seattle News / Converge Media",
+      "summary": "The 23rd annual Seattle Black Film Festival takes place April 30 through May 3 at the historic Langston Hughes Performing Arts Institute in the Central District. The festival will showcase 55 films and host four workshops throughout the four-day event. Organizers received nearly 200 submissions this year, the most in almost a decade."
+    },
+    {
+      "title": "Robots reveal 'shipwreck city' beneath Lake Union",
+      "source": "KING5",
+      "summary": "Ocean engineers using remotely operated vehicles (ROVs) have discovered dozens of shipwrecks hidden beneath the waters of Lake Union. The robotics technology allows for detailed imaging and documentation of the wrecks in conditions where human divers face safety risks from potentially polluted water and low visibility. The findings are shedding new light on Seattle's maritime history."
+    }
+  ],
+  "top_story": {
+    "title": "Shots fired near Seattle Mayor Katie Wilson's press conference at Yesler Community Center",
+    "description": "Gunfire erupted near Yesler Community Center on Tuesday just moments after Mayor Katie Wilson concluded a press conference announcing new investments in Seattle's children and families. The incident occurred around 5:10 p.m. when multiple shots were fired near the building where the mayor had been speaking with children and adults present. Witnesses reported seeing three to four suspects flee in a dark-colored sedan. Mayor Wilson was safely escorted from the scene and later issued a statement saying 'Shortly following my announcement of new investments in Seattle's children and families today, we heard gunfire.' No injuries were reported, but the incident highlights ongoing concerns about gun violence in the city."
+  }
+}

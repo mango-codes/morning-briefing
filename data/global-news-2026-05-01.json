@@ -1,0 +1,91 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "source": "BBC",
+      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "category": "world",
+      "published": "47 mins ago"
+    },
+    {
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "source": "BBC",
+      "summary": "The US defence secretary says the timer for the president to report to Congress 'pauses or stops' in a ceasefire.",
+      "category": "world",
+      "published": "3 hrs ago"
+    },
+    {
+      "title": "Iran's supreme leader vows to protect nuclear and missile capabilities",
+      "source": "AP",
+      "summary": "Iran's supreme leader affirms commitment to maintaining nuclear and missile programs amid ongoing tensions.",
+      "category": "world",
+      "published": "latest"
+    },
+    {
+      "title": "Trump administration says its war in Iran has been 'terminated' before 60-day deadline",
+      "source": "AP",
+      "summary": "The administration claims the Iran war has been terminated prior to the War Powers Act deadline for congressional approval.",
+      "category": "politics",
+      "published": "latest"
+    },
+    {
+      "title": "Key inflation gauge jumps to highest level in 3 years as Iran war spikes gas prices",
+      "source": "AP",
+      "summary": "Consumer prices rise sharply, driven by increased energy costs resulting from the conflict in Iran.",
+      "category": "business",
+      "published": "latest"
+    },
+    {
+      "title": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "source": "BBC",
+      "summary": "The Global Sumud Flotilla denounced the interception as 'piracy', while Israel's foreign ministry called the flotilla a 'PR stunt'.",
+      "category": "world",
+      "published": "4 hrs ago"
+    },
+    {
+      "title": "Deadly Israeli strikes on southern Lebanon despite ceasefire",
+      "source": "BBC",
+      "summary": "Seventeen people - including two children - were killed, according to Lebanon's health ministry.",
+      "category": "world",
+      "published": "6 hrs ago"
+    },
+    {
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "source": "BBC",
+      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
+      "category": "world",
+      "published": "latest"
+    },
+    {
+      "title": "China scraps tariffs for all but one African nation",
+      "source": "BBC",
+      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+      "category": "world",
+      "published": "latest"
+    },
+    {
+      "title": "US imposes sanctions on DR Congo ex-President Kabila alleging rebel support",
+      "source": "BBC",
+      "summary": "The former leader has not responded to US accusations that he is aiming to destabilise the government.",
+      "category": "world",
+      "published": "latest"
+    },
+    {
+      "title": "Trump gives go-ahead to major new Canada-US oil pipeline",
+      "source": "AP",
+      "summary": "Approval granted for significant new pipeline project between Canada and the United States.",
+      "category": "politics",
+      "published": "latest"
+    },
+    {
+      "title": "Mexico to investigate US indictment of officials for alleged Sinaloa Cartel ties",
+      "source": "AP",
+      "summary": "Mexican authorities launch investigation following US indictment of officials linked to drug cartel.",
+      "category": "world",
+      "published": "latest"
+    }
+  ]
+}

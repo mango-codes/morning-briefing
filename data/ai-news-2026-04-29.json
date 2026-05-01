@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-29",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Elon Musk Testifies Against OpenAI in Landmark Trial",
+      "source": "CNN / Reuters / NYT",
+      "summary": "Elon Musk took the stand Tuesday in a high-stakes trial against OpenAI, accusing CEO Sam Altman and executives of abandoning the company's original nonprofit mission. Musk claims OpenAI was 'stolen' from its charitable purpose and alleges Altman steered the company toward profit motives, calling him 'Scam Altman' on social media. The case could shape the future of AI development and governance."
+    },
+    {
+      "title": "Big Tech Earnings Day: Microsoft, Amazon, Alphabet, Meta Report",
+      "source": "Morningstar / Bloomberg",
+      "summary": "All four tech giants (Alphabet, Amazon, Meta, Microsoft) report quarterly earnings after market close today. Wall Street is watching to see if massive AI investments—projected at $600-645 billion in combined CapEx for 2026—are beginning to pay off. The results will arrive in an 80-second window, potentially moving markets significantly."
+    },
+    {
+      "title": "Amazon Unveils AI-Powered Hiring and Supply Chain Tools",
+      "source": "GeekWire / AWS",
+      "summary": "AWS launched Amazon Connect Talent and Connect Decisions, agentic AI tools for automating mass hiring and supply chain planning. Connect Talent conducts AI-led interviews 24/7 with science-backed assessments, while the supply chain tools leverage Amazon's operational expertise. The company is emphasizing 'humorphism' to soften automation concerns."
+    },
+    {
+      "title": "AI Rally Expands Across Chip Supply Chain",
+      "source": "Bloomberg",
+      "summary": "The AI investment boom spreading across Asia is now reaching deeper into the global chip supply chain. Beyond spotlighted chipmakers like TSMC, new winners are emerging throughout the semiconductor ecosystem as demand for AI infrastructure continues to surge."
+    },
+    {
+      "title": "Report: 73% of Enterprise AI Projects Fail to Deliver ROI",
+      "source": "ExcelMindCyber Institute / Globe Newswire",
+      "summary": "A new report highlights a critical AI governance gap as enterprise AI spending is projected to hit $665 billion in 2026. According to Deloitte's 2026 State of AI report, only 1% of companies describe themselves as AI-mature, and 73% of AI initiatives fail to deliver promised returns—investigators cite governance, not technology, as the primary bottleneck."
+    }
+  ],
+  "top_story": {
+    "title": "Elon Musk vs. OpenAI Trial Begins",
+    "description": "The most significant story today is the start of Elon Musk's trial against OpenAI, where he testified that the company he co-founded abandoned its philanthropic mission. Musk is seeking Sam Altman's ouster and claims executives 'looted' what was meant to be a charity. The case has implications far beyond one company—it could establish precedents for how AI companies are structured, governed, and held accountable to their original missions. With Musk calling AI 'a technology that could also kill us all,' the trial highlights the tension between profit motives and safety in AI development."
+  }
+}

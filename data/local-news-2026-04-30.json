@@ -1,0 +1,51 @@
+{
+  "date": "2026-04-30",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "State gas prices hit record average of $5.57 a gallon, squeezing drivers' budgets",
+      "summary": "Washington state gas prices have reached a new record high of $5.57 per gallon on average, with King County drivers paying $5.82. Prices are significantly higher than the national average of $4.27 due to state taxes and climate initiative costs, with further increases expected due to ongoing geopolitical tensions affecting oil prices.",
+      "source": "KOMO News"
+    },
+    {
+      "title": "Seahawks Sign Tight End Harrison Bryant",
+      "summary": "The Seattle Seahawks announced the signing of tight end Harrison Bryant on April 29, 2026. Bryant, 28, spent last season with the Texans after being released by the Eagles. The signing brings the Seahawks roster to 83 players as they continue offseason preparations.",
+      "source": "Seahawks.com / NBC Sports"
+    },
+    {
+      "title": "Seattle Storm announces new 2026 game day experiences at Climate Pledge Arena",
+      "summary": "The Seattle Storm unveiled enhanced fan experiences for the 2026 season, including the debut of 'Storm Surge' games celebrating Seattle communities, fan fests with food trucks and beer gardens for five select home games, and LED wristbands for all attendees on May 8, May 22, June 12 and Aug. 14 to create coordinated light shows during key moments.",
+      "source": "KOMO News / KIRO 7"
+    },
+    {
+      "title": "Pierce County Fire Marshal closes 45 massage businesses in one day for code violations",
+      "summary": "Following community reports and inspections of 51 businesses in unincorporated Pierce County, 45 massage businesses were temporarily closed for fire, life safety, and building code violations. Closures included 17 in Tacoma, 10 in Puyallup, 8 in Spanaway, 5 in Graham, 3 in Parkland, and 2 in South Hill. Businesses can reopen after correcting violations.",
+      "source": "KOMO News"
+    },
+    {
+      "title": "Hidden in plain sight: Robots reveal 'shipwreck city' beneath Lake Union",
+      "summary": "Ocean engineer Phil Parisi is using remotely operated vehicles (ROVs) to document nearly 100 shipwreck targets identified by sonar surveys at the bottom of Lake Union. The wrecks include barges, work boats, and sailboats in waters too polluted and dangerous for most divers, offering new insights into Seattle's maritime history.",
+      "source": "KING 5"
+    },
+    {
+      "title": "Chateau Ste. Michelle unveils 2026 summer concert lineup",
+      "summary": "The Woodinville winery announced its summer concert series beginning May 24, featuring over 20 performances including Bob Dylan, Ziggy Marley, Yellowcard, Sarah McLachlan, Dierks Bentley, Boyz II Men, and the Gipsy Kings. The iconic outdoor concert series has been a summer tradition since 1984.",
+      "source": "KING 5"
+    },
+    {
+      "title": "23rd annual Seattle Black Film Festival opens at Langston Hughes Center",
+      "summary": "The Seattle Black Film Festival runs April 30 through May 3 at the historic Langston Hughes Performing Arts Institute in the Central District. The festival features 55 films and four workshops, showcasing stories by and about Black people with panel discussions, filmmaker chats, and hands-on workshops.",
+      "source": "Capitol Hill Seattle News / LANGSTON Seattle"
+    },
+    {
+      "title": "Pierce County cold case from 1992 leads to arrest of Graham woman's husband",
+      "summary": "James Robert Randle has been charged with first-degree murder in the 1992 death of his estranged wife Janice Randle in Graham. The case was initially handled as a death investigation despite evidence of murder. Randle pleaded not guilty and is being held on $1 million bail. The victim's 18-month-old daughter was found alive in a nearby crib at the time.",
+      "source": "KING 5"
+    }
+  ],
+  "top_story": {
+    "title": "State gas prices hit record average of $5.57 a gallon, squeezing drivers' budgets",
+    "summary": "Washington state gas prices have reached a new record high of $5.57 per gallon on average, with King County drivers paying $5.82. Prices are significantly higher than the national average of $4.27 due to state taxes and climate initiative costs, with further increases expected due to ongoing geopolitical tensions affecting oil prices.",
+    "source": "KOMO News"
+  }
+}

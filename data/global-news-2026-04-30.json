@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "source": "BBC News",
+      "category": "World/Business",
+      "summary": "US Central Command has prepared a plan for a wave of 'short and powerful' strikes on Iran, according to Axios report."
+    },
+    {
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "source": "BBC News",
+      "category": "World",
+      "summary": "Remarks come after German chancellor criticised US approach to the war in Iran."
+    },
+    {
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "source": "BBC News",
+      "category": "World",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near Greek island."
+    },
+    {
+      "title": "China to ban drone sales in Beijing citing security concerns",
+      "source": "BBC News",
+      "category": "Asia",
+      "summary": "Drone users will be required to register devices and secure permits before flying them."
+    },
+    {
+      "title": "Islamist group tightens blockade on Mali capital",
+      "source": "BBC News",
+      "category": "Africa",
+      "summary": "Blockade comes days after Mali's defence minister was assassinated in series of nationwide attacks."
+    },
+    {
+      "title": "IMF cuts global growth outlook to 3.1% due to Middle East war",
+      "source": "Reuters",
+      "category": "Economy",
+      "summary": "International Monetary Fund reduced growth forecast, saying world was already drifting toward more adverse scenario."
+    },
+    {
+      "title": "European oil majors' profits lifted by trading gains as Iran war upends supply chains",
+      "source": "Reuters",
+      "category": "Business",
+      "summary": "First-quarter profits boosted by ability to shift barrels around world amid supply disruptions."
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz if US lifts blockade",
+      "source": "AP News",
+      "category": "World",
+      "summary": "Regional officials say Iran has offered to end control over strategic strait if US lifts blockade and ends war."
+    },
+    {
+      "title": "Another Russian oil facility burns as Zelenskyy touts Ukraine's drone reach",
+      "source": "AP News",
+      "category": "World",
+      "summary": "Ukrainian drone strikes continue targeting Russian oil infrastructure."
+    },
+    {
+      "title": "10 current and former Mexican officials accused in US indictment of aiding drug trafficking",
+      "source": "AP News",
+      "category": "World",
+      "summary": "US charges Mexican governor and other leaders with aiding drug cartel; governor of Sinaloa hails from same party as Mexican president."
+    }
+  ]
+}

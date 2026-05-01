@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-29",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners playing at Minnesota Twins on April 29 - 10:40 AM PDT",
+        "Randy Johnson Number Retirement Ceremony scheduled for May 2",
+        "Randy Arozarena leads team with 31 hits and 20 runs",
+        "Mariners hold .467 winning percentage, sitting third in AL West",
+        "2026 Memberships now on sale"
+      ],
+      "details": {
+        "currentSeries": "Three-game series at Minnesota Twins",
+        "gameTime": "10:40 AM PDT on April 29",
+        "keyPlayer": "Randy Arozarena - 31 hits, 20 runs",
+        "upcomingEvent": "Randy Johnson Number Retirement Ceremony - May 2",
+        "nextHomeSeries": "vs Kansas City Royals (May 1-3), vs Atlanta Braves (May 4-5)"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "2026 NFL Draft completed - Seahawks added multiple picks",
+        "UDFA (Undrafted Free Agent) tracker active",
+        "Team addressed major needs through draft",
+        "Emmanuel Henderson Jr. (Kansas WR) selected in sixth round",
+        "Voluntary offseason program began April 20"
+      ],
+      "details": {
+        "draftStatus": "2026 NFL Draft completed (ended April 25)",
+        "notablePick": "Emmanuel Henderson Jr. - Kansas WR, 6th round",
+        "focus": "UDFA signings - Seahawks historically strong in this area",
+        "offseasonProgram": "Began April 20, voluntary workouts underway"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Season winding down after missing playoffs",
+        "Matty Beniers achieved second 50-point campaign of his career",
+        "Team unraveled after Olympic break, missing playoff contention",
+        "Beniers has goal and four helpers over last six outings",
+        "Long offseason ahead for frustrated fans"
+      ],
+      "details": {
+        "seasonStatus": "Eliminated from playoff contention",
+        "brightSpot": "Matty Beniers - 50+ point season, goal and 4 assists in last 6 games",
+        "issue": "Team struggled after Olympic break",
+        "outlook": "Long offseason ahead for 2026-27 season preparation"
+      }
+    },
+    {
+      "name": "Seattle Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders FC returns to FOX 13+ for 2026 MLS Season broadcasts",
+        "Jordan Morris named to MLS Team of the Matchday for Matchday 10",
+        "Sounders beat FC Dallas 2-1 at Lumen Field on Saturday",
+        "Coach Brian Schmetzer focused on avoiding 'trap games'",
+        "Morris contributed goal and assist vs FC Dallas"
+      ],
+      "details": {
+        "lastResult": "2-1 win over FC Dallas at Lumen Field",
+        "standoutPlayer": "Jordan Morris - named to MLS Team of the Matchday 10",
+        "broadcastNews": "Re-airs returning to FOX 13+ for 2026 season",
+        "recentPerformance": "Morris with goal and assist in Dallas match",
+        "seasonRecord": "Updated through April 26, 2026"
+      }
+    }
+  ],
+  "nationalHeadlines": [
+    {
+      "sport": "NCAA Basketball",
+      "headline": "NCAA expanding men's and women's basketball tournaments from 68 to 76 teams",
+      "details": "Expansion on track to be formalized in upcoming weeks, beginning with 2026-27 season"
+    },
+    {
+      "sport": "NBA",
+      "headline": "Dosunmu and Shannon both hit double figures in Game 5 for Timberwolves",
+      "details": "Playoffs ongoing - key performances from Illinois alumni"
+    },
+    {
+      "sport": "Golf",
+      "headline": "The Masters and NFL Draft headline April 2026 sports calendar",
+      "details": "67 major sporting events across multiple sports this month"
+    }
+  ]
+}

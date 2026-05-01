@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-28",
+  "category": "sports",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners win 3-2 against St. Louis Cardinals on April 26",
+        "Jose A. Ferrer earns final out in latest victory",
+        "Mariners continue road trip through National League Central"
+      ],
+      "last_game": {
+        "opponent": "St. Louis Cardinals",
+        "result": "W 3-2",
+        "highlights": "Jose A. Ferrer closed out the game for the save, securing a narrow 3-2 victory on the road"
+      },
+      "next_game": {
+        "opponent": "TBD - Continuing road trip",
+        "date": "Late April/Early May 2026",
+        "location": "Away"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks finalize 2026 NFL Draft class with 8 selections",
+        "Team selects RB Jadarian Price (Notre Dame) in Round 1 at No. 32 overall",
+        "Draft class includes 3 offensive players and 5 defensive players",
+        "John Schneider made trades to acquire more picks including Beau Stephens in Round 5"
+      ],
+      "last_game": {
+        "opponent": "N/A - Offseason",
+        "result": "N/A",
+        "highlights": "2026 NFL Draft completed April 23-25. Seahawks made 8 total selections after entering with only 4 picks. Notable picks: RB Jadarian Price (R1), S Bud Clark (R2), CB Julian Neal (R3)"
+      },
+      "next_game": {
+        "opponent": "2026 Regular Season Opponent TBD",
+        "date": "September 2026",
+        "location": "TBD"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken eliminated from playoff contention for 3rd consecutive season",
+        "Elimination confirmed April 11, 2026 after Kings defeated Oilers",
+        "Team has not qualified for postseason since 2022-23 Western Conference semifinal run",
+        "Penalty kill struggles among factors in missing playoffs"
+      ],
+      "last_game": {
+        "opponent": "Regular season concluded",
+        "result": "Season Complete - No Playoffs",
+        "highlights": "2025-26 regular season has concluded. Kraken finished outside playoff picture for third straight year."
+      },
+      "next_game": {
+        "opponent": "2026-27 Regular Season",
+        "date": "October 2026",
+        "location": "Climate Pledge Arena"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders defeat FC Dallas 2-1 at Lumen Field on April 25",
+        "Jordan Morris named to MLS Team of the Matchday for Matchday 10",
+        "Morris contributed goal and assist in victory over Dallas",
+        "Sounders record improves to 6-1-1 (19 points) on the season"
+      ],
+      "last_game": {
+        "opponent": "FC Dallas",
+        "result": "W 2-1",
+        "highlights": "Jordan Morris with a goal and assist, named to MLS Team of the Matchday. Jesús Ferreira opened scoring. Sounders improved to 6-1-1 on the season."
+      },
+      "next_game": {
+        "opponent": "TBD",
+        "date": "May 2026",
+        "location": "TBD"
+      }
+    }
+  ]
+}

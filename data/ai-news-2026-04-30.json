@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-30",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Tech Giants Report Record $130B Quarterly AI Infrastructure Spending",
+      "summary": "Google, Amazon, Microsoft, and Meta collectively reported over $130 billion in quarterly capital expenditures as they race to build AI data centers. The spending shows no signs of slowing as demand for AI compute continues to surge.",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Google Commits Up to $40 Billion Investment in Anthropic",
+      "summary": "Google has committed to invest up to $40 billion in Anthropic, the AI company behind Claude. This comes as Anthropic announced its annual revenue run rate surpassed $30 billion, up from $9 billion at the end of 2025.",
+      "source": "The New York Times"
+    },
+    {
+      "title": "DeepSeek Unveils New Flagship AI Model",
+      "summary": "A year after rattling Silicon Valley with its breakthrough technology, China's DeepSeek rolled out preview versions of a new flagship AI model, calling it the most powerful open-source platform and challenging rivals from OpenAI to Anthropic.",
+      "source": "Bloomberg"
+    },
+    {
+      "title": "Brain-Like Chip Could Slash AI Energy Use by 70%",
+      "summary": "University of Cambridge researchers have developed a new nanoelectronic device using modified hafnium oxide that mimics how neurons process and store information. The breakthrough could reduce AI energy consumption by up to 70% while enabling more natural learning.",
+      "source": "ScienceDaily"
+    },
+    {
+      "title": "NeoCognition Raises $40M to Build Self-Learning AI Agents",
+      "summary": "AI research lab NeoCognition emerged from stealth with $40 million in seed funding. Founded by an Ohio State professor, the startup is developing AI agents that can self-learn and become experts in any domain, addressing the reliability issues that plague current agents.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "EU Fails to Reach Deal on AI Regulations After 12-Hour Negotiation",
+      "summary": "EU countries and European Parliament lawmakers failed to reach a deal on landmark artificial intelligence rules after marathon negotiations. Talks will resume next month as regulators struggle to keep pace with rapid AI advancement.",
+      "source": "Reuters"
+    },
+    {
+      "title": "AI Drives Digital Advertising Boom for Google and Meta",
+      "summary": "Google and Meta are enjoying record digital ad sales as artificial intelligence automates marketing campaigns. AI-powered ad targeting and creative generation are driving unprecedented efficiency in the digital advertising ecosystem.",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Stanford's 2026 AI Index Reveals Accelerating Model Capabilities",
+      "summary": "The latest AI Index from Stanford University shows top AI models continue to improve rapidly, with the US and China nearly tied in performance. AI adoption is outpacing previous technologies like PCs and the internet, while data center power consumption now rivals entire states.",
+      "source": "MIT Technology Review / IEEE Spectrum"
+    },
+    {
+      "title": "Niantic's AI Spinout Training World Model on 30 Billion Images",
+      "summary": "Niantic's AI spinout is developing a new world model trained on 30 billion images of urban landmarks crowdsourced from Pokémon GO players. The project aims to create detailed 3D maps and spatial understanding for AR and robotics applications.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "AI-Native Knowledge Systems Emerge as New Trend",
+      "summary": "A new pattern called LLMWiki is gaining momentum for using language models to create personal knowledge bases. The trend toward AI-native knowledge systems represents a shift in how users organize and retrieve information.",
+      "source": "Medium"
+    }
+  ],
+  "top_story": {
+    "title": "Tech Giants Report Record $130B Quarterly AI Infrastructure Spending",
+    "summary": "Google, Amazon, Microsoft, and Meta collectively reported over $130 billion in quarterly capital expenditures as they race to build AI data centers. This unprecedented spending highlights the massive infrastructure demands of the AI boom and signals that the investment arms race is far from over. The figure represents a historic concentration of capital toward AI compute capacity as these tech giants position themselves for the next wave of artificial intelligence applications.",
+    "source": "The New York Times"
+  }
+}

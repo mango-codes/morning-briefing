@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-28",
+  "category": "local",
+  "headlines": [
+    {
+      "title": "Alaska Airlines launches first-ever nonstop Seattle to Rome flight",
+      "summary": "Alaska Airlines made history with flight AS180, the first-ever nonstop transatlantic service from Seattle-Tacoma International Airport to Rome's Leonardo da Vinci Fiumicino Airport. The Boeing 787-9 Dreamliner departed at 5:30 PM Pacific time with 300 passengers.",
+      "source": "Travel Tourister / KOMO News",
+      "url": "https://www.traveltourister.com/news/alaska-airlines-as180-inaugural-flight-april-28-2026-seattle-rome-history/",
+      "category": "transportation"
+    },
+    {
+      "title": "Washington sues Albertsons and Safeway over alleged deceptive pricing",
+      "summary": "Washington Attorney General Nick Brown filed a consumer protection lawsuit against Albertsons Companies, alleging the grocery giant misled shoppers through deceptive BOGO (buy-one-get-one) pricing and overcharging practices.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/washington-sues-albertsons-safeway-over-alleged-deceptive-bogo-pricing-overcharging-groceries-inflation-pricing-economy-scam-lawsuit-free-family-pantry-produce-haggen-transaction-coupon-discount-class-action",
+      "category": "consumer"
+    },
+    {
+      "title": "Seattle unveils new sculpture celebrating 2026 World Cup at Lumen Field",
+      "summary": "Seattle has unveiled a new sculpture at the newly renamed Lumen Field celebrating the city's role as a host city for the 2026 FIFA World Cup.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "category": "sports"
+    },
+    {
+      "title": "Seattle-area high school senior named national finalist in Doodle for Google",
+      "summary": "A Seattle-area high school senior has been named a national finalist in the Doodle for Google competition, earning a spot for her artwork to be featured on the Google homepage on April 28.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/local",
+      "category": "education"
+    },
+    {
+      "title": "Free Seattle/King County Clinic treats thousands at Seattle Center",
+      "summary": "The annual free medical clinic at Seattle Center's Exhibition Hall opened this week, with thousands lining up overnight for dental, vision, and medical services. The clinic provides care to uninsured and underinsured residents.",
+      "source": "The Stranger",
+      "url": "https://www.thestranger.com/news/once-a-year-seattle-center-becomes-a-medical-center/",
+      "category": "health"
+    },
+    {
+      "title": "Hazard removal work begins at Seattle's Gas Works Park",
+      "summary": "Hazard removal work has begun at Seattle's iconic Gas Works Park, with more visible demolition expected to start. The cleanup addresses environmental concerns at the former industrial site.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local",
+      "category": "environment"
+    },
+    {
+      "title": "Seattle Public Library's Books Unbanned campaign gains traction",
+      "summary": "Roughly 28,000 young people have signed up for library cards through the Seattle Public Library's Books Unbanned campaign, which pushes back against book bans across the country.",
+      "source": "Seattle's Child / Seattle Times",
+      "url": "https://www.seattleschild.com/washington-political-news-for-families-key-updates-this-week-april-26-2026/",
+      "category": "education"
+    },
+    {
+      "title": "Nonprofits and Sound Transit discuss Pierce County light rail future",
+      "summary": "Transportation groups hosted a forum in Pierce County to discuss the future of light rail expansion amid growing funding concerns across the region, including recent town halls in Everett.",
+      "source": "KOMO News / Cascade PBS",
+      "url": "https://komonews.com/news/local/transportation-group-to-host-pierce-county-light-rail-forum-as-funding-concerns-grow-april-27-tacoma-city-councilmember-kristina-walker-everett-lynnwood-345-billion-sound-transit",
+      "category": "transportation"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly cloudy with light rain in the morning, becoming overcast by afternoon with patchy rain possible. Clearing in the evening.",
+    "high": 57,
+    "low": 45,
+    "conditions": "Overcast with patchy rain nearby",
+    "alert": null
+  }
+}

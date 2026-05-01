@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-01",
+  "category": "events",
+  "events": [
+    {
+      "name": "Seattle May Day Rally and March",
+      "date": "2026-05-01",
+      "time": "2:00 PM",
+      "venue": "Cal Anderson Park to Downtown",
+      "category": "Community",
+      "description": "National day of action with rally at Cal Anderson Park followed by march downtown. Messages focus on communities over ICE, workers over billionaires, and services over war.",
+      "url": "https://www.seattlemayday.org/",
+      "ticket_info": "Free"
+    },
+    {
+      "name": "Oregon Ducks at Washington Huskies Baseball",
+      "date": "2026-05-01",
+      "time": "7:00 PM",
+      "venue": "Husky Ballpark",
+      "category": "Sports",
+      "description": "Pac-12 baseball matchup between Oregon Ducks and Washington Huskies at Husky Ballpark.",
+      "url": "https://seatgeek.com/",
+      "ticket_info": "Tickets available on SeatGeek"
+    },
+    {
+      "name": "Las Vegas Aviators at Tacoma Rainiers",
+      "date": "2026-05-01",
+      "time": "7:05 PM",
+      "venue": "Cheney Stadium, Tacoma",
+      "category": "Sports",
+      "description": "Minor league baseball action as the Tacoma Rainiers host the Las Vegas Aviators.",
+      "url": "https://seatgeek.com/",
+      "ticket_info": "Tickets available"
+    },
+    {
+      "name": "Treaty Oak Revival - West Texas Degenerate Tour",
+      "date": "2026-05-01",
+      "time": "8:00 PM",
+      "venue": "WAMU Theater",
+      "category": "Music",
+      "description": "Treaty Oak Revival brings their West Texas Degenerate Tour to Seattle's WAMU Theater for an unforgettable night of live music.",
+      "url": "https://www.ticketmaster.com/",
+      "ticket_info": "Tickets on Ticketmaster"
+    },
+    {
+      "name": "The Cribs at The Sunset Tavern",
+      "date": "2026-05-01",
+      "time": "9:00 PM",
+      "venue": "The Sunset Tavern",
+      "category": "Music",
+      "description": "The Cribs perform live at The Sunset Tavern in Ballard.",
+      "url": "https://www.ticketmaster.com/",
+      "ticket_info": "Tickets available"
+    },
+    {
+      "name": "Sam Shackleton at Tractor Tavern",
+      "date": "2026-05-01",
+      "time": "8:00 PM",
+      "venue": "Tractor Tavern",
+      "category": "Music",
+      "description": "Sam Shackleton headlines at Tractor Tavern in Ballard.",
+      "url": "https://www.tractortavern.com/",
+      "ticket_info": "Tickets available"
+    }
+  ],
+  "top_pick": {
+    "name": "Seattle May Day Rally and March",
+    "date": "2026-05-01",
+    "venue": "Cal Anderson Park to Downtown",
+    "description": "The biggest event of the day is the May Day rally and march, starting at Cal Anderson Park at 2 PM and proceeding downtown. Organizers are calling for 'No Work, No School, No Shopping' to emphasize messages about workers' rights, immigration, and anti-war sentiment."
+  }
+}

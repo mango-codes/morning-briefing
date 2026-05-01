@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-30",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Matt Brash exits after just 2 pitches with side discomfort",
+        "Ryan Young extends RBI streak to six games with late-inning heroics",
+        "Andres Munoz records sixth save of the season in 5-3 win over Twins",
+        "Rob Refsnyder hits solo home run to take lead against Cardinals"
+      ],
+      "details": {
+        "recent_game": "Mariners defeated Twins 5-3 on April 29, 2026",
+        "injury_update": "Matt Brash left game after 2 pitches with side discomfort, will be checked out on team day off",
+        "player_highlights": {
+          "ryan_young": ".286/.357/.420 slash line through 32 games, 3 HR, 2 SB, 19 RBI, 20 runs",
+          "andres_munoz": "6 saves on the season, struck out two in perfect ninth inning"
+        },
+        "standings_note": "Team competing in AL West"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "Seahawks sign veteran tight end Harrison Bryant",
+        "Team participates in offseason workout at Virginia Mason Athletic Center",
+        "Meet the Seahawks 2026 Draft Class features Emmanuel Henderson Jr. (6th round)"
+      ],
+      "details": {
+        "free_agency": "Signed TE Harrison Bryant, former John Mackey Award winner from Cleveland Browns",
+        "draft_class": "Emmanuel Henderson Jr. (Kansas WR) selected in 6th round of 2026 NFL Draft",
+        "udfa_tracker": "Tracking undrafted free agents where Seahawks historically shine under GM John Schneider",
+        "offseason_status": "Ongoing offseason workouts and team activities"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken must keep pace with rising division powers in Pacific",
+        "Kirkland and Kraken team up to continue growing the game with new ice rinks/community center",
+        "2025-26 regular season concludes April 30, 2026"
+      ],
+      "details": {
+        "season_status": "2025-26 regular season ends April 30, 2026",
+        "playoff_status": "Team spent most of year in playoff mix but unraveled after Olympic break",
+        "community_news": "Joint ice rinks/community center project between City of Kirkland and Seattle Kraken breaks ground May 2026",
+        "team_assessment": "Current lineup mix of mid-tier veterans and developing youngsters"
+      }
+    },
+    {
+      "name": "Seattle Sounders FC",
+      "league": "MLS",
+      "headlines": [
+        "Sounders FC re-airs return to FOX 13+ for 2026 MLS Season",
+        "2026 MLS regular season schedule features 34 matches (17 home, 17 away)"
+      ],
+      "details": {
+        "broadcasting": "Games airing on FOX 13+ for 2026 season",
+        "season_schedule": "34 matches total, primarily against 14 other Western Conference teams, 6 Eastern Conference opponents",
+        "season_status": "Regular season ongoing, last updated April 26, 2026",
+        "schedule_released": "MLS regular season schedule released November 20, 2025"
+      }
+    }
+  ],
+  "other_major_news": [
+    {
+      "category": "General Sports",
+      "note": "NBA and NHL playoffs ongoing as of late April 2026"
+    },
+    {
+      "category": "This Day in History",
+      "note": "April 30 marks anniversary of Jim Maloney's second MLB no-hitter (1969) and Billy Williams becoming first NL player with 1,000 consecutive games (1970)"
+    }
+  ]
+}

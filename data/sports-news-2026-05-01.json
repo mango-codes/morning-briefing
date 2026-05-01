@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-01",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners enter May with 16-16 record after one month of play",
+        "Rob Refsnyder hits go-ahead solo home run in 9th inning for 3-2 win"
+      ],
+      "details": {
+        "keyUpdates": ["Team sits at .500 after first month", "Refsnyder providing clutch hits"],
+        "situation": "Entering May with a 16-16 record, the Mariners are showing mixed results early in the season.",
+        "playoffPicture": "Early season - too soon to tell, but need to improve to compete in AL West",
+        "achievement": "",
+        "today": "Regular season game",
+        "nextMatch": "Next game on schedule"
+      },
+      "last_game": "W 3-2",
+      "next_game": "TBD"
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "NFL Draft analysis continues for Seahawks selections",
+        "Shaun Alexander discusses NFL Draft and post-football life"
+      ],
+      "details": {
+        "keyUpdates": ["Draft picks being analyzed", "Team building for next season"],
+        "situation": "Offseason mode following NFL Draft, roster taking shape for 2026 season.",
+        "playoffPicture": "Offseason - building for training camp",
+        "achievement": "",
+        "today": "Offseason workouts",
+        "nextMatch": "Preseason begins August"
+      },
+      "last_game": "N/A - Offseason",
+      "next_game": "Preseason August 2026"
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken face franchise crossroads in offseason",
+        "Team caught between competing and rebuilding"
+      ],
+      "details": {
+        "keyUpdates": ["Franchise at critical juncture", "Offseason decisions loom"],
+        "situation": "The Kraken are in a difficult position between competing and rebuilding, with major decisions ahead.",
+        "playoffPicture": "Season ended - planning for next year",
+        "achievement": "",
+        "today": "Offseason evaluation",
+        "nextMatch": "Training camp September"
+      },
+      "last_game": "Season ended",
+      "next_game": "September 2026"
+    }
+  ],
+  "top_story": {
+    "title": "NBA Playoffs: Three Game 6 matchups tonight with tight spreads",
+    "league": "NBA",
+    "summary": "Three Game 6 NBA playoff matchups on Friday with -3.5 spreads in each game. Pistons vs Magic at 7pm ET, Cavaliers vs Raptors, and West matchups all feature tight competition as teams fight to advance."
+  }
+}

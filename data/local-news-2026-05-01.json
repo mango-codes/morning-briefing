@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-01",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Seattle May Day 2026 rallies in Cal Anderson Park for downtown march",
+      "source": "Capitol Hill Seattle News",
+      "url": "https://www.capitolhillseattle.com/",
+      "summary": "May Day organizers call for 'No Work, No School, No Shopping' with messages focusing on communities over ICE, workers over billionaires, and services over war."
+    },
+    {
+      "title": "Seattle Mayor Katie Wilson calls for Starbucks boycott",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/",
+      "summary": "Mayor Wilson's first move after winning election was calling for a Starbucks boycott, prompting the company to consider relocating to Nashville."
+    },
+    {
+      "title": "Seattle weighs pause on new data center proposals",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "summary": "City officials consider pausing new data center proposals as multiple plans emerge, though details remain early and unclear."
+    },
+    {
+      "title": "Paid parking permits start at Northgate and Shoreline Sound Transit garages",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "summary": "Starting May 1, commuters will need paid permits for parking at busy light rail stations, ending the early morning rush for spots."
+    },
+    {
+      "title": "Seattle Public Schools implements new cellphone policy",
+      "source": "FOX 13 Seattle",
+      "url": "https://www.fox13seattle.com/",
+      "summary": "New 'Off And Away for the Day' rules for grades K-8 and 'No Cell Bell to Bell' for high schoolers takes effect district-wide."
+    }
+  ],
+  "top_story": {
+    "title": "Seattle May Day 2026: Thousands expected at Cal Anderson Park rally",
+    "source": "Capitol Hill Seattle News",
+    "url": "https://www.capitolhillseattle.com/",
+    "summary": "May Day organizers are planning a national day of action with a rally at Cal Anderson Park followed by a march downtown, calling for 'No Work, No School, No Shopping' to send messages about communities over ICE, workers over billionaires, and services over war."
+  }
+}

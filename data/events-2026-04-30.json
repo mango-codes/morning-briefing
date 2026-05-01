@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-30",
+  "category": "events",
+  "events": [
+    {
+      "name": "Patrick Watson",
+      "date": "2026-04-30",
+      "venue": "The Neptune Theatre",
+      "description": "Canadian singer-songwriter and multi-instrumentalist brings his indie folk and art rock sound to Seattle. Known for his ethereal vocals and cinematic arrangements."
+    },
+    {
+      "name": "Seattle Symphony: Xian Zhang Conducts Mozart",
+      "date": "2026-04-30",
+      "venue": "Benaroya Hall - S. Mark Taper Foundation Auditorium",
+      "description": "Experience classical masterpieces as Music Director Xian Zhang leads the Seattle Symphony through an evening of Mozart's timeless compositions."
+    },
+    {
+      "name": "Pub Choir",
+      "date": "2026-04-30",
+      "venue": "The Showbox",
+      "description": "The popular Australian-born phenomenon comes to Seattle - a mass karaoke experience where strangers come together to sing in three-part harmony. No experience required!"
+    },
+    {
+      "name": "Treaty Oak Revival",
+      "date": "2026-04-30",
+      "venue": "WaMu Theater",
+      "description": "West Texas country rock band brings their raw, energetic sound to Seattle as part of their West Texas Degenerate Tour with special guests William Clark Green and Huser Brothers."
+    },
+    {
+      "name": "José González",
+      "date": "2026-05-01",
+      "venue": "Showbox SoDo",
+      "description": "Swedish-Argentine indie folk artist known for his delicate fingerpicking and haunting vocals. Features songs from his acclaimed albums including 'Veneer' and 'Vestiges & Claws'."
+    },
+    {
+      "name": "LeAnn Rimes",
+      "date": "2026-05-01",
+      "venue": "Benaroya Hall - S. Mark Taper Foundation Auditorium",
+      "description": "Grammy-winning country and pop vocalist performs at Benaroya Hall. Known for hits like 'Blue' and 'How Do I Live,' Rimes brings her powerful voice to Seattle."
+    },
+    {
+      "name": "La Dispute",
+      "date": "2026-05-01",
+      "venue": "The Neptune Theatre",
+      "description": "Michigan post-hardcore band known for their poetic lyrics and intense live performances. A must-see for fans of emotive, spoken-word style rock."
+    },
+    {
+      "name": "The Academy Is...",
+      "date": "2026-05-02",
+      "venue": "The Showbox",
+      "description": "Chicago pop-rock band celebrates the 20th anniversary of their debut album 'Almost Here.' Features William Beckett and the band performing their classic emo-pop hits."
+    },
+    {
+      "name": "Jesus Christ Superstar",
+      "date": "2026-05-02",
+      "venue": "5th Avenue Theatre",
+      "description": "The iconic rock opera by Andrew Lloyd Webber and Tim Rice comes to Seattle. This timeless musical tells the story of the final days of Jesus through powerful rock music."
+    },
+    {
+      "name": "Carmen - Seattle Opera",
+      "date": "2026-05-02",
+      "venue": "McCaw Hall",
+      "description": "Bizet's passionate and dramatic opera about love, jealousy, and fate. One of the most popular operas of all time featuring the famous 'Habanera' and 'Toreador Song.'"
+    },
+    {
+      "name": "Yebba",
+      "date": "2026-05-03",
+      "venue": "Neumos",
+      "description": "Grammy-winning soul singer from Arkansas brings her Jean Tour to Seattle. Known for collaborations with Mark Ronson, Ed Sheeran, and Sam Smith, plus her stunning solo work."
+    },
+    {
+      "name": "Chet Faker",
+      "date": "2026-05-07",
+      "venue": "The Showbox",
+      "description": "Australian electronic musician Nick Murphy returns to his Chet Faker moniker for a night of soulful electronica, featuring hits like 'Gold' and '1998.'"
+    }
+  ]
+}
