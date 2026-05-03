@@ -1,0 +1,52 @@
+{
+  "headlines": [
+    {
+      "title": "Oscars Rule Changes Ban AI Actors and Require Human-Authored Screenplays",
+      "source": "The Guardian / Variety / Reuters",
+      "summary": "The Academy announced new rules for the 99th Academy Awards requiring that only roles 'demonstrably performed by humans with their consent' are eligible for acting awards, and screenplays must be 'human-authored' to qualify for writing awards. This marks the first time the Academy has explicitly addressed AI in its eligibility criteria.",
+      "url": "https://www.theguardian.com/film/2026/may/01/oscars-changes-double-acting-nominations-ai"
+    },
+    {
+      "title": "OpenAI Tesla Receipts and New Evidence Revealed in Musk v. Altman Trial",
+      "source": "The Verge",
+      "summary": "New exhibits have been added to the ongoing court battle between Elon Musk and Sam Altman over OpenAI's future. Evidence includes emails going back to 2015 showing early tensions at the company, plus an exchange between Valve's Gabe Newell and Musk about a SpaceX tour for Hideo Kojima.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922550/openai-tesla-receipts-and-other-musk-v-altman-documents"
+    },
+    {
+      "title": "Nvidia B300 Server Prices Hit $1 Million in China Due to US Export Curbs",
+      "source": "Reuters",
+      "summary": "Prices for Nvidia's B300 AI servers have nearly doubled to $1 million in China, up from about 4 million yuan late last year. The scarcity premium reflects tighter US restrictions on AI chip exports to China, with Nvidia confirming the B300 is restricted from sale there.",
+      "url": "https://www.reuters.com/world/china/prices-nvidias-b300-server-1-million-china-us-curbs-sources-say-2026-04-30/"
+    },
+    {
+      "title": "ChatGPT Images 2.0 Becomes Sensation in India for Avatar Creation",
+      "source": "TechCrunch / MoneyControl",
+      "summary": "OpenAI's latest image-generation upgrade is seeing massive adoption in India, its largest market. Users are driving trends in anime avatars, stylized portraits, fantasy visuals, and pop culture-inspired content, with self-expression and identity being key use cases.",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
+    },
+    {
+      "title": "Poll: GOP Voters Skeptical of AI Development Without Government Safeguards",
+      "source": "POLITICO",
+      "summary": "A new POLITICO poll reveals that Republican voters, despite supporting Trump's tech policies, remain skeptical about letting the AI industry develop without government-imposed safeguards. The findings highlight bipartisan concerns about AI's impact on jobs and the economy.",
+      "url": "https://www.politico.com/news/2026/05/02/poll-trump-voters-skeptical-artificial-intelligence-jobs-00902754"
+    },
+    {
+      "title": "Earth AI Vertically Integrates to Speed Up Critical Minerals Discovery",
+      "source": "TechCrunch",
+      "summary": "Earth AI, which uses AI to search for critical minerals like copper, platinum, and palladium, is vertically integrating its operations. The company is taking drilling and exploration in-house after facing months-long delays, aiming to own critical mineral projects from discovery through development.",
+      "url": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/"
+    },
+    {
+      "title": "Judge Cuts Off Musk's 'AI Doomsday' Testimony in OpenAI Trial",
+      "source": "The Guardian",
+      "summary": "As Elon Musk's testimony concluded in the OpenAI founding trial, the judge cut off his 'AI doomsday' talk. The trial has revealed private emails, text messages, and diary entries from OpenAI's formation, with many tech industry powerhouses named as witnesses.",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman"
+    },
+    {
+      "title": "AI Entering 'Harsher Phase' as Industry Shifts from Hype to Pragmatism",
+      "source": "TechCrunch / AP News",
+      "summary": "Industry analysts note that 2026 is seeing AI move from hype to pragmatism, with the focus shifting away from building ever-larger language models toward making AI actually usable. New roles in AI governance, transparency, safety, and data management are expected to emerge.",
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/"
+    }
+  ]
+}

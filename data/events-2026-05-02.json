@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "name": "Jesus Christ Superstar",
+      "venue": "5th Avenue Theatre",
+      "date": "May 2, 2026 at 7:30 PM",
+      "description": "The global phenomenon rock opera by Andrew Lloyd Webber and Tim Rice. This vital, rock-infused portrayal of Jesus Christ's last days runs May 2-17, 2026.",
+      "url": "https://www.5thavenue.org/shows/2025-26/jesus-christ-superstar/"
+    },
+    {
+      "name": "Asian American Native Hawaiian Pacific Islander Heritage Month Celebration",
+      "venue": "Seattle Center",
+      "date": "May 2, 2026",
+      "description": "Seattle Center Festál presents this family-friendly celebration marking the beginning of AANHPI Heritage Month. Features cultural and modern performances, community resource tables, children's activities, food trucks, and local vendors showcasing diverse Asian American and Pacific Islander communities.",
+      "url": "https://seattlecenter.com/events/featured-events/festal/aanhpi-heritage-month-celebration"
+    },
+    {
+      "name": "Snow Tha Product",
+      "venue": "Showbox SODO",
+      "date": "May 2, 2026 at 8:30 PM",
+      "description": "Mexican-American rapper Snow Tha Product brings her high-energy hip-hop performance to Seattle. All ages to enter, 21+ to drink.",
+      "url": "https://www.showboxpresents.com/events/detail/1240792"
+    },
+    {
+      "name": "The Academy Is... - Almost Here 20th Anniversary Tour",
+      "venue": "The Showbox",
+      "date": "May 2, 2026 at 8:00 PM",
+      "description": "The Academy Is... celebrates the 20th anniversary of their debut album 'Almost Here' with a special tour stop in Seattle. 21 and over.",
+      "url": "https://theacademyistour.com/"
+    },
+    {
+      "name": "Oh Wonder with Wrabel",
+      "venue": "Neptune Theatre",
+      "date": "May 2, 2026 at 8:00 PM",
+      "description": "London-based indie pop duo Oh Wonder (Josephine Vander Gucht and Anthony West) brings their dreamy synth-pop and harmonized vocals to Seattle with special guest Wrabel.",
+      "url": "https://www.ticketmaster.com/oh-wonder-seattle-washington-05-02-2026/event/0F00642CEF15AEA4"
+    },
+    {
+      "name": "Seattle Mariners vs. Kansas City Royals",
+      "venue": "T-Mobile Park",
+      "date": "May 2, 2026 at 6:40 PM",
+      "description": "MLB action as the Seattle Mariners host the Kansas City Royals at T-Mobile Park.",
+      "url": "https://www.ticketmaster.com/seattle-mariners-vs-kansas-city-royals-seattle-washington-05-02-2026/event/0F00635BEE2B72A9"
+    },
+    {
+      "name": "DOORS 2026: STG's Annual Fundraiser with Nile Rodgers & CHIC",
+      "venue": "Paramount Theatre",
+      "date": "May 2, 2026 at 6:00 PM",
+      "description": "Seattle Theatre Group's annual fundraiser featuring multiple Grammy Award-winning artist Nile Rodgers & CHIC, with music from the Sole and other amazing performances.",
+      "url": "https://www.stgpresents.org/"
+    },
+    {
+      "name": "Charlie Puth with Daniel Seavey & Ally Salort",
+      "venue": "WaMu Theater at Lumen Field Event Center",
+      "date": "May 2, 2026 at 4:00 PM",
+      "description": "Pop superstar Charlie Puth brings his live show to Seattle with special guests Daniel Seavey and Ally Salort.",
+      "url": "https://allevents.in/seattle/charlie-puth-daniel-seavey-and-ally-salort/2300029497505130"
+    },
+    {
+      "name": "The Red Pears with Together Pangea",
+      "venue": "The Crocodile",
+      "date": "May 2, 2026 at 7:30 PM",
+      "description": "Indie rock bands The Red Pears and Together Pangea perform live at The Crocodile.",
+      "url": "https://seattle-wa.events/event/the-red-pears-and-together-pangea-seattle-saturday-may-2-2026-730-pm/"
+    },
+    {
+      "name": "Boy Golden",
+      "venue": "Neumos",
+      "date": "May 2, 2026 at 6:30 PM",
+      "description": "Live music performance by Boy Golden at Neumos on Capitol Hill.",
+      "url": "https://seattle-wa.events/event/boy-golden-seattle-saturday-may-2-2026-630-pm/"
+    }
+  ]
+}

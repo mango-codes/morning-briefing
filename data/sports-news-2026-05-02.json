@@ -1,0 +1,203 @@
+{
+  "teams": [
+    {
+      "name": "NBA Playoffs",
+      "league": "NBA",
+      "headlines": [
+        "Lakers defeat Rockets 98-78 in Game 6 to advance to second round",
+        "Lakers will face Oklahoma City Thunder in conference semifinals",
+        "Knicks set NBA playoff record with 47-point halftime lead over Hawks in Game 6",
+        "Celtics host Philadelphia 76ers in decisive Game 7 on May 2",
+        "Pistons force Game 7 against Orlando Magic, scheduled for May 3",
+        "Raptors force Game 7 in their first-round series",
+        "Minnesota Timberwolves upset Denver Nuggets to advance to semifinals",
+        "San Antonio Spurs advance to second round",
+        "New York Knicks advance to second round as lone Eastern Conference team so far"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "key_games": [
+          {
+            "matchup": "Lakers vs Rockets",
+            "result": "LAL 98, HOU 78 (LAL wins series 4-2)",
+            "note": "Lakers advance to face Thunder"
+          },
+          {
+            "matchup": "Celtics vs 76ers",
+            "result": "Game 7 - May 2 at Boston",
+            "note": "Decisive game for series winner"
+          },
+          {
+            "matchup": "Pistons vs Magic",
+            "result": "Series tied 3-3",
+            "note": "Game 7 scheduled for May 3"
+          }
+        ],
+        "conference_semifinals_start": "May 4-5 (possible move up to May 2-3)",
+        "conference_finals": "May 19-20 (possible move up to May 17-18)",
+        "nba_finals": "June 3-June 19"
+      }
+    },
+    {
+      "name": "NHL Stanley Cup Playoffs",
+      "league": "NHL",
+      "headlines": [
+        "Buffalo Sabres defeat Boston Bruins 4-2 to advance to second round",
+        "Anaheim Ducks advance after bouncing Edmonton Oilers",
+        "Minnesota Wild advance to face Colorado Avalanche",
+        "Golden Knights lead series 3-2",
+        "Hurricanes vs Flyers series ongoing",
+        "Canadiens vs Lightning series features multiple overtime games",
+        "Sabres vs Bruins Game 6 played May 1 in Buffalo"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "key_series": [
+          {
+            "matchup": "Sabres vs Bruins",
+            "result": "Buffalo wins 4-2",
+            "note": "Sabres advance to second round"
+          },
+          {
+            "matchup": "Ducks vs Oilers",
+            "result": "Anaheim advances",
+            "note": "Ducks upset Oilers"
+          },
+          {
+            "matchup": "Golden Knights vs TBD",
+            "result": "Vegas leads 3-2",
+            "note": "Winner faces Anaheim Ducks"
+          },
+          {
+            "matchup": "Hurricanes vs Senators",
+            "result": "Hurricanes won Games 1-2",
+            "note": "Hurricanes also facing Flyers in another series"
+          }
+        ],
+        "upcoming": "Second round matchups being set"
+      }
+    },
+    {
+      "name": "MLB Regular Season",
+      "league": "MLB",
+      "headlines": [
+        "Elly De La Cruz hits two home runs as Reds crush Rays 12-6",
+        "Reds hit five home runs total in victory over Tampa Bay",
+        "Rookie Sal Stewart adds three RBI for Reds, reaching 24 on the season",
+        "Vladimir Guerrero Jr. favored to hit HR at +440 odds",
+        "Yankees lead AL East with 21-11 record",
+        "Dodgers at 20-12 in NL West",
+        "Cardinals at 19-13 in NL Central"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "key_games": [
+          {
+            "matchup": "Reds vs Rays",
+            "result": "CIN 12, TB 6",
+            "note": "Reds hit 5 HRs, led by De La Cruz's 2"
+          },
+          {
+            "matchup": "Orioles vs Yankees",
+            "scheduled": "May 3, 1:35 PM ET",
+            "note": "BAL (15-17) at NYY (21-11)"
+          },
+          {
+            "matchup": "Dodgers vs Cardinals",
+            "scheduled": "May 3, 7:15 PM ET",
+            "note": "LAD (20-12) at STL (19-13)"
+          }
+        ],
+        "standings_notes": [
+          "Yankees leading AL East",
+          "Dodgers competitive in NL West",
+          "Cardinals strong in NL Central"
+        ]
+      }
+    },
+    {
+      "name": "NFL Offseason",
+      "league": "NFL",
+      "headlines": [
+        "2026 NFL Draft completed - Broncos select LB Murdock as Mr. Irrelevant at pick 257",
+        "Draft grades released for all 32 teams",
+        "Seahawks sign three rookie edge rushers including one with 13.5 sacks last season",
+        "Calais Campbell returns to Baltimore Ravens for 19th NFL season",
+        "First-round selection time dropped from 15 minutes to 10 minutes",
+        "Vikings trade Greenard to Philadelphia Eagles - being graded as impactful trade",
+        "16 Day 3 picks identified as potential rookie starters"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "draft_highlights": [
+          "Mr. Irrelevant: Broncos select LB Murdock at No. 257",
+          "Round 1 timing reduced to 10 minutes per pick",
+          "Chad Reuter released snap grades for Rounds 2-3",
+          "Kiper released full draft grades for all 32 teams"
+        ],
+        "roster_moves": [
+          "Seahawks sign three rookie edge rushers",
+          "Calais Campbell signs one-year deal with Ravens",
+          "Vikings trade Greenard to Eagles"
+        ],
+        "upcoming": "Offseason programs and OTAs beginning"
+      }
+    },
+    {
+      "name": "Soccer",
+      "league": "Premier League / UEFA",
+      "headlines": [
+        "Premier League secures fifth Champions League place for 2026-27 season",
+        "Arsenal vs Fulham match on May 2 - Arsenal unbeaten in 32 home league games vs Fulham",
+        "Championship finale: Ipswich, Millwall and Middlesbrough vie for automatic promotion",
+        "Manchester United on course for next season's Champions League under Michael Carrick",
+        "Women's Champions League semi-final: Lyon Women vs Arsenal Women",
+        "Aston Villa currently in position for European Performance Spot",
+        "Manchester City qualified for Champions League by league position"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "premier_league": [
+          "Top five qualify for Champions League",
+          "Arsenal vs Fulham - key matchday fixture",
+          "Championship promotion race heating up"
+        ],
+        "champions_league": [
+          "2026/27 league phase spots being determined",
+          "England and Spain each have four automatic spots",
+          "European Performance Spots: England (Aston Villa), Spain (Real Betis)"
+        ],
+        "womens_football": [
+          "Lyon Women vs Arsenal Women in WCL semi-final",
+          "Aggregate score 1-2 heading into second leg"
+        ]
+      }
+    },
+    {
+      "name": "Kentucky Derby",
+      "league": "Horse Racing",
+      "headlines": [
+        "152nd Kentucky Derby takes place May 2, 2026 at Churchill Downs",
+        "Renegade favored at 4-1 odds to win",
+        "Field of 19-20 horses competing for $5 million purse",
+        "Right to Party scratched from the race",
+        "Jockey Irad Ortiz Jr. rides Renegade",
+        "Post time at 6:57 p.m. EDT",
+        "First leg of horse racing's Triple Crown"
+      ],
+      "details": {
+        "date": "May 2, 2026",
+        "location": "Churchill Downs, Louisville, Kentucky",
+        "post_time": "6:57 p.m. EDT",
+        "purse": "$5 million",
+        "favorite": {
+          "horse": "Renegade",
+          "odds": "4-1",
+          "jockey": "Irad Ortiz Jr."
+        },
+        "field_size": "19-20 horses",
+        "notable": "Right to Party scratched from race"
+      }
+    }
+  ]
+}
