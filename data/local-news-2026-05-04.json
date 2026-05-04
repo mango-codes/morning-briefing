@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-04",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Mariners Honor Seattle Steelheads, Connect Negro League Legacy",
+      "summary": "The Seattle Mariners paid tribute to the Seattle Steelheads, connecting Negro League baseball legacy to a new generation of fans.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/"
+    },
+    {
+      "title": "Hundreds Rally at Cal Anderson Park for Workers' Rights",
+      "summary": "Demonstrators packed Cal Anderson Park for a May Day rally ahead of a workers' rights march through downtown Seattle.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/"
+    },
+    {
+      "title": "KOMO Rowing Crew Wins 2026 Windermere Media Cup",
+      "summary": "KOMO 4's rowing crew took home the trophy at the annual Windermere Media Cup charity rowing competition.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/"
+    },
+    {
+      "title": "Millions of Americans May Now Qualify for Canadian Citizenship",
+      "summary": "New policy changes could make millions of Americans eligible for Canadian citizenship through ancestral connections.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/"
+    }
+  ],
+  "top_story": {
+    "title": "Seattle May Day Rally Draws Hundreds Downtown",
+    "summary": "Hundreds of demonstrators gathered at Cal Anderson Park for a May Day rally, continuing the tradition of workers' rights advocacy with a march through downtown Seattle.",
+    "source": "MyNorthwest",
+    "url": "https://mynorthwest.com/"
+  }
+}

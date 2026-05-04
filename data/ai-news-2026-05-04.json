@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-04",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Elon Musk Takes Stand in High-Stakes OpenAI Trial",
+      "summary": "Tesla CEO Elon Musk testified in a bitter feud against OpenAI cofounders Sam Altman and Greg Brockman that could reshape AI development future.",
+      "source": "AP News",
+      "url": "https://apnews.com/hub/artificial-intelligence"
+    },
+    {
+      "title": "Nvidia B300 Servers Hit $1 Million in China Amid US Curbs",
+      "summary": "Exclusive report shows Nvidia's B300 server prices reaching $1 million in China due to US export restrictions on AI chips.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/"
+    },
+    {
+      "title": "Human Brain May Work More Like AI Than Expected",
+      "summary": "Scientists discover the human brain understands spoken language in ways that closely resemble advanced AI language models.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+    },
+    {
+      "title": "TADI: New Agentic AI System for Drilling Operations",
+      "summary": "Tool-Augmented Drilling Intelligence transforms operational data into evidence-based analytical insights for the energy sector.",
+      "source": "LLM Stats",
+      "url": "https://llm-stats.com/ai-news"
+    }
+  ],
+  "top_story": {
+    "title": "Elon Musk vs OpenAI Trial Reshaping AI Future",
+    "summary": "The legal battle between Elon Musk and OpenAI leadership could fundamentally change how artificial intelligence is developed and governed. Musk testified Tuesday about his concerns over OpenAI's shift from non-profit to for-profit status.",
+    "source": "AP News",
+    "url": "https://apnews.com/hub/artificial-intelligence"
+  }
+}

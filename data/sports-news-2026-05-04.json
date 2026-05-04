@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-04",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Randy Johnson Number Retirement Ceremony held May 2",
+        "Raleigh awaiting MRI results on right side discomfort",
+        "Castillo trending in right direction as rotation decisions loom",
+        "Mariners enter May with .500 record after successful road trip"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Randy Johnson honored with jersey retirement",
+          "Cal Raleigh dealing with injury - MRI pending"
+        ],
+        "situation": "Entering May at .500 after solid road performance",
+        "playoffPicture": "Early season, positioning for AL West race",
+        "achievement": "Randy Johnson's #51 retired by franchise",
+        "today": "Off day - next game pending schedule",
+        "nextMatch": "TBD - Check MLB.com for upcoming games"
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "NFL Draft picks will compete for playing time in 2026",
+        "Michael Bumpus analyzes rookie expectations",
+        "New talent added through recent draft"
+      ],
+      "details": {
+        "keyUpdates": [
+          "2026 Draft class ready for camp competition",
+          "Rookies expected to push veterans for spots"
+        ],
+        "situation": "Post-draft, preparing for training camp",
+        "playoffPicture": "Building for 2026 season",
+        "achievement": "Successful draft addressing team needs",
+        "today": "Offseason workouts ongoing",
+        "nextMatch": "Preseason begins August 2026"
+      },
+      "last_game": null,
+      "next_game": null
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "NHL Playoffs ongoing - check schedule for games",
+        "Season performance building franchise history"
+      ],
+      "details": {
+        "keyUpdates": [
+          "Playoff positioning determined"
+        ],
+        "situation": "Post-season or playoff contention",
+        "playoffPicture": "Building for future seasons",
+        "achievement": "Continued growth as expansion franchise",
+        "today": "Check NHL.com for current status",
+        "nextMatch": "See NHL schedule"
+      },
+      "last_game": null,
+      "next_game": null
+    }
+  ]
+}

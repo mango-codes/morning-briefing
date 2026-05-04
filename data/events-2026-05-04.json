@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-04",
+  "category": "events",
+  "events": [
+    {
+      "title": "Seattle Men's Chorus: Wicked Wiz of Oz",
+      "venue": "Various Seattle Locations",
+      "time": "Ongoing",
+      "description": "The Seattle Men's Chorus presents 'Wicked Wiz of Oz' with guest soloist Maya Russell performing.",
+      "url": "https://www.fox13seattle.com/",
+      "category": "Arts & Culture"
+    },
+    {
+      "title": "Seattle Symphony - Mozart Program",
+      "venue": "Benaroya Hall",
+      "time": "This Week",
+      "description": "The Seattle Symphony takes on Mozart classics in their latest program.",
+      "url": "https://www.seattlemet.com/",
+      "category": "Music"
+    },
+    {
+      "title": "Seattle Restaurant Week Wrap-Up",
+      "venue": "Various Restaurants",
+      "time": "Through early May",
+      "description": "Seattle Restaurant Week concludes with special menus at participating restaurants.",
+      "url": "https://www.seattlemet.com/",
+      "category": "Food & Drink"
+    },
+    {
+      "title": "AANHPI Heritage Month Celebration",
+      "venue": "Seattle Center",
+      "time": "May 2026",
+      "description": "Asian American Native Hawaiian Pacific Islander Heritage Month Celebration at Seattle Center.",
+      "url": "https://www.thestranger.com/",
+      "category": "Cultural Festival"
+    },
+    {
+      "title": "El Centro de la Raza Cinco de Mayo",
+      "venue": "El Centro de la Raza",
+      "time": "Early May",
+      "description": "Annual Cinco de Mayo celebration featuring cultural performances and activities.",
+      "url": "https://www.thestranger.com/",
+      "category": "Cultural Festival"
+    }
+  ]
+}
