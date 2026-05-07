@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-06",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Fatal Motorcycle Crash on West Seattle Bridge",
+      "summary": "Seattle police detectives are investigating a fatal collision on the West Seattle Bridge that occurred early Tuesday morning. A 34-year-old motorcyclist struck a guardrail on the 1st Avenue South off-ramp, fell over the railing, and died on the ground below. The King County Medical Examiner identified the victim as Andrew D. Hedberg.",
+      "source": "SPD Blotter / West Seattle Blog",
+      "url": "https://spdblotter.seattle.gov/2026/05/05/detectives-investigating-fatal-collision-on-west-seattle-bridge/",
+      "category": "crime"
+    },
+    {
+      "title": "Thousands Rally in Seattle for May Day 2026",
+      "summary": "Thousands gathered at Cal Anderson Park for Seattle's annual May Day rally and march, uniting workers, immigrants, and migrants. Demonstrators organized around three key messages: 'Communities, Not ICE,' 'Workers, Not Billionaires,' and 'Services, Not War.' The event highlighted the intersection of workers' rights with immigration issues.",
+      "source": "FOX 13 Seattle / KOMO News",
+      "url": "https://www.fox13seattle.com/news/thousands-rally-seattle-may-day-2026",
+      "category": "politics"
+    },
+    {
+      "title": "West Seattle Community Garage Sale Day Approaches",
+      "summary": "The annual West Seattle Community Garage Sale Day is scheduled for Saturday, May 9, with over 650 registered sales across the neighborhood. The event includes nonprofit-benefiting sales and coincides with the Stamp Out Hunger letter carriers' food drive. Weather forecast calls for sunny skies with highs near 70 degrees.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/05/4-days-to-west-seattle-community-garage-sale-day-with-650-sales-on-our-map/",
+      "category": "community"
+    },
+    {
+      "title": "Seattle Police Arrest Man for Assaulting Teen in North Seattle",
+      "summary": "Seattle police arrested a 35-year-old man after he allegedly assaulted a teenage girl in the Northgate neighborhood. Officers responded to reports of a man attempting to drag a girl into the woods near Northeast 103rd Street and 5th Avenue Northeast. The suspect was taken into custody.",
+      "source": "SPD Blotter",
+      "url": "https://spdblotter.seattle.gov/2026/05/04/police-arrest-man-for-assaulting-teen-in-north-seattle/",
+      "category": "crime"
+    },
+    {
+      "title": "2026 Westside Awards Announced",
+      "summary": "The West Seattle Chamber of Commerce announced this year's Westside Award honorees. Winners include West Seattle Bowl (Business of the Year), Fourth Emerald Games (Emerging Business), The Center for Active Living (Nonprofit of the Year), and Jessica Pierce (Westsider of the Year). The awards celebrate businesses and individuals whose dedication shapes the community.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/05/congratulations-2026-westside-awards-go-to-west-seattle-bowl-fourth-emerald-games-the-center-for-active-living-jessica-pierce/",
+      "category": "business"
+    },
+    {
+      "title": "Seattle City Light Launches Time of Use Rate Tool",
+      "summary": "Seattle City Light has introduced a new voluntary 'Time of Use Rate' option for residential customers and launched an online tool to help them evaluate potential savings. The rate charges more during peak hours (5-9 PM) but less during off-peak times, encouraging customers to shift electricity use and help make the power grid more efficient.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/2026/05/change-the-way-your-electric-bill-works-seattle-city-light-launches-online-tool-to-help-customers-decide-on-time-of-use-rate/",
+      "category": "business"
+    },
+    {
+      "title": "Man Critically Injured in Unprovoked Downtown Attack",
+      "summary": "Seattle police are investigating a violent assault that left a 34-year-old man critically injured early Monday morning in the Central Business District. Officers responded to reports of a man outside a hotel in the 500 block of Madison Street and found the victim with serious injuries. The investigation is ongoing.",
+      "source": "SPD Blotter",
+      "url": "https://spdblotter.seattle.gov/2026/05/04/man-critically-injured-in-unprovoked-attack/",
+      "category": "crime"
+    },
+    {
+      "title": "Cascade PBS Celebrates AANHPI Culture in the PNW",
+      "summary": "For Asian American, Native Hawaiian, and Pacific Islander Heritage Month, Cascade PBS (formerly Crosscut) is featuring stories about people working in regional arts and culture spaces. Coverage includes profiles of a filmmaker, an author, dancers, and DJs highlighting the rich AANHPI contributions to Pacific Northwest culture.",
+      "source": "Cascade PBS / Crosscut",
+      "url": "https://crosscut.com/the-newsfeed-2/2026/05/celebrating-aanhpi-culture-past-and-present-in-the-pnw/",
+      "category": "community"
+    }
+  ],
+  "weather": {
+    "forecast": "Partly sunny today with a high near 67°F. South wind 9 to 11 mph. Tonight will be mostly cloudy with a low around 51°F. The week ahead shows mild temperatures in the mid-to-upper 60s with partly cloudy to mostly cloudy conditions.",
+    "high": 67,
+    "low": 51,
+    "conditions": "Partly sunny",
+    "alert": null
+  }
+}

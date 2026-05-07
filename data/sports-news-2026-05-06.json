@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-06",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Braves vs. Mariners: J.P. Crawford on two-game homer streak",
+          "summary": "The Seattle Mariners will look to J.P. Crawford, who is on a two-game home run streak, as they face the Atlanta Braves at T-Mobile Park. Crawford has been a bright spot in the lineup with his recent power surge.",
+          "url": "https://www.nytimes.com/athletic/7257784/2026/05/06/braves-vs-mariners-stream-how-to-watch-may-6/"
+        },
+        {
+          "title": "Braves take series opener 3-2 as Olson hits 300th career homer",
+          "summary": "Matt Olson hit his 300th career home run and the Braves got home runs from Drake Baldwin, Ozzie Albies, and Austin Riley to defeat the Mariners 3-2 on May 5. The Mariners continue to struggle at home.",
+          "url": "https://www.espn.com/mlb/recap?gameId=401815225"
+        }
+      ],
+      "last_game": {
+        "opponent": "Atlanta Braves",
+        "result": "L 2-3",
+        "highlights": "Matt Olson hit his 300th career HR. Braves jumped to early lead with multiple home runs. Mariners couldn't complete comeback."
+      },
+      "next_game": {
+        "opponent": "Atlanta Braves",
+        "date": "Today 4:10 PM ET / 1:10 PM PT",
+        "location": "Home (T-Mobile Park)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks complete rookie minicamp with positive takeaways",
+          "summary": "The Seahawks completed their two-day rookie minicamp on May 2, 2026 at the Virginia Mason Athletic Center. First-round pick Jadarian Price impressed with his speed and quickness, while fifth-round guard Beau Stephens turned heads at right guard.",
+          "url": "https://www.seahawks.com/news/seahawks-hit-their-goals-for-rookie-minicamp-other-takeaways-from-day-2-of-rookie-minicamp"
+        },
+        {
+          "title": "Seahawks are Super Bowl champions for second time in franchise history",
+          "summary": "The Seattle Seahawks won Super Bowl LX in February 2026, defeating the Kansas City Chiefs. The team celebrated with a championship parade on February 11, 2026. Now entering the 2026 season as defending champions.",
+          "url": "https://www.seahawks.com/news/seahawks-world-champions-parade-to-be-held-on-wednesday-february-11"
+        }
+      ],
+      "last_game": {
+        "opponent": "Kansas City Chiefs (Super Bowl LX)",
+        "result": "W (Super Bowl Champions)",
+        "highlights": "Seahawks won their second Super Bowl in franchise history in February 2026."
+      },
+      "next_game": {
+        "opponent": "TBD (2026 Regular Season)",
+        "date": "September 2026 (Training camp opens late July)",
+        "location": "TBD"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken miss playoffs for third straight season, finish sixth-last in NHL",
+          "summary": "The Seattle Kraken were officially eliminated from playoff contention on April 11, 2026. They finished the season with a 34-35-11 record (79 points), sixth-worst in the NHL. The team collapsed down the stretch, winning just 7 of their final 23 games.",
+          "url": "https://en.wikipedia.org/wiki/2025%E2%80%9326_Seattle_Kraken_season"
+        },
+        {
+          "title": "Penalty kill struggles and late-season collapse doom Kraken",
+          "summary": "The Kraken lost six straight (0-5-1) from March 28 to April 7, averaging a league-low 1.67 goals during that stretch. Poor penalty killing was a major factor in their disappointing season. The team will pick 7th in the NHL Draft Lottery.",
+          "url": "https://www.nhl.com/news/why-seattle-kraken-are-eliminated-2025-2026-postseason-race"
+        }
+      ],
+      "last_game": {
+        "opponent": "Colorado Avalanche",
+        "result": "L 0-2 (April 17, 2026)",
+        "highlights": "Victor Östman made his first NHL start in the season finale. Kraken ended season on a low note, finishing 34-35-11."
+      },
+      "next_game": {
+        "opponent": "2026-27 Season",
+        "date": "October 2026",
+        "location": "Climate Pledge Arena"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders settle for frustrating 1-1 draw at Sporting Kansas City",
+          "summary": "The Seattle Sounders put in possibly their worst performance of the season but managed to salvage a 1-1 draw on the road against Sporting Kansas City on May 2, 2026. The result leaves them looking for more consistency.",
+          "url": "https://www.sounderatheart.com/2026/05/sounders-at-skc-recap-2/"
+        },
+        {
+          "title": "Sounders prepare for home match against San Diego FC",
+          "summary": "Seattle returns home to Lumen Field looking to bounce back from their disappointing draw. The match against expansion side San Diego FC offers an opportunity to get back to winning ways in front of the home crowd.",
+          "url": "https://www.soundersfc.com/schedule/matches"
+        }
+      ],
+      "last_game": {
+        "opponent": "Sporting Kansas City",
+        "result": "D 1-1 (May 2, 2026)",
+        "highlights": "Sounders struggled in what was called their worst performance of the season, but managed to earn a point on the road."
+      },
+      "next_game": {
+        "opponent": "San Diego FC",
+        "date": "Saturday May 9, 7:30 PM",
+        "location": "Home (Lumen Field)"
+      }
+    }
+  ]
+}

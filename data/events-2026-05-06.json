@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-06",
+  "category": "events",
+  "today": [
+    {
+      "title": "Neil deGrasse Tyson: The Cosmic Journey Across America",
+      "type": "other",
+      "time": "7:30 PM",
+      "venue": "Paramount Theatre",
+      "description": "Award-winning astrophysicist Neil deGrasse Tyson brings his highly entertaining and educational presentation to Seattle",
+      "url": "https://www.stgpresents.org/events/neil-degrasse-tyson/",
+      "price": "$55+"
+    },
+    {
+      "title": "Jesus Christ Superstar",
+      "type": "theater",
+      "time": "7:30 PM",
+      "venue": "5th Avenue Theatre",
+      "description": "The iconic rock opera returns to Seattle in this electrifying production",
+      "url": "https://www.5thavenue.org/shows/2025-26/jesus-christ-superstar/",
+      "price": "$45+"
+    },
+    {
+      "title": "Abhishek Upmanyu: Toxic",
+      "type": "comedy",
+      "time": "6:30 PM",
+      "venue": "Neptune Theatre",
+      "description": "Indian stand-up comedian brings his hilarious observations to Seattle",
+      "url": "https://www.stgpresents.org/events/abhishek-upmanyu/",
+      "price": "$35+"
+    },
+    {
+      "title": "Mel Robbins",
+      "type": "other",
+      "time": "7:30 PM",
+      "venue": "WAMU Theater",
+      "description": "Motivational speaker and bestselling author live in Seattle",
+      "url": "https://www.stgpresents.org/events/mel-robbins/",
+      "price": "$50+"
+    },
+    {
+      "title": "Rick Ross with Seattle Symphony",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "Benaroya Hall - S. Mark Taper Auditorium",
+      "description": "Hip-hop legend Rick Ross performs with the Seattle Symphony",
+      "url": "https://www.songkick.com/concerts/43142576-rick-ross-at-s-mark-taper-auditorium-benaroya-hall",
+      "price": "$65+"
+    },
+    {
+      "title": "Zinadelphia",
+      "type": "concert",
+      "time": "7:00 PM",
+      "venue": "Neumos",
+      "description": "Live indie/pop music at Capitol Hill's favorite venue",
+      "url": "https://www.neumos.com/",
+      "price": "$20+"
+    },
+    {
+      "title": "Sofia Kourtesis",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Barboza",
+      "description": "Electronic music producer from Peru brings her unique sound to Seattle",
+      "url": "https://www.songkick.com/concerts/43102230-sofia-kourtesis-at-barboza",
+      "price": "$25+"
+    },
+    {
+      "title": "Dan Docimo Comedy",
+      "type": "comedy",
+      "time": "7:30 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "Stand-up comedy at Seattle's #1 comedy club on Capitol Hill",
+      "url": "https://www.emeraldcitycomedy.com/",
+      "price": "$15+"
+    },
+    {
+      "title": "Angelo De Augustine",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Triple Door",
+      "description": "Intimate folk/indie performance with Hannah Frances",
+      "url": "https://www.songkick.com/concerts/42988151-angelo-de-augustine-at-triple-door",
+      "price": "$22+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Zakir Khan Live",
+      "date": "Saturday",
+      "type": "comedy",
+      "venue": "Climate Pledge Arena",
+      "url": "https://www.axs.com/events/1195510/zakir-khan-live-tickets"
+    },
+    {
+      "title": "Seattle Rock Orchestra performs The Beatles: Number 1's",
+      "date": "Saturday",
+      "type": "concert",
+      "venue": "Moore Theatre",
+      "url": "https://www.stgpresents.org/events/seattle-rock-orchestra-performs-the-beatles/"
+    },
+    {
+      "title": "The Midnight",
+      "date": "Saturday",
+      "type": "concert",
+      "venue": "Paramount Theatre",
+      "url": "https://www.stgpresents.org/events/the-midnight/"
+    },
+    {
+      "title": "Puscifer",
+      "date": "Friday & Saturday",
+      "type": "concert",
+      "venue": "WAMU Theater / Theater of the Clouds",
+      "url": "https://www.showboxpresents.com/events/detail/1191544"
+    },
+    {
+      "title": "The New Pornographers",
+      "date": "Friday",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://www.showboxpresents.com/events/detail/1228308"
+    },
+    {
+      "title": "Snail Mail",
+      "date": "Friday",
+      "type": "concert",
+      "venue": "Moore Theatre",
+      "url": "https://www.stgpresents.org/events/snail-mail/"
+    },
+    {
+      "title": "The Wood Brothers",
+      "date": "Friday",
+      "type": "concert",
+      "venue": "Neptune Theatre",
+      "url": "https://www.stgpresents.org/events/the-wood-brothers/"
+    }
+  ]
+}

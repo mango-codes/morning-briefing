@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-06",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "Anthropic Unveils AI Agents for Financial Services Tasks",
+      "summary": "Anthropic has unveiled a set of new artificial intelligence agents designed to handle a broader mix of financial services tasks. This marks the company's continued push to win enterprise customers in the financial sector with specialized AI capabilities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-06/anthropic-unveils-ai-agents-for-financial-services-tasks-video",
+      "type": "product"
+    },
+    {
+      "title": "Apple to Let Users Choose Rival AI Models Across iOS 27 Features",
+      "summary": "Apple will allow users to select from third-party artificial intelligence models for tasks such as generating and editing text and images across iOS 27, iPadOS 27, and macOS 27. The feature, called 'Extensions,' will let users choose AI services through Settings, with Apple internally testing integrations with Google's Gemini and Anthropic's Claude.",
+      "source": "Bloomberg/Reuters",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/06/apple-to-let-users-choose-rival-ai-models-across-ios-27-features-bloomberg-news-reports",
+      "type": "product"
+    },
+    {
+      "title": "OpenAI Fast-Tracking ChatGPT Phone for 2027 Mass Production",
+      "summary": "According to supply-chain analyst Ming-Chi Kuo, OpenAI is fast-tracking its first hardware product—a ChatGPT phone built on a custom MediaTek Dimensity 9600 chip. The device targets 30 million units across 2027-2028, positioning it as a serious third entrant in the mobile market alongside Apple and Google.",
+      "source": "ResultSense/The Verge",
+      "url": "https://www.resultsense.com/news/2026-05-06-openai-phone-2027-ming-chi-kuo/",
+      "type": "product"
+    },
+    {
+      "title": "Google, Microsoft, and xAI to Give US Government Early Access to AI Models",
+      "summary": "Alphabet's Google, Microsoft, and xAI have agreed to give the U.S. Commerce Department's Center for AI Standards and Innovation early access to their AI models for pre-release security assessments. They join OpenAI and Anthropic in allowing government evaluation of models before public release.",
+      "source": "Claims Journal/Bloomberg",
+      "url": "https://www.claimsjournal.com/news/national/2026/05/05/337371.htm",
+      "type": "policy"
+    },
+    {
+      "title": "White House Considers Vetting AI Models Before Release",
+      "summary": "The Trump administration is reportedly considering an executive order to create a government review process for AI tools before they are released to the public. This comes as Anthropic's powerful Claude Mythos Preview model has raised concerns among officials about the need for oversight.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+      "type": "policy"
+    },
+    {
+      "title": "US Pulls Further Ahead on AI Pay as Europe Reshuffles",
+      "summary": "According to WTW's latest AI and Digital Talent Salary Survey, median pay for Machine Learning roles in the US exceeds $170,000, compared to around $122,000 in Germany and just under $100,000 in the UK. Emerging markets like Mexico saw double-digit growth with a 29% jump in total compensation for AI roles.",
+      "source": "WTW/Manila Times",
+      "url": "https://www.manilatimes.net/2026/05/06/tmt-newswire/globenewswire/us-pulls-further-ahead-on-ai-pay-as-europe-reshuffles-and-emerging-markets-accelerate-according-to-wtw/2337216",
+      "type": "other"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Says AI Is Creating Jobs, Not Destroying Them",
+      "summary": "Nvidia CEO Jensen Huang struck an optimistic note at a Milken Institute event, asserting that 'AI creates jobs' and represents America's best opportunity to re-industrialize. He argued that automating specific tasks doesn't eliminate entire jobs, and criticized AI 'doomer' rhetoric as counterproductive.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "type": "other"
+    },
+    {
+      "title": "Georgia Prosecutor Disciplined for AI Errors in Murder Case",
+      "summary": "The Georgia Supreme Court disciplined a prosecutor for using AI tools that generated fake case citations in a murder case ruling. The court barred the prosecutor from appearing before justices for six months and ordered additional legal education on proper AI use, urging judges to review orders with awareness that AI may have been used.",
+      "source": "Reuters/The Star",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/05/06/ai-errors-in-us-murder-case-lead-to-discipline-for-georgia-prosecutor",
+      "type": "other"
+    },
+    {
+      "title": "Intellistake Deploys IntelliScope AI Agent Platform on Sovereign Infrastructure",
+      "summary": "Intellistake Technologies announced the deployment of its IntelliScope enterprise AI agent platform on sovereign AI infrastructure for PowerBank Corporation. The infrastructure is hosted in Sweden by a Swiss provider, sitting outside US jurisdictional reach and running on 100% renewable energy.",
+      "source": "Cantech Letter",
+      "url": "https://www.cantechletter.com/newswires/intellistake-marks-enterprise-milestone-with-intelliscope-ai-agent-platform-deployment-on-sovereign-infrastructure-for-powerbank/",
+      "type": "product"
+    },
+    {
+      "title": "Alphabet on Track to Overtake Nvidia as World's Most Valuable Company",
+      "summary": "Alphabet is on the cusp of overtaking Nvidia as the world's most valuable company, riding on a record stock rally fueled by its artificial intelligence efforts and booming cloud business. The milestone reflects the market's confidence in Google's AI strategy.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "type": "other"
+    }
+  ],
+  "top_story": {
+    "title": "Google, Microsoft, and xAI Agree to Give US Government Early Access to AI Models",
+    "summary": "In a significant development for AI governance, Alphabet's Google, Microsoft, and xAI have joined OpenAI and Anthropic in agreeing to give the U.S. Commerce Department's Center for AI Standards and Innovation early access to their AI models before public release. The agreements allow the government to assess capabilities and improve security. This expansion comes as the Trump administration considers an executive order to create a formal government review process for AI tools, signaling a shift toward more structured oversight of powerful AI systems. The Center has already completed over 40 evaluations of AI models, including unreleased state-of-the-art systems.",
+    "why_it_matters": "This represents a major step toward formalized government oversight of AI development in the United States. As AI models become more powerful—exemplified by Anthropic's Mythos system which can identify cybersecurity vulnerabilities—the need for pre-release evaluation has gained bipartisan traction. For the industry, this establishes a new compliance layer that could affect release timelines and competitive dynamics. For the public, it offers a potential safeguard against the deployment of systems with dangerous capabilities, though critics may raise concerns about regulatory capture or slowed innovation."
+  }
+}
