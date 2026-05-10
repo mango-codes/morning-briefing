@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-10",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "West Seattle Community Garage Sale Day is the biggest ever",
+      "summary": "West Seattle Community Garage Sale Day 2026 is underway with approximately 650 registered sales, making it the biggest ever. The annual event draws crowds looking for deals across the neighborhood.",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/",
+      "location": "West Seattle"
+    },
+    {
+      "title": "Seattle police investigate restaurant employee death",
+      "summary": "Seattle police are investigating after a restaurant employee was found dead from a gunshot inside a business. Details are still emerging as the investigation continues.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/",
+      "location": "Seattle"
+    },
+    {
+      "title": "Mayor Katie Wilson attempts to reset conversation with corporate employers",
+      "summary": "Seattle Mayor Katie Wilson appears to be attempting to reset the conversation around her relationship with Seattle's biggest corporate employers, signaling a potential shift in city-business relations.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/",
+      "location": "Seattle"
+    },
+    {
+      "title": "Thousands expected at May Day celebrations across Seattle",
+      "summary": "Workers across multiple industrial sectors rallied in Seattle and across western Washington for International Workers' Day, with hospitality workers marching to stop ICE agents from working as security at FIFA World Cup venues.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/seattle-may-day-2026-rally-protest-workers-immigrants-rights-anti-ice-billionaires-demonstration-western-washington-tacoma-puget-sound-region",
+      "location": "Seattle"
+    },
+    {
+      "title": "Comcast employees volunteer for 4th annual One Seattle Day of Service",
+      "summary": "Women and families facing food and housing instability got a boost from dozens of Comcast employees who turned out to help the YWCA Seattle-King-Snohomish as part of the annual day of service.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "location": "Seattle"
+    }
+  ],
+  "top_story": {
+    "title": "West Seattle Hosts Biggest-Ever Community Garage Sale Day",
+    "summary": "West Seattle Community Garage Sale Day 2026 features approximately 650 registered sales, making it the largest edition of the popular neighborhood event. The annual tradition brings together residents and treasure hunters from across the region.",
+    "why_it_matters": "Community events like this strengthen neighborhood bonds and support local sustainability through reuse. The record turnout reflects West Seattle's vibrant community spirit."
+  }
+}

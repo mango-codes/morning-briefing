@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-10",
+  "source": "BBC, Reuters, Associated Press",
+  "headlines": [
+    {
+      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
+      "source": "BBC / AP / Reuters",
+      "summary": "Russian President Vladimir Putin stated that Russia's conflict with Ukraine is nearing its end after overseeing a scaled-back Victory Day parade in Moscow. The parade marked the Soviet victory in World War II but notably excluded heavy weapons for the first time in nearly two decades due to security concerns.",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+      "published": "2026-05-09"
+    },
+    {
+      "title": "Iran accuses US of 'reckless military adventure' after Gulf clashes",
+      "source": "BBC / Reuters",
+      "summary": "Tensions escalate in the Persian Gulf as Iran accuses the US of reckless military action following clashes. President Trump announced that US forces destroyed multiple Iranian small boats, missiles, and drones. The incidents come as tankers continue crossing the Strait of Hormuz amid heightened regional tensions.",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+      "published": "2026-05-09"
+    },
+    {
+      "title": "Trump announces three-day Russia-Ukraine ceasefire for Victory Day",
+      "source": "Reuters",
+      "summary": "U.S. President Donald Trump announced a temporary three-day ceasefire between Russia and Ukraine from May 9-11 to mark the end of World War II for Russia. The announcement comes as Trump is scheduled to visit China this week, with mounting pressure to resolve the conflict that has ignited a global energy crisis.",
+      "url": "https://www.reuters.com/world/europe/",
+      "published": "2026-05-09"
+    },
+    {
+      "title": "WHO addresses hantavirus concerns after cruise ship death",
+      "source": "AP News",
+      "summary": "The World Health Organization is working to reassure countries where a cruise ship is headed after a passenger died from hantavirus. Spanish passengers began disembarking from the MV Hondius. Dutch authorities monitored flight passengers who had contact with the deceased; three symptomatic individuals tested negative.",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-spain-53d606306e31bf220d92614d9de519dd",
+      "published": "2026-05-09"
+    },
+    {
+      "title": "Wu Yize, 22, becomes second-youngest snooker world champion",
+      "source": "BBC",
+      "summary": "Chinese snooker player Wu Yize, 22, received a rock star's welcome after becoming the second-youngest player to win a world title in the sport. His victory marks a significant moment in professional snooker.",
+      "url": "https://www.bbc.com/news/world",
+      "published": "2026-05-10"
+    },
+    {
+      "title": "Israel detains activists from Gaza-bound aid flotilla",
+      "source": "BBC",
+      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla. The incident adds to ongoing tensions surrounding humanitarian aid efforts to Gaza.",
+      "url": "https://www.bbc.com/news/world",
+      "published": "2026-05-10"
+    },
+    {
+      "title": "FDA approves fruit-flavored e-cigarettes for adults in policy shift",
+      "source": "AP News",
+      "summary": "The U.S. Food and Drug Administration announced its first approval of fruit-flavored e-cigarettes for adult use, representing a major policy shift under the Trump administration. The decision marks a significant change in federal tobacco regulation.",
+      "url": "https://apnews.com/hub/apf-topnews",
+      "published": "2026-05-10"
+    },
+    {
+      "title": "Russia holds scaled-back Victory Day parade amid security threats",
+      "source": "Reuters",
+      "summary": "Russia held its most scaled-back Victory Day parade in years due to the threat of attack from Ukraine. The reduced ceremony reflects the ongoing conflict, now in its fourth year, which has become the deadliest European conflict since World War II.",
+      "url": "https://www.reuters.com/world/",
+      "published": "2026-05-09"
+    }
+  ],
+  "generated_at": "2026-05-10T14:00:00Z"
+}

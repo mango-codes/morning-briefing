@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-08",
+  "generatedAt": "2026-05-08T14:00:00Z",
+  "headlines": [
+    {
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "source": "BBC",
+      "category": "World",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas. Trump said Iran 'trifled with us today'.",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno",
+      "published": "8 hours ago"
+    },
+    {
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo",
+      "published": "38 minutes ago"
+    },
+    {
+      "title": "Three dead after volcano erupts on Indonesian island",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
+      "url": "https://www.bbc.com/news/articles/cp3p418x513o",
+      "published": "2 hours ago"
+    },
+    {
+      "title": "South Africa president faces call to resign after court ruling",
+      "source": "BBC",
+      "category": "Africa",
+      "summary": "The Constitutional Court says MPs were wrong to block impeachment proceedings against Cyril Ramaphosa.",
+      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
+      "published": "19 minutes ago"
+    },
+    {
+      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+      "source": "BBC",
+      "category": "Health",
+      "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases.",
+      "url": "https://www.bbc.com/news/articles/clyp1505p84o",
+      "published": "1 hour ago"
+    },
+    {
+      "title": "UAE reports drone and missile attack after US says it traded fire with Iran",
+      "source": "AP",
+      "category": "World",
+      "summary": "UAE reports drone and missile attack following US-Iran exchange of fire in the Strait of Hormuz.",
+      "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+      "published": "Today"
+    },
+    {
+      "title": "A timeline of the cruise ship hantavirus outbreak and when passengers fell sick",
+      "source": "AP",
+      "category": "Health",
+      "summary": "Detailed timeline of the hantavirus outbreak affecting cruise ship passengers across multiple countries.",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-timeline-events-b9eb3985b547758b1e42dbab6ceb3887",
+      "published": "Today"
+    },
+    {
+      "title": "Starmer says he won't quit after local elections deliver losses for Labour and wins for Reform UK",
+      "source": "AP",
+      "category": "Politics",
+      "summary": "UK Labour leader Keir Starmer faces pressure after significant losses in local elections to Reform UK.",
+      "url": "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
+      "published": "Today"
+    },
+    {
+      "title": "Pope Leo asks God to inspire world leaders to calm global tensions",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "Pope Leo asked that God would inspire world leaders to calm global tensions and reduce hatred in an address on Friday to mark his first anniversary as head of the Catholic Church.",
+      "url": "https://www.reuters.com/world/",
+      "published": "4 hours ago"
+    },
+    {
+      "title": "Iran accuses US of violating ceasefire, US says it carried out retaliatory strikes",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "U.S. President Donald Trump said the ceasefire was still in effect while Iran said the situation returned to normal.",
+      "url": "https://www.reuters.com/live/",
+      "published": "13 hours ago"
+    }
+  ]
+}

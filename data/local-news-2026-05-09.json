@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-09",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Off-duty security guard found guilty of killing teen outside Renton store",
+      "summary": "A King County jury convicted 52-year-old Aaron Myers of second-degree murder and second-degree assault in the 2024 shooting death of 17-year-old Ali Rohani outside a Big 5 Sporting Goods store in Renton. Myers, an off-duty security guard, opened fire on Rohani who was carrying an airsoft/BB gun that Myers believed was real. Myers faces more than 28 years in prison at sentencing scheduled for July 21.",
+      "source": "MyNorthwest / KIRO Newsradio",
+      "url": "https://mynorthwest.com/crime-blotter/teen-killed-renton-store/4236488",
+      "category": "crime"
+    },
+    {
+      "title": "'Big Mama' the famous humpback whale returns to Salish Sea after 3,000-mile migration",
+      "summary": "Beloved humpback whale 'Big Mama' has returned to the Salish Sea after swimming approximately 3,000 miles from Hawaii. The great-grandmother whale, who has at least 20 known descendants, has played a significant role in the recovery of humpback whales in the region after they disappeared due to commercial whaling by the early 1900s. She was first photographed in 1997 and has been seen nearly every year since.",
+      "source": "MyNorthwest / Pacific Whale Watch Association",
+      "url": "https://mynorthwest.com/local/big-mama-salish-sea/4236470",
+      "category": "other"
+    },
+    {
+      "title": "Multiple major road closures planned across Seattle this Mother's Day weekend",
+      "summary": "WSDOT has announced several major roadway closures for Mother's Day weekend including northbound SR 99 across the First Avenue South Bridge (closed Friday 9 p.m. to Monday 5 a.m.), both directions of the SR 99 tunnel (Friday 10 p.m. to Saturday 6 a.m.), eastbound SR 520 between I-5 and Montlake, and the eastbound I-90 off-ramp to SR 18/Snoqualmie Parkway. Drivers should plan for delays and use signed detours.",
+      "source": "MyNorthwest / WSDOT",
+      "url": "https://mynorthwest.com/chokepoints/major-roadway-closures/4236495",
+      "category": "traffic"
+    },
+    {
+      "title": "New invasive yellow-legged hornet detected at Port of Vancouver",
+      "summary": "Washington agriculture officials are warning Vancouver-area residents to watch for the yellow-legged hornet after one was discovered by a WSDA grain inspector at the Port of Vancouver on April 30. This invasive species has caused a 30% reduction in honey bee hives in Europe and has spread through Georgia and South Carolina since 2023. Traps have been placed and officials are asking the public to report any sightings.",
+      "source": "MyNorthwest / WSDA",
+      "url": "https://mynorthwest.com/local/hornets-vancouver-washington/4236355",
+      "category": "other"
+    },
+    {
+      "title": "Capitol Hill's Sam's Tavern closing after 13 years on 'cursed corner'",
+      "summary": "Sam's Tavern, a Capitol Hill bar known for its giant moose head and dollar bill decor, is closing for good after 13 years at the intersection of 11th Avenue and E. Pike Street. The location survived what was known as the 'cursed corner' due to significant business turnover. The bar invited the community to come celebrate its final weekend, noting 'this might not be the end' for the brand.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/lifestyle/capitol-hill-bar-closing/4236415",
+      "category": "business"
+    },
+    {
+      "title": "Seattle Mayor Katie Wilson embraces corporate partnerships while defending new taxes",
+      "summary": "Mayor Wilson is attempting to reset her relationship with Seattle's corporate employers, highlighting partnerships with Amazon, Starbucks, Microsoft, and T-Mobile to fund housing and homelessness initiatives. This comes after criticism of her previous stance supporting Starbucks employee boycotts and her controversial 'like bye' comment about millionaires leaving the state. Wilson acknowledged Seattle faces competitive pressure from Bellevue where business costs are lower.",
+      "source": "MyNorthwest",
+      "url": "https://mynorthwest.com/mynorthwest-politics/seattle-mayor-wilson-3/4236378",
+      "category": "politics"
+    },
+    {
+      "title": "Mariners beat Braves 3-1 as Bryan Woo throws 6 scoreless innings",
+      "summary": "Seattle Mariners pitcher Bryan Woo tied his season best with nine strikeouts in six scoreless innings, leading the Mariners to a 3-1 victory over the Atlanta Braves. Julio Rodríguez homered in the win. The victory comes as the Mariners continue their push in the AL West standings.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "category": "other"
+    },
+    {
+      "title": "Laurelhurst community agrees to support Seattle Children's helicopter landing efforts",
+      "summary": "The Laurelhurst Community Council has agreed to 'fully support' Seattle Children's as it seeks city approval to end the Medical Review Committee for helicopter landings. The agreement marks a resolution to ongoing discussions about medical helicopter operations in the residential neighborhood near the hospital.",
+      "source": "MyNorthwest / KIRO 7",
+      "url": "https://mynorthwest.com/local/laurelhurst-seattle-childrens-2/4236346",
+      "category": "other"
+    }
+  ],
+  "weather": {
+    "forecast": "Mostly sunny with a high near 70°F. Calm wind becoming northwest around 5 mph in the afternoon. Tonight will be mostly cloudy with a low around 52°F. Sunday for Mother's Day will be mostly cloudy with a high near 69°F. The weekend promises sunshine and warm temperatures with no rain expected, perfect for Mother's Day celebrations.",
+    "high": 70,
+    "low": 52,
+    "conditions": "Mostly sunny",
+    "alert": null
+  }
+}

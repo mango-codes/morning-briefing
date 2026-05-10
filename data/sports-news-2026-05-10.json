@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-10",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "NBA Playoffs",
+      "league": "NBA",
+      "headlines": [
+        "NBA Playoffs continue today with key matchups on Sunday, May 10",
+        "Jalen Brunson among top contenders to score first basket today",
+        "Full schedule of games available on major sports networks"
+      ],
+      "details": {
+        "keyUpdates": ["Playoffs in full swing", "Multiple games scheduled for Sunday"],
+        "situation": "2026 NBA Playoffs ongoing",
+        "playoffPicture": "Conference semifinals underway",
+        "achievement": "",
+        "today": "Games scheduled for May 10",
+        "nextMatch": "Check NBA.com for full schedule"
+      },
+      "last_game": null,
+      "next_game": "May 10, 2026 - Multiple games"
+    },
+    {
+      "name": "NHL Stanley Cup Playoffs",
+      "league": "NHL",
+      "headlines": [
+        "Stanley Cup Playoffs continue with intense competition",
+        "Pierre McGuire's playoff bracket predictions available",
+        "Multiple series in progress across conferences"
+      ],
+      "details": {
+        "keyUpdates": ["Playoff hockey in full swing", "Multiple series ongoing"],
+        "situation": "2026 Stanley Cup Playoffs",
+        "playoffPicture": "Conference finals approaching",
+        "achievement": "",
+        "today": "Games ongoing",
+        "nextMatch": "Check NHL.com for schedule"
+      },
+      "last_game": null,
+      "next_game": "Ongoing playoff games"
+    },
+    {
+      "name": "MLB",
+      "league": "MLB",
+      "headlines": [
+        "MLB season in full swing with daily games",
+        "Scores and standings updated throughout the day",
+        "Multiple games scheduled for Sunday, May 10"
+      ],
+      "details": {
+        "keyUpdates": ["Regular season ongoing", "Daily games scheduled"],
+        "situation": "2026 MLB Regular Season",
+        "playoffPicture": "Early season standings forming",
+        "achievement": "",
+        "today": "Games scheduled for May 10",
+        "nextMatch": "Check MLB.com for full schedule"
+      },
+      "last_game": null,
+      "next_game": "May 10, 2026"
+    }
+  ],
+  "top_story": {
+    "title": "NBA and NHL Playoffs Heat Up on Sunday",
+    "summary": "Both the NBA and NHL playoffs feature key matchups today, with Jalen Brunson and other stars competing in crucial postseason games. MLB also has a full slate of Sunday games.",
+    "why_it_matters": "Playoff season is in full swing across multiple sports, making this an exciting weekend for sports fans with games available on major networks throughout the day."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-09",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI Launches GPT-5.5-Cyber to Counter Anthropic's Mythos",
+      "summary": "OpenAI unveiled GPT-5.5-Cyber, a specialized AI model designed for cybersecurity teams to discover and patch vulnerabilities in critical systems. The model is being rolled out in limited preview to vetted cybersecurity professionals through the Trusted Access for Cyber program, coming just weeks after Anthropic's Mythos release sparked industry-wide concern about AI-powered cyber threats.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/05/07/openai-chatgpt-cyber-ai-model-00910704",
+      "type": "product"
+    },
+    {
+      "title": "Google's Isomorphic Labs Nears $2 Billion Funding Round",
+      "summary": "Isomorphic Labs, the AI-powered drug discovery company spun out of Google DeepMind, is in advanced discussions to raise over $2 billion in new funding. The round would be one of the largest in AI healthcare history and demonstrates continued investor confidence in AI applications for pharmaceutical research and development.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding",
+      "type": "funding"
+    },
+    {
+      "title": "Bret Taylor's Sierra Raises $950 Million at $15 Billion Valuation",
+      "summary": "Sierra, the enterprise AI startup founded by former Salesforce co-CEO Bret Taylor, raised $950 million led by Tiger Global and GV. The company now has over $1 billion to invest in becoming the global standard for AI-driven customer experiences, marking one of the largest funding rounds in the enterprise AI sector this year.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "type": "funding"
+    },
+    {
+      "title": "Google, Microsoft and xAI Agree to US Government AI Testing Program",
+      "summary": "Major tech firms including Google, Microsoft, and xAI have signed agreements with the US Department of Commerce's Center for AI Standards and Innovation (CAISI) for pre-release government testing of AI models. The evaluations will assess cybersecurity, biosecurity, and chemical weapons risks, marking a shift toward greater federal oversight despite the Trump administration's deregulation stance.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/next/2026/05/08/tech-giants-agree-to-us-government-ai-testing",
+      "type": "policy"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.5 Instant as New Default ChatGPT Model",
+      "summary": "OpenAI released GPT-5.5 Instant, replacing GPT-5.3 Instant as the default ChatGPT model. The new model reduces hallucinations in sensitive areas like law, medicine, and finance while improving performance on math and multimodal reasoning benchmarks. It also introduces enhanced context management with memory sources across conversations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "type": "product"
+    },
+    {
+      "title": "Experts Say Anthropic's Mythos Cybersecurity Threat Already Exists",
+      "summary": "Cybersecurity researchers report that the vulnerabilities found by Anthropic's Mythos can be discovered using existing AI models through clever orchestration techniques. While Mythos sparked global alarm, experts note that current public models from both Anthropic and OpenAI already possess similar capabilities, suggesting the 'dangerous new era' of AI-enabled cybercrime is already here.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/08/anthropic-mythos-ai-cybersecurity-banks.html",
+      "type": "research"
+    },
+    {
+      "title": "Tech Companies Turn to Faith Leaders for AI Ethics Guidance",
+      "summary": "Anthropic and OpenAI representatives met with religious leaders from various faith traditions for the inaugural 'Faith-AI Covenant' roundtable in New York. The initiative aims to develop ethical principles for AI development informed by religious and moral frameworks, marking a surprising shift for Silicon Valley which has historically been skeptical of organized religion.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ai-artificial-intelligence-ethics-religion-roundtable-053a44133c64703f83fd50c9ee6124ea",
+      "type": "policy"
+    },
+    {
+      "title": "The Hidden Power Brokers Shaping AI's Future",
+      "summary": "An in-depth analysis reveals the nine individuals quietly controlling how AI is built, financed, and governed. From Jensen Huang's Nvidia CUDA architecture that underpins all major AI models, to Sheikh Tahnoon bin Zayed Al Nahyan's $1.4 trillion in AI investments, to DeepSeek's Liang Wenfeng who proved Western sanctions don't work—these figures operate far from headlines but wield enormous influence over the technology's trajectory.",
+      "source": "El País",
+      "url": "https://english.elpais.com/technology/2026-05-09/the-hidden-power-brokers-of-ai.html",
+      "type": "other"
+    }
+  ],
+  "top_story": {
+    "title": "The AI Cybersecurity Arms Race: OpenAI's GPT-5.5-Cyber vs Anthropic's Mythos",
+    "summary": "The AI industry is witnessing an unprecedented cybersecurity arms race as OpenAI launched GPT-5.5-Cyber just weeks after Anthropic's Mythos sent shockwaves through global security circles. Both models are designed to find software vulnerabilities at scale, with Anthropic restricting Mythos to a select group of companies including Apple, Amazon, and JPMorgan Chase under its 'Project Glasswing' security measure. However, cybersecurity experts reveal that the capabilities both companies are highlighting already exist in current public models—suggesting the 'dangerous new era' isn't coming, it's already here. The situation has prompted the Trump administration to consider new government oversight, while major tech firms including Google, Microsoft, and xAI have agreed to pre-release government testing through CAISI. This rapid escalation highlights a fundamental tension: AI companies are simultaneously creating powerful offensive cybersecurity tools while claiming to help defend against them, leaving the industry scrambling to adapt to a threat landscape that has fundamentally shifted.",
+    "why_it_matters": "This development signals a paradigm shift in cybersecurity where AI-powered vulnerability discovery becomes commoditized. The 'offense vs defense' balance is tilting toward attackers, as finding and exploiting vulnerabilities becomes easier than patching them. Organizations worldwide must now adapt to a reality where zero-day discoveries could surge exponentially, potentially overwhelming existing security infrastructure. The situation also raises critical questions about AI governance—how do we regulate capabilities that are simultaneously defensive and offensive weapons? As Jamie Dimon noted, AI tools may eventually help defend against attacks, but they're first making everyone more vulnerable."
+  }
+}

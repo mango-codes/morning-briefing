@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-09",
+  "category": "events",
+  "today": [
+    {
+      "title": "The Midnight: Time Machines Tour",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Paramount Theatre",
+      "description": "Synthwave band The Midnight brings their Time Machines 2026 Tour to Seattle. Slide back in time with their retro-futuristic sound.",
+      "url": "https://www.ticketmaster.com/the-midnight-time-machines-seattle-washington-05-09-2026/event/0F006338D6185565",
+      "price": "$63+"
+    },
+    {
+      "title": "Seattle Sounders FC vs. San Diego FC",
+      "type": "sports",
+      "time": "7:30 PM",
+      "venue": "Lumen Field",
+      "description": "MLS action as the Sounders take on San Diego FC. Part of a three-match homestand before the FIFA World Cup 2026.",
+      "url": "https://www.ticketmaster.com/seattle-sounders-fc-vs-san-diego-seattle-washington-05-09-2026/event/0F006383C460845D",
+      "price": "$35+"
+    },
+    {
+      "title": "Zakir Khan Live",
+      "type": "comedy",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "Indian stand-up comedian Zakir Khan brings his observational humor and storytelling to Seattle for a live comedy show.",
+      "url": "https://www.axs.com/events/1195510/zakir-khan-live-tickets",
+      "price": "$62+"
+    },
+    {
+      "title": "Cyclops",
+      "type": "concert",
+      "time": "9:00 PM",
+      "venue": "The Showbox",
+      "description": "Electronic music artist Cyclops performs at one of Seattle's most iconic music venues. 18+ event.",
+      "url": "https://www.showboxpresents.com/events/detail/1322108",
+      "price": "$64+"
+    },
+    {
+      "title": "Philharmonia Fantastique - Seattle",
+      "type": "theater",
+      "time": "11:00 AM",
+      "venue": "Benaroya Hall",
+      "description": "A family-friendly multimedia concert exploring the orchestra through animation and live music with the Seattle Symphony.",
+      "url": "https://www.seattlesymphony.org/concerttickets/calendar",
+      "price": "$25+"
+    },
+    {
+      "title": "Golden State Valkyries at Seattle Storm",
+      "type": "sports",
+      "time": "7:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "WNBA basketball as the Seattle Storm host the Golden State Valkyries.",
+      "url": "https://www.axs.com/venues/128131/climate-pledge-arena-seattle-tickets",
+      "price": "$42+"
+    },
+    {
+      "title": "The Martinez Brothers Present Órbita",
+      "type": "concert",
+      "time": "9:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "DJ set from The Martinez Brothers featuring their Órbita party series with house and techno beats.",
+      "url": "https://www.showboxpresents.com/events",
+      "price": "$40+"
+    },
+    {
+      "title": "The New Pornographers",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "The Showbox",
+      "description": "Canadian indie rock supergroup featuring Will Sheff. 21+ event.",
+      "url": "https://www.showboxpresents.com/events",
+      "price": "$56+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "Mother's Day Improv Comedy Show",
+      "date": "Sunday, May 10",
+      "type": "comedy",
+      "venue": "Unexpected Productions (Market Theater)",
+      "url": "https://www.eventbrite.com/e/mothers-day-improv-comedy-show-tickets-1981594104309"
+    },
+    {
+      "title": "Chet Faker",
+      "date": "Thursday, May 7",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://www.axs.com/venues/101491/the-showbox-seattle-tickets"
+    },
+    {
+      "title": "Florence + The Machine: Everybody Scream Tour",
+      "date": "Tuesday, May 12",
+      "type": "concert",
+      "venue": "Climate Pledge Arena",
+      "url": "https://www.axs.com/events/1212247/florence-and-the-machine-tickets"
+    },
+    {
+      "title": "Demi Lovato: It's Not That Deep Tour",
+      "date": "Wednesday, May 13",
+      "type": "concert",
+      "venue": "Climate Pledge Arena",
+      "url": "https://www.axs.com/events/1206515/demi-lovato-tickets"
+    },
+    {
+      "title": "Seattle Symphony Chamber Concert",
+      "date": "Tuesday, May 12",
+      "type": "concert",
+      "venue": "Benaroya Hall - Illsley Ball Nordstrom Recital Hall",
+      "url": "https://www.seattlesymphony.org/concerttickets/calendar"
+    }
+  ]
+}

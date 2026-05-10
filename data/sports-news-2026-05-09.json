@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-09",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Bryan Woo returns to dominance in Seattle Mariners win over Braves",
+          "summary": "Bryan Woo pitched six scoreless, one-hit innings to lead the Mariners to a 3-1 win that clinched a series victory over the MLB-leading Atlanta Braves. Julio Rodriguez contributed with a 436-foot solo home run.",
+          "url": "https://sports.mynorthwest.com/mlb/seattle-mariners/bryan-woo-returns-dominance-seattle-mariners-braves-series-win"
+        },
+        {
+          "title": "Mariners take series from MLB-leading Braves",
+          "summary": "The Mariners won the series finale 3-1 against the Atlanta Braves on May 6, securing a series victory against one of baseball's top teams.",
+          "url": "https://www.espn.com/mlb/game/_/gameId/401815240/braves-mariners"
+        }
+      ],
+      "last_game": {
+        "opponent": "Atlanta Braves",
+        "result": "W 3-1",
+        "highlights": "Bryan Woo dominated with 6 scoreless innings. Julio Rodriguez hit a 436-foot solo home run. Mariners clinched series victory over MLB-leading Braves."
+      },
+      "next_game": {
+        "opponent": "Oakland Athletics",
+        "date": "May 26, 2026",
+        "location": "Away (Sutter Health Park, West Sacramento)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks 2026 schedule to be released on May 14",
+          "summary": "The NFL will unveil the 2026 regular season schedule on May 14 at 8 p.m. ET. The Seahawks, as defending Super Bowl champions, will host the Week 1 NFL Kickoff game on September 9.",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-schedule/167836/seattle-seahawks-2026-schedule-release-date-nfl-news"
+        },
+        {
+          "title": "Seahawks 2026 OTA and minicamp dates announced",
+          "summary": "Organized Team Activities (OTAs) will take place on May 26, May 28-29, June 1, and June 3-4. Mandatory minicamp dates have also been set for later this spring.",
+          "url": "https://www.seahawks.com/news/seahawk-2026-offseason-program-dates-announced"
+        }
+      ],
+      "last_game": {
+        "opponent": "N/A - Offseason",
+        "result": "Super Bowl LX Champions",
+        "highlights": "Seahawks won Super Bowl LX to conclude the 2025 season. Currently in offseason with OTAs beginning May 26."
+      },
+      "next_game": {
+        "opponent": "TBA (NFL Kickoff Game)",
+        "date": "September 9, 2026",
+        "location": "Home (Lumen Field)"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Seattle Kraken eliminated from playoff contention for 3rd straight season",
+          "summary": "The Kraken were officially eliminated from playoff contention on April 11, 2026, marking three consecutive seasons without postseason qualification.",
+          "url": "https://www.nhl.com/news/why-seattle-kraken-are-eliminated-2025-2026-postseason-race"
+        },
+        {
+          "title": "Kraken earn No. 7 overall pick in 2026 NHL Draft",
+          "summary": "Seattle secured the 7th overall pick in the 2026 NHL Draft Lottery, their third-highest pick in franchise history. The team also possesses another first-round pick from Tampa Bay.",
+          "url": "https://kxly920.com/2026/05/05/seattle-kraken-earn-no-7-overall-pick-in-2026-nhl-draft/"
+        }
+      ],
+      "last_game": {
+        "opponent": "N/A - Season Ended",
+        "result": "Missed Playoffs",
+        "highlights": "Kraken finished the 2025-26 season sixth-last in the NHL, winning only 7 of their final 23 games. Season ended April 11 with elimination from playoff contention."
+      },
+      "next_game": {
+        "opponent": "TBA (2026-27 Season)",
+        "date": "October 2026",
+        "location": "Climate Pledge Arena"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Seattle Sounders FC 2026 MLS schedule released",
+          "summary": "MLS unveiled the full 2026 regular season schedule. All matches will air live on Apple TV with no blackouts. The season includes a six-week break for the 2026 FIFA World Cup.",
+          "url": "https://www.soundersfc.com/2026-schedule-release/"
+        }
+      ],
+      "last_game": {
+        "opponent": "N/A - Mid-season",
+        "result": "17-10-9 record (2nd in Leagues Cup)",
+        "highlights": "Sounders currently in 2026 MLS season with 17 wins, 10 losses, 9 draws. Season includes World Cup break in May-June."
+      },
+      "next_game": {
+        "opponent": "San Diego FC",
+        "date": "May 10, 2026 (7:30 PM PT)",
+        "location": "Home (Lumen Field)"
+      }
+    },
+    {
+      "name": "Storm",
+      "league": "WNBA",
+      "headlines": [
+        {
+          "title": "Golden State Valkyries defeat Seattle Storm 91-80 in season opener",
+          "summary": "The expansion Golden State Valkyries spoiled the Storm's home opener, winning 91-80 at Climate Pledge Arena. Janelle Salaun led the Valkyries with 20 points.",
+          "url": "https://valkyries.wnba.com/news/gameday-recap-20260508"
+        },
+        {
+          "title": "Seattle Storm opens 2026 WNBA season",
+          "summary": "The Storm began their 2026 campaign on May 8 against the expansion Golden State Valkyries. The team features new head coach Sonia Raman and a new roster.",
+          "url": "https://storm.wnba.com/news/storm-announces-2026-regular-season-schedule"
+        }
+      ],
+      "last_game": {
+        "opponent": "Golden State Valkyries",
+        "result": "L 80-91",
+        "highlights": "Storm lost their home opener to the expansion Valkyries. New head coach Sonia Raman's first regular season game with the team."
+      },
+      "next_game": {
+        "opponent": "Connecticut Sun",
+        "date": "May 10, 2026",
+        "location": "Away"
+      }
+    }
+  ]
+}

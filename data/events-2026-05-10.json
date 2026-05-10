@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-10",
+  "category": "events",
+  "events": [
+    {
+      "name": "West Seattle Community Garage Sale Day",
+      "date": "May 10, 2026",
+      "time": "All day",
+      "location": "West Seattle",
+      "description": "The biggest ever West Seattle Community Garage Sale Day with approximately 650 registered sales throughout the neighborhood.",
+      "url": "https://westseattleblog.com/",
+      "category": "community",
+      "price": "Free to browse"
+    },
+    {
+      "name": "World Migratory Bird Day Celebration",
+      "date": "May 10, 2026",
+      "time": "Various times",
+      "location": "Seward Park Audubon",
+      "description": "Learn about avian friends at Seward Park Audubon's World Migratory Bird Day Celebration, featuring educational activities and bird watching.",
+      "url": "https://www.seattleaudubon.org/",
+      "category": "nature",
+      "price": "Free"
+    },
+    {
+      "name": "Burke-Gilman Frühlingsfest",
+      "date": "May 8-11, 2026",
+      "time": "Various times",
+      "location": "Burke-Gilman Brewing",
+      "description": "The springtime version of Oktoberfest, celebrating the season with German-style beers, lively music, and Bavarian-inspired festivities.",
+      "url": "https://washingtonbeerblog.com/",
+      "category": "food/drink",
+      "price": "Free entry"
+    },
+    {
+      "name": "SIFF 2026 - Seattle International Film Festival",
+      "date": "May 8-18, 2026",
+      "time": "Various showtimes",
+      "location": "SIFF Cinema Downtown",
+      "description": "Opening weekend of SIFF 2026 featuring international films, including 'Holland' by Czech cinema giant Agnieszka Holland.",
+      "url": "https://www.siff.net/",
+      "category": "arts",
+      "price": "Ticket required"
+    },
+    {
+      "name": "Zakir Khan Live",
+      "date": "May 10, 2026",
+      "time": "Evening",
+      "location": "Seattle",
+      "description": "Renowned Indian comedian, writer, and actor Zakir Khan brings his unique brand of humor to Seattle on his tour.",
+      "url": "https://komonews.com/",
+      "category": "entertainment",
+      "price": "Ticket required"
+    }
+  ],
+  "top_pick": {
+    "name": "West Seattle Community Garage Sale Day",
+    "date": "May 10, 2026",
+    "description": "The biggest ever edition with ~650 registered sales throughout West Seattle. Perfect for treasure hunting and finding unique items while supporting the community.",
+    "url": "https://westseattleblog.com/"
+  }
+}
