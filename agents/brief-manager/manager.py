@@ -14,7 +14,28 @@ class BriefManager:
     def __init__(self):
         self.date = datetime.now().strftime("%Y-%m-%d")
         self.data_dir = "/root/.openclaw/workspace/morning-briefing/data"
-        self.token = os.environ.get('GITHUB_TOKEN', '')
+        self.token = self._get_github_token()
+    
+    def _get_github_token(self):
+        """Get GitHub token from environment or .bashrc"""
+        token = os.environ.get('GITHUB_TOKEN', '')
+        if token:
+            return token
+        
+        # Try to read from .bashrc
+        try:
+            with open(os.path.expanduser('~/.bashrc'), 'r') as f:
+                for line in f:
+                    if 'GITHUB_TOKEN=' in line and 'export' in line:
+                        # Extract token from export GITHUB_TOKEN="..."
+                        parts = line.split('GITHUB_TOKEN=')
+                        if len(parts) > 1:
+                            token_part = parts[1].strip().strip('"').strip("'")
+                            return token_part
+        except Exception as e:
+            print(f"  ⚠️  Could not read .bashrc: {e}")
+        
+        return ''
         
     def check_data_files(self):
         """Check if all data files exist and are valid"""
