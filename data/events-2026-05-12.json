@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-12",
+  "category": "events",
+  "today": [
+    {
+      "title": "Florence + The Machine",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "Everybody Scream Tour with special guest Mannequin Pussy. Indie rock band fronted by Florence Welch performing hits from their catalog.",
+      "url": "https://www.axs.com/events/1212247/florence-and-the-machine-tickets",
+      "price": "$71+"
+    },
+    {
+      "title": "Joyce Manor",
+      "type": "concert",
+      "time": "7:30 PM",
+      "venue": "The Showbox",
+      "description": "With Militarie Gun, Teen Mortgage and Combat. Energetic indie/punk rock show.",
+      "url": "https://www.showboxpresents.com/events/detail/1165962",
+      "price": "$25+"
+    },
+    {
+      "title": "Echo & The Bunnymen",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "More Songs To Learn & Sing: The Very Best of Echo & The Bunnymen with Crack Sabbath. Legendary post-punk/new wave band.",
+      "url": "https://www.showboxpresents.com/events/detail/1183923",
+      "price": "$40+"
+    },
+    {
+      "title": "Wild Nothing",
+      "type": "concert",
+      "time": "8:00 PM",
+      "venue": "Neumos",
+      "description": "'Gemini' Anniversary Tour with Lunar Vacation. Dream pop/indie rock from Virginia.",
+      "url": "https://www.neumos.com/events/detail/wild-nothing-tickets-1287816",
+      "price": "$25+"
+    }
+  ],
+  "this_weekend": [
+    {
+      "title": "John Butler Trio",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "Moore Theatre",
+      "url": "https://www.stgpresents.org/events/john-butler/"
+    },
+    {
+      "title": "Seattle Mariners vs. San Diego Padres",
+      "date": "Friday, May 15",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "url": "https://www.mlb.com/mariners"
+    },
+    {
+      "title": "Seattle Mariners vs. San Diego Padres",
+      "date": "Saturday, May 16",
+      "type": "sports",
+      "venue": "T-Mobile Park",
+      "url": "https://www.mlb.com/mariners"
+    },
+    {
+      "title": "Starjunk 95",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://www.showboxpresents.com/events/detail/1289185"
+    },
+    {
+      "title": "Łaszewo",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "Showbox SoDo",
+      "url": "https://www.showboxpresents.com/events/detail/1329838"
+    },
+    {
+      "title": "AZN GLO",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "Neumos",
+      "url": "https://www.neumos.com/events/detail/azn-glo-tickets-1427045"
+    },
+    {
+      "title": "The Afghan Whigs - 40th Anniversary Tour",
+      "date": "Sunday, May 17",
+      "type": "concert",
+      "venue": "The Showbox",
+      "url": "https://www.showboxpresents.com/events/detail/1294480"
+    },
+    {
+      "title": "KSHMR",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "Q Nightclub",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "title": "James Hype",
+      "date": "Saturday, May 16",
+      "type": "concert",
+      "venue": "Level 1, Cannonball Arts",
+      "url": "https://www.songkick.com/metro-areas/2846-us-seattle"
+    },
+    {
+      "title": "U District Street Fair",
+      "date": "Saturday-Sunday, May 16-17",
+      "type": "festival",
+      "venue": "University District",
+      "url": "https://www.jambase.com/concerts/us/washington/concerts-in-seattle"
+    }
+  ]
+}

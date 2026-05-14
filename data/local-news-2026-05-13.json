@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-13",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Gun violence down significantly in King County for first quarter of 2026",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/gun-violence-down-significantly-in-king-county-for-first-quarter-of-2026-report-says-shooting-death-injury-homicide-crime-gang-drug-seattle-data-police",
+      "summary": "Gun violence across King County declined significantly in the first three months of 2026, with reported shootings and victims reaching their lowest levels in years according to a new quarterly report from the King County Prosecuting Attorney's Office."
+    },
+    {
+      "title": "Seattle getting ready to step off on new Shared Streets program",
+      "source": "CHS Capitol Hill Seattle News",
+      "url": "https://www.capitolhillseattle.com/2026/05/seattle-getting-ready-to-step-off-on-new-shared-streets-program/",
+      "summary": "Seattle is preparing to implement a new Shared Streets program that allows 10 MPH speed limits and gives pedestrians and cyclists priority, letting them safely cross streets anywhere they want."
+    },
+    {
+      "title": "Mariners honor Seattle Steelheads, connecting Negro League legacy to new generation",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/sports/mlb/mariners/mariners-honor-seattle-steelheads-connecting-negro-league-legacy-new-generation/281-c6c0c22c-bf71-4e4e-bec8-28145f6f7609",
+      "summary": "The Seattle Mariners are honoring the Seattle Steelheads' legacy with throwback uniforms worn every Sunday home game, highlighting the 1946 Negro League team's impact on baseball and community unity. The Mariners are the first MLB team to feature a Negro Leagues uniform as part of its regular rotation."
+    },
+    {
+      "title": "City Council Committee approves homeless housing with conditions",
+      "source": "Everett Post",
+      "url": "https://www.everettpost.com/state-news/city-council-committee-approves-homeless-housing-with-conditions/",
+      "summary": "A Seattle City Council Committee approved Mayor Katie Wilson's plan to build 1,000 units of new temporary housing for homeless residents, with specific conditions attached to the approval."
+    },
+    {
+      "title": "West Seattle Community Garage Sale Day 2026 brings 650+ sales",
+      "source": "West Seattle Blog",
+      "url": "https://westseattleblog.com/",
+      "summary": "West Seattle Community Garage Sale Day featured over 650 sales across the neighborhood, drawing crowds and creating busy streets throughout many local neighborhoods."
+    },
+    {
+      "title": "Seattle City Council approves legislation to begin funding voter-approved social housing",
+      "source": "Seattle City Council Blog",
+      "url": "https://council.seattle.gov/2026/02/10/seattle-city-council-approves-legislation-to-begin-funding-voter-approved-social-housing/",
+      "summary": "The Seattle City Council approved an interlocal agreement transferring $115 million to the Seattle Social Housing Developer to acquire and develop publicly owned affordable housing. Seattle is on track to make record-shattering investments in housing in 2026."
+    },
+    {
+      "title": "Snohomish County fire near train tracks forces Airport Way shutdown",
+      "source": "KOMO News",
+      "url": "https://komonews.com/",
+      "summary": "A large fire near train tracks forced the shutdown of Airport Way and briefly disrupted freight rail traffic in Snohomish County."
+    },
+    {
+      "title": "UW study shows PNW waters acidifying faster than rest of world oceans",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/tech/science/environment/uw-study-shows-pnw-waters-acidifying-faster-than-rest-world-oceans/281-dcec47c4-17e9-4beb-a414-b8e5e4da8c80",
+      "summary": "A new University of Washington study reveals that Pacific Northwest waters are acidifying faster than the rest of the world's oceans, raising concerns for marine ecosystems and local fisheries."
+    }
+  ],
+  "top_story": {
+    "title": "Gun violence down significantly in King County for first quarter of 2026",
+    "description": "Gun violence across King County declined significantly in the first three months of 2026, with reported shootings and victims reaching their lowest levels in years according to a new quarterly report from the King County Prosecuting Attorney's Office. The report shows year-over-year decreases including 22% fewer gun violence homicide victims, 45% fewer non-fatal shooting victims, and 35% fewer overall shots fired."
+  }
+}

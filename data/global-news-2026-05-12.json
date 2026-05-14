@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-12",
+  "generatedAt": "2026-05-12T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "id": 1,
+      "headline": "UK PM Keir Starmer faces mounting pressure to resign as 70+ Labour MPs call for his departure",
+      "summary": "Home Secretary Shabana Mahmood among ministers calling for Starmer to set out a timetable for resignation following heavy election losses. Three ministers have already resigned.",
+      "source": "BBC News",
+      "category": "Politics",
+      "region": "Europe",
+      "url": "https://www.bbc.com/news/articles/c7v9r38d24do"
+    },
+    {
+      "id": 2,
+      "headline": "Trump and Xi meet in high-stakes China summit amid Iran war tensions",
+      "summary": "The leaders are expected to discuss trade, artificial intelligence, export controls, Taiwan, and the ongoing Iran war. Trump invited CEOs including Elon Musk and Tim Cook to join the trip.",
+      "source": "AP News / Washington Post",
+      "category": "Diplomacy",
+      "region": "Asia-Pacific",
+      "url": "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af"
+    },
+    {
+      "id": 3,
+      "headline": "Oil prices surge above $100 as Strait of Hormuz remains shut due to Iran war",
+      "summary": "Brent crude rose to around $105 per barrel. The key waterway has been effectively closed since February 28, disrupting 20% of global oil supplies and causing US inflation to jump to 3.8%.",
+      "source": "BBC News",
+      "category": "Economy",
+      "region": "Middle East",
+      "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o"
+    },
+    {
+      "id": 4,
+      "headline": "UN confirms 269 killed in Pakistani airstrike on Kabul rehab centre, calls grow for war crime investigation",
+      "summary": "A UN report confirmed the death toll from the March 16 strike on the Omid Drug Rehabilitation Hospital, acknowledging the real figure is likely significantly higher.",
+      "source": "BBC News / UN",
+      "category": "Conflict",
+      "region": "South Asia",
+      "url": "https://www.bbc.com/news/articles/c202xrd9gn7o"
+    },
+    {
+      "id": 5,
+      "headline": "Hantavirus outbreak on cruise ship grows to 11 cases as passengers evacuated from Canary Islands",
+      "summary": "More than 90 passengers of the MV Hondius have been repatriated via military and government flights. Spain confirmed a new case in an evacuated passenger.",
+      "source": "AP News / BBC",
+      "category": "Health",
+      "region": "Europe",
+      "url": "https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-ac42357c5c3ae1694a93f1d43ba38bdb"
+    },
+    {
+      "id": 6,
+      "headline": "Venezuela rejects Trump's '51st state' remarks; acting president defends territory",
+      "summary": "Acting President Delcy Rodríguez firmly rejected the notion of Venezuela becoming a U.S. state after Trump said he was 'seriously considering' such a move.",
+      "source": "AP News",
+      "category": "Politics",
+      "region": "Latin America",
+      "url": "https://apnews.com/article/venezuela-guyana-essequibo-court-trump-oil-89f55dc0049617e81bfbad49c4bed777"
+    },
+    {
+      "id": 7,
+      "headline": "Southern California mayor resigns after being accused of acting as Chinese government agent",
+      "summary": "The mayor will plead guilty to charges related to acting as an agent for the Chinese government, according to AP reports.",
+      "source": "AP News",
+      "category": "Politics",
+      "region": "North America",
+      "url": "https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe"
+    },
+    {
+      "id": 8,
+      "headline": "BBC investigation unmasks key people smuggler behind most small boat crossings to UK",
+      "summary": "The 28-year-old Iraqi Kurd operates under the alias 'Kardo Ranya' and has evaded arrest while orchestrating smuggling networks.",
+      "source": "BBC News",
+      "category": "Investigation",
+      "region": "Europe",
+      "url": "https://www.bbc.com/news/articles/cp3pl5093wpo"
+    }
+  ]
+}

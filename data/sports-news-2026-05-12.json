@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-12",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Mariners",
+      "league": "MLB",
+      "headlines": [
+        {
+          "title": "Mariners Star Reliever Leaves Game After Two Pitches",
+          "summary": "Injury concern as reliever exits early in Monday's game against Houston.",
+          "url": "https://heavy.com/sports/mlb/seattle-mariners/"
+        },
+        {
+          "title": "Mariners beat Astros 3-1 for franchise-record 8th straight win over Houston",
+          "summary": "Julio Rodriguez went 2-for-4 with a solo home run, his 7th of the season. The win snapped a two-game losing streak for Seattle.",
+          "url": "https://www.espn.com/mlb/recap?gameId=401815302"
+        }
+      ],
+      "last_game": {
+        "opponent": "Houston Astros",
+        "result": "W 3-1",
+        "highlights": "Julio Rodriguez hit a 414-foot solo home run, his 7th of the season. This was Seattle's franchise-record 8th straight win over the Astros."
+      },
+      "next_game": {
+        "opponent": "Texas Rangers",
+        "date": "Tomorrow (May 13) 6:40 PM PT",
+        "location": "Away (Globe Life Field, Arlington)"
+      }
+    },
+    {
+      "name": "Seahawks",
+      "league": "NFL",
+      "headlines": [
+        {
+          "title": "Seahawks 2026 Schedule To Be Announced On Thursday, May 14",
+          "summary": "The NFL will release the full 2026 regular season schedule on Thursday, May 14 at 5 p.m. PT. The Seahawks are expected to open the season on Wednesday, September 9.",
+          "url": "https://www.seahawks.com/news/seahawks-2026-schedule-to-be-announced-on-thursday-may-14"
+        },
+        {
+          "title": "Why Dante Fowler Jr. might be John Schneider's smartest move of the offseason",
+          "summary": "Analysis of the Seahawks' offseason defensive additions.",
+          "url": "https://www.fieldgulls.com/seattle-seahawks-schedule/168059/nfl-seattle-seahawks-2026-schedule-cowboys-giants-ruled-out-seattle-kickoff-opponent"
+        },
+        {
+          "title": "Seahawks re-sign WR Chris Olave",
+          "summary": "The Seahawks have re-signed wide receiver Chris Olave, one of the heroes of Seattle's championship run, despite earlier reports that a deal was not close.",
+          "url": "https://www.espn.com/nfl/story/_/id/48084500/seattle-seahawks-2026-free-agency-tracker-offseason-moves-signings-contract"
+        }
+      ],
+      "last_game": {
+        "opponent": "N/A - Offseason",
+        "result": "N/A",
+        "highlights": "Seahawks are in offseason workouts. They finished another week of workouts on Thursday, May 7."
+      },
+      "next_game": {
+        "opponent": "TBD - Schedule Release May 14",
+        "date": "Regular season opens Wednesday, September 9, 2026",
+        "location": "TBD"
+      }
+    },
+    {
+      "name": "Kraken",
+      "league": "NHL",
+      "headlines": [
+        {
+          "title": "Kraken miss playoffs for 3rd straight season",
+          "summary": "The Seattle Kraken were officially eliminated from playoff contention on April 11, 2026, marking the third consecutive season without postseason hockey.",
+          "url": "https://www.nhl.com/news/why-seattle-kraken-are-eliminated-2025-2026-postseason-race"
+        },
+        {
+          "title": "Kraken to break ground on $60 million Kirkland ice complex",
+          "summary": "The Kraken announced a new two-rink facility in Kirkland, planned for a former park-and-ride site. Construction partner BN Builders selected, groundbreaking in May 2026, expected opening in fall 2027.",
+          "url": "https://www.nhl.com/kraken/news/kraken-kirkland-iceplex-and-community-center-breaks-ground-may-2026"
+        },
+        {
+          "title": "Kraken Farm Team Dominating ECHL Playoffs",
+          "summary": "The Kraken's ECHL affiliate is having success in the playoffs while the NHL team is in offseason.",
+          "url": "https://pacificnorthhockey.com/seattle/2026/05/10/kraken-echl-team/"
+        }
+      ],
+      "last_game": {
+        "opponent": "N/A - Season Ended",
+        "result": "Missed Playoffs",
+        "highlights": "The Kraken finished the 2025-26 season 6th-last in the NHL, winning only 7 of their final 23 games. They were eliminated from playoff contention on April 11, 2026."
+      },
+      "next_game": {
+        "opponent": "2026-27 Season",
+        "date": "October 2026 (Training Camp)",
+        "location": "TBD"
+      }
+    },
+    {
+      "name": "Sounders",
+      "league": "MLS",
+      "headlines": [
+        {
+          "title": "Sounders settle for 1-1 draw against San Diego FC",
+          "summary": "Danny Musovski scored a late goal to salvage a point after Seattle trailed after 18 minutes. Sounders record now 6-3-1, 4th in Western Conference.",
+          "url": "https://www.sounderatheart.com/2026/05/a-dull-edge-sounders-settle-again/"
+        },
+        {
+          "title": "Sounders to host San Jose Earthquakes Wednesday",
+          "summary": "Seattle hosts the MLS-leading San Jose Earthquakes in a Western Conference showdown at Lumen Field.",
+          "url": "https://www.foxsports.com/articles/soccer/how-to-watch-seattle-sounders-fc-vs-san-jose-earthquakes-tv-channel-live-stream-may-13-2026"
+        }
+      ],
+      "last_game": {
+        "opponent": "San Diego FC",
+        "result": "T 1-1",
+        "highlights": "Danny Musovski scored a late equalizer to salvage a point after trailing early. Sounders now 6-3-1 on the season."
+      },
+      "next_game": {
+        "opponent": "San Jose Earthquakes",
+        "date": "Tomorrow (May 13) 6:30 PM PT",
+        "location": "Home (Lumen Field)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-12",
+  "category": "local-news",
+  "headlines": [
+    {
+      "title": "Gun violence down significantly in King County for first quarter of 2026",
+      "summary": "Gun violence across King County declined significantly in the first three months of 2026, with reported shootings and victims reaching their lowest levels in years. The report shows 204 shots-fired incidents in the first quarter, down 28% from the same period last year and marking the lowest first-quarter total since 2020. Compared with 2024, total shots-fired incidents fell by 54%, while fatal shootings decreased by 61%.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/gun-violence-down-significantly-in-king-county-for-first-quarter-of-2026-report-says-shooting-death-injury-homicide-crime-gang-drug-seattle-data-police",
+      "category": "crime"
+    },
+    {
+      "title": "UW study shows PNW waters acidifying faster than rest of world's oceans",
+      "summary": "The waters off the Pacific Northwest are becoming more acidic at a faster rate than the rest of the world's oceans, according to a University of Washington study. Researchers found the California Current System and the Salish Sea have experienced amplified acidification over the past 130 years, outpacing the rise in atmospheric carbon dioxide. The region's unique upwelling process makes it naturally prone to acidic conditions.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/tech/science/environment/uw-study-shows-pnw-waters-acidifying-faster-than-rest-world-oceans/281-dcec47c4-17e9-4beb-a414-b8e5e4da8c80",
+      "category": "other"
+    },
+    {
+      "title": "Second In-N-Out opens in Washington state",
+      "summary": "A second location of In-N-Out Burger opened in Vancouver, Washington, expanding the chain's presence in the Northwest. The new location at 13511 SE 3rd Way seats 84 people inside with outdoor seating for 28 more customers. This follows the first Washington location that opened in Ridgefield in August 2025.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/money/business/second-in-n-out-opens-in-washington-state-heres-where/281-db35e34c-4265-4acc-ba45-15cef7ded095",
+      "category": "business"
+    },
+    {
+      "title": "Puget Sound's 'Pizza Triangle' serving up world-class pies",
+      "summary": "Three award-winning pizza makers near Seattle are putting the Pacific Northwest on the map as a world-class pizza destination. Will Grant, Lee Kindell and Niles Peacock have become three of the most decorated pizza makers in the world, operating just a few miles apart across the water in what's being called the Puget Sound Pizza Triangle. Kindell's Dungeness crab pizza recently won best Detroit-style pizza in the world at the World Pizza Championships.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/puget-sounds-pizza-triangle-serving-up-best-pies-on-the-planet/281-33dd15ca-3054-4176-9cd3-d53376ac002f",
+      "category": "business"
+    },
+    {
+      "title": "Renton police warn of bear sighting in Highlands Park neighborhood",
+      "summary": "Renton police are warning residents to be on the lookout after a bear was reported in the Highlands Park neighborhood. A bear was spotted in the 1100 block of Shelton Avenue NE on May 8. The Washington Department of Fish and Wildlife says bear activity starts to increase this time of year, and black bear sightings are fairly common in Renton and other suburbs in eastern King, Snohomish, and Pierce counties.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/news/local/beware-of-bears-renton-police-warn-of-bear-sighting-in-highlands-park-neighborhood-animal-danger-safety-protection-family-children-food-storage-habitat-911-fish-wildlife-property",
+      "category": "other"
+    },
+    {
+      "title": "Effort underway to build Lake Union's underwater archive of shipwrecks",
+      "summary": "Using sonar and underwater robotics, a Seattle team is documenting Lake Union's wrecks before the city's maritime past fades from view. Ocean engineer Phil Parisi and his team have used sonar equipment and ROVs to visually confirm wrecks across the lake, part of a broader effort to identify, classify and republish data on vessels that have remained largely undocumented for decades. The work builds on a high-resolution sonar survey that previously identified nearly 100 underwater targets.",
+      "source": "KING 5",
+      "url": "https://www.king5.com/article/news/local/lake-union-underwater-archive-shipwrecks/281-0b2512c8-e577-4960-81d3-2bb709367f81",
+      "category": "other"
+    },
+    {
+      "title": "Laurelhurst Community Council supports ending policy that reduces helicopter landings at Seattle Children's Hospital",
+      "summary": "For more than 30 years, Seattle Children's Hospital has abided by a voluntary agreement with the Laurelhurst Community Council to restrict medevac helicopter flights carrying sick children. Following public outcry and a planned protest, the LCC and Seattle Children's Hospital released a joint statement indicating the community council will support ending the policy that reduced helicopter landings at the hospital.",
+      "source": "The Stranger",
+      "url": "https://www.thestranger.com/news/laurelhurst-community-council-will-support-ending-policy-that-reduces-helicopter-landings-at-seattle-childrens-hospital/",
+      "category": "politics"
+    },
+    {
+      "title": "Mariners extend franchise-record 8-game winning streak against Astros",
+      "summary": "Julio Rodríguez homered, and Randy Arozarena added two hits to lead the Seattle Mariners to a 3-1 win over the Houston Astros. It's Seattle's franchise-record eighth straight win over the Astros. George Kirby pitched five innings allowing seven hits and one run with seven strikeouts. Andrés Muñoz secured his eighth save of the season.",
+      "source": "KOMO News",
+      "url": "https://komonews.com/sports/mariners/rodriguez-goes-deep-as-the-mariners-extend-a-franchise-record-8-game-streak-against-astros-major-league-baseball-mlb-julio-george-kirby-pitching-andres-munoz",
+      "category": "other"
+    }
+  ],
+  "weather": {
+    "forecast": "Sunny with highs in the mid-70s. Clear skies throughout the day with light winds. Sunset at 8:36 pm.",
+    "high": 75,
+    "low": 53,
+    "conditions": "Sunny",
+    "alert": null
+  }
+}

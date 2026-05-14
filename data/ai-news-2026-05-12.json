@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-12",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "China Sought Access to Anthropic's Newest AI Model Mythos - The Answer Was No",
+      "summary": "A representative from a Chinese think tank approached Anthropic officials at a meeting in Singapore last month to insist that the company give Beijing access to its powerful new AI model, Mythos. Anthropic declined the request, maintaining its restricted access policy for the model which it says found zero-day vulnerabilities in every major operating system and web browser.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
+      "type": "policy"
+    },
+    {
+      "title": "Google Warns AI-Powered Hacking Has Exploded Into Industrial-Scale Threat",
+      "summary": "Google's threat intelligence group reports that in just three months, AI-powered hacking has escalated from a nascent problem to an industrial-scale threat. Criminal groups and state-linked actors from China, North Korea and Russia are widely using commercial models including Gemini, Claude and OpenAI tools to refine and scale up attacks. Google recently disrupted a criminal group's attempt to use AI to exploit a zero-day vulnerability.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+      "type": "policy"
+    },
+    {
+      "title": "OpenAI Launches $4B AI Services Company 'DeployCo' Following Anthropic's Similar Move",
+      "summary": "OpenAI has revealed its own AI services company backed by over $4 billion in initial investment, following Anthropic's similar announcement. The new company, named OpenAI Deployment Co., will be built on the pending acquisition of London-based AI consulting firm Tomoro. Investors include Capgemini, Bain & Co., and McKinsey & Co. as OpenAI seeks to help enterprises bridge the gap between AI capability and real operational impact.",
+      "source": "CRN",
+      "url": "https://www.crn.com/news/ai/2026/openai-launches-services-business-on-heels-of-similar-anthropic-announcement",
+      "type": "funding"
+    },
+    {
+      "title": "Microsoft, Google and xAI Will Let US Government Test Their AI Models Before Launch",
+      "summary": "The Trump administration's Commerce Department announced agreements with Google, Microsoft, and Elon Musk's xAI to evaluate their most powerful AI models before public release. This builds on previous Biden administration agreements with Anthropic and OpenAI. The move comes amid heightened concerns about AI cybersecurity risks following Anthropic's Mythos announcement.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/05/05/tech/microsoft-google-xai-government-test-ai-models",
+      "type": "policy"
+    },
+    {
+      "title": "OpenAI Launches New Voice Intelligence Features in Its API",
+      "summary": "OpenAI announced new voice intelligence features for its API including GPT-Realtime-2 with GPT-5-class reasoning for complex vocal interactions, GPT-Realtime-Translate supporting 70+ input languages and 13 output languages, and GPT-Realtime-Whisper for live speech-to-text. The company says these models move real-time audio from simple call-and-response toward voice interfaces that can actually do work.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "type": "product"
+    },
+    {
+      "title": "Google Releases Gemma 4 Family of Open-Source Models for Advanced Reasoning",
+      "summary": "Google released the Gemma 4 family on May 4, 2026, marking a significant moment for open-source AI. These models are engineered specifically for advanced reasoning and agentic workflows, available in four sizes including a 31B Dense variant ranked #3 globally on the Arena AI leaderboard and efficient edge-device variants (E4B and E2B) with native multimodal support for audio, video, and images.",
+      "source": "DevFlokers",
+      "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments",
+      "type": "product"
+    },
+    {
+      "title": "OpenAI and Anthropic Launch Rival $4B+ and $1.5B Enterprise Deployment Ventures",
+      "summary": "Both OpenAI and Anthropic announced major enterprise AI services initiatives. OpenAI's 'Deployment Company' raised over $4 billion from 19 investors including TPG and Brookfield, while Anthropic launched a $1.5 billion joint venture with Blackstone, Hellman & Friedman and Goldman Sachs targeting mid-market companies. The moves signal a shift from API-only distribution to hands-on enterprise implementation.",
+      "source": "DevFlokers / Multiple",
+      "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments",
+      "type": "funding"
+    },
+    {
+      "title": "Meta Raises 2026 AI Capital Expenditure Guidance to $115-135 Billion",
+      "summary": "Meta simultaneously announced AI capital expenditures of $115-135 billion for 2026, nearly double last year's spending, signaling an aggressive push to close the gap with OpenAI and Google in the AI race. The company also signed a multi-billion dollar deal to rent Google's AI chips as it diversifies away from Nvidia amid a global memory shortage.",
+      "source": "Crescendo AI",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "type": "funding"
+    },
+    {
+      "title": "DeepSeek Introduces Visual Primitives Framework for Multimodal Reasoning",
+      "summary": "DeepSeek-AI introduced 'Thinking with Visual Primitives,' a framework that addresses the 'reference gap' in multimodal LLMs by integrating standardized spatial coordinates directly into the model's reasoning. The approach beats frontier competitors by 17 points on topological reasoning benchmarks and achieves roughly 7,000x image compression while maintaining performance.",
+      "source": "DevFlokers",
+      "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments",
+      "type": "research"
+    },
+    {
+      "title": "Ouster Releases Rev8 Family - World's First Native Color Lidar Sensors",
+      "summary": "Ouster released the Rev8 OS digital lidar family, introducing the world's first native color lidar sensors powered by next-generation L4 Ouster Silicon with embedded Fujifilm color science. The flagship OS1 Max provides a 45° field-of-view with 200-meter detection range at 10% reflectivity, enabling autonomous vehicles and robots to natively understand road signs and brake lights through unified structural and color data.",
+      "source": "DevFlokers",
+      "url": "https://www.devflokers.com/blog/ai-tech-breakthroughs-may-2026-developments",
+      "type": "product"
+    }
+  ],
+  "top_story": {
+    "title": "Google Warns AI-Powered Hacking Has Exploded Into Industrial-Scale Threat",
+    "summary": "Google's threat intelligence group has issued a dire warning that AI-powered hacking has escalated from a nascent problem to an industrial-scale threat in just three months. Criminal groups and state-linked actors from China, North Korea, and Russia are now widely using commercial AI models including Gemini, Claude, and OpenAI tools to refine and scale up attacks. Google recently disrupted a criminal group's attempt to use AI to discover and exploit a zero-day vulnerability that could have enabled mass exploitation. The report comes as Anthropic's Mythos model - which found zero-day vulnerabilities in every major OS and browser - has sparked global concerns about AI's dual-use nature for cybersecurity.",
+    "why_it_matters": "This represents a critical inflection point in cybersecurity where AI capabilities are being weaponized at scale by malicious actors. The convergence of increasingly powerful AI models with sophisticated hacking operations creates an asymmetric threat environment where defenders may struggle to keep pace. It has triggered urgent policy responses including new government pre-release testing agreements with major AI labs and calls for coordinated defensive action across the tech industry. The situation highlights the dual-use dilemma of advanced AI - the same capabilities that can strengthen cybersecurity can also supercharge attacks."
+  }
+}

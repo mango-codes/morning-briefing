@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-13",
+  "category": "sports-news",
+  "teams": [
+    {
+      "name": "Seattle Mariners",
+      "league": "MLB",
+      "headlines": [
+        "Mariners face Houston Astros on May 13, 2026",
+        "Logan Gilbert leads pitching staff with 52 strikeouts",
+        "Andrés Muñoz has been dominant in closer role with 8 saves"
+      ],
+      "details": {
+        "game_today": "vs Houston Astros",
+        "status": "Regular season",
+        "notable_performers": {
+          "Logan Gilbert": "52 strikeouts (leads staff)",
+          "Andrés Muñoz": "8 saves (closer)"
+        },
+        "season_start": "Split opening four-game series with Cleveland Guardians",
+        "source": "USA Today, Baseball-Reference"
+      }
+    },
+    {
+      "name": "Seattle Seahawks",
+      "league": "NFL",
+      "headlines": [
+        "2026 NFL Schedule Release set for May 13-14, 2026",
+        "Remaining International Games announced on May 13",
+        "Home opponents include: Cardinals, Rams, 49ers, Cowboys, Giants, Chiefs, Chargers, Bears, Patriots"
+      ],
+      "details": {
+        "schedule_release": "May 13-14, 2026",
+        "international_games": "Announced May 13 on NFL Network and ESPN",
+        "home_opponents": ["Arizona Cardinals", "Los Angeles Rams", "San Francisco 49ers", "Dallas Cowboys", "New York Giants", "Kansas City Chiefs", "Los Angeles Chargers", "Chicago Bears", "New England Patriots"],
+        "ownership": "Team still up for sale with potential buyers emerging",
+        "source": "Field Gulls, Sports Illustrated, FOX 13"
+      }
+    },
+    {
+      "name": "Seattle Kraken",
+      "league": "NHL",
+      "headlines": [
+        "Kraken partner with Sportsology Group for hockey operations audit",
+        "Season review shows team scored first in 41 games (24-13-4 record when scoring first)",
+        "Kirkland Iceplex and Community Center breaks ground"
+      ],
+      "details": {
+        "season_status": "Season concluded, under review",
+        "audit": "Partnered with Sportsology Group for external hockey operations audit",
+        "season_stats": {
+          "scored_first": "41 games",
+          "record_when_scoring_first": "24-13-4"
+        },
+        "community": "Kirkland Iceplex groundbreaking with Mayor Kelli Curtis and Captain Jordan Eberle",
+        "source": "FOX 13 Seattle, Sound of Hockey, NHL.com"
+      }
+    },
+    {
+      "name": "Seattle Sounders",
+      "league": "MLS",
+      "headlines": [
+        "Sounders host San Jose Earthquakes at Lumen Field on May 13, 2026",
+        "Kickoff at 6:30 PM PT / 9:30 PM ET",
+        "Western Conference showdown against league's top side"
+      ],
+      "details": {
+        "game_today": "vs San Jose Earthquakes",
+        "kickoff": "6:30 PM PT / 9:30 PM ET",
+        "venue": "Lumen Field, Seattle, WA",
+        "goalkeeper": "Andrew Thomas",
+        "promotion": "2 Tickets & 2 Beers Bundle available for May 13 match",
+        "source": "SoundersFC.com, FOX Sports, Squawka"
+      }
+    }
+  ],
+  "national_headlines": [
+    {
+      "category": "NHL Playoffs",
+      "headline": "Stanley Cup Playoffs: Avalanche lead Wild 3-1, Game 5 on May 13",
+      "details": "Colorado leads series 3-1, Game 5 at Colorado (8 PM ET, TNT)"
+    },
+    {
+      "category": "NBA Playoffs",
+      "headline": "Pistons vs Cavaliers Game 5 on May 13",
+      "details": "Series tied 2-2, Game 5 in Detroit"
+    },
+    {
+      "category": "Golf",
+      "headline": "PGA Championship 2026 at Aronimink Golf Club",
+      "details": "Second major of the season, practice rounds May 12-13, coverage on ESPN and CBS"
+    },
+    {
+      "category": "NFL",
+      "headline": "2026 NFL Schedule Release Week",
+      "details": "Full schedule announced May 13-14, ESPN and NFL Network to air special coverage"
+    }
+  ]
+}

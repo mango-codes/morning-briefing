@@ -1,0 +1,70 @@
+{
+  "date": "2026-05-13",
+  "category": "ai-news",
+  "headlines": [
+    {
+      "title": "OpenAI Launches 'Deployment Company' to Accelerate Enterprise AI Adoption",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+      "summary": "OpenAI announced the OpenAI Deployment Company, a new business unit majority-owned by OpenAI with 19 investment and consultancy partners including Bain, Goldman Sachs, and SoftBank. The company also acquired Tomoro, bringing 150 engineers to help businesses deploy frontier AI models. Enterprise now makes up over 40% of OpenAI's revenue."
+    },
+    {
+      "title": "Google Report: AI-Powered Hacking Has Become Industrial-Scale Threat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+      "summary": "Google's threat intelligence group reports that AI-powered hacking has exploded from a nascent problem to an industrial-scale threat in just three months. Criminal groups and state-linked actors from China, North Korea, and Russia are using commercial models including Gemini, Claude, and OpenAI tools to refine and scale attacks."
+    },
+    {
+      "title": "Chrome Has Been Quietly Storing a 4GB Gemini Nano AI Model Since 2024",
+      "source": "Technology.org / Ars Technica",
+      "url": "https://www.technology.org/2026/05/12/chrome-4gb-gemini-nano-storage/",
+      "summary": "Users recently discovered Google Chrome has been silently installing a 4GB Gemini Nano AI model on desktop computers. Google confirmed the model has been present since 2024, with installation depending on hardware, account features, and website visits. The revelation sparked privacy concerns about opt-out AI features."
+    },
+    {
+      "title": "IBM Announces Red Hat AI Inference Service on IBM Cloud",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/2026-05-12-ibm-announces-red-hat-ai-inference-and-red-hat-openShift-virtualization-service-on-ibm-cloud",
+      "summary": "IBM launched Red Hat AI Inference on IBM Cloud, a managed service for enterprise AI deployment. The service includes models like Granite 4.0, Mistral-Small-3.2, Llama 3.3 70B, GPT-OSS-120B, and Nemotron-3-Nano, with built-in governance controls and OpenAI-compatible APIs. It becomes generally available on May 22, 2026."
+    },
+    {
+      "title": "OpenAI and Microsoft Agree to $38 Billion Cap on Revenue-Sharing",
+      "source": "Reuters / The Information",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "OpenAI and Microsoft have agreed to cap their revenue-sharing arrangement at $38 billion, according to The Information. This change allows OpenAI to pursue new partnerships with Amazon and Google, reducing its exclusive reliance on Microsoft for cloud infrastructure."
+    },
+    {
+      "title": "OpenAI Launches Daybreak Cyber Defense Platform",
+      "source": "Crypto Integrated / OpenAI",
+      "url": "https://www.cryptointegrat.com/p/ai-news-may-12-2026",
+      "summary": "OpenAI introduced Daybreak, a cyber defense platform that uses frontier AI models and Codex to autonomously find, validate, and remediate vulnerabilities. Codex has already fixed over 3,000 critical issues across more than 1,000 open-source projects."
+    },
+    {
+      "title": "Anthropic Expands Claude for Legal With New Plugins and MCP Connectors",
+      "source": "Technology.org",
+      "url": "https://www.technology.org/2026/05/13/anthropic-claude-legal-plugins-mcp-connectors/",
+      "summary": "Anthropic announced expanded tools for law firms and legal professionals using Claude, including new plugins and Model Context Protocol (MCP) connectors designed to integrate with legal workflows and software systems."
+    },
+    {
+      "title": "Cursor Launches Microsoft Teams Integration for AI Coding Assistance",
+      "source": "Crypto Integrated / Cursor",
+      "url": "https://www.cryptointegrat.com/p/ai-news-may-12-2026",
+      "summary": "Cursor released a Microsoft Teams integration allowing users to mention @Cursor in channels to delegate coding tasks, pull repository context, and generate pull requests directly within Teams conversations."
+    },
+    {
+      "title": "Thinking Machines Releases Realtime Interaction AI Models",
+      "source": "Thinking Machines",
+      "url": "https://thinkingmachines.ai/blog/interaction-models",
+      "summary": "Thinking Machines unveiled a research preview of realtime interaction models designed to natively handle conversation flow, interruptions, self-corrections, and collaboration without requiring external dialogue systems."
+    },
+    {
+      "title": "Ilya Sutskever's OpenAI Stake Valued at Approximately $7 Billion",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion",
+      "summary": "OpenAI co-founder and former chief scientist Ilya Sutskever revealed his stake in the company is worth roughly $7 billion, making him one of the largest individual shareholders in the AI startup."
+    }
+  ],
+  "top_story": {
+    "title": "OpenAI Launches 'Deployment Company' to Accelerate Enterprise AI Adoption",
+    "description": "OpenAI made a major move into enterprise services by launching the OpenAI Deployment Company, a majority-owned joint venture with 19 leading investment firms and consultancies including Bain, Goldman Sachs, and SoftBank. The company also acquired applied AI consulting firm Tomoro, bringing 150 engineers to help businesses deploy frontier AI models into production. This signals OpenAI's aggressive push to capture the enterprise market, where it now generates over 40% of its revenue. The move comes as competition heats up with rivals Anthropic and Google, and follows recent changes to OpenAI's partnership with Microsoft that allow for new cloud partnerships with Amazon and Google."
+  }
+}

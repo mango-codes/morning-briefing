@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-13",
+  "category": "events",
+  "events": [
+    {
+      "name": "Seattle Sounders FC vs San Jose Earthquakes",
+      "date": "2026-05-13 6:30 PM",
+      "venue": "Lumen Field",
+      "description": "MLS soccer match featuring Seattle Sounders FC vs San Jose Earthquakes at Lumen Field.",
+      "url": "https://www.ticketmaster.com/seattle-sounders-fc-tickets/artist/805966"
+    },
+    {
+      "name": "Arm's Length Concert",
+      "date": "2026-05-13 7:00 PM",
+      "venue": "The Neptune Theatre",
+      "description": "Live music performance by Arm's Length at the Neptune Theatre in the University District.",
+      "url": "https://www.stgpresents.org/neptune-theatre"
+    },
+    {
+      "name": "Yumi Zouma Concert",
+      "date": "2026-05-13 7:00 PM",
+      "venue": "Neumos",
+      "description": "Indie pop band Yumi Zouma performing live at Neumos on Capitol Hill.",
+      "url": "https://www.neumos.com"
+    },
+    {
+      "name": "The Phantom of the Opera",
+      "date": "2026-05-13 7:30 PM",
+      "venue": "Paramount Theatre - Seattle",
+      "description": "Broadway's longest-running musical comes to Seattle. The timeless love story with unforgettable music.",
+      "url": "https://www.stgpresents.org/paramount-theatre"
+    },
+    {
+      "name": "Seattle Opera: Carmen",
+      "date": "2026-05-13 7:30 PM",
+      "venue": "McCaw Hall",
+      "description": "Bizet's passionate opera about love, jealousy, and freedom. One of opera's most beloved works.",
+      "url": "https://www.seattleopera.org"
+    },
+    {
+      "name": "Jesus Christ Superstar",
+      "date": "2026-05-13 7:30 PM",
+      "venue": "5th Avenue Theatre",
+      "description": "The iconic rock musical by Andrew Lloyd Webber and Tim Rice tells the story of the last week of Jesus Christ.",
+      "url": "https://www.5thavenue.org"
+    },
+    {
+      "name": "Sam Shackleton (Electronic/Experimental)",
+      "date": "2026-05-13 8:00 PM",
+      "venue": "Tractor Tavern",
+      "description": "Electronic and experimental music artist Sam Shackleton performing live in Ballard.",
+      "url": "https://www.tractortavern.com"
+    },
+    {
+      "name": "Demi Lovato Concert",
+      "date": "2026-05-13 8:00 PM",
+      "venue": "Climate Pledge Arena",
+      "description": "Pop superstar Demi Lovato live in concert at Climate Pledge Arena with special guest.",
+      "url": "https://www.climatepledgearena.com"
+    },
+    {
+      "name": "Alex G Concert",
+      "date": "2026-05-13 8:00 PM",
+      "venue": "Showbox SoDo",
+      "description": "Indie rock artist Alex G performing live at Showbox SoDo in the SODO district.",
+      "url": "https://www.showboxpresents.com"
+    },
+    {
+      "name": "Protoje (Reggae)",
+      "date": "2026-05-13 8:00 PM",
+      "venue": "The Showbox",
+      "description": "Jamaican reggae artist Protoje bringing his modern roots reggae sound to The Showbox.",
+      "url": "https://www.showboxpresents.com"
+    },
+    {
+      "name": "Baby Keem Concert",
+      "date": "2026-05-13 8:30 PM",
+      "venue": "WaMu Theater at Lumen Field Event Center",
+      "description": "Rapper Baby Keem performing live at WaMu Theater. Known for hits like 'Family Ties' and 'Range Brothers'.",
+      "url": "https://www.lumenfield.com/wamu-theater"
+    },
+    {
+      "name": "Washington Huskies vs UCLA Bruins (Baseball)",
+      "date": "2026-05-14 6:05 PM",
+      "venue": "Husky Ballpark",
+      "description": "NCAA baseball matchup between Washington Huskies and UCLA Bruins at Husky Ballpark.",
+      "url": "https://gohuskies.com/sports/baseball"
+    },
+    {
+      "name": "Drew Lynch Comedy Show",
+      "date": "2026-05-14 7:30 PM",
+      "venue": "Emerald City Comedy Club",
+      "description": "Comedian Drew Lynch performing stand-up comedy. America's Got Talent finalist known for his unique comedic voice.",
+      "url": "https://www.emeraldcitycomedy.com"
+    },
+    {
+      "name": "Carlos Vives Concert",
+      "date": "2026-05-14 8:00 PM",
+      "venue": "WaMu Theater at Lumen Field Event Center",
+      "description": "Colombian singer-songwriter Carlos Vives bringing his tropical/vallenato fusion sound to Seattle.",
+      "url": "https://www.lumenfield.com/wamu-theater"
+    },
+    {
+      "name": "Gary Owen Comedy Show",
+      "date": "2026-05-14 8:00 PM",
+      "venue": "Moore Theatre",
+      "description": "Comedian Gary Owen, known as 'The Funniest White Comedian in America,' performing live stand-up.",
+      "url": "https://www.stgpresents.org/moore-theatre"
+    },
+    {
+      "name": "Seattle Mariners vs San Diego Padres",
+      "date": "2026-05-15 6:40 PM",
+      "venue": "T-Mobile Park",
+      "description": "MLB baseball game featuring Seattle Mariners vs San Diego Padres at T-Mobile Park.",
+      "url": "https://www.mlb.com/mariners"
+    },
+    {
+      "name": "Seattle Reign FC vs Portland Thorns",
+      "date": "2026-05-15 7:00 PM",
+      "venue": "Lumen Field",
+      "description": "NWSL soccer match featuring Seattle Reign FC vs Portland Thorns FC at Lumen Field.",
+      "url": "https://www.reignfc.com"
+    },
+    {
+      "name": "Yungblud Concert",
+      "date": "2026-05-15 8:00 PM",
+      "venue": "WaMu Theater at Lumen Field Event Center",
+      "description": "British rock artist Yungblud performing live with his high-energy alternative rock sound.",
+      "url": "https://www.lumenfield.com/wamu-theater"
+    },
+    {
+      "name": "Northwest Folklife Festival",
+      "date": "2026-05-22 to 2026-05-25",
+      "venue": "Seattle Center",
+      "description": "The 55th Annual Northwest Folklife Festival - one of the largest community-powered festivals celebrating cultural expression through music, dance, crafts, and food. Free admission (donations encouraged).",
+      "url": "https://nwfolklife.org"
+    },
+    {
+      "name": "Seattle Mom Prom 2026",
+      "date": "2026-05-16 8:00 PM",
+      "venue": "Fremont Abbey Arts Center",
+      "description": "Annual prom-style event for moms and mother figures. Dancing, mocktails, photo booth, and community celebration.",
+      "url": "https://www.eventbrite.com"
+    }
+  ]
+}

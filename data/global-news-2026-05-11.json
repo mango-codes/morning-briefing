@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Iran demands lifting of US naval blockade, recognition of sovereignty over Strait of Hormuz, and compensation for war damage.",
+      "published": "12 hrs ago"
+    },
+    {
+      "title": "US and French nationals test positive for hantavirus after cruise ship evacuation",
+      "source": "BBC/AP",
+      "category": "Health/World",
+      "summary": "American national arrived in Nebraska, French woman isolating in Paris after outbreak on cruise ship near Canary Islands.",
+      "published": "39 mins ago"
+    },
+    {
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Christian Schmidt departs after appearing to lose backing of the United States; had been in role since 2021.",
+      "published": "38 mins ago"
+    },
+    {
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "If convicted in Senate trial, she will be disqualified from running for president.",
+      "published": "4 hrs ago"
+    },
+    {
+      "title": "Ailing Iranian Nobel laureate Narges Mohammadi granted bail and hospital transfer",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Human rights activist granted bail amid growing concern over her poor health in prison.",
+      "published": "4 hrs ago"
+    },
+    {
+      "title": "Trump and China's Xi set for talks spanning Iran, nuclear, trade and AI",
+      "source": "Reuters",
+      "category": "US-China",
+      "summary": "Leaders to discuss extending critical minerals deal; meeting comes as China signals being 'locked and loaded' for economic fight.",
+      "published": "1 hr ago"
+    },
+    {
+      "title": "Israel escalates attacks on Lebanon, unraveling truce with Hezbollah",
+      "source": "NY Times/Reuters",
+      "category": "Middle East",
+      "summary": "IDF conducted airstrikes targeting Hezbollah infrastructure; over 150 Hezbollah operatives reported killed in recent strikes.",
+      "published": "Ongoing"
+    },
+    {
+      "title": "Strait of Hormuz closure poses severe threat to global oil supply and China's economy",
+      "source": "Guardian/NY Times",
+      "category": "Economy/Geopolitics",
+      "summary": "Fifth of world's oil traditionally flows through strait; closure impacts global energy markets and Gulf relationships.",
+      "published": "Ongoing"
+    },
+    {
+      "title": "Abe Foxman, longtime head of Anti-Defamation League, dies at 86",
+      "source": "AP",
+      "category": "US/Obituary",
+      "summary": "Advocate for American Jews led ADL for decades; notable death in civil rights community.",
+      "published": "Recent"
+    },
+    {
+      "title": "Remains of US soldier missing during military exercises in Morocco recovered",
+      "source": "AP",
+      "category": "US/Military",
+      "summary": "Soldier who went missing during exercises has been recovered; details being gathered by authorities.",
+      "published": "Recent"
+    }
+  ]
+}
