@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Trump and Xi conclude 'very successful' talks in Beijing but no deals confirmed",
+      "source": "BBC / Reuters / AP",
+      "category": "Politics",
+      "summary": "President Trump and China's Xi Jinping wrapped up a two-day summit in Beijing with positive tone but no concrete trade breakthroughs. Xi warned Trump that differences over Taiwan could trigger conflict.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "New Ebola outbreak kills 65 in eastern DR Congo",
+      "source": "BBC / Guardian / Al Jazeera",
+      "category": "Health",
+      "summary": "Africa's top health agency reports approximately 246 cases of Ebola in a remote region of the Democratic Republic of Congo, with 65 deaths confirmed so far.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "U.S. military intercepts Iranian attacks on Navy ships in Strait of Hormuz",
+      "source": "AP / NPR",
+      "category": "Conflict",
+      "summary": "The U.S. military reported intercepting Iranian attacks on three Navy ships in the Strait of Hormuz, targeting Iranian military facilities responsible for the attacks.",
+      "published": "2026-05-07"
+    },
+    {
+      "title": "CIA chief visits Cuba as energy crisis worsens",
+      "source": "BBC / AP",
+      "category": "Diplomacy",
+      "summary": "CIA Director John Ratcliffe met with Raul Castro's grandson in Havana following a U.S. offer of aid to ease effects of the oil blockade on Cuba.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
+      "source": "BBC",
+      "category": "Business",
+      "summary": "The Indian conglomerate settled with U.S. securities regulators who had accused them of paying bribes and misleading investors, which they denied.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "Australia court doubles payout for trans woman in landmark discrimination case",
+      "source": "BBC",
+      "category": "Legal",
+      "summary": "Roxanne Tickle awarded AU$40,000 in damages for being kicked off the Giggle for Girls app in a landmark ruling on gender identity discrimination.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "Five Italians die during cave scuba dive in Maldives",
+      "source": "BBC",
+      "category": "World",
+      "summary": "Four of the Italian victims were part of a team from the University of Genoa. The incident occurred during a cave diving expedition.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "US Supreme Court restores abortion pill access for now",
+      "source": "BBC",
+      "category": "Legal",
+      "summary": "The Supreme Court issued a ruling maintaining access to abortion pills, which are the most common method of terminating pregnancies in the US.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "North America's largest commuter rail system faces potential shutdown",
+      "source": "AP",
+      "category": "Transportation",
+      "summary": "The Long Island Rail Road (LIRR) in New York faces a potential strike that could shut down the largest commuter rail system in North America.",
+      "published": "2026-05-15"
+    },
+    {
+      "title": "11 rescued after pilot ditches plane in Atlantic Ocean",
+      "source": "BBC",
+      "category": "World",
+      "summary": "Survivors spent about five hours on a life raft before being rescued by the U.S. Air Force off Florida's coast after their plane was ditched in the Atlantic.",
+      "published": "2026-05-15"
+    }
+  ],
+  "stats": {
+    "total_headlines": 10,
+    "sources": ["BBC", "Reuters", "AP", "Guardian", "Al Jazeera", "NPR"],
+    "categories": ["Politics", "Health", "Conflict", "Diplomacy", "Business", "Legal", "World", "Transportation"]
+  }
+}
