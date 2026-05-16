@@ -1,0 +1,77 @@
+{
+  "date": "2026-05-16",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Senior IS leader killed in joint US-Nigeria operation",
+      "source": "BBC",
+      "summary": "President Donald Trump said the operation eliminated Abu-Bilal al-Minuki, described as 'the most active terrorist in the world'.",
+      "category": "security",
+      "published": "2 hours ago"
+    },
+    {
+      "title": "Trump warns Taiwan against declaring independence after Xi summit",
+      "source": "BBC",
+      "summary": "The US president says he wants Beijing and Taipei to 'cool down' tensions over the self-governing island, hours after meeting with China's Xi Jinping.",
+      "category": "diplomacy",
+      "published": "8 hours ago"
+    },
+    {
+      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
+      "source": "BBC/AP",
+      "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
+      "category": "politics",
+      "published": "12 hours ago"
+    },
+    {
+      "title": "Man killed by 13ft great white shark in Western Australia",
+      "source": "BBC",
+      "summary": "The man was bitten at Horseshoe Reef near Rottnest Island, northwest of Perth, local police said.",
+      "category": "incident",
+      "published": "7 hours ago"
+    },
+    {
+      "title": "Russian troops take control of settlements in Ukraine's Kharkiv region",
+      "source": "Reuters",
+      "summary": "RIA state news agency reports Russian forces have taken control of Borova and Kutkivka settlements.",
+      "category": "conflict",
+      "published": "3 hours ago"
+    },
+    {
+      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+      "source": "BBC/Reuters",
+      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit in Beijing.",
+      "category": "diplomacy",
+      "published": "16 hours ago"
+    },
+    {
+      "title": "New Ebola outbreak kills 80 in eastern DR Congo",
+      "source": "BBC/AP",
+      "summary": "Africa's top health agency says around 246 cases have been reported, with a case also reported in Uganda.",
+      "category": "health",
+      "published": "ongoing"
+    },
+    {
+      "title": "Samsung Chairman Jay Y. Lee apologizes over labor dispute",
+      "source": "Reuters",
+      "summary": "Samsung Electronics Chairman made his first public comments on the issue amid looming strike and deep divisions over the global AI boom.",
+      "category": "business",
+      "published": "1 hour ago"
+    },
+    {
+      "title": "Long Island Rail Road workers go on strike",
+      "source": "AP",
+      "summary": "Strike halts busiest US commuter rail system, affecting thousands of daily commuters.",
+      "category": "labor",
+      "published": "ongoing"
+    },
+    {
+      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "source": "BBC",
+      "summary": "Mengele fled Europe after WWII but for years there were rumors he spent time in Switzerland.",
+      "category": "history",
+      "published": "15 hours ago"
+    }
+  ],
+  "generated_at": "2026-05-16T14:00:00Z"
+}
