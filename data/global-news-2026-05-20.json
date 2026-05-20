@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-20",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
+      "source": "BBC/Reuters",
+      "summary": "The World Health Organization has declared a public health emergency of international concern over a rare strain of Ebola in the Democratic Republic of Congo. Latest update reports 139 suspected deaths and 600 cases.",
+      "category": "Health",
+      "region": "Africa"
+    },
+    {
+      "title": "Putin and Xi hail their friendship and growing energy trade at Beijing meeting",
+      "source": "BBC/AP",
+      "summary": "Russian President Vladimir Putin met with Chinese leader Xi Jinping in Beijing for talks and tea, just days after Trump's visit to the region. The meeting signals strengthening China-Russia ties.",
+      "category": "Politics",
+      "region": "Asia"
+    },
+    {
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated in Kentucky",
+      "source": "BBC",
+      "summary": "Victory over a Republican rebel in Kentucky shows the president's strength, but his power comes with risks for the midterms.",
+      "category": "Politics",
+      "region": "US"
+    },
+    {
+      "title": "Trump endorses Ken Paxton in Texas GOP primary, challenging Sen. Cornyn",
+      "source": "AP",
+      "summary": "Trump's endorsement of Paxton in the Texas Senate race has dismayed Senate Republicans, many of whom have served with the incumbent Cornyn for decades.",
+      "category": "Politics",
+      "region": "US"
+    },
+    {
+      "title": "Lithuania's leaders take shelter during drone air alert near Belarus border",
+      "source": "BBC",
+      "summary": "Flights were suspended and people were urged to take shelter after a suspected drone was detected near the Belarus border.",
+      "category": "Security",
+      "region": "Europe"
+    },
+    {
+      "title": "Three killed in San Diego mosque shooting; security guard hailed as hero",
+      "source": "BBC/AP",
+      "summary": "Father-of-eight Amin Abdullah, a security guard, was among three killed in the attack and was described as 'a shining light'. Teenage suspects shared a 'broad hatred' of multiple religions.",
+      "category": "Crime",
+      "region": "US"
+    },
+    {
+      "title": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes",
+      "source": "AP",
+      "summary": "The Sandy Fire in Simi Valley, California has forced mass evacuations as it threatens residential areas.",
+      "category": "Disaster",
+      "region": "US"
+    },
+    {
+      "title": "Samsung union announces 48,000-strong strike after bonus impasse",
+      "source": "Reuters",
+      "summary": "Samsung union says it will embark on a major strike following failed negotiations over bonuses.",
+      "category": "Business",
+      "region": "Asia"
+    },
+    {
+      "title": "Thailand cuts visa-free stay period for over 90 countries including UK",
+      "source": "BBC",
+      "summary": "Many visitors who have been exempt for 60 days will soon have to apply for a visa after 30 days.",
+      "category": "Travel",
+      "region": "Asia"
+    },
+    {
+      "title": "Nigeria arrests former minister in hiding after 75-year corruption conviction",
+      "source": "BBC",
+      "summary": "The former power minister was sentenced in absentia earlier this month and has now been apprehended.",
+      "category": "Politics",
+      "region": "Africa"
+    }
+  ]
+}
