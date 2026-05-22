@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-22",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Trump Announces 5,000 Additional US Troops to Poland, Reversing Earlier Drawdown",
+      "source": "BBC / AP / The Guardian",
+      "category": "World / NATO",
+      "summary": "President Trump announced the US will send an additional 5,000 troops to Poland, an apparent reversal following recent moves to reduce US forces in Europe. NATO allies expressed bewilderment at the about-face.",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo"
+    },
+    {
+      "title": "WHO Declares Ebola Outbreak in Congo and Uganda a Public Health Emergency",
+      "source": "WHO / AP",
+      "category": "Health / Africa",
+      "summary": "The WHO has declared the Ebola outbreak caused by the Bundibugyo virus strain in the Democratic Republic of Congo and Uganda a public health emergency of international concern. As of May 16, there were 8 confirmed cases, 246 suspected cases and 80 suspected deaths.",
+      "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
+    },
+    {
+      "title": "Trump Leaves China Without Major Breakthroughs on Iran War or Trade",
+      "source": "Reuters / The Guardian / NPR",
+      "category": "World / US-China",
+      "summary": "President Trump departed China after a two-day state visit with no major breakthroughs on trade or tangible help from Beijing to end the Iran war, despite heaping praise on President Xi Jinping.",
+      "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive"
+    },
+    {
+      "title": "US Pausing $14 Billion Arms Sale to Taiwan Due to Iran War, Navy Chief Says",
+      "source": "BBC / Al Jazeera / Reuters",
+      "category": "World / Taiwan",
+      "summary": "The US Navy chief told a Senate hearing that Washington is pausing a $14 billion arms sale to Taiwan to conserve munitions for the war on Iran. Taiwan says it has received no official notification of any pause.",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o"
+    },
+    {
+      "title": "Alberta to Hold Referendum on Whether to Remain in Canada",
+      "source": "BBC / Politico",
+      "category": "World / Canada",
+      "summary": "Voters in Alberta will decide in October 2026 whether they want to stay in Canada or move ahead with a process for a binding independence referendum. The vote will include nine questions on various constitutional and non-constitutional issues.",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko"
+    },
+    {
+      "title": "Turkish Court Ousts Main Opposition Leader in Ruling Boosting Erdogan",
+      "source": "BBC / The Guardian / Reuters",
+      "category": "World / Turkey",
+      "summary": "A Turkish court annulled the 2023 party congress that elected Özgür Özel as CHP chairman, effectively ousting the main opposition leader. The opposition condemned the ruling as a 'judicial coup' and vowed to resist.",
+      "url": "https://www.theguardian.com/world/2026/may/21/turkey-court-removes-head-chp-party-ozgur-ozel-erdogan"
+    },
+    {
+      "title": "UK Scientists Developing Ebola Vaccine for Bundibugyo Strain",
+      "source": "BBC",
+      "category": "Health / Science",
+      "summary": "UK scientists are developing an Ebola vaccine targeting the Bundibugyo strain that could be ready for trials within months. The rare species kills around a third of those infected and currently has no proven vaccine.",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo"
+    },
+    {
+      "title": "Cubans Grapple with Fuel Shortages and Blackouts as US Steps Up Pressure",
+      "source": "BBC",
+      "category": "World / Latin America",
+      "summary": "Havana residents face severe fuel shortages and power outages after the US charged former Cuban leader Raúl Castro with murder, the latest move putting pressure on the regime.",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo"
+    },
+    {
+      "title": "Slow Food Founder Carlo Petrini Dies Aged 76",
+      "source": "BBC",
+      "category": "Culture / Europe",
+      "summary": "Carlo Petrini, founder of the Slow Food movement that rejected fast food to promote sustainable production and traditional cooking, has died at age 76.",
+      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo"
+    },
+    {
+      "title": "AI Used to Fake Evidence That Ended Korean Actor's Career, Police Say",
+      "source": "BBC",
+      "category": "Technology / Asia",
+      "summary": "South Korean police say AI was used to fabricate evidence to defame actor Kim Soo-hyun, leading to the end of his career. Police are seeking an arrest warrant for a YouTuber allegedly involved.",
+      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo"
+    }
+  ]
+}
