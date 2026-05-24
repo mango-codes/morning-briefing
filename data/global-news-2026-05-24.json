@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T14:00:00Z",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Trump says Iran deal and opening of Strait of Hormuz are 'largely negotiated'",
+      "source": "AP News / BBC",
+      "category": "Middle East",
+      "summary": "US President Donald Trump reports significant progress in Iran negotiations, with details emerging of a potential deal that could extend the current ceasefire for up to 60 days and open the Strait of Hormuz."
+    },
+    {
+      "title": "Suspect killed after opening fire near White House security checkpoint",
+      "source": "BBC / AP",
+      "category": "US & Canada",
+      "summary": "A suspect approached a checkpoint near the White House and opened fire; the suspect was killed by Secret Service and a bystander was wounded in the incident."
+    },
+    {
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Russia confirmed using the Oreshnik missile, which reportedly travels over 10 times the speed of sound, in a large-scale attack on Ukraine."
+    },
+    {
+      "title": "Iran executes person for charges related to sending information to US and Israel",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "The Iranian judiciary's Mizan news agency reported the execution of one person on charges of sending information to the US and Israel during the war."
+    },
+    {
+      "title": "California declares emergency as fire crews race to contain toxic chemical leak",
+      "source": "BBC / AP",
+      "category": "US & Canada",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode."
+    },
+    {
+      "title": "China's worst mining disaster in over a decade kills at least 82",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "A gas explosion at the Liushenyu mine in China has become the country's worst mining disaster in more than a decade."
+    },
+    {
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists."
+    },
+    {
+      "title": "Turkish riot police evict ousted opposition leadership from party headquarters",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "Turkish riot police fired tear gas and broke through the gates of the main opposition party's headquarters to evict its ousted leadership."
+    },
+    {
+      "title": "Second Ebola treatment center set ablaze in eastern Congo",
+      "source": "AP",
+      "category": "Africa",
+      "summary": "A second Ebola treatment center was set on fire in eastern Congo, with 18 suspected cases fleeing; Red Cross volunteers have also died from suspected Ebola."
+    },
+    {
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "source": "BBC",
+      "category": "Asia Pacific",
+      "summary": "A 39-year-old man was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland, Australia."
+    }
+  ]
+}
