@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-26",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
+    },
+    {
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash."
+    },
+    {
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
+    },
+    {
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon after PM Netanyahu vows to 'crush' Hezbollah."
+    },
+    {
+      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
+      "source": "BBC",
+      "category": "Africa",
+      "summary": "The governor of Ituri said the more time they lose, the closer the province is to disaster."
+    },
+    {
+      "title": "Rubio says Iran deal could take days as US launches fresh strikes",
+      "source": "Reuters",
+      "category": "Middle East",
+      "summary": "Iran's top negotiator is seeking agreement on the release of around $24 billion of Iranian funds frozen overseas."
+    },
+    {
+      "title": "North Korea fires projectiles including short-range ballistic missile",
+      "source": "Reuters",
+      "category": "Asia Pacific",
+      "summary": "South Korea's military reported the launches toward waters off the country's west coast."
+    },
+    {
+      "title": "US and Armenia sign strategic partnership agreement",
+      "source": "Reuters",
+      "category": "Europe",
+      "summary": "US Secretary of State Marco Rubio and Armenian Foreign Minister signed the agreement in Yerevan."
+    },
+    {
+      "title": "US military carried out 'self-defense' strikes in Iran",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Strikes targeted missile launch sites and boats placing mines, even as Trump said negotiations were 'proceeding nicely.'"
+    },
+    {
+      "title": "Sonny Rollins, saxophonist and restless genius of jazz, dead at 95",
+      "source": "AP",
+      "category": "Entertainment",
+      "summary": "Known as the 'saxophone colossus,' Rollins had a lauded career spanning decades."
+    }
+  ],
+  "generated_at": "2026-05-26T14:00:00Z"
+}
