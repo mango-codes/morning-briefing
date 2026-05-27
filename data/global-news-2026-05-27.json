@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-27",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "source": "BBC",
+      "category": "Africa",
+      "published": "3 hrs ago",
+      "url": "https://www.bbc.com/news/articles/cdxpdex062yo"
+    },
+    {
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "source": "BBC",
+      "category": "Middle East",
+      "published": "16 mins ago",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go"
+    },
+    {
+      "title": "One killed and nine missing after chemical explosion at US paper mill",
+      "source": "BBC/AP",
+      "category": "US & Canada",
+      "published": "10 hrs ago",
+      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o"
+    },
+    {
+      "title": "Five people found alive after week trapped in flooded Laos cave",
+      "source": "BBC",
+      "category": "Asia",
+      "published": "2 hrs ago",
+      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o"
+    },
+    {
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "source": "BBC",
+      "category": "Middle East",
+      "published": "9 hrs ago",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o"
+    },
+    {
+      "title": "Nvidia CEO plans $150 billion annual investment in Taiwan",
+      "source": "Reuters",
+      "category": "Business/Technology",
+      "published": "20 mins ago",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "title": "Trump leaves China with no major trade breakthroughs",
+      "source": "Reuters",
+      "category": "Politics",
+      "published": "17 hrs ago",
+      "url": "https://www.reuters.com/live/"
+    },
+    {
+      "title": "Exceptionally early heat wave shatters records and brings deaths in Europe",
+      "source": "AP",
+      "category": "Weather/Europe",
+      "published": "Today",
+      "url": "https://apnews.com/article/europe-heatwave-temperature-records-france-uk-5e08af7830e72ffa9fccdcf48cf4f7b5"
+    },
+    {
+      "title": "China executes man for poisoning gaming tycoon linked to Netflix's '3 Body Problem'",
+      "source": "AP",
+      "category": "Asia",
+      "published": "Today",
+      "url": "https://apnews.com/article/china-three-body-problem-poisoning-execution-8be6d243838f90226e31efffe97e923b"
+    },
+    {
+      "title": "US has deported thousands of Cubans and Venezuelans to danger in Mexico, Human Rights Watch says",
+      "source": "AP",
+      "category": "Immigration",
+      "published": "Today",
+      "url": "https://apnews.com/article/mexico-cubans-deported-venezuelans-human-rights-trump-9a3bbf41ad33384675983cbf748c330a"
+    }
+  ]
+}
