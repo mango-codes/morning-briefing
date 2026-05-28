@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T14:00:00Z",
+  "source": "morning-briefing-global-cron",
+  "headlines": [
+    {
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "source": "BBC",
+      "region": "Middle East",
+      "summary": "Hostilities continue during fragile ceasefire between US and Iran, complicating efforts to end three-month war.",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o"
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "source": "BBC",
+      "region": "Middle East",
+      "summary": "Beirut had been largely spared until now as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo"
+    },
+    {
+      "title": "Uganda closes border with Congo amid rare Ebola surge",
+      "source": "AP",
+      "region": "Africa",
+      "summary": "Uganda shut its border as suspected cases of a rare Ebola type surge in DR Congo, with WHO warning of 'catastrophic collision' of disease and conflict.",
+      "url": "https://apnews.com/article/ebola-congo-uganda-border-virus-b96734598ea95b1cdb71986c8b1adf43"
+    },
+    {
+      "title": "Divers find 5 villagers alive in flooded Laos cave after more than a week",
+      "source": "AP",
+      "region": "Asia Pacific",
+      "summary": "Rescue divers discovered five villagers alive trapped in darkness for over a week in a flooded cave in Xaisomboun province.",
+      "url": "https://apnews.com/article/laos-cave-xaisomboun-flood-rescue-missing-divers-99c7798c29c620e949d7c60099f23319"
+    },
+    {
+      "title": "Shaky ceasefire in Iran war challenged again as Kuwait faces missile attack",
+      "source": "AP",
+      "region": "Middle East",
+      "summary": "Kuwait faced a missile attack, the latest challenge to the fragile US-Iran ceasefire as negotiations continue to end the conflict.",
+      "url": "https://apnews.com/article/iran-us-war-oil-may-28-2026-8f5ed2813ba63df7ae9ccbe991688d29"
+    },
+    {
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "source": "BBC",
+      "region": "Africa",
+      "summary": "Dozens injured in school fire; cause not yet known. Deadly school fires remain a recurring tragedy in Kenya.",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po"
+    },
+    {
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "source": "BBC",
+      "region": "Asia Pacific",
+      "summary": "Several groups of women and children who spent years in Syrian camps have returned to Australia in recent months.",
+      "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo"
+    },
+    {
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "source": "BBC",
+      "region": "Europe",
+      "summary": "European Commission says Chinese-owned retailer failed to address risks from baby toys and faulty chargers sold on platform.",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o"
+    },
+    {
+      "title": "Man arrested after stabbing at Swiss train station injures three",
+      "source": "BBC",
+      "region": "Europe",
+      "summary": "31-year-old Swiss man arrested after stabbing incident at train station; areas around station cordoned off.",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo"
+    },
+    {
+      "title": "US will need years to replenish weapons stockpiles used in Iran war",
+      "source": "AP",
+      "region": "US/Military",
+      "summary": "New CSIS analysis finds years required to replenish advanced weapons stockpiles depleted during three-month Iran conflict.",
+      "url": "https://apnews.com/article/iran-war-weapons-air-defense-csis-analysis-593f866ad4eae4ddbbcfdafa22267329"
+    }
+  ],
+  "meta": {
+    "total_headlines": 10,
+    "regions_covered": ["Middle East", "Africa", "Asia Pacific", "Europe", "US/Military"],
+    "sources": ["BBC", "AP"]
+  }
+}
