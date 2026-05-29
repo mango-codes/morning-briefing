@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-29",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Nato criticises Russia's 'reckless behaviour' after drone hits Romanian apartments, injuring two",
+      "source": "BBC",
+      "category": "World",
+      "summary": "Romania says this is the 'most serious' incident in its territory since the start of the Russia-Ukraine war, which has seen drones from both sides hit Nato countries in the region."
+    },
+    {
+      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025."
+    },
+    {
+      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "source": "BBC",
+      "category": "World",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership."
+    },
+    {
+      "title": "Russian drone targeting Ukraine goes astray, crashes into apartment building in NATO member Romania",
+      "source": "AP",
+      "category": "World",
+      "summary": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war."
+    },
+    {
+      "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",
+      "source": "AP/BBC",
+      "category": "Science",
+      "summary": "Explosion of Blue Origin New Glenn rocket at Cape Canaveral is a setback for the company and for NASA's Moon plans."
+    },
+    {
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "source": "BBC",
+      "category": "Africa",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep."
+    },
+    {
+      "title": "Man jailed for 15 years over plot to attack Taylor Swift concert in Vienna",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "A 21-year-old Austrian man is found guilty of planning the attack and other terrorism-related offences."
+    },
+    {
+      "title": "Survival before safety for Delhi's poor as temperatures hit 45C",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "As temperatures peak, Delhi's informal workers continue working despite growing health risks."
+    },
+    {
+      "title": "Judge refuses to block Trump order to limit mail voting",
+      "source": "AP",
+      "category": "US Politics",
+      "summary": "There's no immediate effect on the midterms. Trump's DOJ also sued 4 Democratic-run states over denying undercover license plates for federal agents."
+    },
+    {
+      "title": "Treasury Secretary Bessent confirms limited steps toward a $250 bill featuring Donald Trump",
+      "source": "AP",
+      "category": "US Politics",
+      "summary": "Confirmation of steps toward creating a new $250 denomination bill."
+    }
+  ]
+}
