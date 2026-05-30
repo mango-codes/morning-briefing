@@ -1,0 +1,66 @@
+{
+  "date": "2026-05-30",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+      "source": "BBC",
+      "summary": "The US president met his advisers after officials confirmed the US and Iran had agreed a framework of a deal to extend the ceasefire and launch nuclear negotiations.",
+      "category": "Middle East"
+    },
+    {
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
+      "source": "BBC",
+      "summary": "The US defense secretary addressed questions about US commitment, including further arms deals, at an Asian security summit in Singapore.",
+      "category": "Asia"
+    },
+    {
+      "title": "Ghana's parliament passes anti-LGBTQ+ bill",
+      "source": "BBC",
+      "summary": "Same-sex acts are punishable by jail terms under Ghana's new bill targeting those identifying as gay, lesbian or transgender.",
+      "category": "Africa"
+    },
+    {
+      "title": "Spain's Sánchez digs in after eight years as PM as wave of scandals threatens survival",
+      "source": "BBC",
+      "summary": "Corruption probes of colleagues and relatives have put Spain's premier into a fight for survival.",
+      "category": "Europe"
+    },
+    {
+      "title": "NATO and EU condemn Russia after drone hits Romanian residential block",
+      "source": "BBC",
+      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory, injuring two people.",
+      "category": "Europe"
+    },
+    {
+      "title": "Four more men freed from flooded Laos cave after 10 days",
+      "source": "BBC",
+      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing.",
+      "category": "Asia"
+    },
+    {
+      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
+      "source": "BBC",
+      "summary": "Israel rejects allegations in a new UN report; Russia also added to the blacklist.",
+      "category": "Middle East"
+    },
+    {
+      "title": "Trump ponders whether to move forward with Iran deal but hasn't yet decided",
+      "source": "AP",
+      "summary": "US and Iranian negotiators reached a tentative 60-day memorandum of understanding to extend the ceasefire, pending Trump's final approval.",
+      "category": "Middle East"
+    },
+    {
+      "title": "Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire",
+      "source": "AP",
+      "summary": "Accounts from soldiers stationed in Gaza amid a fragile ceasefire offer a rare glimpse into the Israeli-controlled part of the territory.",
+      "category": "Middle East"
+    },
+    {
+      "title": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
+      "source": "Reuters",
+      "summary": "A Russian drone crashed into an apartment block in the NATO member state during an attack on neighbouring Ukraine.",
+      "category": "Europe"
+    }
+  ]
+}
