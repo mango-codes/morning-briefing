@@ -1,0 +1,72 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning 'repeated' Iranian attacks."
+    },
+    {
+      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged."
+    },
+    {
+      "title": "France seized sanctioned Russian oil tanker with UK help, Macron says",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "A British helicopter provided support during the operation on Sunday, the UK ministry of defence says."
+    },
+    {
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians."
+    },
+    {
+      "title": "Huge blast kills dozens in rebel-held village in Myanmar",
+      "source": "BBC",
+      "category": "Asia",
+      "summary": "Insurgents say it was caused by explosives being used for mining close to the Chinese border."
+    },
+    {
+      "title": "Five patients recover from Ebola in DR Congo and leave hospital",
+      "source": "BBC",
+      "category": "Africa",
+      "summary": "Those infected can get better and officials stress that people should seek medical help if they have symptoms."
+    },
+    {
+      "title": "US bombs Iranian military sites and Tehran targets American troops in Kuwait",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Escalating conflict between US and Iran with strikes on military sites and American troops in Kuwait."
+    },
+    {
+      "title": "Total blackout strikes St. Thomas and St. John in the US Virgin Islands twice this weekend",
+      "source": "AP",
+      "category": "US",
+      "summary": "Power outages affected the US Virgin Islands over the weekend."
+    },
+    {
+      "title": "What to know as Israeli forces' historic Lebanon incursion complicates an Iran deal",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Analysis of how Israel's Lebanon incursion affects potential Iran negotiations."
+    },
+    {
+      "title": "China firmly opposes the 'suppression' of Xinhua reporter based in the United States",
+      "source": "Reuters",
+      "category": "US-China",
+      "summary": "Chinese foreign ministry statement regarding treatment of state media journalist in the US."
+    }
+  ],
+  "meta": {
+    "total_headlines": 10,
+    "sources": ["BBC", "AP", "Reuters"],
+    "categories": ["Middle East", "Europe", "Asia", "Africa", "US", "US-China"]
+  }
+}
