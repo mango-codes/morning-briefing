@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "source": "BBC News",
+      "category": "Europe",
+      "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "published": "1 hour ago"
+    },
+    {
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "source": "BBC News",
+      "category": "Middle East",
+      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "published": "6 hours ago"
+    },
+    {
+      "title": "Pope Leo XIV makes historic apology for Vatican's role in legitimizing slavery",
+      "source": "AP News",
+      "category": "World",
+      "summary": "Pope Leo XIV issued a historic apology for the Vatican's historical role in legitimizing slavery.",
+      "published": "18 hours ago"
+    },
+    {
+      "title": "Russia's combat losses reach approximately 1,366,910 personnel since February 2022",
+      "source": "Ukrinform",
+      "category": "Ukraine-Russia War",
+      "summary": "Ukrainian forces report 1,440 Russian troops killed over the past day as fighting continues.",
+      "published": "2 hours ago"
+    },
+    {
+      "title": "Putin resisting pressure to reduce defense spending despite economic strain",
+      "source": "Institute for the Study of War",
+      "category": "Russia",
+      "summary": "Russian President Putin reportedly resisting calls to reduce defense spending despite warnings from economic officials about unsustainable strain.",
+      "published": "43 minutes ago"
+    },
+    {
+      "title": "Asian stocks find footing as investors return to AI plays despite Middle East doubts",
+      "source": "Reuters",
+      "category": "Markets",
+      "summary": "Asian stocks stabilized in unsteady trading as investors shrugged off doubts about Middle East ceasefire durability.",
+      "published": "5 hours ago"
+    },
+    {
+      "title": "Global smartphone market facing steepest annual contraction on record",
+      "source": "Counterpoint Research/Reuters",
+      "category": "Technology",
+      "summary": "Smartphone shipments projected to slump 13.9% this year to 1.08 billion units due to worsening memory chip shortage.",
+      "published": "17 hours ago"
+    },
+    {
+      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
+      "source": "BBC News",
+      "category": "Africa",
+      "summary": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+      "published": "3 hours ago"
+    },
+    {
+      "title": "China cracks down on 'ghost kitchens' to rein in cut-throat food delivery apps",
+      "source": "BBC News",
+      "category": "Asia",
+      "summary": "Thousands of online shops that don't actually exist have spooked Chinese consumers, prompting government action.",
+      "published": "6 hours ago"
+    },
+    {
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1 trillion",
+      "source": "BBC News",
+      "category": "Technology",
+      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares later this year.",
+      "published": "Recent"
+    }
+  ]
+}
