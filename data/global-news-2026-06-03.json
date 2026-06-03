@@ -1,0 +1,90 @@
+{
+  "date": "2026-06-03",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "One killed in Iranian drone strikes on Kuwait airport",
+      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "source": "BBC",
+      "category": "World",
+      "published": "14 mins ago"
+    },
+    {
+      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+      "source": "BBC",
+      "category": "Middle East",
+      "published": "16 hrs ago"
+    },
+    {
+      "title": "Eight killed after drone hits bus in Russia-controlled part of Ukraine",
+      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea.",
+      "source": "BBC",
+      "category": "Europe",
+      "published": "2 hrs ago"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "summary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
+      "source": "BBC",
+      "category": "Europe",
+      "published": "2 hrs ago"
+    },
+    {
+      "title": "Foreign nationals among at least 21 killed in Delhi fire",
+      "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
+      "source": "BBC",
+      "category": "Asia",
+      "published": "2 hrs ago"
+    },
+    {
+      "title": "Kuwaiti air defences intercepting hostile missile and drone attacks",
+      "summary": "State news agency KUNA reported the country's army is responding to threats, without specifying the source.",
+      "source": "Reuters",
+      "category": "World",
+      "published": "13 hours ago"
+    },
+    {
+      "title": "SpaceX and Anthropic preparing for major public-market launches",
+      "summary": "SpaceX and Anthropic are preparing for what may be the biggest public-market launches in U.S. history, with OpenAI rumored to be close behind.",
+      "source": "Reuters",
+      "category": "Business",
+      "published": "5 minutes ago"
+    },
+    {
+      "title": "Powerful Iran-backed militias in Iraq say they will start handing in weapons to authorities",
+      "summary": "Shia militia groups announce plans to disarm and integrate into state security forces.",
+      "source": "AP",
+      "category": "World",
+      "published": "Recent"
+    },
+    {
+      "title": "Iran fires missiles and US strikes Iran facility after reports of faltering peace talks",
+      "summary": "Escalation in the Iran conflict as peace negotiations show signs of breaking down.",
+      "source": "AP",
+      "category": "World",
+      "published": "Recent"
+    },
+    {
+      "title": "Scott Pelley fired from '60 Minutes,' deepening turmoil at CBS News",
+      "summary": "Longtime correspondent's departure adds to ongoing changes at the network's flagship news program.",
+      "source": "AP",
+      "category": "US",
+      "published": "Recent"
+    },
+    {
+      "title": "Trump administration is scrapping $1.8B fund meant to compensate president's allies",
+      "summary": "Blanche announces end of 'weaponisation' fund that would have paid people the Trump administration decided were unjustly targeted.",
+      "source": "AP",
+      "category": "Politics",
+      "published": "Recent"
+    },
+    {
+      "title": "US announces new tariffs over forced labour concerns",
+      "summary": "New tariffs come after the US Supreme Court struck down many of President Trump's previous duties in February.",
+      "source": "BBC",
+      "category": "Business",
+      "published": "Recent"
+    }
+  ]
+}
