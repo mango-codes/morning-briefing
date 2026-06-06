@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-06",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "published": "21 mins ago"
+    },
+    {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "source": "BBC",
+      "category": "World",
+      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "published": "8 hrs ago"
+    },
+    {
+      "title": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors",
+      "source": "AP",
+      "category": "Middle East",
+      "summary": "Escalating tensions in the Gulf region as Iran targets US allies.",
+      "published": "Today"
+    },
+    {
+      "title": "Iran says staff blocked from entering US after players given World Cup visas",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "published": "2 hrs ago"
+    },
+    {
+      "title": "More than 6,000 people protest in Seoul over election ballot shortage",
+      "source": "Reuters",
+      "category": "Asia",
+      "summary": "Protesters demand local elections be repeated after a shortage of ballots prevented some people from voting.",
+      "published": "5 hours ago"
+    },
+    {
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "published": "7 hrs ago"
+    },
+    {
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "published": "3 hrs ago"
+    },
+    {
+      "title": "More than half of Latin Americans deported from US to Congo are now back home",
+      "source": "AP",
+      "category": "Americas",
+      "summary": "Deportation reversal follows international outcry over flights to conflict zone.",
+      "published": "Today"
+    },
+    {
+      "title": "A federal judge strikes down Trump administration immigration policy affecting 39 countries",
+      "source": "AP",
+      "category": "US",
+      "summary": "Court ruling impacts immigration restrictions on dozens of nations.",
+      "published": "Today"
+    },
+    {
+      "title": "SpaceX website and IPO documents inaccessible in Hong Kong and mainland China",
+      "source": "Reuters",
+      "category": "Business",
+      "summary": "Step threatens to curb participation by Chinese investors in expected record-breaking IPO.",
+      "published": "7 hours ago"
+    }
+  ]
+}
