@@ -1,0 +1,91 @@
+{
+  "date": "2026-06-07",
+  "source": "BBC, Reuters, AP",
+  "headlines": [
+    {
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "source": "BBC",
+      "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
+      "region": "Europe",
+      "time": "2 hrs ago"
+    },
+    {
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "source": "BBC",
+      "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "region": "Europe",
+      "time": "7 hrs ago"
+    },
+    {
+      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "source": "BBC",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "region": "Africa",
+      "time": "15 hrs ago"
+    },
+    {
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "source": "BBC",
+      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "region": "Latin America",
+      "time": "15 hrs ago"
+    },
+    {
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "source": "BBC",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "region": "Europe",
+      "time": "9 hrs ago"
+    },
+    {
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "source": "BBC",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "region": "US & Canada",
+      "time": "3 hrs ago"
+    },
+    {
+      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "source": "BBC",
+      "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "region": "Europe",
+      "time": "4 hrs ago"
+    },
+    {
+      "title": "Pope Leo urges global leaders to stop dividing electorates with 'sterile simplifications'",
+      "source": "Reuters",
+      "summary": "Pope Leo on Saturday urged global leaders to stop dividing their electorates, calling on them to listen to the world's cries for peace as he met migrants and some 600,000 young people.",
+      "region": "Europe",
+      "time": "4 hrs ago"
+    },
+    {
+      "title": "Hegseth invokes immigration and 'invasion' in D-Day speech in France",
+      "source": "AP",
+      "summary": "US Defense Secretary Pete Hegseth delivered a controversial speech in Normandy referencing immigration and 'invasion' on the anniversary of D-Day.",
+      "region": "Europe",
+      "time": "3 hrs ago"
+    },
+    {
+      "title": "Jamaica scrambles to restore power after rare islandwide blackout",
+      "source": "AP",
+      "summary": "Jamaica is working to restore electricity after a rare islandwide power outage affected the entire country.",
+      "region": "Caribbean",
+      "time": "Recent"
+    },
+    {
+      "title": "Spearfisher killed in Australia's third fatal shark attack in 4 weeks",
+      "source": "AP",
+      "summary": "A spearfisher has died in Western Australia, marking the third fatal shark attack in the country in just four weeks.",
+      "region": "Asia Pacific",
+      "time": "Recent"
+    },
+    {
+      "title": "At least 12 people shot at an Ohio festival and suspects remain at large",
+      "source": "AP",
+      "summary": "Police are searching for suspects after at least 12 people were shot at a street festival in Toledo, Ohio.",
+      "region": "US",
+      "time": "Recent"
+    }
+  ],
+  "generated_at": "2026-06-07T14:00:00Z"
+}
