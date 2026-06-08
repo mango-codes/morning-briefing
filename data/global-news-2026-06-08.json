@@ -1,0 +1,77 @@
+{
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Iranian military says it's stopping strikes on Israel, but will resume if Israel attacks Lebanon",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Iran announced it is halting missile strikes against Israel but warned it will resume attacks if Israel strikes Lebanon. The statement follows a weekend of escalating tensions between the two countries.",
+      "url": "https://www.bbc.com/news/live/clyengg72pgt"
+    },
+    {
+      "title": "At least 32 dead after magnitude-7.8 earthquake strikes southern Philippines",
+      "source": "AP/BBC",
+      "category": "Asia Pacific",
+      "summary": "A powerful 7.8 magnitude earthquake struck the southern Philippines, triggering small tsunami waves in the Philippines, Indonesia, and Japan. At least 32 people have been confirmed dead with buildings collapsed.",
+      "url": "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7"
+    },
+    {
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secured nearly 50% of the vote, comfortably beating other contenders in an election seen as a test of Armenia's pivot toward the West.",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o"
+    },
+    {
+      "title": "Pope Leo urges global leaders to stop dividing electorates with 'sterile simplifications'",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "Pope Leo called on world leaders to listen to cries for peace as he met with migrants and approximately 600,000 young people at the start of a week-long event.",
+      "url": "https://www.reuters.com/world/"
+    },
+    {
+      "title": "Fans express anger at US travel bans and visa restrictions affecting World Cup attendance",
+      "source": "BBC",
+      "category": "World/Sports",
+      "summary": "Football fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup, with many reporting difficulties obtaining entry to the United States.",
+      "url": "https://www.bbc.com/news/articles/cx212p8r28eo"
+    },
+    {
+      "title": "6 people hurt in stabbings at New York's Penn Station, suspect in custody",
+      "source": "AP",
+      "category": "US",
+      "summary": "Authorities report six people were injured in stabbing incidents at New York's Penn Station. A suspect has been taken into custody following the attacks.",
+      "url": "https://apnews.com/article/penn-station-stabbings-new-york-city-c06008f819b9cb04de611be65898ea14"
+    },
+    {
+      "title": "Police search for suspects in Ohio shooting that wounded 12 near street festival",
+      "source": "AP",
+      "category": "US",
+      "summary": "Authorities in Toledo, Ohio are searching for suspects after a shooting near a street festival left 12 people wounded.",
+      "url": "https://apnews.com/article/toledo-ohio-shooting-6fdbf9e7033b3eab21052070c9598e27"
+    },
+    {
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "source": "BBC",
+      "category": "Science/Environment",
+      "summary": "A volunteer diver captured rare footage of an endangered Great White shark between Tunisia and Sicily, describing shaking during the encounter.",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do"
+    },
+    {
+      "title": "Knicks' NBA finals run electrifies New York City",
+      "source": "BBC",
+      "category": "Sports",
+      "summary": "The New York Knicks' stunning winning streak has energized the city as the team prepares for the third game of the NBA finals series at its home arena.",
+      "url": "https://www.bbc.com/news/articles/ceqd5jgded8o"
+    },
+    {
+      "title": "FIFA says fans given free World Cup tickets must pay within seven days or lose seats",
+      "source": "BBC",
+      "category": "Sports",
+      "summary": "FIFA announced that fans who were mistakenly given free tickets to World Cup group stage matches in Toronto must pay for them within seven days or lose the seats.",
+      "url": "https://www.bbc.com/news/us-canada"
+    }
+  ]
+}
