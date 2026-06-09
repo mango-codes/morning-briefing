@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T14:00:00Z",
+  "source": "morning-briefing-global",
+  "headlines": [
+    {
+      "title": "Israeli air strikes hit Lebanese city of Tyre after Iranian warning",
+      "source": "BBC",
+      "category": "Middle East",
+      "summary": "Residents of Tyre are evacuating after Israeli strikes. Lebanese media report at least eight people killed. Tensions escalate between Israel and Iran.",
+      "url": "https://www.bbc.com/news/live/crkvm265y7kt"
+    },
+    {
+      "title": "Netanyahu and Trump at odds over Iran war they started together",
+      "source": "AP",
+      "category": "Politics",
+      "summary": "Tensions emerge between Israeli PM Netanyahu and President Trump regarding the ongoing conflict with Iran.",
+      "url": "https://apnews.com/article/israel-netanyahu-us-trump-iran-war"
+    },
+    {
+      "title": "Philippines earthquake death toll rises with hundreds of aftershocks",
+      "source": "BBC/AP",
+      "category": "Asia",
+      "summary": "Dozens dead and hundreds injured following a 7.8 magnitude earthquake in the Philippines. Officials warn death toll could rise as aftershocks continue.",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo"
+    },
+    {
+      "title": "ICC suspends top prosecutor Karim Khan over misconduct allegations",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "International Criminal Court suspends chief prosecutor Karim Khan after investigating sexual misconduct allegations. Khan denies all allegations.",
+      "url": "https://www.bbc.com/news/articles/c77yx53015no"
+    },
+    {
+      "title": "Nuclear weapons spending rose 20% to $119 billion in 2025",
+      "source": "Reuters",
+      "category": "World",
+      "summary": "Report by International Campaign to Abolish Nuclear Weapons shows world's nine nuclear-armed states increased spending by almost a fifth.",
+      "url": "https://www.reuters.com/world/"
+    },
+    {
+      "title": "US helicopter crashes near Strait of Hormuz; pilots rescued by sea drone",
+      "source": "BBC",
+      "category": "World",
+      "summary": "An uncrewed vessel rescued two crew members of an Apache helicopter that went down near the Strait of Hormuz.",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo"
+    },
+    {
+      "title": "Former Supreme Court justice Louise Arbour becomes Canada's governor general",
+      "source": "AP",
+      "category": "Americas",
+      "summary": "Louise Arbour appointed as Canada's governor general, representing King Charles III.",
+      "url": "https://apnews.com/article/canada-governor-general-king-charles-louise-arbour"
+    },
+    {
+      "title": "300 migrants bound for UK kidnapped, threatened with kidney removal",
+      "source": "BBC",
+      "category": "World",
+      "summary": "Iraqi Kurds captured by militia demanding $5,000 ransom per person. Part of growing human trafficking crisis.",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo"
+    },
+    {
+      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes",
+      "source": "BBC",
+      "category": "Europe",
+      "summary": "Kyiv's strikes on occupied territories making it difficult for Moscow to provide military and civilian supplies.",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "title": "Hulk Hogan died of natural causes",
+      "source": "AP",
+      "category": "Entertainment",
+      "summary": "Florida officials confirm wrestling icon Hulk Hogan died of natural causes.",
+      "url": "https://apnews.com"
+    }
+  ],
+  "total_count": 10
+}
